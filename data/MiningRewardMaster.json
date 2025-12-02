@@ -1,0 +1,42 @@
+[
+  {
+    "type": "MiningRewardMaster",
+    "Id": 11,
+    "MiningMasterId": 1,
+    "RequiredMinutes": 1,
+    "AdditionalPerLevel": 3.918,
+    "ThingType": "PlayerRankPoint",
+    "ThingId": 30,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "MiningRewardMaster",
+    "Id": 12,
+    "MiningMasterId": 1,
+    "RequiredMinutes": 1,
+    "AdditionalPerLevel": 2.155,
+    "ThingType": "Money",
+    "ThingId": 36,
+    "ThingQuantity": 36
+  },
+  {
+    "type": "MiningRewardMaster",
+    "Id": 13,
+    "MiningMasterId": 1,
+    "RequiredMinutes": 1,
+    "AdditionalPerLevel": 24.21,
+    "ThingType": "Item",
+    "ThingId": 30001,
+    "ThingQuantity": 73
+  },
+  {
+    "type": "MiningRewardMaster",
+    "Id": 14,
+    "MiningMasterId": 1,
+    "RequiredMinutes": 60,
+    "AdditionalPerLevel": 0.025,
+    "ThingType": "Item",
+    "ThingId": 30002,
+    "ThingQuantity": 43
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "type": "LocationUnlockPointMaster",
+    "Id": 1,
+    "Order": 1,
+    "EventMasterId": 3000,
+    "LocationMasterId": 17001,
+    "AssetId": "location_unlock_point"
+  },
+  {
+    "type": "LocationUnlockPointMaster",
+    "Id": 2,
+    "Order": 1,
+    "EventMasterId": 3001,
+    "LocationMasterId": 17002,
+    "AssetId": "location_unlock_point"
+  }
+]

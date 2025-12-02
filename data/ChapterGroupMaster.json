@@ -1,0 +1,57 @@
+[
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1000,
+    "Title": "序章",
+    "SubTitle": "プロローグ",
+    "Description": "シリウスシュガーの少女たちはメイズにて、\n全裸で追いかけられる謎の男性を発見する。\nそれが運命を変える出会いの始まりだった。",
+    "Order": 1,
+    "BannerAssetId": "1000",
+    "BackgroundAssetType": "Adventure",
+    "BackgroundAssetId": "15"
+  },
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1001,
+    "Title": "1章",
+    "SubTitle": "輝き始めた星々",
+    "Description": "突如として退学の危機に陥る指揮官たち。\nそんな彼女たちは最強クラスのチームと\n進退を賭けた戦いへと挑むこととなる。",
+    "Order": 2,
+    "BannerAssetId": "1001",
+    "BackgroundAssetType": "Memory",
+    "BackgroundAssetId": "10001"
+  },
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1002,
+    "Title": "2章",
+    "SubTitle": "光届かぬ暗闇の中で",
+    "Description": "危機を乗り越えたシリウスシュガーへと、\n待ち受けていた次なる試練は資金難？\n新たなる挑戦をする中で予想外の事態が……",
+    "Order": 3,
+    "BannerAssetId": "1002",
+    "BackgroundAssetType": "Adventure",
+    "BackgroundAssetId": "100"
+  },
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1003,
+    "Title": "3章",
+    "SubTitle": "新たなる光と忍び寄る闇",
+    "Description": "２つの試練を乗り越え成長した彼女たちの\r\n次なる試練は問題児達の訓練指導！？\r\nその裏で彼女たちを狙う陰謀も動き出し……",
+    "Order": 4,
+    "BannerAssetId": "1003",
+    "BackgroundAssetType": "Adventure",
+    "BackgroundAssetId": "160"
+  },
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1004,
+    "Title": "4章",
+    "SubTitle": "ブランディング・オーバードライブ",
+    "Description": "次に指揮官が導くのは、チーム『トレブル\r\nクインテット』。ＭＧの新型ジェネレーター\r\n評価プロジェクトに挑むことになり――",
+    "Order": 5,
+    "BannerAssetId": "1004",
+    "BackgroundAssetType": "Adventure",
+    "BackgroundAssetId": "450"
+  }
+]

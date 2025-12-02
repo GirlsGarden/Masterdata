@@ -1,0 +1,26 @@
+[
+  {
+    "type": "ModuleGearItemMaster",
+    "Id": 1,
+    "ItemMasterId": 70001,
+    "Quantity": 1,
+    "Money": 0,
+    "LossRate": 0.5
+  },
+  {
+    "type": "ModuleGearItemMaster",
+    "Id": 2,
+    "ItemMasterId": 70002,
+    "Quantity": 1,
+    "Money": 0,
+    "LossRate": 0.25
+  },
+  {
+    "type": "ModuleGearItemMaster",
+    "Id": 3,
+    "ItemMasterId": 70003,
+    "Quantity": 1,
+    "Money": 0,
+    "LossRate": 0
+  }
+]

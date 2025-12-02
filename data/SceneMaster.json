@@ -1,0 +1,4832 @@
+[
+  {
+    "type": "SceneMaster",
+    "Id": 10000101,
+    "EpisodeMasterId": 100001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "別離",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10000201,
+    "EpisodeMasterId": 100002,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "目覚め",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10000301,
+    "EpisodeMasterId": 100003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "邂逅",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10000401,
+    "EpisodeMasterId": 100004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "連行！？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10000501,
+    "EpisodeMasterId": 100005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ザルトゥーム学園生徒会",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10000601,
+    "EpisodeMasterId": 100006,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "教導指揮官として",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10010101,
+    "EpisodeMasterId": 100101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新たな朝",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10010201,
+    "EpisodeMasterId": 100102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "柊校舎へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10010301,
+    "EpisodeMasterId": 100103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "学ぶべきこと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10010401,
+    "EpisodeMasterId": 100104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女たちの実力",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10010501,
+    "EpisodeMasterId": 100105,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "３人と買い物",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10010601,
+    "EpisodeMasterId": 100106,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "突然の出会い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10010701,
+    "EpisodeMasterId": 100107,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "本格訓練",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10020101,
+    "EpisodeMasterId": 100201,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "鬼教官誕生？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10020201,
+    "EpisodeMasterId": 100202,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "過酷な訓練",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10020301,
+    "EpisodeMasterId": 100203,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "限界寸前？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10020401,
+    "EpisodeMasterId": 100204,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "理不尽の先へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10020501,
+    "EpisodeMasterId": 100205,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新たな力",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10020601,
+    "EpisodeMasterId": 100206,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイズへ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10020701,
+    "EpisodeMasterId": 100207,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイズで大暴れ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10020801,
+    "EpisodeMasterId": 100208,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "見えてきたもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10020901,
+    "EpisodeMasterId": 100209,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "特訓の終わり",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10030101,
+    "EpisodeMasterId": 100301,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "その成果は",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10030201,
+    "EpisodeMasterId": 100302,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "作戦通りに",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10030301,
+    "EpisodeMasterId": 100303,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女の決意",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10030401,
+    "EpisodeMasterId": 100304,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "敵地へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10030501,
+    "EpisodeMasterId": 100305,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "圧倒的な存在",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10030601,
+    "EpisodeMasterId": 100306,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "公式戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10030701,
+    "EpisodeMasterId": 100307,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "虚像包囲",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10030801,
+    "EpisodeMasterId": 100308,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "カオスメイデン",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10030901,
+    "EpisodeMasterId": 100309,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一対一",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031001,
+    "EpisodeMasterId": 100310,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "勝利の理由",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031101,
+    "EpisodeMasterId": 100311,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "その成果は",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031201,
+    "EpisodeMasterId": 100312,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新技披露",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031301,
+    "EpisodeMasterId": 100313,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女の不安",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031401,
+    "EpisodeMasterId": 100314,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "敵地へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031501,
+    "EpisodeMasterId": 100315,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "圧倒的実力",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031601,
+    "EpisodeMasterId": 100316,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "公式戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031701,
+    "EpisodeMasterId": 100317,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "七彩の策略",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031801,
+    "EpisodeMasterId": 100318,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "決戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10031901,
+    "EpisodeMasterId": 100319,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "怪物",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10032001,
+    "EpisodeMasterId": 100320,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "勝利の理由",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10032101,
+    "EpisodeMasterId": 100321,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女たちの輝き",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10032201,
+    "EpisodeMasterId": 100322,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女たちの輝き",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10040101,
+    "EpisodeMasterId": 100401,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新たな階層へ……？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10040201,
+    "EpisodeMasterId": 100402,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "導いてくれるのは",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10040301,
+    "EpisodeMasterId": 100403,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "うるうと舞亜",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10040401,
+    "EpisodeMasterId": 100404,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "原生帯へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10040501,
+    "EpisodeMasterId": 100405,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイズ探索",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10040601,
+    "EpisodeMasterId": 100406,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイズシフター",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10050101,
+    "EpisodeMasterId": 100501,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "異常事態",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10050201,
+    "EpisodeMasterId": 100502,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイズシンドローム",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10050301,
+    "EpisodeMasterId": 100503,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "未だ見ぬ領域",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10050401,
+    "EpisodeMasterId": 100504,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ズレた歯車",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10050501,
+    "EpisodeMasterId": 100505,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "判断ミス",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10050601,
+    "EpisodeMasterId": 100506,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "崩落した先へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10060101,
+    "EpisodeMasterId": 100601,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "告白と混乱",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10060201,
+    "EpisodeMasterId": 100602,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "拠点までの道",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10060301,
+    "EpisodeMasterId": 100603,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女の過去",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10060401,
+    "EpisodeMasterId": 100604,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "帰還への道",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10060501,
+    "EpisodeMasterId": 100605,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "取るべき選択",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10060601,
+    "EpisodeMasterId": 100606,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "諦めない",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10060701,
+    "EpisodeMasterId": 100607,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "告白と混乱",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10060801,
+    "EpisodeMasterId": 100608,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女の正体？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10060901,
+    "EpisodeMasterId": 100609,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "本当の君",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10061001,
+    "EpisodeMasterId": 100610,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "タイムリミット",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10061101,
+    "EpisodeMasterId": 100611,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "取るべき選択",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10061201,
+    "EpisodeMasterId": 100612,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "諦めない",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10061301,
+    "EpisodeMasterId": 100613,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "暗闇を抜けて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10061401,
+    "EpisodeMasterId": 100614,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "暗闇を抜けて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10070101,
+    "EpisodeMasterId": 100701,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "生徒会からの依頼",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10070201,
+    "EpisodeMasterId": 100702,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "プレ・クラス－Ａとの出会い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10070301,
+    "EpisodeMasterId": 100703,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "依頼の裏事情",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10070401,
+    "EpisodeMasterId": 100704,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "険悪な出会い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10070501,
+    "EpisodeMasterId": 100705,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "問題児たち",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10070601,
+    "EpisodeMasterId": 100706,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "女子会にて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10070701,
+    "EpisodeMasterId": 100707,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイズへの挑戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10070801,
+    "EpisodeMasterId": 100708,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "狙われたのは",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10080101,
+    "EpisodeMasterId": 100801,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女の正体",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10080201,
+    "EpisodeMasterId": 100802,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "争奪戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10080301,
+    "EpisodeMasterId": 100803,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "何者かの意思",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10080401,
+    "EpisodeMasterId": 100804,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "少女たちの決意",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10080501,
+    "EpisodeMasterId": 100805,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "バトルロイヤル",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10080601,
+    "EpisodeMasterId": 100806,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "その決着は",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10090101,
+    "EpisodeMasterId": 100901,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "『双頭の斧』",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10090201,
+    "EpisodeMasterId": 100902,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "心強い援軍",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10090301,
+    "EpisodeMasterId": 100903,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "攫われた少女",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10090401,
+    "EpisodeMasterId": 100904,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "交換条件",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10090501,
+    "EpisodeMasterId": 100905,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "謎の存在",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10090601,
+    "EpisodeMasterId": 100906,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "事件の終わり",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10090801,
+    "EpisodeMasterId": 100908,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "帰ってきた日常",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10100101,
+    "EpisodeMasterId": 101001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "評価プロジェクト",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10100201,
+    "EpisodeMasterId": 101002,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "トリニティ・ジュエル",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10100301,
+    "EpisodeMasterId": 101003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "トレブルクインテットの実力",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10100401,
+    "EpisodeMasterId": 101004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女たちとの訓練",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10100501,
+    "EpisodeMasterId": 101005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "広報活動",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10100601,
+    "EpisodeMasterId": 101006,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "最初の試験",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10100701,
+    "EpisodeMasterId": 101007,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "敗北と炎上",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10100801,
+    "EpisodeMasterId": 101008,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "炎上を乗り越えて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10100901,
+    "EpisodeMasterId": 101009,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "最高の『映え』",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10110101,
+    "EpisodeMasterId": 101101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "実地試験",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10110201,
+    "EpisodeMasterId": 101102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "エヴィの不調",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10110301,
+    "EpisodeMasterId": 101103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女が抱えるもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10110401,
+    "EpisodeMasterId": 101104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "想いを背負って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10110501,
+    "EpisodeMasterId": 101105,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "共同戦線",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10110601,
+    "EpisodeMasterId": 101106,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "乗り越えた危機",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10110701,
+    "EpisodeMasterId": 101107,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "狙われたのは――",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120101,
+    "EpisodeMasterId": 101201,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "聞き込み調査",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120102,
+    "EpisodeMasterId": 101202,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "見えてきた犯人",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120103,
+    "EpisodeMasterId": 101203,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "生徒会長の元へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120104,
+    "EpisodeMasterId": 101204,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ニセモノを探せ！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120105,
+    "EpisodeMasterId": 101205,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "黒幕の行方は",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120106,
+    "EpisodeMasterId": 101206,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "答え合わせ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120107,
+    "EpisodeMasterId": 101207,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "やってきたのは――",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120108,
+    "EpisodeMasterId": 101208,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "解析開始",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120109,
+    "EpisodeMasterId": 101209,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "真実を求めて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120110,
+    "EpisodeMasterId": 101210,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "潜入捜査",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120111,
+    "EpisodeMasterId": 101211,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "師匠との対決",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120112,
+    "EpisodeMasterId": 101212,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "伝えられる想い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120113,
+    "EpisodeMasterId": 101213,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "逆転の目",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120114,
+    "EpisodeMasterId": 101214,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "決着の瞬間",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120115,
+    "EpisodeMasterId": 101215,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "フューチャー・オブ・ホープ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10120116,
+    "EpisodeMasterId": 101216,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "フューチャー・オブ・ホープ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20010101,
+    "EpisodeMasterId": 200101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "はみ出し者チーム",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20010201,
+    "EpisodeMasterId": 200102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "落ちこぼれとお嬢様",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20010301,
+    "EpisodeMasterId": 200103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "休憩１",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20010401,
+    "EpisodeMasterId": 200104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "学園の変わり者",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20010501,
+    "EpisodeMasterId": 200105,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "学園の狂犬",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20010601,
+    "EpisodeMasterId": 200106,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "休憩２",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20010701,
+    "EpisodeMasterId": 200107,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "孤高のパイロット",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20010801,
+    "EpisodeMasterId": 200108,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "シリウスシュガー結成",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20020101,
+    "EpisodeMasterId": 200201,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "プレ・クラスーＡの依頼",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20020201,
+    "EpisodeMasterId": 200202,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "トレーニング開始！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20020301,
+    "EpisodeMasterId": 200203,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "立ちはだかる障害",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20020401,
+    "EpisodeMasterId": 200204,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "乗り越えた壁",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20020501,
+    "EpisodeMasterId": 200205,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "体育祭開幕",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20020601,
+    "EpisodeMasterId": 200206,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "不穏な幕開け",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20020701,
+    "EpisodeMasterId": 200207,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女の抱える悩み",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20020801,
+    "EpisodeMasterId": 200208,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "優勝へ向かって",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20030101,
+    "EpisodeMasterId": 200301,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ぽよな文化祭へ向けて！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20030201,
+    "EpisodeMasterId": 200302,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "まさかの告白……！？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20030301,
+    "EpisodeMasterId": 200303,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "みんなで相談",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20030401,
+    "EpisodeMasterId": 200304,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "会議の行方は……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20030501,
+    "EpisodeMasterId": 200305,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "開演！　『恐怖の館』",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20030601,
+    "EpisodeMasterId": 200306,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "恐怖！　謎の襲撃者！？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20030701,
+    "EpisodeMasterId": 200307,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "犯人の正体は…",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20030801,
+    "EpisodeMasterId": 200308,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "笑顔の文化祭へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20040101,
+    "EpisodeMasterId": 200401,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイズの異常",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20040201,
+    "EpisodeMasterId": 200402,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "未知なる旅人たち",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20040301,
+    "EpisodeMasterId": 200403,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "狂騒の始まり",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20040401,
+    "EpisodeMasterId": 200404,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "闖入者達現る",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20040501,
+    "EpisodeMasterId": 200405,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "突破口",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20040601,
+    "EpisodeMasterId": 200406,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "策士策に溺れる",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20040701,
+    "EpisodeMasterId": 200407,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "決着のとき",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20040801,
+    "EpisodeMasterId": 200408,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "守りたいもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20050101,
+    "EpisodeMasterId": 200501,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "少女達にさらわれて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20050201,
+    "EpisodeMasterId": 200502,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "温泉街の危機",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20050301,
+    "EpisodeMasterId": 200503,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "問題の原因",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20050401,
+    "EpisodeMasterId": 200504,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一難去って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20050501,
+    "EpisodeMasterId": 200505,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "温泉宿、不倫男女駆け落ちの湯",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20050601,
+    "EpisodeMasterId": 200506,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ユリアに認めさせたい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20050701,
+    "EpisodeMasterId": 200507,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "カオスメイデンのフィー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20050801,
+    "EpisodeMasterId": 200508,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ねえ、楽しかった？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30010101,
+    "EpisodeMasterId": 300101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "深淵への潜航",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30020101,
+    "EpisodeMasterId": 300201,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "バトルシミュレート",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30030101,
+    "EpisodeMasterId": 300301,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "合同演習",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30040101,
+    "EpisodeMasterId": 300401,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "サークル対抗戦開催",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30050101,
+    "EpisodeMasterId": 300501,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "緊急招集",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30060101,
+    "EpisodeMasterId": 300601,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "公式MG競技",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30070101,
+    "EpisodeMasterId": 300701,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "おかえりなさい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30080101,
+    "EpisodeMasterId": 300801,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "未開拓エリア",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000101,
+    "EpisodeMasterId": 400001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "めるの手料理",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000102,
+    "EpisodeMasterId": 400001,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "めるの手料理",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000201,
+    "EpisodeMasterId": 400002,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ふたりきりの勉強会",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000202,
+    "EpisodeMasterId": 400002,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ふたりきりの勉強会",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000301,
+    "EpisodeMasterId": 400003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "七彩の頼み事",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000302,
+    "EpisodeMasterId": 400003,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "七彩の頼み事",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000401,
+    "EpisodeMasterId": 400004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "まだ知らない世界",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000402,
+    "EpisodeMasterId": 400004,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "まだ知らない世界",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000501,
+    "EpisodeMasterId": 400005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "いつものあたし",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000502,
+    "EpisodeMasterId": 400005,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "いつものあたし",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000601,
+    "EpisodeMasterId": 400006,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "変わらない君で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000602,
+    "EpisodeMasterId": 400006,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "変わらない君で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000701,
+    "EpisodeMasterId": 400007,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "愚痴と仲間",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000702,
+    "EpisodeMasterId": 400007,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "愚痴と仲間",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000801,
+    "EpisodeMasterId": 400008,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "金儲けと罰",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000802,
+    "EpisodeMasterId": 400008,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "金儲けと罰",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000901,
+    "EpisodeMasterId": 400009,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "普通の子みたいに",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40000902,
+    "EpisodeMasterId": 400009,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "普通の子みたいに",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001001,
+    "EpisodeMasterId": 400010,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "知って欲しい、わたし",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001002,
+    "EpisodeMasterId": 400010,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "知って欲しい、わたし",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001101,
+    "EpisodeMasterId": 400011,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "厳しさと優しさ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001102,
+    "EpisodeMasterId": 400011,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "厳しさと優しさ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001201,
+    "EpisodeMasterId": 400012,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "褒められたい系女子",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001202,
+    "EpisodeMasterId": 400012,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "褒められたい系女子",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001301,
+    "EpisodeMasterId": 400013,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "感謝は計画的に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001302,
+    "EpisodeMasterId": 400013,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "感謝は計画的に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001401,
+    "EpisodeMasterId": 400014,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "見せたい最高の私",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001402,
+    "EpisodeMasterId": 400014,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "見せたい最高の私",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001501,
+    "EpisodeMasterId": 400015,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "私なりのデートを",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001502,
+    "EpisodeMasterId": 400015,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "私なりのデートを",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001601,
+    "EpisodeMasterId": 400016,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "デンジャラスな君の気持ち",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001602,
+    "EpisodeMasterId": 400016,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "デンジャラスな君の気持ち",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001701,
+    "EpisodeMasterId": 400017,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "カオスメイデンの支柱",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001702,
+    "EpisodeMasterId": 400017,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "カオスメイデンの支柱",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001801,
+    "EpisodeMasterId": 400018,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "向き合う私の本性",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001802,
+    "EpisodeMasterId": 400018,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "向き合う私の本性",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001901,
+    "EpisodeMasterId": 400019,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "感情はどこにある？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40001902,
+    "EpisodeMasterId": 400019,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "感情はどこにある？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002001,
+    "EpisodeMasterId": 400020,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "困らせたがりにはお灸を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002002,
+    "EpisodeMasterId": 400020,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "困らせたがりにはお灸を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002101,
+    "EpisodeMasterId": 400021,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "限界を超えて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002102,
+    "EpisodeMasterId": 400021,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "限界を超えて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002201,
+    "EpisodeMasterId": 400022,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "Ｆｌ∞ｔｙの『ぽよ』",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002202,
+    "EpisodeMasterId": 400022,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "Ｆｌ∞ｔｙの『ぽよ』",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002301,
+    "EpisodeMasterId": 400023,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "省エネコスパ主義",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002302,
+    "EpisodeMasterId": 400023,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "省エネコスパ主義",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002401,
+    "EpisodeMasterId": 400024,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "本当にやりたいこと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002402,
+    "EpisodeMasterId": 400024,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "本当にやりたいこと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002501,
+    "EpisodeMasterId": 400025,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "知りたいキミの秘密",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002502,
+    "EpisodeMasterId": 400025,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "知りたいキミの秘密",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002601,
+    "EpisodeMasterId": 400026,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "空想造形師ロージー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002602,
+    "EpisodeMasterId": 400026,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "空想造形師ロージー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002701,
+    "EpisodeMasterId": 400027,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ノブレス・オブリージュ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002702,
+    "EpisodeMasterId": 400027,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ノブレス・オブリージュ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002801,
+    "EpisodeMasterId": 400028,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイドステップアップ！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002802,
+    "EpisodeMasterId": 400028,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "メイドステップアップ！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002901,
+    "EpisodeMasterId": 400029,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "悪人とハリエット",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40002902,
+    "EpisodeMasterId": 400029,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "悪人とハリエット",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003001,
+    "EpisodeMasterId": 400030,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "自信に満ちたわたしに",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003002,
+    "EpisodeMasterId": 400030,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "自信に満ちたわたしに",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003101,
+    "EpisodeMasterId": 400031,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "リーダーとしてやれること！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003102,
+    "EpisodeMasterId": 400031,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "リーダーとしてやれること！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003201,
+    "EpisodeMasterId": 400032,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お姉さんとして",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003202,
+    "EpisodeMasterId": 400032,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "お姉さんとして",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003301,
+    "EpisodeMasterId": 400033,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "まだ、やれる",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003302,
+    "EpisodeMasterId": 400033,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "まだ、やれる",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003401,
+    "EpisodeMasterId": 400034,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "知られたくない私の秘密",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003402,
+    "EpisodeMasterId": 400034,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "知られたくない私の秘密",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003501,
+    "EpisodeMasterId": 400035,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "あるべきメイドの姿",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003502,
+    "EpisodeMasterId": 400035,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "あるべきメイドの姿",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003601,
+    "EpisodeMasterId": 400036,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ヒーローに必要なもの！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003602,
+    "EpisodeMasterId": 400036,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ヒーローに必要なもの！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003701,
+    "EpisodeMasterId": 400037,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "あるべき自分、ありたい自分",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003702,
+    "EpisodeMasterId": 400037,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "あるべき自分、ありたい自分",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003801,
+    "EpisodeMasterId": 400038,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "みんなの為なら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003802,
+    "EpisodeMasterId": 400038,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "みんなの為なら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003901,
+    "EpisodeMasterId": 400039,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "今の自分",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40003902,
+    "EpisodeMasterId": 400039,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "今の自分",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004001,
+    "EpisodeMasterId": 400040,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "『ぽよ』満載♥吸血鬼ギャル",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004002,
+    "EpisodeMasterId": 400040,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "『ぽよ』満載♥吸血鬼ギャル",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004101,
+    "EpisodeMasterId": 400041,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "キョンシー少女は動かない",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004102,
+    "EpisodeMasterId": 400041,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "キョンシー少女は動かない",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004201,
+    "EpisodeMasterId": 400042,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ふたりの日記",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004202,
+    "EpisodeMasterId": 400042,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ふたりの日記",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004301,
+    "EpisodeMasterId": 400043,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "共に探す思い出",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004302,
+    "EpisodeMasterId": 400043,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "共に探す思い出",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004401,
+    "EpisodeMasterId": 400044,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一緒にできること",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004402,
+    "EpisodeMasterId": 400044,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "一緒にできること",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004501,
+    "EpisodeMasterId": 400045,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "レイヴェルの臨時マネージャー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004502,
+    "EpisodeMasterId": 400045,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "レイヴェルの臨時マネージャー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004601,
+    "EpisodeMasterId": 400046,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ふたりのダイエット大作戦！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004602,
+    "EpisodeMasterId": 400046,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ふたりのダイエット大作戦！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004701,
+    "EpisodeMasterId": 400047,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "特別な感情",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004702,
+    "EpisodeMasterId": 400047,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "特別な感情",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004801,
+    "EpisodeMasterId": 400048,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "まだ枕投げしてない！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004802,
+    "EpisodeMasterId": 400048,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "まだ枕投げしてない！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000301,
+    "EpisodeMasterId": 500003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "集合写真の思い出",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000302,
+    "EpisodeMasterId": 500003,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "集合写真の思い出",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000401,
+    "EpisodeMasterId": 500004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "猛特訓を止めるには？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000402,
+    "EpisodeMasterId": 500004,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "猛特訓を止めるには？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000501,
+    "EpisodeMasterId": 500005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "プレ・クラス－Ａの絆",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000502,
+    "EpisodeMasterId": 500005,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "プレ・クラス－Ａの絆",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000601,
+    "EpisodeMasterId": 500006,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ハードな準備運動……？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000602,
+    "EpisodeMasterId": 500006,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ハードな準備運動……？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000701,
+    "EpisodeMasterId": 500007,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "勘違いの行方",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000702,
+    "EpisodeMasterId": 500007,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "勘違いの行方",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000801,
+    "EpisodeMasterId": 500008,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お忍びシスターの冒険",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000802,
+    "EpisodeMasterId": 500008,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "お忍びシスターの冒険",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000901,
+    "EpisodeMasterId": 500009,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "二人でお料理女子トーク",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50000902,
+    "EpisodeMasterId": 500009,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "二人でお料理女子トーク",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001001,
+    "EpisodeMasterId": 500010,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "気になる装備",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001002,
+    "EpisodeMasterId": 500010,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "気になる装備",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001101,
+    "EpisodeMasterId": 500011,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "おたすけさんぽ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001102,
+    "EpisodeMasterId": 500011,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "おたすけさんぽ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001201,
+    "EpisodeMasterId": 500012,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "エッ〇な罰ゲームやってみた",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001202,
+    "EpisodeMasterId": 500012,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "エッ〇な罰ゲームやってみた",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001301,
+    "EpisodeMasterId": 500013,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "翠蘭はユリアの……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001302,
+    "EpisodeMasterId": 500013,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "翠蘭はユリアの……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001401,
+    "EpisodeMasterId": 500014,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "駆け落ちフルスロットル！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001402,
+    "EpisodeMasterId": 500014,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "駆け落ちフルスロットル！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000001,
+    "EpisodeMasterId": 610000,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ふたりの帰り道",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000101,
+    "EpisodeMasterId": 610001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お気に入り",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000201,
+    "EpisodeMasterId": 610002,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "空を眺めて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000301,
+    "EpisodeMasterId": 610003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "桃色ヘアーのトレーニング",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000401,
+    "EpisodeMasterId": 610004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ちょっとした油断",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000501,
+    "EpisodeMasterId": 610005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "身体にいいもの、悪いもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000601,
+    "EpisodeMasterId": 610006,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "風に乗って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000701,
+    "EpisodeMasterId": 610007,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "努力を重ねて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000801,
+    "EpisodeMasterId": 610008,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "実験はいかが？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61000901,
+    "EpisodeMasterId": 610009,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "料理への興味",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001001,
+    "EpisodeMasterId": 610010,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "自然との戦い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001101,
+    "EpisodeMasterId": 610011,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "インドア派？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001201,
+    "EpisodeMasterId": 610012,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "がんばったご褒美",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001301,
+    "EpisodeMasterId": 610013,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "節約中",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001401,
+    "EpisodeMasterId": 610014,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お昼寝",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001501,
+    "EpisodeMasterId": 610015,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "舐められるのは嫌い！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001601,
+    "EpisodeMasterId": 610016,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "放課後の待ち合わせ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001701,
+    "EpisodeMasterId": 610017,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "結果オーライ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001801,
+    "EpisodeMasterId": 610018,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ひとりになりたい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61001901,
+    "EpisodeMasterId": 610019,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "適切な距離",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002001,
+    "EpisodeMasterId": 610020,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "まだ使える？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002101,
+    "EpisodeMasterId": 610021,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "恵みへの感謝",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002201,
+    "EpisodeMasterId": 610022,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "広がる輪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002301,
+    "EpisodeMasterId": 610023,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "不調の原因は？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002401,
+    "EpisodeMasterId": 610024,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メガネの在処",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002501,
+    "EpisodeMasterId": 610025,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "うるうの食事事情",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002601,
+    "EpisodeMasterId": 610026,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "屋上っていいですよね",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002701,
+    "EpisodeMasterId": 610027,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ダメダメ少女",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002801,
+    "EpisodeMasterId": 610028,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "成績優秀",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61002901,
+    "EpisodeMasterId": 610029,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "糖分は脳を活性化させる",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003001,
+    "EpisodeMasterId": 610030,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "優等生",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003101,
+    "EpisodeMasterId": 610031,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "トレーニングの参考",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003201,
+    "EpisodeMasterId": 610032,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どうしてもというのなら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003301,
+    "EpisodeMasterId": 610033,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "食事をするなら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003401,
+    "EpisodeMasterId": 610034,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "屋上に呼び出して",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003501,
+    "EpisodeMasterId": 610035,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ひとりで体力トレーニング",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003601,
+    "EpisodeMasterId": 610036,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "サボり魔",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003701,
+    "EpisodeMasterId": 610037,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "悩める今日のメニュー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003801,
+    "EpisodeMasterId": 610038,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "屋上で一息",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61003901,
+    "EpisodeMasterId": 610039,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "木陰にて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004001,
+    "EpisodeMasterId": 610040,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "勉強ぎらい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004101,
+    "EpisodeMasterId": 610041,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どっちを食べたい？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004201,
+    "EpisodeMasterId": 610042,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "結構なお点前？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004301,
+    "EpisodeMasterId": 610043,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ユリアの新技",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004401,
+    "EpisodeMasterId": 610044,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "プレゼン練習",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004501,
+    "EpisodeMasterId": 610045,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "好き嫌い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004601,
+    "EpisodeMasterId": 610046,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "茶器集めが趣味",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004701,
+    "EpisodeMasterId": 610047,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "居残りトレーニング",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004801,
+    "EpisodeMasterId": 610048,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "募金活動への協力",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61004901,
+    "EpisodeMasterId": 610049,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "誘惑を前に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005001,
+    "EpisodeMasterId": 610050,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "なんでもない時間",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005101,
+    "EpisodeMasterId": 610051,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ふたりきりのトレーニング",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005201,
+    "EpisodeMasterId": 610052,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "苦手なもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005301,
+    "EpisodeMasterId": 610053,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "オススメの食べもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005401,
+    "EpisodeMasterId": 610054,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "道案内",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005501,
+    "EpisodeMasterId": 610055,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "特訓指示",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005601,
+    "EpisodeMasterId": 610056,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どんなことでも気づいてほしい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005701,
+    "EpisodeMasterId": 610057,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "放課後ショッピング",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005801,
+    "EpisodeMasterId": 610058,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "手相を見てあげる",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61005901,
+    "EpisodeMasterId": 610059,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お試しアニス",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006001,
+    "EpisodeMasterId": 610060,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "時間があるなら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006101,
+    "EpisodeMasterId": 610061,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お目当ての物は？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006201,
+    "EpisodeMasterId": 610062,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "自由な狼",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006301,
+    "EpisodeMasterId": 610063,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ネイルガン",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006401,
+    "EpisodeMasterId": 610064,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "校舎案内",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006501,
+    "EpisodeMasterId": 610065,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "バエバエな撮影",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006601,
+    "EpisodeMasterId": 610066,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "リーダーの資質",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006701,
+    "EpisodeMasterId": 610067,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "フルートの苦手",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006801,
+    "EpisodeMasterId": 610068,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "時間の価値",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61006901,
+    "EpisodeMasterId": 610069,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お買い物のコスト計算",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007001,
+    "EpisodeMasterId": 610070,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "負けず嫌い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007101,
+    "EpisodeMasterId": 610071,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "効率的なトレーニング",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007201,
+    "EpisodeMasterId": 610072,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "頑張るシエナ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007301,
+    "EpisodeMasterId": 610073,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ごまかす時",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007401,
+    "EpisodeMasterId": 610074,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "シエナの特技",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007501,
+    "EpisodeMasterId": 610075,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "パイロットの資質",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007601,
+    "EpisodeMasterId": 610076,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新しいビジネスは……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007701,
+    "EpisodeMasterId": 610077,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "もしもの話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007801,
+    "EpisodeMasterId": 610078,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ハイスコア更新",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61007901,
+    "EpisodeMasterId": 610079,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一緒にどう？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008001,
+    "EpisodeMasterId": 610080,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "子ども扱い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008101,
+    "EpisodeMasterId": 610081,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "インスピレーション",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008201,
+    "EpisodeMasterId": 610082,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "偏食家のアーティスト",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008301,
+    "EpisodeMasterId": 610083,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ロージーの世界",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008401,
+    "EpisodeMasterId": 610084,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お迎えに",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008501,
+    "EpisodeMasterId": 610085,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "落とし物を探して",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008601,
+    "EpisodeMasterId": 610086,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ドロテアとふたりになって",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008701,
+    "EpisodeMasterId": 610087,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "努力のあと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008801,
+    "EpisodeMasterId": 610088,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "読むべきはどっち？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61008901,
+    "EpisodeMasterId": 610089,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "間食はNG？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009001,
+    "EpisodeMasterId": 610090,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "取れそうで取れない",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009101,
+    "EpisodeMasterId": 610091,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "必殺技に必要なのは？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009201,
+    "EpisodeMasterId": 610092,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "好かれる要素",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009301,
+    "EpisodeMasterId": 610093,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お買い物中",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009401,
+    "EpisodeMasterId": 610094,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一緒にゲーム",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009501,
+    "EpisodeMasterId": 610095,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ハリエットの画力",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009601,
+    "EpisodeMasterId": 610096,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お掃除メイド",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009701,
+    "EpisodeMasterId": 610097,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "変な人に絡まれて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009801,
+    "EpisodeMasterId": 610098,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ゲーセンの隅っ娘",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61009901,
+    "EpisodeMasterId": 610099,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ケイトの訓練風景",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010001,
+    "EpisodeMasterId": 610100,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "誰かに頼るのが正解！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010101,
+    "EpisodeMasterId": 610101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ラッキーアイテム",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010201,
+    "EpisodeMasterId": 610102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "操縦技術",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010301,
+    "EpisodeMasterId": 610103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "リーダーの基本",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010401,
+    "EpisodeMasterId": 610104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一寸の虫にも",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010501,
+    "EpisodeMasterId": 610105,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ラウラのごちそう",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010601,
+    "EpisodeMasterId": 610106,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "おばけに足はあるのか",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010701,
+    "EpisodeMasterId": 610107,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "見守ってるよ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010801,
+    "EpisodeMasterId": 610108,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "教え方",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61010901,
+    "EpisodeMasterId": 610109,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お店のチョイス",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011001,
+    "EpisodeMasterId": 610110,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "心香へのアドバイス",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011101,
+    "EpisodeMasterId": 610111,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "つまらない女",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011201,
+    "EpisodeMasterId": 610112,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ノエルはテスト大っ嫌い！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011301,
+    "EpisodeMasterId": 610113,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ノエルはプレゼントしたい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011401,
+    "EpisodeMasterId": 610114,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ノエルは戦いたい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011501,
+    "EpisodeMasterId": 610115,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ノエルは体を動かしたい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011601,
+    "EpisodeMasterId": 610116,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ターニングポイント",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011701,
+    "EpisodeMasterId": 610117,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一緒にお出かけ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011801,
+    "EpisodeMasterId": 610118,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "息抜きの時間に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61011901,
+    "EpisodeMasterId": 610119,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "実力の秘密は？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012001,
+    "EpisodeMasterId": 610120,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "成長のために",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012101,
+    "EpisodeMasterId": 610121,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "味の研究",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012201,
+    "EpisodeMasterId": 610122,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "あんなふうになれたら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012301,
+    "EpisodeMasterId": 610123,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "久々のバドミントン",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012401,
+    "EpisodeMasterId": 610124,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "優秀な先生",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012501,
+    "EpisodeMasterId": 610125,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "食事のお作法",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012601,
+    "EpisodeMasterId": 610126,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "小さな花壇",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012701,
+    "EpisodeMasterId": 610127,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "怪我には注意を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012801,
+    "EpisodeMasterId": 610128,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "興味が持てなくて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61012901,
+    "EpisodeMasterId": 610129,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "派手な食べ物好き",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013001,
+    "EpisodeMasterId": 610130,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "読んでいるものは？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013101,
+    "EpisodeMasterId": 610131,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "指揮官の能力は",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013201,
+    "EpisodeMasterId": 610132,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ラミの趣味",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013301,
+    "EpisodeMasterId": 610133,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ラミのバイト先",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013401,
+    "EpisodeMasterId": 610134,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "イタズラな風",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013501,
+    "EpisodeMasterId": 610135,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "トレーニングのサポート",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013601,
+    "EpisodeMasterId": 610136,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "わたしの学びたい事",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013701,
+    "EpisodeMasterId": 610137,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "食事の時間",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013801,
+    "EpisodeMasterId": 610138,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お礼をしたい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61013901,
+    "EpisodeMasterId": 610139,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ふたりだけの作戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014001,
+    "EpisodeMasterId": 610140,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ヒーローアニメ鑑賞会",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014101,
+    "EpisodeMasterId": 610141,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ヒーローエネルギー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014201,
+    "EpisodeMasterId": 610142,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ヒーローには合体ロボ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014301,
+    "EpisodeMasterId": 610143,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ヒーローのお仕事",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014401,
+    "EpisodeMasterId": 610144,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "授業の後は？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014501,
+    "EpisodeMasterId": 610145,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "休みなきパトロール",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014601,
+    "EpisodeMasterId": 610146,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "読書家",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014701,
+    "EpisodeMasterId": 610147,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "健康体操を嗜んで",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014801,
+    "EpisodeMasterId": 610148,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "頭も動かそう！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61014901,
+    "EpisodeMasterId": 610149,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "喉が渇いたので",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015001,
+    "EpisodeMasterId": 610150,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＭＧの訓練も忘れずに",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015101,
+    "EpisodeMasterId": 610151,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "夕方のグラウンドにて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015201,
+    "EpisodeMasterId": 610152,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "スポーツ理論",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015301,
+    "EpisodeMasterId": 610153,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一緒に買い出しに",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015401,
+    "EpisodeMasterId": 610154,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "こっちの特訓も大事",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015501,
+    "EpisodeMasterId": 610155,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "居残り特訓",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015601,
+    "EpisodeMasterId": 610156,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "激カワな一枚は？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015701,
+    "EpisodeMasterId": 610157,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "大好きなのは……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015801,
+    "EpisodeMasterId": 610158,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "吸血鬼なら強いはず",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61015901,
+    "EpisodeMasterId": 610159,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "吸血鬼の苦手な物？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016001,
+    "EpisodeMasterId": 610160,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "もっと見てみたい？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016101,
+    "EpisodeMasterId": 610161,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ホラーの趣味は？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016201,
+    "EpisodeMasterId": 610162,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ひとりの時間？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016301,
+    "EpisodeMasterId": 610163,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "キョンシーへの命令？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016401,
+    "EpisodeMasterId": 610164,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "部屋のインテリア",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016501,
+    "EpisodeMasterId": 610165,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "緊張を解く方法？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016601,
+    "EpisodeMasterId": 610166,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "追いつくためには",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016701,
+    "EpisodeMasterId": 610167,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "街は怖いところ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016801,
+    "EpisodeMasterId": 610168,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "住めば都？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61016901,
+    "EpisodeMasterId": 610169,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "降って湧いた時間に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017001,
+    "EpisodeMasterId": 610170,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "グラウンドで鍛錬を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017101,
+    "EpisodeMasterId": 610171,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どんなお店に入る？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017201,
+    "EpisodeMasterId": 610172,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "うっかり間違い？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017301,
+    "EpisodeMasterId": 610173,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "偉い人との挨拶",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017401,
+    "EpisodeMasterId": 610174,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "狙撃の訓練",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017501,
+    "EpisodeMasterId": 610175,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "猫さんはどこ？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017601,
+    "EpisodeMasterId": 610176,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "何事も万全に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017701,
+    "EpisodeMasterId": 610177,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "思い出の味",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017801,
+    "EpisodeMasterId": 610178,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "妥協しないガール",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61017901,
+    "EpisodeMasterId": 610179,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "頼られたいレイヴェル",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018001,
+    "EpisodeMasterId": 610180,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "人付き合いは苦手",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018101,
+    "EpisodeMasterId": 610181,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "食べすぎ注意？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018201,
+    "EpisodeMasterId": 610182,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "研究熱心な彼女",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018301,
+    "EpisodeMasterId": 610183,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "身の丈に合った運動を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018401,
+    "EpisodeMasterId": 610184,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ユリアと待ち合わせ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018501,
+    "EpisodeMasterId": 610185,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "食べ歩き",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018601,
+    "EpisodeMasterId": 610186,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "瞑想してた",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018701,
+    "EpisodeMasterId": 610187,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "みんなと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018801,
+    "EpisodeMasterId": 610188,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "フィーと待ち合わせ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61018901,
+    "EpisodeMasterId": 610189,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "焼き鳥は塩派タレ派？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019001,
+    "EpisodeMasterId": 610190,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "畳の上で大の字になって",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019101,
+    "EpisodeMasterId": 610191,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一緒に汗流そっ♪",
+    "AssetId": null
+  }
+]

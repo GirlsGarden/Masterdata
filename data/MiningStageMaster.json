@@ -1,0 +1,18 @@
+[
+  {
+    "type": "MiningStageMaster",
+    "Id": 11,
+    "MiningMasterId": 1,
+    "StageOrder": 1,
+    "StageMinutes": 720,
+    "ProductiveMultiplier": 1
+  },
+  {
+    "type": "MiningStageMaster",
+    "Id": 12,
+    "MiningMasterId": 1,
+    "StageOrder": 2,
+    "StageMinutes": 43200,
+    "ProductiveMultiplier": 0.15
+  }
+]

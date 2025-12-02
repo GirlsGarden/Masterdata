@@ -1,0 +1,56 @@
+[
+  {
+    "type": "CircleMissionPointRewardMaster",
+    "Id": 1,
+    "RewardPackageMasterId": 2,
+    "RequiredPoint": 400
+  },
+  {
+    "type": "CircleMissionPointRewardMaster",
+    "Id": 2,
+    "RewardPackageMasterId": 2,
+    "RequiredPoint": 800
+  },
+  {
+    "type": "CircleMissionPointRewardMaster",
+    "Id": 3,
+    "RewardPackageMasterId": 2,
+    "RequiredPoint": 1200
+  },
+  {
+    "type": "CircleMissionPointRewardMaster",
+    "Id": 4,
+    "RewardPackageMasterId": 2,
+    "RequiredPoint": 1600
+  },
+  {
+    "type": "CircleMissionPointRewardMaster",
+    "Id": 5,
+    "RewardPackageMasterId": 2,
+    "RequiredPoint": 2000
+  },
+  {
+    "type": "CircleMissionPointRewardMaster",
+    "Id": 6,
+    "RewardPackageMasterId": 2,
+    "RequiredPoint": 2500
+  },
+  {
+    "type": "CircleMissionPointRewardMaster",
+    "Id": 7,
+    "RewardPackageMasterId": 2,
+    "RequiredPoint": 3000
+  },
+  {
+    "type": "CircleMissionPointRewardMaster",
+    "Id": 8,
+    "RewardPackageMasterId": 2,
+    "RequiredPoint": 3500
+  },
+  {
+    "type": "CircleMissionPointRewardMaster",
+    "Id": 9,
+    "RewardPackageMasterId": 3,
+    "RequiredPoint": 4000
+  }
+]

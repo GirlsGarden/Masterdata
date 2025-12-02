@@ -1,0 +1,38 @@
+[
+  {
+    "type": "MazeMaster",
+    "Id": 1,
+    "BackgroundAssetId": "60010",
+    "IntroductionEpisodeMasterId": 300101,
+    "Name": "メイズ",
+    "MazeType": "Normal",
+    "StartDate": null,
+    "ExplorationCloseDate": null,
+    "EndDate": null,
+    "CharacterLevelLimitMode": "PlayerRank",
+    "CharacterLevelLimit": null,
+    "BaseThreatLevel": 0,
+    "Level2RequiredThreatLevel": null,
+    "Level3RequiredThreatLevel": null,
+    "Level4RequiredThreatLevel": null,
+    "Level5RequiredThreatLevel": null
+  },
+  {
+    "type": "MazeMaster",
+    "Id": 2,
+    "BackgroundAssetId": "60015",
+    "IntroductionEpisodeMasterId": 300801,
+    "Name": "未開拓エリア",
+    "MazeType": "Unexplored",
+    "StartDate": "2025-11-12T20:30:00+08:00",
+    "ExplorationCloseDate": "2025-12-31T12:59:59+08:00",
+    "EndDate": "2026-01-07T12:59:59+08:00",
+    "CharacterLevelLimitMode": "AsConfigured",
+    "CharacterLevelLimit": 100,
+    "BaseThreatLevel": 1,
+    "Level2RequiredThreatLevel": 3,
+    "Level3RequiredThreatLevel": 6,
+    "Level4RequiredThreatLevel": 12,
+    "Level5RequiredThreatLevel": 20
+  }
+]

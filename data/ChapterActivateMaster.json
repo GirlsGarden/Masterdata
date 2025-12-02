@@ -1,0 +1,44 @@
+[
+  {
+    "type": "ChapterActivateMaster",
+    "Id": 1,
+    "ChapterMasterId": 200001,
+    "ItemMasterId": 130001,
+    "RequiredItemQuantity": 1
+  },
+  {
+    "type": "ChapterActivateMaster",
+    "Id": 2,
+    "ChapterMasterId": 200002,
+    "ItemMasterId": 130001,
+    "RequiredItemQuantity": 1
+  },
+  {
+    "type": "ChapterActivateMaster",
+    "Id": 3,
+    "ChapterMasterId": 200003,
+    "ItemMasterId": 130001,
+    "RequiredItemQuantity": 1
+  },
+  {
+    "type": "ChapterActivateMaster",
+    "Id": 4,
+    "ChapterMasterId": 200004,
+    "ItemMasterId": 130001,
+    "RequiredItemQuantity": 1
+  },
+  {
+    "type": "ChapterActivateMaster",
+    "Id": 5,
+    "ChapterMasterId": 200005,
+    "ItemMasterId": 130001,
+    "RequiredItemQuantity": 1
+  },
+  {
+    "type": "ChapterActivateMaster",
+    "Id": 6,
+    "ChapterMasterId": 200006,
+    "ItemMasterId": 130001,
+    "RequiredItemQuantity": 1
+  }
+]

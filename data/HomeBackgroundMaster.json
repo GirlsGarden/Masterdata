@@ -1,0 +1,482 @@
+[
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 1,
+    "Name": "マイルーム_昼",
+    "Order": 12,
+    "UnlockGemQuantity": null,
+    "AssetId": "20012"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 2,
+    "Name": "ヒロイン私室（ノーマル）_昼",
+    "Order": 22,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20022"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 3,
+    "Name": "ヒロイン私室（ナチュラル）_昼",
+    "Order": 32,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20032"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 4,
+    "Name": "ヒロイン私室（モダン）_昼",
+    "Order": 42,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20042"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 5,
+    "Name": "ヒロイン私室（キュート）_昼",
+    "Order": 52,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20052"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 6,
+    "Name": "茶室_昼",
+    "Order": 62,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20062"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 7,
+    "Name": "公園_昼",
+    "Order": 72,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20072"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 8,
+    "Name": "空_昼",
+    "Order": 82,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20082"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 9,
+    "Name": "空_夕",
+    "Order": 83,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20083"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 10,
+    "Name": "空_夜",
+    "Order": 84,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20084"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 11,
+    "Name": "柊校舎教室_昼",
+    "Order": 92,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30012"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 12,
+    "Name": "柊校舎教室_夕",
+    "Order": 93,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30013"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 13,
+    "Name": "柊校舎廊下_昼",
+    "Order": 102,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30022"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 14,
+    "Name": "柊校舎食堂_昼",
+    "Order": 112,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30032"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 15,
+    "Name": "柊校舎中庭_昼",
+    "Order": 122,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30042"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 16,
+    "Name": "柊校舎屋上_昼",
+    "Order": 132,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30052"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 17,
+    "Name": "スカラ校舎教室_昼",
+    "Order": 142,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30062"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 18,
+    "Name": "スカラ校舎廊下_昼",
+    "Order": 152,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30072"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 19,
+    "Name": "スカラ校舎屋上_昼",
+    "Order": 162,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30082"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 20,
+    "Name": "ユーロタワー教室_昼",
+    "Order": 182,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30092"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 21,
+    "Name": "スカラ校舎内商店街_昼",
+    "Order": 172,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30102"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 22,
+    "Name": "LOC教室_昼",
+    "Order": 192,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30112"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 23,
+    "Name": "柊校舎校舎前_昼",
+    "Order": 202,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30122"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 24,
+    "Name": "シミュレーション室_その他",
+    "Order": 212,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30130"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 25,
+    "Name": "グラウンド_昼",
+    "Order": 222,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30142"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 26,
+    "Name": "MG格納庫_その他",
+    "Order": 232,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30150"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 27,
+    "Name": "カフェ_昼",
+    "Order": 242,
+    "UnlockGemQuantity": 100,
+    "AssetId": "40012"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 28,
+    "Name": "ゲームセンター_昼",
+    "Order": 252,
+    "UnlockGemQuantity": 100,
+    "AssetId": "40022"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 29,
+    "Name": "シッピングモール_昼",
+    "Order": 262,
+    "UnlockGemQuantity": 100,
+    "AssetId": "40032"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 30,
+    "Name": "シティ街中_昼",
+    "Order": 272,
+    "UnlockGemQuantity": 100,
+    "AssetId": "40042"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 31,
+    "Name": "生徒会室_昼",
+    "Order": 282,
+    "UnlockGemQuantity": 100,
+    "AssetId": "50012"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 32,
+    "Name": "生徒会廊下_昼",
+    "Order": 292,
+    "UnlockGemQuantity": 100,
+    "AssetId": "50022"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 33,
+    "Name": "メイズポータル入口_その他",
+    "Order": 302,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60010"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 34,
+    "Name": "メイズ内部_その他",
+    "Order": 312,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60020"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 35,
+    "Name": "特別養成校舎教室_昼",
+    "Order": 322,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30172"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 36,
+    "Name": "屋内訓練場_昼",
+    "Order": 332,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30162"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 37,
+    "Name": "マイルーム_夜",
+    "Order": 14,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20014"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 38,
+    "Name": "ヒロイン私室（ノーマル）_夜",
+    "Order": 24,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20024"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 39,
+    "Name": "ヒロイン私室（ナチュラル）_夜",
+    "Order": 34,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20034"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 40,
+    "Name": "ヒロイン私室（モダン）_夜",
+    "Order": 44,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20044"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 41,
+    "Name": "ヒロイン私室（キュート）_夜",
+    "Order": 54,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20054"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 42,
+    "Name": "公園_夕",
+    "Order": 73,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20073"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 43,
+    "Name": "空_朝",
+    "Order": 81,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20081"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 44,
+    "Name": "柊校舎廊下_夕",
+    "Order": 103,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30023"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 45,
+    "Name": "LOC教室_ハロウィン",
+    "Order": 342,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30202"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 46,
+    "Name": "LOC教室_ハロウィン_赤",
+    "Order": 345,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30205"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 47,
+    "Name": "グラウンド_夜",
+    "Order": 224,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30143"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 48,
+    "Name": "シティ街中_夕",
+    "Order": 273,
+    "UnlockGemQuantity": 100,
+    "AssetId": "40043"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 49,
+    "Name": "原生帯_その他",
+    "Order": 350,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60030"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 50,
+    "Name": "ガレムグラード山岳山中_昼",
+    "Order": 362,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80012"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 51,
+    "Name": "マッド",
+    "Order": 370,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20090"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 52,
+    "Name": "会議室_昼",
+    "Order": 382,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30212"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 53,
+    "Name": "会議室_空き部屋_昼",
+    "Order": 392,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30222"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 54,
+    "Name": "MG工場_昼",
+    "Order": 402,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80032"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 55,
+    "Name": "MG工場_夜",
+    "Order": 404,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80034"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 56,
+    "Name": "温泉_昼",
+    "Order": 412,
+    "UnlockGemQuantity": 100,
+    "AssetId": "70012"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 57,
+    "Name": "温泉_夜",
+    "Order": 414,
+    "UnlockGemQuantity": 100,
+    "AssetId": "70014"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 58,
+    "Name": "旅館_その他",
+    "Order": 420,
+    "UnlockGemQuantity": 100,
+    "AssetId": "70020"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 59,
+    "Name": "旅館_昼",
+    "Order": 422,
+    "UnlockGemQuantity": 100,
+    "AssetId": "70022"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 60,
+    "Name": "旅館_夜",
+    "Order": 424,
+    "UnlockGemQuantity": 100,
+    "AssetId": "70024"
+  }
+]

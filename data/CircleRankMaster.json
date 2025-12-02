@@ -1,0 +1,72 @@
+[
+  {
+    "type": "CircleRankMaster",
+    "Id": 1,
+    "Rank": 1,
+    "RequiredPoint": 3000,
+    "MaxMemberCount": 20
+  },
+  {
+    "type": "CircleRankMaster",
+    "Id": 2,
+    "Rank": 2,
+    "RequiredPoint": 6000,
+    "MaxMemberCount": 21
+  },
+  {
+    "type": "CircleRankMaster",
+    "Id": 3,
+    "Rank": 3,
+    "RequiredPoint": 9000,
+    "MaxMemberCount": 22
+  },
+  {
+    "type": "CircleRankMaster",
+    "Id": 4,
+    "Rank": 4,
+    "RequiredPoint": 12000,
+    "MaxMemberCount": 23
+  },
+  {
+    "type": "CircleRankMaster",
+    "Id": 5,
+    "Rank": 5,
+    "RequiredPoint": 15000,
+    "MaxMemberCount": 25
+  },
+  {
+    "type": "CircleRankMaster",
+    "Id": 6,
+    "Rank": 6,
+    "RequiredPoint": 18000,
+    "MaxMemberCount": 26
+  },
+  {
+    "type": "CircleRankMaster",
+    "Id": 7,
+    "Rank": 7,
+    "RequiredPoint": 24000,
+    "MaxMemberCount": 27
+  },
+  {
+    "type": "CircleRankMaster",
+    "Id": 8,
+    "Rank": 8,
+    "RequiredPoint": 30000,
+    "MaxMemberCount": 28
+  },
+  {
+    "type": "CircleRankMaster",
+    "Id": 9,
+    "Rank": 9,
+    "RequiredPoint": 50000,
+    "MaxMemberCount": 29
+  },
+  {
+    "type": "CircleRankMaster",
+    "Id": 10,
+    "Rank": 10,
+    "RequiredPoint": 80000,
+    "MaxMemberCount": 30
+  }
+]

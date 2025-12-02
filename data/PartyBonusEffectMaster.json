@@ -1,0 +1,114 @@
+[
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 111,
+    "PartyBonusDetailMasterId": 11,
+    "ValueType": "AttackMultiplier",
+    "Value": 0.1
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 112,
+    "PartyBonusDetailMasterId": 11,
+    "ValueType": "HpMultiplier",
+    "Value": 0.1
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 121,
+    "PartyBonusDetailMasterId": 12,
+    "ValueType": "AttackMultiplier",
+    "Value": 0.15
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 122,
+    "PartyBonusDetailMasterId": 12,
+    "ValueType": "HpMultiplier",
+    "Value": 0.15
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 131,
+    "PartyBonusDetailMasterId": 13,
+    "ValueType": "AttackMultiplier",
+    "Value": 0.15
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 132,
+    "PartyBonusDetailMasterId": 13,
+    "ValueType": "HpMultiplier",
+    "Value": 0.2
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 141,
+    "PartyBonusDetailMasterId": 14,
+    "ValueType": "AttackMultiplier",
+    "Value": 0.25
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 142,
+    "PartyBonusDetailMasterId": 14,
+    "ValueType": "HpMultiplier",
+    "Value": 0.25
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 211,
+    "PartyBonusDetailMasterId": 21,
+    "ValueType": "DefenseMultiplier",
+    "Value": 0.3
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 221,
+    "PartyBonusDetailMasterId": 22,
+    "ValueType": "AttackMultiplier",
+    "Value": 0.1
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 222,
+    "PartyBonusDetailMasterId": 22,
+    "ValueType": "HpMultiplier",
+    "Value": 0.1
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 231,
+    "PartyBonusDetailMasterId": 23,
+    "ValueType": "CriticalDamageMultiplier",
+    "Value": 0.15
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 241,
+    "PartyBonusDetailMasterId": 24,
+    "ValueType": "AttackMultiplier",
+    "Value": 0.15
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 242,
+    "PartyBonusDetailMasterId": 24,
+    "ValueType": "HpMultiplier",
+    "Value": 0.15
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 251,
+    "PartyBonusDetailMasterId": 25,
+    "ValueType": "AttackMultiplier",
+    "Value": 0.25
+  },
+  {
+    "type": "PartyBonusEffectMaster",
+    "Id": 252,
+    "PartyBonusDetailMasterId": 25,
+    "ValueType": "HpMultiplier",
+    "Value": 0.25
+  }
+]

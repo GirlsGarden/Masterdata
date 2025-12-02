@@ -1,0 +1,254 @@
+[
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1001,
+    "Order": 1,
+    "MMazeGuarderId": 100,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1001"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1002,
+    "Order": 2,
+    "MMazeGuarderId": 100,
+    "MEpisodeId": 100205,
+    "IllustType": "ADV",
+    "AssetId": "60"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1011,
+    "Order": 1,
+    "MMazeGuarderId": 101,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1101"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1012,
+    "Order": 2,
+    "MMazeGuarderId": 101,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1102"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1013,
+    "Order": 3,
+    "MMazeGuarderId": 101,
+    "MEpisodeId": 100208,
+    "IllustType": "ADV",
+    "AssetId": "220"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1014,
+    "Order": 4,
+    "MMazeGuarderId": 101,
+    "MEpisodeId": 100208,
+    "IllustType": "ADV",
+    "AssetId": "230"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1015,
+    "Order": 5,
+    "MMazeGuarderId": 101,
+    "MEpisodeId": 100311,
+    "IllustType": "ADV",
+    "AssetId": "240"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1016,
+    "Order": 6,
+    "MMazeGuarderId": 101,
+    "MEpisodeId": 100311,
+    "IllustType": "ADV",
+    "AssetId": "250"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1021,
+    "Order": 1,
+    "MMazeGuarderId": 102,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1201"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1022,
+    "Order": 2,
+    "MMazeGuarderId": 102,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1202"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1023,
+    "Order": 100,
+    "MMazeGuarderId": 102,
+    "MEpisodeId": 100305,
+    "IllustType": "ADV",
+    "AssetId": "270"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1024,
+    "Order": 101,
+    "MMazeGuarderId": 102,
+    "MEpisodeId": 100314,
+    "IllustType": "ADV",
+    "AssetId": "290"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1031,
+    "Order": 1,
+    "MMazeGuarderId": 103,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1301"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1032,
+    "Order": 2,
+    "MMazeGuarderId": 103,
+    "MEpisodeId": 100805,
+    "IllustType": "ADV",
+    "AssetId": "340"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1033,
+    "Order": 3,
+    "MMazeGuarderId": 103,
+    "MEpisodeId": 101003,
+    "IllustType": "ADV",
+    "AssetId": "470"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1034,
+    "Order": 4,
+    "MMazeGuarderId": 103,
+    "MEpisodeId": 101207,
+    "IllustType": "ADV",
+    "AssetId": "490"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1035,
+    "Order": 5,
+    "MMazeGuarderId": 103,
+    "MEpisodeId": 101214,
+    "IllustType": "ADV",
+    "AssetId": "500"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1041,
+    "Order": 1,
+    "MMazeGuarderId": 104,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1401"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1042,
+    "Order": 2,
+    "MMazeGuarderId": 104,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1402"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1043,
+    "Order": 100,
+    "MMazeGuarderId": 104,
+    "MEpisodeId": 100805,
+    "IllustType": "ADV",
+    "AssetId": "350"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1051,
+    "Order": 1,
+    "MMazeGuarderId": 105,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1501"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1052,
+    "Order": 2,
+    "MMazeGuarderId": 105,
+    "MEpisodeId": 100702,
+    "IllustType": "ADV",
+    "AssetId": "330"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1061,
+    "Order": 1,
+    "MMazeGuarderId": 106,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1601"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1062,
+    "Order": 2,
+    "MMazeGuarderId": 106,
+    "MEpisodeId": 100902,
+    "IllustType": "ADV",
+    "AssetId": "370"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1071,
+    "Order": 1,
+    "MMazeGuarderId": 107,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1901"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1072,
+    "Order": 2,
+    "MMazeGuarderId": 107,
+    "MEpisodeId": 101006,
+    "IllustType": "ADV",
+    "AssetId": "460"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 9001,
+    "Order": 1,
+    "MMazeGuarderId": 900,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1701"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 9011,
+    "Order": 1,
+    "MMazeGuarderId": 901,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1801"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "SdCharacterMaster",
+    "Id": 1,
+    "Order": 1,
+    "Name": "桃園める",
+    "AssetId": "m100301",
+    "IsDefault": true,
+    "JumpType": null,
+    "JumpTargetId": null
+  },
+  {
+    "type": "SdCharacterMaster",
+    "Id": 2,
+    "Order": 2,
+    "Name": "ピコ",
+    "AssetId": "mn10001",
+    "IsDefault": false,
+    "JumpType": null,
+    "JumpTargetId": null
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "type": "SnsAccountMaster",
+    "Id": 1,
+    "Type": "Company",
+    "DisplayName": "ザルトゥーム学園",
+    "Name": "@ZartumIslandStaff",
+    "AssetId": "1",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 2,
+    "Type": "User",
+    "DisplayName": "%usernameusernameuserna%",
+    "Name": "@T_Commander",
+    "AssetId": "2",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 3,
+    "Type": "Character",
+    "DisplayName": "四王天神楽",
+    "Name": "@Kagura_S",
+    "AssetId": "n10002",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 4,
+    "Type": "Character",
+    "DisplayName": "白銀武",
+    "Name": "@Takeru_S",
+    "AssetId": "n10005",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 100201,
+    "Type": "Character",
+    "DisplayName": "桃園める「ドジで純粋な未来のエース」",
+    "Name": "@Meru_M",
+    "AssetId": "100201",
+    "CharacterMasterId": 100201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 100301,
+    "Type": "Character",
+    "DisplayName": "桃園める「シリウスシュガーのエース」",
+    "Name": "@Meru_M",
+    "AssetId": "100301",
+    "CharacterMasterId": 100301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 101201,
+    "Type": "Character",
+    "DisplayName": "鳴滝七彩「器用貧乏なお嬢様リーダー」",
+    "Name": "@Nanairo_N",
+    "AssetId": "101201",
+    "CharacterMasterId": 101201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 101301,
+    "Type": "Character",
+    "DisplayName": "鳴滝七彩「オールラウンダーな統率者」",
+    "Name": "@Nanairo_N",
+    "AssetId": "101301",
+    "CharacterMasterId": 101301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 102201,
+    "Type": "Character",
+    "DisplayName": "月ヶ瀬ちゆる「紙一重なメイズオタク」",
+    "Name": "@Chiyuru_T",
+    "AssetId": "102201",
+    "CharacterMasterId": 102201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 102301,
+    "Type": "Character",
+    "DisplayName": "月ヶ瀬ちゆる「博識なメイズの探求者」",
+    "Name": "@Chiyuru_T",
+    "AssetId": "102301",
+    "CharacterMasterId": 102301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 103201,
+    "Type": "Character",
+    "DisplayName": "朽葉ラミ「お金大好きな生意気娘」",
+    "Name": "@Rami_K",
+    "AssetId": "103201",
+    "CharacterMasterId": 103201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 103301,
+    "Type": "Character",
+    "DisplayName": "朽葉ラミ「負けず嫌いな不屈少女」",
+    "Name": "@Rami_K",
+    "AssetId": "103301",
+    "CharacterMasterId": 103301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 104201,
+    "Type": "Character",
+    "DisplayName": "一条白奈「ミステリアスガール」",
+    "Name": "@Shirona_I",
+    "AssetId": "104201",
+    "CharacterMasterId": 104201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 104301,
+    "Type": "Character",
+    "DisplayName": "一条白奈「純白のラッキーガール」",
+    "Name": "@Shirona_I",
+    "AssetId": "104301",
+    "CharacterMasterId": 104301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 105301,
+    "Type": "Character",
+    "DisplayName": "生駒葵「厳格な規律の守護者」",
+    "Name": "@Aoi_I",
+    "AssetId": "105301",
+    "CharacterMasterId": 105301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 106301,
+    "Type": "Character",
+    "DisplayName": "波瀬うるう「臆病な褒められたがり少女」",
+    "Name": "@Uruu_N",
+    "AssetId": "106301",
+    "CharacterMasterId": 106301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 107301,
+    "Type": "Character",
+    "DisplayName": "姫川泉花「自称腹黒の深謀策士」",
+    "Name": "@Senka_H",
+    "AssetId": "107301",
+    "CharacterMasterId": 107301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 108301,
+    "Type": "Character",
+    "DisplayName": "綺羅クララ「正々堂々なミス・ツンデレ」",
+    "Name": "@Kurara_K",
+    "AssetId": "108301",
+    "CharacterMasterId": 108301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 109301,
+    "Type": "Character",
+    "DisplayName": "夕凪舞亜「温厚篤実な面倒くさがり」",
+    "Name": "@Maia_Y",
+    "AssetId": "109301",
+    "CharacterMasterId": 109301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 110301,
+    "Type": "Character",
+    "DisplayName": "ユリア・バーンズ「享楽のワイルドカード」",
+    "Name": "@Julia_B",
+    "AssetId": "110301",
+    "CharacterMasterId": 110301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 110302,
+    "Type": "Character",
+    "DisplayName": "ユリア・バーンズ「はだけるわんぱく浴衣」",
+    "Name": "@Julia_B",
+    "AssetId": "110302",
+    "CharacterMasterId": 110302
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 111001,
+    "Type": "Character",
+    "DisplayName": "劉翠蘭",
+    "Name": "@L_Cuilan",
+    "AssetId": "111001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 111301,
+    "Type": "Character",
+    "DisplayName": "劉翠蘭「混沌の立役者」",
+    "Name": "@L_Cuilan",
+    "AssetId": "111301",
+    "CharacterMasterId": 111301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 112001,
+    "Type": "Character",
+    "DisplayName": "紫雲沙耶",
+    "Name": "@Saya_S",
+    "AssetId": "112001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 112301,
+    "Type": "Character",
+    "DisplayName": "紫雲沙耶「渇望秘めし淑女」",
+    "Name": "@Saya_S",
+    "AssetId": "112301",
+    "CharacterMasterId": 112301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 113301,
+    "Type": "Character",
+    "DisplayName": "フィー・ドレーゼ「空っぽのアクター」",
+    "Name": "@Fee_D",
+    "AssetId": "113301",
+    "CharacterMasterId": 113301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 113302,
+    "Type": "Character",
+    "DisplayName": "フィー・ドレーゼ「自己に揺れる白湯気」",
+    "Name": "@Fee_D",
+    "AssetId": "113302",
+    "CharacterMasterId": 113302
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 114001,
+    "Type": "Character",
+    "DisplayName": "アニス・ベネット",
+    "Name": "@Anis_B",
+    "AssetId": "114001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 114301,
+    "Type": "Character",
+    "DisplayName": "アニス・ベネット「愛を求めるトラブルメーカー」",
+    "Name": "@Anis_B",
+    "AssetId": "114301",
+    "CharacterMasterId": 114301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 115301,
+    "Type": "Character",
+    "DisplayName": "榊野ヒイロ「緋色の一匹狼」",
+    "Name": "@Hiiro_S",
+    "AssetId": "115301",
+    "CharacterMasterId": 115301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 116301,
+    "Type": "Character",
+    "DisplayName": "フルート・メルヴィル「ギャルインフルエンサー」",
+    "Name": "@Flute_M",
+    "AssetId": "116301",
+    "CharacterMasterId": 116301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 116302,
+    "Type": "Character",
+    "DisplayName": "フルート・メルヴィル「#激カワ吸血鬼配信者♪」",
+    "Name": "@Flute_M",
+    "AssetId": "116302",
+    "CharacterMasterId": 116302
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 117301,
+    "Type": "Character",
+    "DisplayName": "エヴィ・レーナルト「省エネ主義の天才ハッカ―」",
+    "Name": "@Evi_L",
+    "AssetId": "117301",
+    "CharacterMasterId": 117301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 117302,
+    "Type": "Character",
+    "DisplayName": "エヴィ・レーナルト「キョンシーハッカー」",
+    "Name": "@Evi_L",
+    "AssetId": "117302",
+    "CharacterMasterId": 117302
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 118301,
+    "Type": "Character",
+    "DisplayName": "シエナ・クラーク「舞台を降りた元歌姫」",
+    "Name": "@Sienna_C",
+    "AssetId": "118301",
+    "CharacterMasterId": 118301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 119301,
+    "Type": "Character",
+    "DisplayName": "レイラ・ジェンキンス「戦うアントレプレナー」",
+    "Name": "@Layla_J",
+    "AssetId": "119301",
+    "CharacterMasterId": 119301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 120001,
+    "Type": "Character",
+    "DisplayName": "ロージー・ヒューズ",
+    "Name": "@Rosie_H",
+    "AssetId": "120001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 120301,
+    "Type": "Character",
+    "DisplayName": "ロージー・ヒューズ「空想造形アーティスト」",
+    "Name": "@Rosie_H",
+    "AssetId": "120301",
+    "CharacterMasterId": 120301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 121301,
+    "Type": "Character",
+    "DisplayName": "ドロテア・カークランド「ノーブル・グレイス」",
+    "Name": "@Dorothea_K",
+    "AssetId": "121301",
+    "CharacterMasterId": 121301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 122201,
+    "Type": "Character",
+    "DisplayName": "ミリアム・ヘイワード「腕白メイド娘」",
+    "Name": "@Miriam_H",
+    "AssetId": "122201",
+    "CharacterMasterId": 122201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 123201,
+    "Type": "Character",
+    "DisplayName": "ハリエット・ミルズ「毒舌メイド娘」",
+    "Name": "@Harriet_M",
+    "AssetId": "123201",
+    "CharacterMasterId": 123201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 124201,
+    "Type": "Character",
+    "DisplayName": "ケイト・フルニエ「臆病メイド娘」",
+    "Name": "@Kate_F",
+    "AssetId": "124201",
+    "CharacterMasterId": 124201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 125001,
+    "Type": "Character",
+    "DisplayName": "ジュリー・ステイシー",
+    "Name": "@Julie_S",
+    "AssetId": "125001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 125101,
+    "Type": "Character",
+    "DisplayName": "ジュリー・ステイシー「爆走お転婆少女」",
+    "Name": "@Julie_S",
+    "AssetId": "125101",
+    "CharacterMasterId": 125101
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 126001,
+    "Type": "Character",
+    "DisplayName": "黒森ラウラ",
+    "Name": "@Laura_K",
+    "AssetId": "126001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 126101,
+    "Type": "Character",
+    "DisplayName": "黒森ラウラ「プレ・クラス－Ａのお姉さん」",
+    "Name": "@Laura_K",
+    "AssetId": "126101",
+    "CharacterMasterId": 126101
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 127101,
+    "Type": "Character",
+    "DisplayName": "樋向心香「ストイックな努力家」",
+    "Name": "@Shinka_H",
+    "AssetId": "127101",
+    "CharacterMasterId": 127101
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 127301,
+    "Type": "Character",
+    "DisplayName": "樋向心香「体育祭のサポート役」",
+    "Name": "@Shinka_H",
+    "AssetId": "127301",
+    "CharacterMasterId": 127301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 128101,
+    "Type": "Character",
+    "DisplayName": "ノエル・アルエ「制御不能の破壊者」",
+    "Name": "@Noelle_A",
+    "AssetId": "128101",
+    "CharacterMasterId": 128101
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 128301,
+    "Type": "Character",
+    "DisplayName": "ノエル・アルエ「体育祭の暴れん坊」",
+    "Name": "@Noelle_A",
+    "AssetId": "128301",
+    "CharacterMasterId": 128301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 129301,
+    "Type": "Character",
+    "DisplayName": "リュシー・ムーアクロフト「忠義の狂犬メイド」",
+    "Name": "@Lucie_M",
+    "AssetId": "129301",
+    "CharacterMasterId": 129301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 130301,
+    "Type": "Character",
+    "DisplayName": "リリー・ラヴォア「正義のヒーロー」",
+    "Name": "@Lilly_L",
+    "AssetId": "130301",
+    "CharacterMasterId": 130301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 131301,
+    "Type": "Character",
+    "DisplayName": "姜小花「風紀委員会の策謀家」",
+    "Name": "@J_Xiaohua",
+    "AssetId": "131301",
+    "CharacterMasterId": 131301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 132301,
+    "Type": "Character",
+    "DisplayName": "鑑純夏「唯一無二の幼なじみ」",
+    "Name": "@Sumika_K",
+    "AssetId": "132301",
+    "CharacterMasterId": 132301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 133301,
+    "Type": "Character",
+    "DisplayName": "御剣冥夜「天命を受けし剣術乙女」",
+    "Name": "@Meiya_M",
+    "AssetId": "133301",
+    "CharacterMasterId": 133301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 134301,
+    "Type": "Character",
+    "DisplayName": "珠瀬壬姫「稀代の狙撃手」",
+    "Name": "@Miki_T",
+    "AssetId": "134301",
+    "CharacterMasterId": 134301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 135001,
+    "Type": "Character",
+    "DisplayName": "榊千鶴",
+    "Name": "@Chizuru_S",
+    "AssetId": "135301s",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 136001,
+    "Type": "Character",
+    "DisplayName": "鎧衣美琴",
+    "Name": "@Mikoto_Y",
+    "AssetId": "136301s",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 137001,
+    "Type": "Character",
+    "DisplayName": "彩峰慧",
+    "Name": "@Kei_A",
+    "AssetId": "137301s",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 138301,
+    "Type": "Character",
+    "DisplayName": "レイヴェル・ブライトリーフ「気高きランウェイモデル」",
+    "Name": "@Reivel_B",
+    "AssetId": "138301",
+    "CharacterMasterId": 138301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 139301,
+    "Type": "Character",
+    "DisplayName": "ルナ・メロウ「博識なハングリーガール」",
+    "Name": "@Luna_M",
+    "AssetId": "139301",
+    "CharacterMasterId": 139301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 140301,
+    "Type": "Character",
+    "DisplayName": "リディア・エルドリッジ",
+    "Name": "@Lydia_E",
+    "AssetId": "140301s",
+    "CharacterMasterId": null
+  }
+]

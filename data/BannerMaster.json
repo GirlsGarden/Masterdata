@@ -1,0 +1,92 @@
+[
+  {
+    "type": "BannerMaster",
+    "Id": 1,
+    "Order": 100,
+    "ImageStaticPath": "1",
+    "StartDate": "2025-04-01T08:00:00+08:00",
+    "EndDate": null,
+    "JumpType": "Gacha",
+    "JumpTargetId": 1,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": 59
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 2,
+    "Order": 90,
+    "ImageStaticPath": "subscription1",
+    "StartDate": "2025-04-01T08:00:00+08:00",
+    "EndDate": null,
+    "JumpType": "Subscription",
+    "JumpTargetId": 1,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": 59
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 3,
+    "Order": 90,
+    "ImageStaticPath": "subscription2",
+    "StartDate": "2025-04-01T08:00:00+08:00",
+    "EndDate": null,
+    "JumpType": "Subscription",
+    "JumpTargetId": 2,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": 59
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 1011,
+    "Order": 1,
+    "ImageStaticPath": "2009",
+    "StartDate": "2025-12-02T20:30:00+08:00",
+    "EndDate": "2025-12-16T12:59:59+08:00",
+    "JumpType": "EventTop",
+    "JumpTargetId": 10,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": 59
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 2014,
+    "Order": 74,
+    "ImageStaticPath": "20011",
+    "StartDate": "2025-11-25T20:30:00+08:00",
+    "EndDate": "2025-12-09T12:59:59+08:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20011,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": 59
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 2015,
+    "Order": 73,
+    "ImageStaticPath": "20012",
+    "StartDate": "2025-12-02T20:30:00+08:00",
+    "EndDate": "2025-12-16T12:59:59+08:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20012,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": 59
+  }
+]

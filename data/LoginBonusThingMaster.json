@@ -1,0 +1,875 @@
+[
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 11,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 1,
+    "ThingType": "FreeGem",
+    "ThingId": 100,
+    "ThingQuantity": 100
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 21,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 2,
+    "ThingType": "FreeGem",
+    "ThingId": 300,
+    "ThingQuantity": 300
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 31,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 3,
+    "ThingType": "FreeGem",
+    "ThingId": 600,
+    "ThingQuantity": 600
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 41,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 4,
+    "ThingType": "FreeGem",
+    "ThingId": 100,
+    "ThingQuantity": 100
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 51,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 5,
+    "ThingType": "Item",
+    "ThingId": 100007,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100001,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10000,
+    "ThingType": "FreeGem",
+    "ThingId": 50,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100011,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10001,
+    "ThingType": "FreeGem",
+    "ThingId": 100,
+    "ThingQuantity": 100
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100021,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10002,
+    "ThingType": "FreeGem",
+    "ThingId": 150,
+    "ThingQuantity": 150
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100031,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10003,
+    "ThingType": "FreeGem",
+    "ThingId": 200,
+    "ThingQuantity": 200
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100041,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10004,
+    "ThingType": "Item",
+    "ThingId": 20000,
+    "ThingQuantity": 5
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100051,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10005,
+    "ThingType": "Item",
+    "ThingId": 100010,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100061,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10006,
+    "ThingType": "Item",
+    "ThingId": 100007,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100071,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10007,
+    "ThingType": "Item",
+    "ThingId": 100001,
+    "ThingQuantity": 3
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100081,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10008,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100091,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10009,
+    "ThingType": "Item",
+    "ThingId": 100002,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100101,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10010,
+    "ThingType": "Item",
+    "ThingId": 100004,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100111,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10011,
+    "ThingType": "Item",
+    "ThingId": 100006,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 100121,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 10012,
+    "ThingType": "Item",
+    "ThingId": 100005,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110001,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11000,
+    "ThingType": "FreeGem",
+    "ThingId": 300,
+    "ThingQuantity": 300
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110011,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11001,
+    "ThingType": "Item",
+    "ThingId": 100007,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110021,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11002,
+    "ThingType": "Item",
+    "ThingId": 20000,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110022,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11002,
+    "ThingType": "Item",
+    "ThingId": 100019,
+    "ThingQuantity": 5
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110031,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11003,
+    "ThingType": "Item",
+    "ThingId": 100004,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110032,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11003,
+    "ThingType": "Item",
+    "ThingId": 100005,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110033,
+    "Order": 3,
+    "LoginBonusThingPackageMasterId": 11003,
+    "ThingType": "Item",
+    "ThingId": 100006,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110041,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11004,
+    "ThingType": "Item",
+    "ThingId": 100008,
+    "ThingQuantity": 3
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110042,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11004,
+    "ThingType": "Item",
+    "ThingId": 100015,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110051,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11005,
+    "ThingType": "Item",
+    "ThingId": 60001,
+    "ThingQuantity": 500
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110052,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11005,
+    "ThingType": "Item",
+    "ThingId": 60002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110053,
+    "Order": 3,
+    "LoginBonusThingPackageMasterId": 11005,
+    "ThingType": "Item",
+    "ThingId": 60003,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110061,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11006,
+    "ThingType": "Item",
+    "ThingId": 60001,
+    "ThingQuantity": 500
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110062,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11006,
+    "ThingType": "Item",
+    "ThingId": 60002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110063,
+    "Order": 3,
+    "LoginBonusThingPackageMasterId": 11006,
+    "ThingType": "Item",
+    "ThingId": 60004,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110071,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11007,
+    "ThingType": "Item",
+    "ThingId": 60001,
+    "ThingQuantity": 500
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110072,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11007,
+    "ThingType": "Item",
+    "ThingId": 60002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110073,
+    "Order": 3,
+    "LoginBonusThingPackageMasterId": 11007,
+    "ThingType": "Item",
+    "ThingId": 60005,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110081,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11008,
+    "ThingType": "Item",
+    "ThingId": 10001,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110082,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11008,
+    "ThingType": "Item",
+    "ThingId": 10004,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110091,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11009,
+    "ThingType": "Item",
+    "ThingId": 10001,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110092,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11009,
+    "ThingType": "Item",
+    "ThingId": 10005,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110101,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11010,
+    "ThingType": "Item",
+    "ThingId": 10001,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110102,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11010,
+    "ThingType": "Item",
+    "ThingId": 10006,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110111,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11011,
+    "ThingType": "Item",
+    "ThingId": 10001,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110112,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11011,
+    "ThingType": "Item",
+    "ThingId": 10007,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110121,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11012,
+    "ThingType": "Item",
+    "ThingId": 10001,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110122,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11012,
+    "ThingType": "Item",
+    "ThingId": 10008,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110131,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11013,
+    "ThingType": "Item",
+    "ThingId": 10001,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110132,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11013,
+    "ThingType": "Item",
+    "ThingId": 10009,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110141,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11014,
+    "ThingType": "Item",
+    "ThingId": 10002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110142,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11014,
+    "ThingType": "Item",
+    "ThingId": 10004,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110151,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11015,
+    "ThingType": "Item",
+    "ThingId": 10002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110152,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11015,
+    "ThingType": "Item",
+    "ThingId": 10005,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110161,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11016,
+    "ThingType": "Item",
+    "ThingId": 10002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110162,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11016,
+    "ThingType": "Item",
+    "ThingId": 10006,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110171,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11017,
+    "ThingType": "Item",
+    "ThingId": 10002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110172,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11017,
+    "ThingType": "Item",
+    "ThingId": 10007,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110181,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11018,
+    "ThingType": "Item",
+    "ThingId": 10002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110182,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11018,
+    "ThingType": "Item",
+    "ThingId": 10008,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110191,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11019,
+    "ThingType": "Item",
+    "ThingId": 10002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110192,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11019,
+    "ThingType": "Item",
+    "ThingId": 10009,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110201,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11020,
+    "ThingType": "Item",
+    "ThingId": 10003,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110202,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11020,
+    "ThingType": "Item",
+    "ThingId": 10004,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110211,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11021,
+    "ThingType": "Item",
+    "ThingId": 10003,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110212,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11021,
+    "ThingType": "Item",
+    "ThingId": 10005,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110221,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11022,
+    "ThingType": "Item",
+    "ThingId": 10003,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110222,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11022,
+    "ThingType": "Item",
+    "ThingId": 10006,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110231,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11023,
+    "ThingType": "Item",
+    "ThingId": 10003,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110232,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11023,
+    "ThingType": "Item",
+    "ThingId": 10007,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110241,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11024,
+    "ThingType": "Item",
+    "ThingId": 10003,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110242,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11024,
+    "ThingType": "Item",
+    "ThingId": 10008,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110251,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 11025,
+    "ThingType": "Item",
+    "ThingId": 10003,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 110252,
+    "Order": 2,
+    "LoginBonusThingPackageMasterId": 11025,
+    "ThingType": "Item",
+    "ThingId": 10009,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200011,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20001,
+    "ThingType": "Item",
+    "ThingId": 90001,
+    "ThingQuantity": 10
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200021,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20002,
+    "ThingType": "Item",
+    "ThingId": 100007,
+    "ThingQuantity": 8
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200031,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20003,
+    "ThingType": "Item",
+    "ThingId": 20000,
+    "ThingQuantity": 5
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200041,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20004,
+    "ThingType": "Item",
+    "ThingId": 100017,
+    "ThingQuantity": 6
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200051,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20005,
+    "ThingType": "Item",
+    "ThingId": 100010,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200061,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20006,
+    "ThingType": "Memory",
+    "ThingId": 30006,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200071,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20007,
+    "ThingType": "Item",
+    "ThingId": 90001,
+    "ThingQuantity": 10
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200081,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20008,
+    "ThingType": "Item",
+    "ThingId": 90005,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200091,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20009,
+    "ThingType": "Item",
+    "ThingId": 100017,
+    "ThingQuantity": 6
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200101,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20010,
+    "ThingType": "Item",
+    "ThingId": 20000,
+    "ThingQuantity": 15
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200111,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20011,
+    "ThingType": "Item",
+    "ThingId": 100007,
+    "ThingQuantity": 8
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200121,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20012,
+    "ThingType": "Item",
+    "ThingId": 100010,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200131,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20013,
+    "ThingType": "Memory",
+    "ThingId": 20028,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200141,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20014,
+    "ThingType": "Item",
+    "ThingId": 90001,
+    "ThingQuantity": 10
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200151,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20015,
+    "ThingType": "Item",
+    "ThingId": 100007,
+    "ThingQuantity": 4
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200161,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20016,
+    "ThingType": "Item",
+    "ThingId": 20000,
+    "ThingQuantity": 15
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200171,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20017,
+    "ThingType": "Item",
+    "ThingId": 100008,
+    "ThingQuantity": 4
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200181,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20018,
+    "ThingType": "FreeGem",
+    "ThingId": 300,
+    "ThingQuantity": 300
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200191,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20019,
+    "ThingType": "Item",
+    "ThingId": 100015,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200201,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20020,
+    "ThingType": "Item",
+    "ThingId": 90001,
+    "ThingQuantity": 10
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200211,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20021,
+    "ThingType": "Item",
+    "ThingId": 20000,
+    "ThingQuantity": 15
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200221,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20022,
+    "ThingType": "Item",
+    "ThingId": 100007,
+    "ThingQuantity": 8
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200231,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20023,
+    "ThingType": "Item",
+    "ThingId": 100017,
+    "ThingQuantity": 6
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200241,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20024,
+    "ThingType": "Item",
+    "ThingId": 100018,
+    "ThingQuantity": 4
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200251,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20025,
+    "ThingType": "Memory",
+    "ThingId": 30010,
+    "ThingQuantity": 1
+  }
+]

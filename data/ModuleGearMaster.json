@@ -1,0 +1,58 @@
+[
+  {
+    "type": "ModuleGearMaster",
+    "Id": 1,
+    "Title": "有利属性ダメージ",
+    "EffectType": "AttributeDamageMultiplier",
+    "Rate": 0.13
+  },
+  {
+    "type": "ModuleGearMaster",
+    "Id": 2,
+    "Title": "HP増加",
+    "EffectType": "HpRateMultiplier",
+    "Rate": 0.08
+  },
+  {
+    "type": "ModuleGearMaster",
+    "Id": 3,
+    "Title": "攻撃力増加",
+    "EffectType": "AttackMultiplier",
+    "Rate": 0.08
+  },
+  {
+    "type": "ModuleGearMaster",
+    "Id": 4,
+    "Title": "防御力増加",
+    "EffectType": "DefenseMultiplier",
+    "Rate": 0.08
+  },
+  {
+    "type": "ModuleGearMaster",
+    "Id": 5,
+    "Title": "速度増加",
+    "EffectType": "SpeedMultiplier",
+    "Rate": 0.1
+  },
+  {
+    "type": "ModuleGearMaster",
+    "Id": 6,
+    "Title": "会心率加算",
+    "EffectType": "CriticalRateMultiplier",
+    "Rate": 0.1
+  },
+  {
+    "type": "ModuleGearMaster",
+    "Id": 7,
+    "Title": "会心ダメージ増加",
+    "EffectType": "CriticalDamageMultiplier",
+    "Rate": 0.13
+  },
+  {
+    "type": "ModuleGearMaster",
+    "Id": 8,
+    "Title": "効果なし",
+    "EffectType": "None",
+    "Rate": 0.3
+  }
+]

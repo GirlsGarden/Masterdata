@@ -1,0 +1,1630 @@
+[
+  {
+    "type": "MemoryMaster",
+    "Id": 10001,
+    "Rarity": "Sr",
+    "Name": "3人と買い物",
+    "Description": "やりぃ♪　じゃあ、遠慮なく！　パフェの専門店、パンケーキ、ステーキハウス　ぜーんぶ、行く！",
+    "AssetId": "10001",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10002,
+    "Rarity": "Sr",
+    "Name": "どこか欠けた星たちと",
+    "Description": "あっ、そうだ、思い出した。いいもの見せてあげる。\\nこれは結成してすぐに取ってもらった写真だよ。ほらほら、可愛くない？",
+    "AssetId": "10002",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10003,
+    "Rarity": "Sr",
+    "Name": "立派なものをお持ちで……",
+    "Description": "う～ん、すっごく柔らかいねぇ～、うりうりうり～。\\nきゃって、んっ、うぅう……っ、ち、ちゆるさん……",
+    "AssetId": "10003",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10004,
+    "Rarity": "Sr",
+    "Name": "プレ・クラス－Ａの絆",
+    "Description": "やったやった！勝ったわ！勝ったわよ！ うん！みんな頑張ったよね！やったね！ このチームで本当に良かった！",
+    "AssetId": "10004",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10005,
+    "Rarity": "Sr",
+    "Name": "勘違いの行方",
+    "Description": "……説明……ううん、普通のお化け屋敷じゃない、恐怖の館。ドキドキして、ちょっとハードで、最後には衝撃がある。",
+    "AssetId": "10009",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 1,
+        "CharacterType": null,
+        "SkillMasterId": 400072,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10006,
+    "Rarity": "Sr",
+    "Name": "二人でお料理女子トーク",
+    "Description": "わたしが食べさせてあげる！はい、これ！　あーん！\\nわわわっ！　す、純夏さん凄く大胆です！……あーんをするなんて……！",
+    "AssetId": "10010",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400077,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10007,
+    "Rarity": "Sr",
+    "Name": "おたすけさんぽ",
+    "Description": "みんなのお願いごとをおたすけして、\\nえがおにしたい。みんなのえがお、とってもぽかぽか。",
+    "AssetId": "10011",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 8,
+        "CharacterType": null,
+        "SkillMasterId": 400091,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10008,
+    "Rarity": "Sr",
+    "Name": "翠蘭はユリアの……",
+    "Description": "……大丈夫です……\\nですが…………いつまで揉んでるんですか、変態。",
+    "AssetId": "10012",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Tank",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400095,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Control",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400096,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20001,
+    "Rarity": "Ssr",
+    "Name": "ふたりきりの勉強会",
+    "Description": "その……私……シリウスシュガーのみんなのために、もっと何かできることはないかな、って思ってまして……",
+    "AssetId": "100301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 100,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400000,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20002,
+    "Rarity": "Ssr",
+    "Name": "まだ知らない世界",
+    "Description": "わたくしでよろしければ、喜んで。\\n１から花の扱い方を説明させていただきますわ。",
+    "AssetId": "101301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 101,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400001,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20003,
+    "Rarity": "Ssr",
+    "Name": "変わらない君で",
+    "Description": "うわー、それはもったいないね！あたしと一緒に外に遊びに行こ！うん、そうしよう、けってーい！",
+    "AssetId": "102301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 102,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400002,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20004,
+    "Rarity": "Ssr",
+    "Name": "金儲けと罰",
+    "Description": "美少女に頼られて、おまえめっちゃラッキーじゃん！\\n……で！　一緒に行くの！？　行かないの！？",
+    "AssetId": "103301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 103,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400003,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 2,
+        "CharacterType": null,
+        "SkillMasterId": 400026,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20005,
+    "Rarity": "Ssr",
+    "Name": "知って欲しい、わたし",
+    "Description": "シルバー系のものが可愛くて好き。\\n落ち着いた色だし……わたしの髪色にも合うから。",
+    "AssetId": "104301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 104,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400004,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400027,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20006,
+    "Rarity": "Ssr",
+    "Name": "厳しさと優しさ",
+    "Description": "私を嫌い、悪し様に言う者もいる。\\nだが、私が悪者になることで、皆を守れるのであれば、私はいくらでも嫌われよう。",
+    "AssetId": "105301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 105,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400005,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 105,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400028,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20007,
+    "Rarity": "Ssr",
+    "Name": "褒められたい系女子",
+    "Description": "あっ……こ、こ、こんにちはっ！お、お待ちしてました！！\\n部屋の前で待っていれば、いつか出てきてくれるかと思って……",
+    "AssetId": "106301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 106,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400006,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 16,
+        "CharacterType": null,
+        "SkillMasterId": 400029,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20008,
+    "Rarity": "Ssr",
+    "Name": "感謝は計画的に",
+    "Description": "しゃらぁーっぷ！！　その名前を口にしないで！！\\n手帳の中、見たの！？　見てないの！！？",
+    "AssetId": "107301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 107,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400007,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20009,
+    "Rarity": "Ssr",
+    "Name": "見せたい最高の私",
+    "Description": "ちょ、ちょっと！　何笑ってるのよ！？\\nぜ、絶対にいつか吠え面かかせてやるんだから、覚悟してなさい！",
+    "AssetId": "108301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 108,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400008,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20010,
+    "Rarity": "Ssr",
+    "Name": "私なりのデートを",
+    "Description": "１度で全部聞いちゃうのはもったいないでしょ？……だから、またいつかデートに誘うわ。続きはその時に、ゆっくり教えてね？",
+    "AssetId": "109301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 109,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400009,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400032,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20011,
+    "Rarity": "Ssr",
+    "Name": "危険な君の気持ち",
+    "Description": "今はこのエアガンがブームってわけ！\\n結構体を動かすし、パイロット活動の訓練にもなるんだよね。",
+    "AssetId": "110301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 110,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400010,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 110,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400033,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20012,
+    "Rarity": "Ssr",
+    "Name": "カオスメイデンの支柱",
+    "Description": "まったく……仕方のない人ですね。\\n出口まで案内しますので、私について来てください。",
+    "AssetId": "111301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 111,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400011,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400034,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20013,
+    "Rarity": "Ssr",
+    "Name": "向き合う私の本性",
+    "Description": "もっともっと、制御しなければ！この快感を！　この昂りを！　この高揚を！もっと、私のものにするために！",
+    "AssetId": "112301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 112,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400012,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20014,
+    "Rarity": "Ssr",
+    "Name": "感情はどこにある？",
+    "Description": "商店街にあるものを見て、これが１番欲しいって思ったの。\\nいつもは自分で買うけど、人に買ってもらうのは特別な気がする。",
+    "AssetId": "113301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 113,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400013,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400036,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20015,
+    "Rarity": "Ssr",
+    "Name": "困らせたがりにはお灸を",
+    "Description": "お願いだから……いなくならないでぇ……！\\n置いてかないで……あたしを、ひとりにしないで……っ！",
+    "AssetId": "114301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 114,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400014,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20016,
+    "Rarity": "Ssr",
+    "Name": "限界を超えて",
+    "Description": "んむ……んぅ……すぅ、すぅ……\\n寝床を貸してもらうね。ここでなら、安心できるから",
+    "AssetId": "115301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 115,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400015,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Clever",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400038,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20017,
+    "Rarity": "Ssr",
+    "Name": "Ｆｌ∞ｔｙの『ぽよ』",
+    "Description": "格好悪い行動は大嫌いで、仲間のことはとても大事で……\\n何ものにも囚われない、自由なギャルのバイブスが大好きなんですっ！",
+    "AssetId": "116301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 116,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400016,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Cute",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400039,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20018,
+    "Rarity": "Ssr",
+    "Name": "省エネコスパ主義",
+    "Description": "赤くない！　ゆ、夕日！　夕日のせい！\\nもう……こんなの……コスパ……悪いのに。",
+    "AssetId": "117301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 117,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400017,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 2,
+        "CharacterType": null,
+        "SkillMasterId": 400040,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20019,
+    "Rarity": "Ssr",
+    "Name": "本当にやりたいこと",
+    "Description": "この学園で頑張るつもり。だって、仲間や色々な人を笑顔にできるから…\\n期待しててね？いつか指揮官さんのために歌うから。",
+    "AssetId": "118301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 118,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400018,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 8,
+        "CharacterType": null,
+        "SkillMasterId": 400041,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20020,
+    "Rarity": "Ssr",
+    "Name": "知りたいキミの秘密",
+    "Description": "こういうファッションが趣味だからね♪\\nしっかりキミをコーディネートしてあげるよ。",
+    "AssetId": "119301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 119,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400019,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 119,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400042,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20021,
+    "Rarity": "Ssr",
+    "Name": "空想造形師ロージー",
+    "Description": "ほら、はーやーくー。いいからいいから、早く部屋に帰るわよ。ハイヨー！後輩クン！",
+    "AssetId": "120301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 120,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400020,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 4,
+        "CharacterType": null,
+        "SkillMasterId": 400043,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20022,
+    "Rarity": "Ssr",
+    "Name": "ノブレス・オブリージュ",
+    "Description": "こちらのお店のお洋服、とても素敵です！見てください、どれも可愛い……！ふふっ、見ているだけで心が浮き立ちます。",
+    "AssetId": "121301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 121,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400021,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Comical",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400044,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20023,
+    "Rarity": "Ssr",
+    "Name": "あるべきメイドの姿",
+    "Description": "ははは、あたしらしくないだろ？こんな風に悩んでるなんてさ。\\n悪いな、こんな情けないところ見せちまって。",
+    "AssetId": "129301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 129,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400022,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400045,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20024,
+    "Rarity": "Ssr",
+    "Name": "ヒーローに必要なもの！",
+    "Description": "喧嘩をするのは仕方ないよ。リリーだってするからね。\\nでも、殴ったり叩いたりするのはいけない事だよ！",
+    "AssetId": "130301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 130,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400061,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400027,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20025,
+    "Rarity": "Ssr",
+    "Name": "あるべき自分、ありたい自分",
+    "Description": "またもや人に籠絡されてしまうなんて……\\nわたくし、スパイの才能がないのかもしれませんね。",
+    "AssetId": "131301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 131,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400062,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400063,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20026,
+    "Rarity": "Ssr",
+    "Name": "みんなの為なら",
+    "Description": "――ここだっ！ あれぇ？ ここにいたと思ったのにぃ…… ねえ、どこにいるの～！？ ねえったら～！",
+    "AssetId": "128301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 128,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400064,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Aggressive",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400065,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20027,
+    "Rarity": "Ssr",
+    "Name": "今の自分",
+    "Description": "そうそう。そうやって走れば疲れが減るわ。 \\nもしわからなければ、何度だって聞いてくれていいからね。",
+    "AssetId": "127301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 127,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400066,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Cute",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400067,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20028,
+    "Rarity": "Ssr",
+    "Name": "ありがとうの気持ち",
+    "Description": "お世話になっている指揮官さんへ。感謝の気持ちをお届けです！　これからも末永くよろしくお願いしますね♪",
+    "AssetId": "20001",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20029,
+    "Rarity": "Ssr",
+    "Name": "『ぽよ』満載♥吸血鬼ギャル",
+    "Description": "お、お着替えをしてるだけですから、そんな大変な事になったりしませんよ！",
+    "AssetId": "116302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 116,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400071,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400073,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20030,
+    "Rarity": "Ssr",
+    "Name": "キョンシー少女は動かない",
+    "Description": "え？　そうだよ。そのために資料とか道具とか全部ベッドの上に持ってきたんだから。",
+    "AssetId": "117302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 117,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400074,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400045,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20031,
+    "Rarity": "Ssr",
+    "Name": "ふたりの日記",
+    "Description": "こんな風にゆっくりするのもいいね……みんなと過ごすのももちろんだけど。\\nわたしはまた、タケルちゃんと、ふたりきりがいいな。",
+    "AssetId": "132301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 132,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400078,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400079,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20032,
+    "Rarity": "Ssr",
+    "Name": "共に探す思い出",
+    "Description": "ここから見える景色は……まさに平和だな。\\n私はこの景色を知らない……だが、それを求めて戦っていた気がすると。",
+    "AssetId": "133301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 133,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400083,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400086,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20033,
+    "Rarity": "Ssr",
+    "Name": "一緒にできること",
+    "Description": "えっ？　……これって、雑貨屋で売ってたぬいぐるみ……！たけるさん……これ……いいんですか？私がもらっちゃって……",
+    "AssetId": "134301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 134,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400084,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": "Agility",
+        "SkillMasterId": 400085,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20034,
+    "Rarity": "Ssr",
+    "Name": "レイヴェルの臨時マネージャー",
+    "Description": "私は、基本のヘアセットやメイクくらいなら自分でやる。\\n自分でできることは自分でやるようにしているんだ。",
+    "AssetId": "138301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 138,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400087,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 8,
+        "CharacterType": null,
+        "SkillMasterId": 400089,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20035,
+    "Rarity": "Ssr",
+    "Name": "ふたりのダイエット大作戦！",
+    "Description": "ううぅ～ん……むにゃむにゃ……\\nえへへ……美味しい……もう……食べられない……",
+    "AssetId": "139301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 139,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400088,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Cute",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400090,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20036,
+    "Rarity": "Ssr",
+    "Name": "特別な感情",
+    "Description": "星と月しかない。\\n……でも、この６人で一緒に見る夜空は特別で、ちょっと違う気がする。",
+    "AssetId": "113302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 113,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400013,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 4,
+        "CharacterType": null,
+        "SkillMasterId": 400094,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20037,
+    "Rarity": "Ssr",
+    "Name": "まだ枕投げしてない！",
+    "Description": "フィーちゃん、勝負だよ～～～～！！\\n……と見せかけて、アニスちゃんにえーいっ！",
+    "AssetId": "110302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 110,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400099,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400086,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30001,
+    "Rarity": "Ur",
+    "Name": "Sirius Sugar",
+    "Description": "鳴滝七彩をリーダーとした落ちこぼれチーム。仲の良さならトップにも負けない。",
+    "AssetId": "30001",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 101,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400049,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30002,
+    "Rarity": "Ur",
+    "Name": "Colorful Bouquet",
+    "Description": "生駒葵をリーダーにした校舎内トップクラスチーム。規律の取れた連携が強み。",
+    "AssetId": "30002",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 102,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400050,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30003,
+    "Rarity": "Ur",
+    "Name": "Chaos Maiden",
+    "Description": "リーダーのユリアの性格を反映したような自由さが売りの校舎内トップクラスチーム。",
+    "AssetId": "30003",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 201,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400051,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30004,
+    "Rarity": "Ur",
+    "Name": "Pyxis Ma Soeur",
+    "Description": "ドロテアをリーダーとした学園でも指折りのチーム。統率の取れたチームワークが強み。",
+    "AssetId": "30004",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 301,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400052,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30005,
+    "Rarity": "Ur",
+    "Name": "Treble Quintet",
+    "Description": "フルートをリーダーとしたチーム。全員がパイロット以外に別の肩書きを持つ。",
+    "AssetId": "30005",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 401,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400053,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30006,
+    "Rarity": "Ur",
+    "Name": "少女たちとの邂逅",
+    "Description": "あ、あの、大丈夫ですか？目が覚めたみたいで、良かったです……\\n……そ、それで、その……とりあえず、タオルをどうぞ。",
+    "AssetId": "30006",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30007,
+    "Rarity": "Ur",
+    "Name": "ハードな準備運動……？",
+    "Description": "んっ、あっ、はぁ、はぁ……んぅうううう！やっ、ああ、こ、これ以上は、む、むりぃ……！",
+    "AssetId": "30007",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400069,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 56,
+        "CharacterType": null,
+        "SkillMasterId": 400070,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30008,
+    "Rarity": "Ur",
+    "Name": "お忍びシスターの冒険",
+    "Description": "だって、怖くて動けないんです……！お願いです、どうかわたくしの側にいてください……！",
+    "AssetId": "30012",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 301,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400075,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "PhysicalAttacker",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400076,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30009,
+    "Rarity": "Ur",
+    "Name": "気になる装備",
+    "Description": "……ふふふ……ぐにゅってしてる……♪これは……面白い。癖になる。お言葉に甘えて……つんつん。",
+    "AssetId": "30013",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400081,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30010,
+    "Rarity": "Ur",
+    "Name": "STRANGERS",
+    "Description": "『マブラヴ オルタネイティヴ』コラボ開催記念",
+    "AssetId": "30015",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30011,
+    "Rarity": "Ur",
+    "Name": "エッ〇な罰ゲームやってみた",
+    "Description": "はぁ……はぁっ……こ、こんな姿のフルートを、\\nあんまり映さないでくださ～い……！",
+    "AssetId": "30011",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Control",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400092,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Tank",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400093,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30012,
+    "Rarity": "Ur",
+    "Name": "駆け落ちフルスロットル！",
+    "Description": "あら、指揮官……ふふ、とても大胆ね。\\nあたし達の裸……そんなに見たかったのかしら？",
+    "AssetId": "30014",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 201,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400097,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 56,
+        "CharacterType": null,
+        "SkillMasterId": 400098,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": false
+  }
+]

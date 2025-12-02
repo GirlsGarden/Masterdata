@@ -1,0 +1,42 @@
+[
+  {
+    "type": "SimulationMaster",
+    "Id": 1,
+    "LocationMasterId": 11001,
+    "Name": "総合シミュレート",
+    "Attribute": null,
+    "IntroductionEpisodeMasterId": 300201
+  },
+  {
+    "type": "SimulationMaster",
+    "Id": 2,
+    "LocationMasterId": 11002,
+    "Name": "アグレッシブシミュレート",
+    "Attribute": "Aggressive",
+    "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "SimulationMaster",
+    "Id": 3,
+    "LocationMasterId": 11003,
+    "Name": "スマートシミュレート",
+    "Attribute": "Smart",
+    "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "SimulationMaster",
+    "Id": 4,
+    "LocationMasterId": 11004,
+    "Name": "シャイシミュレート",
+    "Attribute": "Shy",
+    "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "SimulationMaster",
+    "Id": 5,
+    "LocationMasterId": 11005,
+    "Name": "キュートシミュレート",
+    "Attribute": "Cute",
+    "IntroductionEpisodeMasterId": null
+  }
+]

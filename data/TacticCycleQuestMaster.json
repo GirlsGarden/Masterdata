@@ -1,0 +1,722 @@
+[
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 1,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400006,
+    "GroupNumber": 1,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 2,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400007,
+    "GroupNumber": 1,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 3,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400008,
+    "GroupNumber": 1,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 4,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400009,
+    "GroupNumber": 1,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 5,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400010,
+    "GroupNumber": 1,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 6,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400011,
+    "GroupNumber": 2,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 7,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400012,
+    "GroupNumber": 2,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 8,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400013,
+    "GroupNumber": 2,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 9,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400014,
+    "GroupNumber": 2,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 10,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400015,
+    "GroupNumber": 2,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 11,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400016,
+    "GroupNumber": 3,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 12,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400017,
+    "GroupNumber": 3,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 13,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400018,
+    "GroupNumber": 3,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 14,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400019,
+    "GroupNumber": 3,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 15,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400020,
+    "GroupNumber": 3,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 16,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400001,
+    "GroupNumber": 4,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 17,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400002,
+    "GroupNumber": 4,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 18,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400003,
+    "GroupNumber": 4,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 19,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400004,
+    "GroupNumber": 4,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 20,
+    "TacticMasterId": 1,
+    "QuestMasterId": 400005,
+    "GroupNumber": 4,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 21,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400021,
+    "GroupNumber": 1,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 22,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400022,
+    "GroupNumber": 1,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 23,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400023,
+    "GroupNumber": 1,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 24,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400024,
+    "GroupNumber": 1,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 25,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400025,
+    "GroupNumber": 1,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 26,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400026,
+    "GroupNumber": 2,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 27,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400027,
+    "GroupNumber": 2,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 28,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400028,
+    "GroupNumber": 2,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 29,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400029,
+    "GroupNumber": 2,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 30,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400030,
+    "GroupNumber": 2,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 31,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400031,
+    "GroupNumber": 3,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 32,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400032,
+    "GroupNumber": 3,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 33,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400033,
+    "GroupNumber": 3,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 34,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400034,
+    "GroupNumber": 3,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 35,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400035,
+    "GroupNumber": 3,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 36,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400036,
+    "GroupNumber": 4,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 37,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400037,
+    "GroupNumber": 4,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 38,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400038,
+    "GroupNumber": 4,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 39,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400039,
+    "GroupNumber": 4,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 40,
+    "TacticMasterId": 2,
+    "QuestMasterId": 400040,
+    "GroupNumber": 4,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 41,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400041,
+    "GroupNumber": 1,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 42,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400042,
+    "GroupNumber": 1,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 43,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400043,
+    "GroupNumber": 1,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 44,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400044,
+    "GroupNumber": 1,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 45,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400045,
+    "GroupNumber": 1,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 46,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400046,
+    "GroupNumber": 2,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 47,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400047,
+    "GroupNumber": 2,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 48,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400048,
+    "GroupNumber": 2,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 49,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400049,
+    "GroupNumber": 2,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 50,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400050,
+    "GroupNumber": 2,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 51,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400051,
+    "GroupNumber": 3,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 52,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400052,
+    "GroupNumber": 3,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 53,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400053,
+    "GroupNumber": 3,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 54,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400054,
+    "GroupNumber": 3,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 55,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400055,
+    "GroupNumber": 3,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 56,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400056,
+    "GroupNumber": 4,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 57,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400057,
+    "GroupNumber": 4,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 58,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400058,
+    "GroupNumber": 4,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 59,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400059,
+    "GroupNumber": 4,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 60,
+    "TacticMasterId": 3,
+    "QuestMasterId": 400060,
+    "GroupNumber": 4,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 61,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400061,
+    "GroupNumber": 1,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 62,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400062,
+    "GroupNumber": 1,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 63,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400063,
+    "GroupNumber": 1,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 64,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400064,
+    "GroupNumber": 1,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 65,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400065,
+    "GroupNumber": 1,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 66,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400066,
+    "GroupNumber": 2,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 67,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400067,
+    "GroupNumber": 2,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 68,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400068,
+    "GroupNumber": 2,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 69,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400069,
+    "GroupNumber": 2,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 70,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400070,
+    "GroupNumber": 2,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 71,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400071,
+    "GroupNumber": 3,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 72,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400072,
+    "GroupNumber": 3,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 73,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400073,
+    "GroupNumber": 3,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 74,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400074,
+    "GroupNumber": 3,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 75,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400075,
+    "GroupNumber": 3,
+    "Order": 5,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 76,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400076,
+    "GroupNumber": 4,
+    "Order": 1,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 77,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400077,
+    "GroupNumber": 4,
+    "Order": 2,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 78,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400078,
+    "GroupNumber": 4,
+    "Order": 3,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 79,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400079,
+    "GroupNumber": 4,
+    "Order": 4,
+    "AssetId": null
+  },
+  {
+    "type": "TacticCycleQuestMaster",
+    "Id": 80,
+    "TacticMasterId": 4,
+    "QuestMasterId": 400080,
+    "GroupNumber": 4,
+    "Order": 5,
+    "AssetId": null
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "type": "MemorySkillMaster",
+    "Id": 100011,
+    "Order": 1,
+    "MemoryMasterId": 10001,
+    "SkillMasterId": 400046
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 100021,
+    "Order": 1,
+    "MemoryMasterId": 10002,
+    "SkillMasterId": 400047
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 100031,
+    "Order": 1,
+    "MemoryMasterId": 10003,
+    "SkillMasterId": 400048
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 100041,
+    "Order": 1,
+    "MemoryMasterId": 10004,
+    "SkillMasterId": 400060
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 100051,
+    "Order": 1,
+    "MemoryMasterId": 10005,
+    "SkillMasterId": 400072
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 100061,
+    "Order": 1,
+    "MemoryMasterId": 10006,
+    "SkillMasterId": 400077
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 100071,
+    "Order": 1,
+    "MemoryMasterId": 10007,
+    "SkillMasterId": 400091
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 100081,
+    "Order": 1,
+    "MemoryMasterId": 10008,
+    "SkillMasterId": 400095
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 100082,
+    "Order": 2,
+    "MemoryMasterId": 10008,
+    "SkillMasterId": 400096
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200011,
+    "Order": 1,
+    "MemoryMasterId": 20001,
+    "SkillMasterId": 400000
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200012,
+    "Order": 2,
+    "MemoryMasterId": 20001,
+    "SkillMasterId": 400023
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200021,
+    "Order": 1,
+    "MemoryMasterId": 20002,
+    "SkillMasterId": 400001
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200022,
+    "Order": 2,
+    "MemoryMasterId": 20002,
+    "SkillMasterId": 400024
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200031,
+    "Order": 1,
+    "MemoryMasterId": 20003,
+    "SkillMasterId": 400002
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200032,
+    "Order": 2,
+    "MemoryMasterId": 20003,
+    "SkillMasterId": 400025
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200041,
+    "Order": 1,
+    "MemoryMasterId": 20004,
+    "SkillMasterId": 400003
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200042,
+    "Order": 2,
+    "MemoryMasterId": 20004,
+    "SkillMasterId": 400026
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200051,
+    "Order": 1,
+    "MemoryMasterId": 20005,
+    "SkillMasterId": 400004
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200052,
+    "Order": 2,
+    "MemoryMasterId": 20005,
+    "SkillMasterId": 400027
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200061,
+    "Order": 1,
+    "MemoryMasterId": 20006,
+    "SkillMasterId": 400005
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200062,
+    "Order": 2,
+    "MemoryMasterId": 20006,
+    "SkillMasterId": 400028
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200071,
+    "Order": 1,
+    "MemoryMasterId": 20007,
+    "SkillMasterId": 400006
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200072,
+    "Order": 2,
+    "MemoryMasterId": 20007,
+    "SkillMasterId": 400029
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200081,
+    "Order": 1,
+    "MemoryMasterId": 20008,
+    "SkillMasterId": 400007
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200082,
+    "Order": 2,
+    "MemoryMasterId": 20008,
+    "SkillMasterId": 400030
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200091,
+    "Order": 1,
+    "MemoryMasterId": 20009,
+    "SkillMasterId": 400008
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200092,
+    "Order": 2,
+    "MemoryMasterId": 20009,
+    "SkillMasterId": 400031
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200101,
+    "Order": 1,
+    "MemoryMasterId": 20010,
+    "SkillMasterId": 400009
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200102,
+    "Order": 2,
+    "MemoryMasterId": 20010,
+    "SkillMasterId": 400032
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200111,
+    "Order": 1,
+    "MemoryMasterId": 20011,
+    "SkillMasterId": 400010
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200112,
+    "Order": 2,
+    "MemoryMasterId": 20011,
+    "SkillMasterId": 400033
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200121,
+    "Order": 1,
+    "MemoryMasterId": 20012,
+    "SkillMasterId": 400011
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200122,
+    "Order": 2,
+    "MemoryMasterId": 20012,
+    "SkillMasterId": 400034
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200131,
+    "Order": 1,
+    "MemoryMasterId": 20013,
+    "SkillMasterId": 400012
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200132,
+    "Order": 2,
+    "MemoryMasterId": 20013,
+    "SkillMasterId": 400035
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200141,
+    "Order": 1,
+    "MemoryMasterId": 20014,
+    "SkillMasterId": 400013
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200142,
+    "Order": 2,
+    "MemoryMasterId": 20014,
+    "SkillMasterId": 400036
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200151,
+    "Order": 1,
+    "MemoryMasterId": 20015,
+    "SkillMasterId": 400014
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200152,
+    "Order": 2,
+    "MemoryMasterId": 20015,
+    "SkillMasterId": 400037
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200161,
+    "Order": 1,
+    "MemoryMasterId": 20016,
+    "SkillMasterId": 400015
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200162,
+    "Order": 2,
+    "MemoryMasterId": 20016,
+    "SkillMasterId": 400038
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200171,
+    "Order": 1,
+    "MemoryMasterId": 20017,
+    "SkillMasterId": 400016
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200172,
+    "Order": 2,
+    "MemoryMasterId": 20017,
+    "SkillMasterId": 400039
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200181,
+    "Order": 1,
+    "MemoryMasterId": 20018,
+    "SkillMasterId": 400017
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200182,
+    "Order": 2,
+    "MemoryMasterId": 20018,
+    "SkillMasterId": 400040
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200191,
+    "Order": 1,
+    "MemoryMasterId": 20019,
+    "SkillMasterId": 400018
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200192,
+    "Order": 2,
+    "MemoryMasterId": 20019,
+    "SkillMasterId": 400041
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200201,
+    "Order": 1,
+    "MemoryMasterId": 20020,
+    "SkillMasterId": 400019
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200202,
+    "Order": 2,
+    "MemoryMasterId": 20020,
+    "SkillMasterId": 400042
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200211,
+    "Order": 1,
+    "MemoryMasterId": 20021,
+    "SkillMasterId": 400020
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200212,
+    "Order": 2,
+    "MemoryMasterId": 20021,
+    "SkillMasterId": 400043
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200221,
+    "Order": 1,
+    "MemoryMasterId": 20022,
+    "SkillMasterId": 400021
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200222,
+    "Order": 2,
+    "MemoryMasterId": 20022,
+    "SkillMasterId": 400044
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200231,
+    "Order": 1,
+    "MemoryMasterId": 20023,
+    "SkillMasterId": 400022
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200232,
+    "Order": 2,
+    "MemoryMasterId": 20023,
+    "SkillMasterId": 400045
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200241,
+    "Order": 1,
+    "MemoryMasterId": 20024,
+    "SkillMasterId": 400061
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200242,
+    "Order": 2,
+    "MemoryMasterId": 20024,
+    "SkillMasterId": 400027
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200251,
+    "Order": 1,
+    "MemoryMasterId": 20025,
+    "SkillMasterId": 400062
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200252,
+    "Order": 2,
+    "MemoryMasterId": 20025,
+    "SkillMasterId": 400063
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200261,
+    "Order": 1,
+    "MemoryMasterId": 20026,
+    "SkillMasterId": 400064
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200262,
+    "Order": 2,
+    "MemoryMasterId": 20026,
+    "SkillMasterId": 400065
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200271,
+    "Order": 1,
+    "MemoryMasterId": 20027,
+    "SkillMasterId": 400066
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200272,
+    "Order": 2,
+    "MemoryMasterId": 20027,
+    "SkillMasterId": 400067
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200281,
+    "Order": 1,
+    "MemoryMasterId": 20028,
+    "SkillMasterId": 400068
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200282,
+    "Order": 2,
+    "MemoryMasterId": 20028,
+    "SkillMasterId": 400060
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200291,
+    "Order": 1,
+    "MemoryMasterId": 20029,
+    "SkillMasterId": 400071
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200292,
+    "Order": 2,
+    "MemoryMasterId": 20029,
+    "SkillMasterId": 400073
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200301,
+    "Order": 1,
+    "MemoryMasterId": 20030,
+    "SkillMasterId": 400074
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200302,
+    "Order": 2,
+    "MemoryMasterId": 20030,
+    "SkillMasterId": 400045
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200311,
+    "Order": 1,
+    "MemoryMasterId": 20031,
+    "SkillMasterId": 400078
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200312,
+    "Order": 2,
+    "MemoryMasterId": 20031,
+    "SkillMasterId": 400079
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200321,
+    "Order": 1,
+    "MemoryMasterId": 20032,
+    "SkillMasterId": 400083
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200322,
+    "Order": 2,
+    "MemoryMasterId": 20032,
+    "SkillMasterId": 400086
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200331,
+    "Order": 1,
+    "MemoryMasterId": 20033,
+    "SkillMasterId": 400084
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200332,
+    "Order": 2,
+    "MemoryMasterId": 20033,
+    "SkillMasterId": 400085
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200341,
+    "Order": 1,
+    "MemoryMasterId": 20034,
+    "SkillMasterId": 400087
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200342,
+    "Order": 2,
+    "MemoryMasterId": 20034,
+    "SkillMasterId": 400089
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200351,
+    "Order": 1,
+    "MemoryMasterId": 20035,
+    "SkillMasterId": 400088
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200352,
+    "Order": 2,
+    "MemoryMasterId": 20035,
+    "SkillMasterId": 400090
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200361,
+    "Order": 1,
+    "MemoryMasterId": 20036,
+    "SkillMasterId": 400013
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200362,
+    "Order": 2,
+    "MemoryMasterId": 20036,
+    "SkillMasterId": 400094
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200371,
+    "Order": 1,
+    "MemoryMasterId": 20037,
+    "SkillMasterId": 400099
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200372,
+    "Order": 2,
+    "MemoryMasterId": 20037,
+    "SkillMasterId": 400086
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300011,
+    "Order": 1,
+    "MemoryMasterId": 30001,
+    "SkillMasterId": 400049
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300012,
+    "Order": 2,
+    "MemoryMasterId": 30001,
+    "SkillMasterId": 400055
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300021,
+    "Order": 1,
+    "MemoryMasterId": 30002,
+    "SkillMasterId": 400050
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300022,
+    "Order": 2,
+    "MemoryMasterId": 30002,
+    "SkillMasterId": 400056
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300031,
+    "Order": 1,
+    "MemoryMasterId": 30003,
+    "SkillMasterId": 400051
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300032,
+    "Order": 2,
+    "MemoryMasterId": 30003,
+    "SkillMasterId": 400057
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300041,
+    "Order": 1,
+    "MemoryMasterId": 30004,
+    "SkillMasterId": 400052
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300042,
+    "Order": 2,
+    "MemoryMasterId": 30004,
+    "SkillMasterId": 400058
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300051,
+    "Order": 1,
+    "MemoryMasterId": 30005,
+    "SkillMasterId": 400053
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300052,
+    "Order": 2,
+    "MemoryMasterId": 30005,
+    "SkillMasterId": 400059
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300061,
+    "Order": 1,
+    "MemoryMasterId": 30006,
+    "SkillMasterId": 400054
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300062,
+    "Order": 2,
+    "MemoryMasterId": 30006,
+    "SkillMasterId": 400059
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300071,
+    "Order": 1,
+    "MemoryMasterId": 30007,
+    "SkillMasterId": 400069
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300072,
+    "Order": 2,
+    "MemoryMasterId": 30007,
+    "SkillMasterId": 400070
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300081,
+    "Order": 1,
+    "MemoryMasterId": 30008,
+    "SkillMasterId": 400075
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300082,
+    "Order": 2,
+    "MemoryMasterId": 30008,
+    "SkillMasterId": 400076
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300091,
+    "Order": 1,
+    "MemoryMasterId": 30009,
+    "SkillMasterId": 400080
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300092,
+    "Order": 2,
+    "MemoryMasterId": 30009,
+    "SkillMasterId": 400081
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300101,
+    "Order": 1,
+    "MemoryMasterId": 30010,
+    "SkillMasterId": 400082
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300102,
+    "Order": 2,
+    "MemoryMasterId": 30010,
+    "SkillMasterId": 400059
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300111,
+    "Order": 1,
+    "MemoryMasterId": 30011,
+    "SkillMasterId": 400092
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300112,
+    "Order": 2,
+    "MemoryMasterId": 30011,
+    "SkillMasterId": 400093
+  }
+]

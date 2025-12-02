@@ -1,0 +1,80 @@
+[
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 1,
+    "Category": "Daily",
+    "NotificationTitle": "デイリーミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 2,
+    "Category": "DailyMissionPoint",
+    "NotificationTitle": "デイリーミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 3,
+    "Category": "Weekly",
+    "NotificationTitle": "ウィークリーミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 4,
+    "Category": "WeeklyMissionPoint",
+    "NotificationTitle": "ウィークリーミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 5,
+    "Category": "Goal",
+    "NotificationTitle": "実績ミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 6,
+    "Category": "EventDaily",
+    "NotificationTitle": "イベントミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 7,
+    "Category": "EventGoalMissionPoint",
+    "NotificationTitle": "イベントミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 8,
+    "Category": "QuestPass",
+    "NotificationTitle": "クエストパスミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 9,
+    "Category": "CircleDaily",
+    "NotificationTitle": "サークルミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 10,
+    "Category": "CircleWeekly",
+    "NotificationTitle": "サークルミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 11,
+    "Category": "Gradual",
+    "NotificationTitle": "キャンペーンミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 12,
+    "Category": "GradualMissionPoint",
+    "NotificationTitle": "キャンペーンミッション"
+  },
+  {
+    "type": "MissionCategoryMaster",
+    "Id": 13,
+    "Category": "EventGoal",
+    "NotificationTitle": "イベントミッション"
+  }
+]

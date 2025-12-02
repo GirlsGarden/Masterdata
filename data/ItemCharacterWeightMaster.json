@@ -1,0 +1,158 @@
+[
+  {
+    "type": "ItemCharacterWeightMaster",
+    "Id": 1,
+    "ItemMasterId": 100009,
+    "RarityProbabilities": {
+      "3": 1
+    },
+    "CharacterMasterIds": [
+      100301,
+      101301,
+      102301,
+      103301,
+      104301,
+      105301,
+      106301,
+      107301,
+      108301,
+      109301,
+      110301,
+      111301,
+      112301,
+      113301,
+      114301,
+      116301,
+      117301,
+      118301,
+      119301,
+      120301,
+      131301,
+      130301,
+      129301,
+      128301,
+      127301,
+      116302,
+      117302,
+      138301,
+      139301
+    ]
+  },
+  {
+    "type": "ItemCharacterWeightMaster",
+    "Id": 2,
+    "ItemMasterId": 100010,
+    "RarityProbabilities": {
+      "2": 0.9,
+      "3": 0.1
+    },
+    "CharacterMasterIds": [
+      101301,
+      102301,
+      103301,
+      104301,
+      105301,
+      106301,
+      107301,
+      108301,
+      109301,
+      110301,
+      111301,
+      112301,
+      113301,
+      114301,
+      116301,
+      117301,
+      118301,
+      119301,
+      120301,
+      131301,
+      130301,
+      129301,
+      128301,
+      127301,
+      116302,
+      117302,
+      138301,
+      139301,
+      100201,
+      101201,
+      102201,
+      103201,
+      104201,
+      122201,
+      123201,
+      124201,
+      100301
+    ]
+  },
+  {
+    "type": "ItemCharacterWeightMaster",
+    "Id": 3,
+    "ItemMasterId": 100011,
+    "RarityProbabilities": {
+      "3": 1
+    },
+    "CharacterMasterIds": [
+      100301,
+      106301,
+      111301,
+      117301,
+      119301,
+      131301,
+      128301
+    ]
+  },
+  {
+    "type": "ItemCharacterWeightMaster",
+    "Id": 4,
+    "ItemMasterId": 100012,
+    "RarityProbabilities": {
+      "3": 1
+    },
+    "CharacterMasterIds": [
+      104301,
+      109301,
+      110301,
+      112301,
+      118301,
+      130301,
+      116302,
+      138301
+    ]
+  },
+  {
+    "type": "ItemCharacterWeightMaster",
+    "Id": 5,
+    "ItemMasterId": 100013,
+    "RarityProbabilities": {
+      "3": 1
+    },
+    "CharacterMasterIds": [
+      102301,
+      103301,
+      107301,
+      113301,
+      120301,
+      129301,
+      117302
+    ]
+  },
+  {
+    "type": "ItemCharacterWeightMaster",
+    "Id": 6,
+    "ItemMasterId": 100014,
+    "RarityProbabilities": {
+      "3": 1
+    },
+    "CharacterMasterIds": [
+      101301,
+      105301,
+      108301,
+      114301,
+      116301,
+      127301,
+      139301
+    ]
+  }
+]

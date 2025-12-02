@@ -1,0 +1,994 @@
+[
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1001,
+    "Name": "バイタルコア",
+    "Description": "戦場に生まれた光脈が、味方全員を癒やす。味方全員のHPを\u003ccolor=#27D327\u003e4%回復\u003c/color\u003eする。",
+    "AssetId": "1001",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1002,
+    "Name": "エナジーセル",
+    "Description": "眠れる律動が溢れ満ちる、休憩時HPを追加で\u003ccolor=#27D327\u003e30%回復\u003c/color\u003eする。",
+    "AssetId": "1002",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1003,
+    "Name": "ワームクラッシュ",
+    "Description": "侵蝕波が敵陣を蝕む、戦闘開始時敵全体の攻撃力\u003ccolor=#ff701a\u003e10%ダウン\u003c/color\u003eする。",
+    "AssetId": "1003",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1004,
+    "Name": "パワーフォース",
+    "Description": "内圧がせり上がる、戦闘開始時に攻撃力を\u003ccolor=#ff701a\u003e+5%\u003c/color\u003eする。",
+    "AssetId": "1004",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1005,
+    "Name": "ダブルストライク",
+    "Description": "集う刃が時を狙う、自身がAS3回毎に、次の攻撃の威力が\u003ccolor=#ff701a\u003e50%アップ\u003c/color\u003eする（消費PP：1）。",
+    "AssetId": "1005",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1006,
+    "Name": "エクスプロード",
+    "Description": "開放粒子が暴れ弾ける、戦闘中最初の攻撃スキル威力を\u003ccolor=#ff701a\u003e20%アップ\u003c/color\u003eする。",
+    "AssetId": "1006",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1007,
+    "Name": "ライフフォース",
+    "Description": "活性化した細胞が命を満たす。獲得時、最大HPが\u003ccolor=#ff701a\u003e+20%\u003c/color\u003e。",
+    "AssetId": "1007",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1008,
+    "Name": "アブソリュート",
+    "Description": "全身を巡る力場が覚醒を促す。探索中、全員のスキルレベルを\u003ccolor=#ff701a\u003e1アップ\u003c/color\u003eする（重複可）。",
+    "AssetId": "1008",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1009,
+    "Name": "リストア",
+    "Description": "微細なナノエネルギーが癒しを施す。ショップに来店する度に、HPを\u003ccolor=#27D327\u003e30%回復\u003c/color\u003eする。",
+    "AssetId": "1009",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1010,
+    "Name": "ブーストギア",
+    "Description": "起動粒子が舞い加速、戦闘開始時味方全体の速度\u003ccolor=#ff701a\u003e+10%\u003c/color\u003eする",
+    "AssetId": "1010",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1011,
+    "Name": "ライフエクス",
+    "Description": "眠れる生命波が目覚める、獲得時最大HPを\u003ccolor=#ff701a\u003e+14%\u003c/color\u003eする。",
+    "AssetId": "1011",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1012,
+    "Name": "ハーベスト",
+    "Description": "物質の芽吹きが形を取る、休憩時レリックをランダムに\u003ccolor=#ff701a\u003e1つ\u003c/color\u003e獲得する。",
+    "AssetId": "1012",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1013,
+    "Name": "タツミヤコア",
+    "Description": "集束鉱粒が煌めく、バトルで獲得出来るタツミヤ鉱が\u003ccolor=#ff701a\u003e+12%\u003c/color\u003e。買い物で\u003ccolor=#00aab9\u003e効果を失う\u003c/color\u003e。",
+    "AssetId": "1013",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1014,
+    "Name": "フェーズシフト",
+    "Description": "微細位相がずれ敵影を逸らす、戦闘開始時敵全体の行動速度を\u003ccolor=#ff701a\u003e10%ダウン\u003c/color\u003eする。",
+    "AssetId": "1014",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1015,
+    "Name": "リフレクト",
+    "Description": "バリアが衝撃を反射。攻撃してきた敵単体に\u003ccolor=#ff701a\u003e50%の物理ダメージ\u003c/color\u003eで反撃する（消費PP：1）",
+    "AssetId": "1015",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1016,
+    "Name": "ファストコード",
+    "Description": "加速制御が作動。3回ASを使用すると速度が\u003ccolor=#ff701a\u003e10%アップ\u003c/color\u003eする効果を付与する（消費PP：1）。",
+    "AssetId": "1016",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1017,
+    "Name": "リバイバル",
+    "Description": "再起動装置が発動。\u003ccolor=#27D327\u003e食いしばり\u003c/color\u003eの効果を付与。効果発動時HPを\u003ccolor=#27D327\u003e50%回復\u003c/color\u003eする（消費PP：1）（発動回数1回）。",
+    "AssetId": "1017",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1018,
+    "Name": "レゾナンス",
+    "Description": "同調現象が増幅。各味方は3回ASを使用毎に自身の攻撃力を\u003ccolor=#ff701a\u003e5%アップ\u003c/color\u003eする（消費PP：1）。",
+    "AssetId": "1018",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1019,
+    "Name": "オーバーレイド",
+    "Description": "攻撃演算が作動。戦闘開始時、敵全体に味方平均攻撃力依存の\u003ccolor=#ff701a\u003e威力40のダメージ\u003c/color\u003eを与える。",
+    "AssetId": "1019",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1020,
+    "Name": "ノヴァリカバリー",
+    "Description": "再生光が照射される。ボスバトルの戦闘開始時、HPを\u003ccolor=#27D327\u003e50%回復\u003c/color\u003eする。",
+    "AssetId": "1020",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1021,
+    "Name": "トリニティAP",
+    "Description": "周期演算が作動。3の倍数のターンのみ味方全員の\u003ccolor=#ff701a\u003eAPを+1\u003c/color\u003eする。",
+    "AssetId": "1021",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1022,
+    "Name": "インパルス",
+    "Description": "出力制御層が防護する。戦闘中、\u003ccolor=#ff701a\u003e攻撃力ダウンの効果を受け付けない\u003c/color\u003e。",
+    "AssetId": "1022",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1023,
+    "Name": "ダウンフォース",
+    "Description": "緩衝層が起動。各味方は3回AS使用毎に2行動分の被ダメ\u003ccolor=#ff701a\u003e8%ダウン\u003c/color\u003eを自身に付与する（消費PP：1）。",
+    "AssetId": "1023",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1024,
+    "Name": "クアッドセレクタ（未使用）",
+    "Description": "選別機構が拡張。レリックの選択肢が\u003ccolor=#ff701a\u003e1つ\u003c/color\u003e増加する（重複不可）。",
+    "AssetId": "1024",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1025,
+    "Name": "レギオンソウル",
+    "Description": "再構築因子が活性。戦闘終了時のHPが50%以下の場合、最大HPの\u003ccolor=#27D327\u003e24%回復\u003c/color\u003eする。",
+    "AssetId": "1025",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1026,
+    "Name": "エクストーム",
+    "Description": "極限防壁が展開。3ターン毎に1ヒットだけ\u003ccolor=#ff701a\u003eダメージを1にする\u003c/color\u003e効果を味方に付与する。",
+    "AssetId": "1026",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1027,
+    "Name": "ライフシェル",
+    "Description": "生命装甲が形成される。獲得時、最大HPを\u003ccolor=#ff701a\u003e+28%\u003c/color\u003eする。",
+    "AssetId": "1027",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1028,
+    "Name": "オメガミネラル",
+    "Description": "未知鉱層が活性化し始めた。獲得時、現在所持するタツミヤ鉱の数を\u003ccolor=#ff701a\u003e3倍\u003c/color\u003eに増加する。",
+    "AssetId": "1028",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1029,
+    "Name": "ノヴァエンド",
+    "Description": "臨界エネルギーが解放。3ターン終了時、味方平均攻撃力依存の\u003ccolor=#ff701a\u003e威力1040のダメージ\u003c/color\u003eを与える。",
+    "AssetId": "1029",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1030,
+    "Name": "コレクターズ",
+    "Description": "深層記憶体が解放される。リスキーバトルルートを選択するとレリックを\u003ccolor=#ff701a\u003e1つ\u003c/color\u003e獲得する。",
+    "AssetId": "1030",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1031,
+    "Name": "アーマーシェル",
+    "Description": "自律防壁が展開され、毎ターン防御力を\u003ccolor=#ff701a\u003e+8%\u003c/color\u003eする。",
+    "AssetId": "1031",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1032,
+    "Name": "ロストギャンブル",
+    "Description": "不安定因子が発現し、ランダムにレリックを\u003ccolor=#ff701a\u003e3つ\u003c/color\u003e獲得するが味方はHPを最大HPの\u003ccolor=#00aab9\u003e10%\u003c/color\u003e失う。",
+    "AssetId": "1032",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1033,
+    "Name": "シールドゼロ",
+    "Description": "防御展開領域が起動し、戦闘中の最初の\u003ccolor=#ff701a\u003eダメージを無効化\u003c/color\u003eする。",
+    "AssetId": "1033",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1034,
+    "Name": "アブソーブ",
+    "Description": "同調吸収層が起動。PSが発動する度にHPを\u003ccolor=#27D327\u003e4%回復\u003c/color\u003eする。",
+    "AssetId": "1034",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1035,
+    "Name": "ダイナモフロー",
+    "Description": "循環演算が加速し、2の倍数のターンのみ味方全員の\u003ccolor=#ff701a\u003eAPを+1\u003c/color\u003eする。",
+    "AssetId": "1035",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1036,
+    "Name": "ライフカース",
+    "Description": "強力な呪いに蝕まれる、戦闘開始時、味方全員のHPが\u003ccolor=#ff701a\u003e10％ダウン\u003c/color\u003eする。",
+    "AssetId": "1036",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1037,
+    "Name": "ブーストカース",
+    "Description": "強力な呪いに蝕まれる、戦闘開始時、味方全員の攻撃力が\u003ccolor=#ff701a\u003e10％ダウン\u003c/color\u003eする。",
+    "AssetId": "1037",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1038,
+    "Name": "アーマーカース",
+    "Description": "強力な呪いに蝕まれる、戦闘開始時、味方全員の防御力が\u003ccolor=#ff701a\u003e10％ダウン\u003c/color\u003eする。",
+    "AssetId": "1038",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1039,
+    "Name": "スピードカース",
+    "Description": "強力な呪いに蝕まれる、戦闘開始時、味方全員の行動速度が\u003ccolor=#ff701a\u003e10％ダウン\u003c/color\u003eする。",
+    "AssetId": "1039",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1040,
+    "Name": "ネクロシール",
+    "Description": "凶暴な呪いが込められたお札、ターン開始時、2行動の与ダメージ\u003ccolor=#ff701a\u003e20%アップ\u003c/color\u003eするがHPが\u003ccolor=#00aab9\u003e20％ダウン\u003c/color\u003eする。",
+    "AssetId": "1040",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1041,
+    "Name": "ライフシール",
+    "Description": "代償は対価を得る、戦闘開始時、味方のHPが\u003ccolor=#27D327\u003e10％回復\u003c/color\u003eするが、与えるダメージが\u003ccolor=#00aab9\u003e5%ダウン\u003c/color\u003eする。",
+    "AssetId": "1041",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1042,
+    "Name": "ブーストシール",
+    "Description": "代償は対価を得る、戦闘開始時、味方の攻撃力が\u003ccolor=#ff701a\u003e10％アップ\u003c/color\u003eするが、与えるダメージが\u003ccolor=#00aab9\u003e5%ダウン\u003c/color\u003eする。",
+    "AssetId": "1042",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1043,
+    "Name": "アーマーシール",
+    "Description": "代償は対価を得る、戦闘開始時、味方の防御力が\u003ccolor=#ff701a\u003e10％アップ\u003c/color\u003eするが、与えるダメージが\u003ccolor=#00aab9\u003e5%ダウン\u003c/color\u003eする。",
+    "AssetId": "1043",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1044,
+    "Name": "スピードシール",
+    "Description": "代償は対価を得る、戦闘開始時、味方の行動速度が\u003ccolor=#ff701a\u003e10％アップ\u003c/color\u003eするが、与えるダメージが\u003ccolor=#00aab9\u003e5%ダウン\u003c/color\u003eする。",
+    "AssetId": "1044",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1045,
+    "Name": "ヒールリミット",
+    "Description": "わずかな時間力を得る、戦闘開始時、2行動の間回復量\u003ccolor=#ff701a\u003e15％アップ\u003c/color\u003eする。",
+    "AssetId": "1045",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1046,
+    "Name": "ブーストリミット",
+    "Description": "わずかな時間力を得る、戦闘開始時、2行動の間攻撃力を\u003ccolor=#ff701a\u003e15％アップ\u003c/color\u003eする。",
+    "AssetId": "1046",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1047,
+    "Name": "アーマーリミット",
+    "Description": "わずかな時間力を得る、戦闘開始時、2行動の間防御力を\u003ccolor=#ff701a\u003e15％アップ\u003c/color\u003eする。",
+    "AssetId": "1047",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1048,
+    "Name": "スピードリミット",
+    "Description": "わずかな時間力を得る、戦闘開始時、2行動の間行動速度を\u003ccolor=#ff701a\u003e15％アップ\u003c/color\u003eする。",
+    "AssetId": "1048",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1049,
+    "Name": "バーンミート",
+    "Description": "燃え上がるように熱い肉、戦闘開始時、1行動分の\u003ccolor=#00aab9\u003e炎上\u003c/color\u003eを受けるが、攻撃力が\u003ccolor=#ff701a\u003e15％アップ\u003c/color\u003eする。",
+    "AssetId": "1049",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1050,
+    "Name": "フロストミート",
+    "Description": "凍えるように冷たい肉、戦闘開始時、1行動分の\u003ccolor=#00aab9\u003e凍結\u003c/color\u003eを受けるが、与えるダメージが\u003ccolor=#ff701a\u003e15%アップ\u003c/color\u003eする。",
+    "AssetId": "1050",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1051,
+    "Name": "ビーストミート",
+    "Description": "何かの生物の肉？、戦闘開始時、1行動分の\u003ccolor=#00aab9\u003e気絶\u003c/color\u003eを受けるが、HPを\u003ccolor=#27D327\u003e50%回復\u003c/color\u003eする。",
+    "AssetId": "1051",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1052,
+    "Name": "バリアクラッシュ",
+    "Description": "侵蝕波が敵陣を蝕む、戦闘開始時敵全体の防御力\u003ccolor=#ff701a\u003e10%ダウン\u003c/color\u003eする。",
+    "AssetId": "1052",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1053,
+    "Name": "ドライブエリクサー",
+    "Description": "再生因子が反転し、回復スキルの回復効果が\u003ccolor=#00aab9\u003e50%ダウン\u003c/color\u003eにするが、行動速度が\u003ccolor=#ff701a\u003e300アップ\u003c/color\u003eする。",
+    "AssetId": "1053",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1054,
+    "Name": "コレクターズ",
+    "Description": "深層記憶体が解放される。リスキーバトルルートを選択するとレリックを\u003ccolor=#ff701a\u003e1つ\u003c/color\u003e獲得する。",
+    "AssetId": "1030",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2001,
+    "Name": "オメガゲート",
+    "Description": "閉鎖領域が発動。リスキーバトルの戦闘開始時、敵のHPが\u003ccolor=#ff701a\u003e25%低下\u003c/color\u003eする。",
+    "AssetId": "2001",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2002,
+    "Name": "ハルシールド",
+    "Description": "薄膜装甲が活性化し、2ターン目開始時に\u003ccolor=#ff701a\u003e被ダメージ-24%\u003c/color\u003eの効果を付与する。",
+    "AssetId": "2002",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2003,
+    "Name": "エリートブースト",
+    "Description": "増幅因子が活性化しレリック獲得後にリスキーバトルを選択すると「\u003ccolor=#ff701a\u003eブースト＋\u003c/color\u003e」を1つ獲得する。",
+    "AssetId": "2003",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2004,
+    "Name": "エリートブースト＋",
+    "Description": "出力加速効果が発動し戦闘開始時に攻撃力を\u003ccolor=#ff701a\u003e10%アップ\u003c/color\u003eする。",
+    "AssetId": "2004",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2005,
+    "Name": "アーマーギア",
+    "Description": "装甲因子獲得により即時「\u003ccolor=#ff701a\u003eアーマギア＋\u003c/color\u003e」を得て、その後休憩時に同レリックを\u003ccolor=#ff701a\u003e1つ\u003c/color\u003e獲得する",
+    "AssetId": "2005",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2006,
+    "Name": "アーマーギア＋",
+    "Description": "装甲強化効果が発動し戦闘開始時に防御力を\u003ccolor=#ff701a\u003e5%アップ\u003c/color\u003eする。",
+    "AssetId": "2006",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2007,
+    "Name": "エグゾシスム",
+    "Description": "抑制因子が発動し、被ダメージの対象になった場合、相手の\u003ccolor=#ff701a\u003eスキル威力を20\u003c/color\u003e下げる（消費PP：1）。",
+    "AssetId": "2007",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2008,
+    "Name": "ダメージカット",
+    "Description": "防御装甲が展開され、3ターン目開始時に\u003ccolor=#ff701a\u003e被ダメージ-32%\u003c/color\u003eの効果を付与する。",
+    "AssetId": "2008",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2009,
+    "Name": "グラビオン",
+    "Description": "重力緩衝装甲が作動し、戦闘開始時味方に1度だけ\u003ccolor=#ff701a\u003eダメージを1に軽減\u003c/color\u003eする効果を付与する。",
+    "AssetId": "2009",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2010,
+    "Name": "イレイザー",
+    "Description": "消去因子が覚醒し獲得後に「\u003ccolor=#ff701a\u003eイレイザー＋\u003c/color\u003e」を得てその後戦闘開始時に同レリックを1つ獲得する。",
+    "AssetId": "2010",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2011,
+    "Name": "イレイザー＋",
+    "Description": "出力加速効果が発動し戦闘開始時に攻撃力を\u003ccolor=#ff701a\u003e5%アップ\u003c/color\u003eする。",
+    "AssetId": "2011",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2012,
+    "Name": "ネオリジェネ",
+    "Description": "再生因子が活性し戦闘中の回復スキルの回復効果を\u003ccolor=#ff701a\u003e2倍\u003c/color\u003eにする。",
+    "AssetId": "2012",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2013,
+    "Name": "バトルシンク",
+    "Description": "同調制御が起動し味方パーティー全員の\u003ccolor=#ff701a\u003eAPを+1\u003c/color\u003eする（重複不可）",
+    "AssetId": "2013",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2014,
+    "Name": "エナジーリンク",
+    "Description": "接続因子が活性し味方パーティー全員の\u003ccolor=#ff701a\u003ePPを+1\u003c/color\u003eする（重複不可）",
+    "AssetId": "2014",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2015,
+    "Name": "オメガマイン",
+    "Description": "採掘因子が活性しイベントルートを選択するたびにタツミヤ鉱が\u003ccolor=#ff701a\u003e50%増加\u003c/color\u003eする。",
+    "AssetId": "2015",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2016,
+    "Name": "フォース（物理）",
+    "Description": "物理制御機構が起動し戦闘開始時物理タイプの味方の攻撃力を\u003ccolor=#ff701a\u003e20%増加\u003c/color\u003eさせる。",
+    "AssetId": "2016",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2017,
+    "Name": "フォース（EN）",
+    "Description": "EN制御機構が起動し戦闘開始時ENタイプの味方の攻撃力を\u003ccolor=#ff701a\u003e20%増加\u003c/color\u003eさせる。",
+    "AssetId": "2017",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2018,
+    "Name": "フォース（敏捷）",
+    "Description": "敏捷制御機構が起動し戦闘開始時敏捷タイプの味方の攻撃力を\u003ccolor=#ff701a\u003e20%増加\u003c/color\u003eさせる。",
+    "AssetId": "2018",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2019,
+    "Name": "ブースト（アグレッシブ）",
+    "Description": "属性制御機構が起動し戦闘開始時アグレッシブ属性の味方の攻撃力を\u003ccolor=#ff701a\u003e20%増加\u003c/color\u003eさせる。",
+    "AssetId": "2019",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2020,
+    "Name": "ブースト（スマート）",
+    "Description": "属性制御機構が起動し戦闘開始時スマート属性の味方の攻撃力を\u003ccolor=#ff701a\u003e20%増加\u003c/color\u003eさせる。",
+    "AssetId": "2020",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2021,
+    "Name": "ブースト（シャイ）",
+    "Description": "属性制御機構が起動し戦闘開始時シャイ属性の味方の攻撃力を\u003ccolor=#ff701a\u003e20%増加\u003c/color\u003eさせる。",
+    "AssetId": "2021",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2022,
+    "Name": "ブースト（キュート）",
+    "Description": "属性制御機構が起動し戦闘開始時キュート属性の味方の攻撃力を\u003ccolor=#ff701a\u003e20%増加\u003c/color\u003eさせる。",
+    "AssetId": "2022",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2023,
+    "Name": "ブースト（コミカル）",
+    "Description": "属性制御機構が起動し戦闘開始時コミカル属性の味方の攻撃力を\u003ccolor=#ff701a\u003e20%増加\u003c/color\u003eさせる。",
+    "AssetId": "2023",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2024,
+    "Name": "ブースト（クレバー）",
+    "Description": "属性制御機構が起動し戦闘開始時クレバー属性の味方の攻撃力を\u003ccolor=#ff701a\u003e20%増加\u003c/color\u003eさせる。",
+    "AssetId": "2024",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2025,
+    "Name": "パルスギア",
+    "Description": "出力連動機構が作動し、アクティブスキル使用時、威力を\u003ccolor=#ff701a\u003e50%増加\u003c/color\u003eさせる（消費PP：1）。",
+    "AssetId": "2025",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3001,
+    "Name": "デスコード",
+    "Description": "反転因子が発動し、次通常バトル後レリック獲得不可になり、次通常バトルでは\u003ccolor=#ff701a\u003e全ステータス2倍になる。",
+    "AssetId": "3001",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3002,
+    "Name": "ヴォイドアーマー",
+    "Description": "無効化強化装甲が展開し被HP回復効果\u003ccolor=#00aab9\u003e100%ダウン\u003c/color\u003e与ダメージ\u003ccolor=#ff701a\u003e100%アップ\u003c/color\u003eする。",
+    "AssetId": "3002",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3003,
+    "Name": "テンションブースト",
+    "Description": "起動と共に脈動する補助波が走る、戦闘開始時、攻撃力を1行動分\u003ccolor=#ff701a\u003e15%アップ\u003c/color\u003eする。",
+    "AssetId": "3003",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3004,
+    "Name": "ネガシフト",
+    "Description": "微細な歪みが敵陣を蝕む、戦闘中毎ターンすべての敵の攻撃力を\u003ccolor=#ff701a\u003e3%ダウン\u003c/color\u003eする。",
+    "AssetId": "3004",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3005,
+    "Name": "レゾナンスコア",
+    "Description": "微振動が残響し新たな核を結ぶ、戦闘終了時「\u003ccolor=#ff701a\u003eレゾナンスコア＋\u003c/color\u003e」を獲得する。",
+    "AssetId": "3005",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3006,
+    "Name": "レゾナンスコア+",
+    "Description": "微かな波紋が身を満たす、獲得時味方パーティー全員の最大HPを\u003ccolor=#ff701a\u003e2%アップ\u003c/color\u003eする。",
+    "AssetId": "3006",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3007,
+    "Name": "タツミヤコレクト",
+    "Description": "バトルで獲得できるタツミヤ鉱が\u003ccolor=#ff701a\u003e25%アップ\u003c/color\u003eする。",
+    "AssetId": "3007",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3008,
+    "Name": "エニグマスフィア",
+    "Description": "完璧な球体をした謎の球体、戦闘開始時、味方全員の行動速度が\u003ccolor=#ff701a\u003e15%アップ\u003c/color\u003eする。",
+    "AssetId": "3008",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3009,
+    "Name": "ブラッドスフィア",
+    "Description": "赤く染まった謎の球体、戦闘開始時、味方全員のHPが\u003ccolor=#ff701a\u003e40％ダウン\u003c/color\u003eするが、攻撃力が\u003ccolor=#ff701a\u003e20%アップ\u003c/color\u003eする。",
+    "AssetId": "3009",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3010,
+    "Name": "ミスティックオブジェクト",
+    "Description": "神秘的な力を発する物体、戦闘開始時、味方全員の防御力が\u003ccolor=#ff701a\u003e10%アップ\u003c/color\u003eする。",
+    "AssetId": "3010",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3011,
+    "Name": "黄金像",
+    "Description": "黄金の輝きが幸運をもたらす、戦闘開始時、会心率が\u003ccolor=#ff701a\u003e10%アップ\u003c/color\u003eする。",
+    "AssetId": "3011",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3012,
+    "Name": "スロウス",
+    "Description": "「あぁ、めんどくせぇ…」戦闘開始時、速度が\u003ccolor=#00aab9\u003e50%ダウン\u003c/color\u003eする代わりに攻撃力が\u003ccolor=#ff701a\u003e50%アップ\u003c/color\u003eする。",
+    "AssetId": "3012",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3013,
+    "Name": "ラスト",
+    "Description": "「……あなたに喜んでほしかった…」戦闘開始時、現在HPの\u003ccolor=#00aab9\u003e50%\u003c/color\u003eを失う代わりにEXゲージが\u003ccolor=#ff701a\u003e最大\u003c/color\u003eになる。",
+    "AssetId": "3013",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3014,
+    "Name": "ラース",
+    "Description": "「まったくこの世の全てが腹立たしい…」戦闘開始時、防御力が\u003ccolor=#00aab9\u003e25%ダウン\u003c/color\u003eする代わりに攻撃力が\u003ccolor=#ff701a\u003e25%アップ\u003c/color\u003eする。",
+    "AssetId": "3014",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3015,
+    "Name": "グラトニー",
+    "Description": "「食べていい？」戦闘開始時、\u003ccolor=#ff701a\u003eAPが+1\u003c/color\u003eされるが\u003ccolor=#00aab9\u003ePPが-1\u003c/color\u003eされる。",
+    "AssetId": "3015",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3016,
+    "Name": "プライド",
+    "Description": "「今ならなんだって出来る気がするよ…」戦闘開始時、基本ステータスが\u003ccolor=#ff701a\u003e10%\u003c/color\u003eアップする。",
+    "AssetId": "3016",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3017,
+    "Name": "グリード",
+    "Description": "「すべてオレの所有物だ」戦闘開始時、防御力が\u003ccolor=#ff701a\u003e20%\u003c/color\u003eアップし、HPが\u003ccolor=#27D327\u003e10%\u003c/color\u003e回復する。",
+    "AssetId": "3017",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3018,
+    "Name": "エンヴィー",
+    "Description": "「…妬む？仲間に？まさかな…」戦闘開始時、\u003ccolor=#00aab9\u003eAPが-1\u003c/color\u003eされるが\u003ccolor=#ff701a\u003ePPが+1\u003c/color\u003eされる。",
+    "AssetId": "3018",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 4001,
+    "Name": "アンチデバフ",
+    "Description": "浄化波が駆け抜ける、EXを使用時デバフを\u003ccolor=#ff701a\u003eすべて解除\u003c/color\u003eする（消費PP：1）。",
+    "AssetId": "4001",
+    "Rarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 4002,
+    "Name": "ライフコア",
+    "Description": "命脈が光を放ち満ちる、獲得時最大HPが\u003ccolor=#ff701a\u003e14%アップ\u003c/color\u003eしHPを\u003ccolor=#27D327\u003e全回復\u003c/color\u003eする。",
+    "AssetId": "4002",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 4003,
+    "Name": "ショップセール（未使用）",
+    "Description": "レリックセールを開催！ショップの商品が\u003ccolor=#ff701a\u003e50%割引\u003c/color\u003e！",
+    "AssetId": "4003",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 4004,
+    "Name": "アブソリュートカット",
+    "Description": "極点衝撃が敵を蝕む、戦闘開始時、敵のスキル威力を\u003ccolor=#ff701a\u003e20%\u003c/color\u003e低下させる。",
+    "AssetId": "4004",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 4005,
+    "Name": "オメガプラグ",
+    "Description": "隠された回路が接続される、獲得時最大\u003ccolor=#ff701a\u003eAPを+1\u003c/color\u003eする。",
+    "AssetId": "4005",
+    "Rarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 5001,
+    "Name": "パルスフィールド",
+    "Description": "震える脈動が力を呼ぶ、戦闘開始時HP50%以下の物理タイプの味方のスキル威力を\u003ccolor=#ff701a\u003e+100\u003c/color\u003eする（重複不可）。",
+    "AssetId": "5001",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 5002,
+    "Name": "ゼロフレア",
+    "Description": "完璧な輝きが閃く、戦闘開始時HP100%のENタイプの味方のスキル威力を\u003ccolor=#ff701a\u003e+100\u003c/color\u003eする（重複不可）。",
+    "AssetId": "5002",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 5003,
+    "Name": "タキオンドライブ",
+    "Description": "タキオンの粒子が奔る、戦闘開始時HP50%以下の敏捷タイプの味方の速度を\u003ccolor=#ff701a\u003e50%アップ\u003c/color\u003eする（重複不可）。",
+    "AssetId": "5003",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 5004,
+    "Name": "カースコイル",
+    "Description": "歪んだ螺旋が毒を撒く、戦闘開始時敵全体に3行動分の\u003ccolor=#ff701a\u003e毒\u003c/color\u003eを付与する。",
+    "AssetId": "5004",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 5005,
+    "Name": "インフェルノ",
+    "Description": "業火の奔流が襲いかかる、戦闘開始時敵全体に3行動分の\u003ccolor=#ff701a\u003e炎上\u003c/color\u003eを付与する。",
+    "AssetId": "5005",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 5006,
+    "Name": "サイレントデバイス",
+    "Description": "静寂の波動が縛る、戦闘開始時敵全体に\u003ccolor=#ff701a\u003e凍結\u003c/color\u003eを付与する。",
+    "AssetId": "5006",
+    "Rarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8000,
+    "Name": "プチフォース（物理）",
+    "Description": "未完成な物理制御機構が起動し、戦闘開始時物理タイプの味方の攻撃力を\u003ccolor=#ff701a\u003e10%増加\u003c/color\u003eさせる。",
+    "AssetId": "2016",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8001,
+    "Name": "プチフォース（EN）",
+    "Description": "未完成なEN制御機構が起動し、戦闘開始時ENタイプの味方の攻撃力を\u003ccolor=#ff701a\u003e10%増加\u003c/color\u003eさせる。",
+    "AssetId": "2017",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8002,
+    "Name": "プチフォース（敏捷）",
+    "Description": "未完成な敏捷制御機構が起動し、戦闘開始時敏捷タイプの味方の攻撃力を\u003ccolor=#ff701a\u003e10%増加\u003c/color\u003eさせる。",
+    "AssetId": "2018",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8003,
+    "Name": "プチブースト（アグレッシブ）",
+    "Description": "未完成な属性制御機構が起動し、戦闘開始時アグレッシブ属性の味方の攻撃力を\u003ccolor=#ff701a\u003e10%増加\u003c/color\u003eさせる。",
+    "AssetId": "2019",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8004,
+    "Name": "プチブースト（スマート）",
+    "Description": "未完成な属性制御機構が起動し、戦闘開始時スマート属性の味方の攻撃力を\u003ccolor=#ff701a\u003e10%増加\u003c/color\u003eさせる。",
+    "AssetId": "2020",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8005,
+    "Name": "プチブースト（シャイ）",
+    "Description": "未完成な属性制御機構が起動し、戦闘開始時シャイ属性の味方の攻撃力を\u003ccolor=#ff701a\u003e10%増加\u003c/color\u003eさせる。",
+    "AssetId": "2021",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8006,
+    "Name": "プチブースト（キュート）",
+    "Description": "未完成な属性制御機構が起動し、戦闘開始時キュート属性の味方の攻撃力を\u003ccolor=#ff701a\u003e10%増加\u003c/color\u003eさせる。",
+    "AssetId": "2022",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8007,
+    "Name": "プチブースト（コミカル）",
+    "Description": "未完成な属性制御機構が起動し、戦闘開始時コミカル属性の味方の攻撃力を\u003ccolor=#ff701a\u003e10%増加\u003c/color\u003eさせる。",
+    "AssetId": "2023",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8008,
+    "Name": "プチブースト（クレバー）",
+    "Description": "未完成な属性制御機構が起動し、戦闘開始時クレバー属性の味方の攻撃力を\u003ccolor=#ff701a\u003e10%増加\u003c/color\u003eさせる。",
+    "AssetId": "2024",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8009,
+    "Name": "スカーミッシュ",
+    "Description": "攻防一体の型を得て、戦闘開始時味方の攻撃力が\u003ccolor=#ff701a\u003e3%増加\u003c/color\u003eし、防御力が\u003ccolor=#ff701a\u003e8%増加\u003c/color\u003eする。",
+    "AssetId": "1022",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8010,
+    "Name": "ライフアップ",
+    "Description": "命の源が活性化する。獲得時、最大HPが\u003ccolor=#ff701a\u003e+10%\u003c/color\u003e。",
+    "AssetId": "1007",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8011,
+    "Name": "プチブーストギア",
+    "Description": "不安定な起動粒子が舞い加速、戦闘開始時味方全体の速度\u003ccolor=#ff701a\u003e+5%\u003c/color\u003eする",
+    "AssetId": "1010",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8012,
+    "Name": "プチワームクラッシュ",
+    "Description": "にじみ出る液体が敵陣を蝕む、戦闘開始時敵全体の攻撃力\u003ccolor=#ff701a\u003e5%ダウン\u003c/color\u003eする。",
+    "AssetId": "1003",
+    "Rarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9000,
+    "Name": "ピンクマカローン",
+    "Description": "シティ街中で人気のお菓子。次のバトルで敵全体を1行動気絶になるが味方全体が99ターン毒状態になる。",
+    "AssetId": "9001",
+    "Rarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9001,
+    "Name": "謎の液体",
+    "Description": "特徴的な髪留めがビーカーの中に埋もれた謎の液体。次のバトルで味方のEXゲージが満タンでバトルがスタートするが、防御力が30%ダウンする。",
+    "AssetId": "9002",
+    "Rarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9002,
+    "Name": "スカラタンフル",
+    "Description": "スカラ商店街で若者に人気なスイーツ。次のバトルで1番HPの高い味方が戦闘不能になるが、他のキャラクターはHPが全回復する。",
+    "AssetId": "9003",
+    "Rarity": "Lr"
+  }
+]

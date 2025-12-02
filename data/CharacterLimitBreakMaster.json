@@ -1,0 +1,138 @@
+[
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 1,
+    "DefaultRarity": "R",
+    "Rarity": "R",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 10
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 2,
+    "DefaultRarity": "R",
+    "Rarity": "RPlus",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 10
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 3,
+    "DefaultRarity": "R",
+    "Rarity": "Sr",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 10
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 4,
+    "DefaultRarity": "R",
+    "Rarity": "SrPlus",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 10
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 5,
+    "DefaultRarity": "Sr",
+    "Rarity": "Sr",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 20
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 6,
+    "DefaultRarity": "Sr",
+    "Rarity": "SrPlus",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 20
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 7,
+    "DefaultRarity": "Sr",
+    "Rarity": "Ssr",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 50
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 8,
+    "DefaultRarity": "Sr",
+    "Rarity": "SsrPlus",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 50
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 9,
+    "DefaultRarity": "Ssr",
+    "Rarity": "Ssr",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 50
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 10,
+    "DefaultRarity": "Ssr",
+    "Rarity": "SsrPlus",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 50
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 11,
+    "DefaultRarity": "Ssr",
+    "Rarity": "Ur",
+    "ConsumeAnyCharacterAllowed": false,
+    "Quantity": 50
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 12,
+    "DefaultRarity": "Ssr",
+    "Rarity": "UrPlus",
+    "ConsumeAnyCharacterAllowed": true,
+    "Quantity": 100
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 13,
+    "DefaultRarity": "Ssr",
+    "Rarity": "Lr",
+    "ConsumeAnyCharacterAllowed": true,
+    "Quantity": 100
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 14,
+    "DefaultRarity": "Ssr",
+    "Rarity": "LrPlus1",
+    "ConsumeAnyCharacterAllowed": true,
+    "Quantity": 100
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 15,
+    "DefaultRarity": "Ssr",
+    "Rarity": "LrPlus2",
+    "ConsumeAnyCharacterAllowed": true,
+    "Quantity": 100
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 16,
+    "DefaultRarity": "Ssr",
+    "Rarity": "LrPlus3",
+    "ConsumeAnyCharacterAllowed": true,
+    "Quantity": 100
+  },
+  {
+    "type": "CharacterLimitBreakMaster",
+    "Id": 17,
+    "DefaultRarity": "Ssr",
+    "Rarity": "LrPlus4",
+    "ConsumeAnyCharacterAllowed": true,
+    "Quantity": 100
+  }
+]

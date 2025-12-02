@@ -1,0 +1,58 @@
+[
+  {
+    "type": "CharacterSchoolMaster",
+    "Id": 1,
+    "Name": "柊校舎",
+    "AssetId": "01",
+    "CharacterSchoolGroupMasterId": 1
+  },
+  {
+    "type": "CharacterSchoolMaster",
+    "Id": 2,
+    "Name": "スカラ校舎",
+    "AssetId": "02",
+    "CharacterSchoolGroupMasterId": 1
+  },
+  {
+    "type": "CharacterSchoolMaster",
+    "Id": 3,
+    "Name": "ユーロ・タワー",
+    "AssetId": "03",
+    "CharacterSchoolGroupMasterId": 1
+  },
+  {
+    "type": "CharacterSchoolMaster",
+    "Id": 4,
+    "Name": "ＬＯＣ",
+    "AssetId": "04",
+    "CharacterSchoolGroupMasterId": 1
+  },
+  {
+    "type": "CharacterSchoolMaster",
+    "Id": 5,
+    "Name": "特別養成校舎",
+    "AssetId": "05",
+    "CharacterSchoolGroupMasterId": 1
+  },
+  {
+    "type": "CharacterSchoolMaster",
+    "Id": 6,
+    "Name": "ゾリャー校舎",
+    "AssetId": "06",
+    "CharacterSchoolGroupMasterId": 1
+  },
+  {
+    "type": "CharacterSchoolMaster",
+    "Id": 7,
+    "Name": "生徒会庁舎",
+    "AssetId": "07",
+    "CharacterSchoolGroupMasterId": 1
+  },
+  {
+    "type": "CharacterSchoolMaster",
+    "Id": 8,
+    "Name": "---",
+    "AssetId": "08",
+    "CharacterSchoolGroupMasterId": 2
+  }
+]

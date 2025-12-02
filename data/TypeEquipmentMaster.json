@@ -1,0 +1,1214 @@
+[
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 11,
+    "CharacterType": "Physical",
+    "Type": "Generator",
+    "Name": "物理タイプ装備センサー",
+    "Description": "機体に搭載できる装備。物理タイプの生徒のHP・攻撃力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "11001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "11001",
+        "AdditionalHpPerLevel": 4,
+        "AdditionalAttackPerLevel": 8,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "11001",
+        "AdditionalHpPerLevel": 8,
+        "AdditionalAttackPerLevel": 16,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "11001",
+        "AdditionalHpPerLevel": 12,
+        "AdditionalAttackPerLevel": 23,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "11001",
+        "AdditionalHpPerLevel": 15,
+        "AdditionalAttackPerLevel": 30,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "11001",
+        "AdditionalHpPerLevel": 18,
+        "AdditionalAttackPerLevel": 36,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "11001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 42,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "11001",
+        "AdditionalHpPerLevel": 23,
+        "AdditionalAttackPerLevel": 45,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "11001",
+        "AdditionalHpPerLevel": 24,
+        "AdditionalAttackPerLevel": 47,
+        "AdditionalDefensePerLevel": 0
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 12,
+    "CharacterType": "Physical",
+    "Type": "Radiator",
+    "Name": "物理タイプ装備アクチュエーター",
+    "Description": "機体に搭載できる装備。物理タイプの生徒のHP・攻撃力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "12001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "12001",
+        "AdditionalHpPerLevel": 5,
+        "AdditionalAttackPerLevel": 6,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "12001",
+        "AdditionalHpPerLevel": 11,
+        "AdditionalAttackPerLevel": 12,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "12001",
+        "AdditionalHpPerLevel": 16,
+        "AdditionalAttackPerLevel": 18,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "12001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 24,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "12001",
+        "AdditionalHpPerLevel": 25,
+        "AdditionalAttackPerLevel": 28,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "12001",
+        "AdditionalHpPerLevel": 29,
+        "AdditionalAttackPerLevel": 33,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "12001",
+        "AdditionalHpPerLevel": 32,
+        "AdditionalAttackPerLevel": 36,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "12001",
+        "AdditionalHpPerLevel": 33,
+        "AdditionalAttackPerLevel": 37,
+        "AdditionalDefensePerLevel": 0
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 13,
+    "CharacterType": "Physical",
+    "Type": "Reactor",
+    "Name": "物理タイプ装備バッテリー",
+    "Description": "機体に搭載できる装備。物理タイプの生徒のHP・防御力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "13001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "13001",
+        "AdditionalHpPerLevel": 5,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 3
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "13001",
+        "AdditionalHpPerLevel": 11,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 6
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "13001",
+        "AdditionalHpPerLevel": 16,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 9
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "13001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 12
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "13001",
+        "AdditionalHpPerLevel": 25,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 15
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "13001",
+        "AdditionalHpPerLevel": 29,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 17
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "13001",
+        "AdditionalHpPerLevel": 32,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 18
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "13001",
+        "AdditionalHpPerLevel": 33,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 19
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 14,
+    "CharacterType": "Physical",
+    "Type": "Booster",
+    "Name": "物理タイプ装備ジェットエンジン",
+    "Description": "機体に搭載できる装備。物理タイプの生徒のHP・防御力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "14001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "14001",
+        "AdditionalHpPerLevel": 4,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 4
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "14001",
+        "AdditionalHpPerLevel": 8,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 9
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "14001",
+        "AdditionalHpPerLevel": 12,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 13
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "14001",
+        "AdditionalHpPerLevel": 15,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 18
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "14001",
+        "AdditionalHpPerLevel": 18,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 22
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "14001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 25
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "14001",
+        "AdditionalHpPerLevel": 23,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 27
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "14001",
+        "AdditionalHpPerLevel": 24,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 28
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 21,
+    "CharacterType": "Energy",
+    "Type": "Generator",
+    "Name": "ENタイプ装備センサー",
+    "Description": "機体に搭載できる装備。ENタイプの生徒のHP・攻撃力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "21001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "21001",
+        "AdditionalHpPerLevel": 4,
+        "AdditionalAttackPerLevel": 8,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "21001",
+        "AdditionalHpPerLevel": 8,
+        "AdditionalAttackPerLevel": 16,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "21001",
+        "AdditionalHpPerLevel": 12,
+        "AdditionalAttackPerLevel": 23,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "21001",
+        "AdditionalHpPerLevel": 15,
+        "AdditionalAttackPerLevel": 30,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "21001",
+        "AdditionalHpPerLevel": 18,
+        "AdditionalAttackPerLevel": 36,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "21001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 42,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "21001",
+        "AdditionalHpPerLevel": 23,
+        "AdditionalAttackPerLevel": 45,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "21001",
+        "AdditionalHpPerLevel": 24,
+        "AdditionalAttackPerLevel": 47,
+        "AdditionalDefensePerLevel": 0
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 22,
+    "CharacterType": "Energy",
+    "Type": "Radiator",
+    "Name": "ENタイプ装備アクチュエーター",
+    "Description": "機体に搭載できる装備。ENタイプの生徒のHP・攻撃力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "22001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "22001",
+        "AdditionalHpPerLevel": 5,
+        "AdditionalAttackPerLevel": 6,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "22001",
+        "AdditionalHpPerLevel": 11,
+        "AdditionalAttackPerLevel": 12,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "22001",
+        "AdditionalHpPerLevel": 16,
+        "AdditionalAttackPerLevel": 18,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "22001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 24,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "22001",
+        "AdditionalHpPerLevel": 25,
+        "AdditionalAttackPerLevel": 28,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "22001",
+        "AdditionalHpPerLevel": 29,
+        "AdditionalAttackPerLevel": 33,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "22001",
+        "AdditionalHpPerLevel": 32,
+        "AdditionalAttackPerLevel": 36,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "22001",
+        "AdditionalHpPerLevel": 33,
+        "AdditionalAttackPerLevel": 37,
+        "AdditionalDefensePerLevel": 0
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 23,
+    "CharacterType": "Energy",
+    "Type": "Reactor",
+    "Name": "ENタイプ装備バッテリー",
+    "Description": "機体に搭載できる装備。ENタイプの生徒のHP・防御力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "23001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "23001",
+        "AdditionalHpPerLevel": 5,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 3
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "23001",
+        "AdditionalHpPerLevel": 11,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 6
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "23001",
+        "AdditionalHpPerLevel": 16,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 9
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "23001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 12
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "23001",
+        "AdditionalHpPerLevel": 25,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 15
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "23001",
+        "AdditionalHpPerLevel": 29,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 17
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "23001",
+        "AdditionalHpPerLevel": 32,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 18
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "23001",
+        "AdditionalHpPerLevel": 33,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 19
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 24,
+    "CharacterType": "Energy",
+    "Type": "Booster",
+    "Name": "ENタイプ装備ジェットエンジン",
+    "Description": "機体に搭載できる装備。ENタイプの生徒のHP・防御力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "24001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "24001",
+        "AdditionalHpPerLevel": 4,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 4
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "24001",
+        "AdditionalHpPerLevel": 8,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 9
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "24001",
+        "AdditionalHpPerLevel": 12,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 13
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "24001",
+        "AdditionalHpPerLevel": 15,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 18
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "24001",
+        "AdditionalHpPerLevel": 18,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 22
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "24001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 25
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "24001",
+        "AdditionalHpPerLevel": 23,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 27
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "24001",
+        "AdditionalHpPerLevel": 24,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 28
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 31,
+    "CharacterType": "Agility",
+    "Type": "Generator",
+    "Name": "敏捷タイプ装備センサー",
+    "Description": "機体に搭載できる装備。敏捷タイプの生徒のHP・攻撃力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "31001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "31001",
+        "AdditionalHpPerLevel": 4,
+        "AdditionalAttackPerLevel": 8,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "31001",
+        "AdditionalHpPerLevel": 8,
+        "AdditionalAttackPerLevel": 16,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "31001",
+        "AdditionalHpPerLevel": 12,
+        "AdditionalAttackPerLevel": 23,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "31001",
+        "AdditionalHpPerLevel": 15,
+        "AdditionalAttackPerLevel": 30,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "31001",
+        "AdditionalHpPerLevel": 18,
+        "AdditionalAttackPerLevel": 36,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "31001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 42,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "31001",
+        "AdditionalHpPerLevel": 23,
+        "AdditionalAttackPerLevel": 45,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "31001",
+        "AdditionalHpPerLevel": 24,
+        "AdditionalAttackPerLevel": 47,
+        "AdditionalDefensePerLevel": 0
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 32,
+    "CharacterType": "Agility",
+    "Type": "Radiator",
+    "Name": "敏捷タイプ装備アクチュエーター",
+    "Description": "機体に搭載できる装備。敏捷タイプの生徒のHP・攻撃力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "32001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "32001",
+        "AdditionalHpPerLevel": 5,
+        "AdditionalAttackPerLevel": 6,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "32001",
+        "AdditionalHpPerLevel": 11,
+        "AdditionalAttackPerLevel": 12,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "32001",
+        "AdditionalHpPerLevel": 16,
+        "AdditionalAttackPerLevel": 18,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "32001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 24,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "32001",
+        "AdditionalHpPerLevel": 25,
+        "AdditionalAttackPerLevel": 28,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "32001",
+        "AdditionalHpPerLevel": 29,
+        "AdditionalAttackPerLevel": 33,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "32001",
+        "AdditionalHpPerLevel": 32,
+        "AdditionalAttackPerLevel": 36,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "32001",
+        "AdditionalHpPerLevel": 33,
+        "AdditionalAttackPerLevel": 37,
+        "AdditionalDefensePerLevel": 0
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 33,
+    "CharacterType": "Agility",
+    "Type": "Reactor",
+    "Name": "敏捷タイプ装備バッテリー",
+    "Description": "機体に搭載できる装備。敏捷タイプの生徒のHP・防御力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "33001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "33001",
+        "AdditionalHpPerLevel": 5,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 3
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "33001",
+        "AdditionalHpPerLevel": 11,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 6
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "33001",
+        "AdditionalHpPerLevel": 16,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 9
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "33001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 12
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "33001",
+        "AdditionalHpPerLevel": 25,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 15
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "33001",
+        "AdditionalHpPerLevel": 29,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 17
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "33001",
+        "AdditionalHpPerLevel": 32,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 18
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "33001",
+        "AdditionalHpPerLevel": 33,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 19
+      }
+    ]
+  },
+  {
+    "type": "TypeEquipmentMaster",
+    "Id": 34,
+    "CharacterType": "Agility",
+    "Type": "Booster",
+    "Name": "敏捷タイプ装備ジェットエンジン",
+    "Description": "機体に搭載できる装備。敏捷タイプの生徒のHP・防御力を上昇させることができる。",
+    "key_index_5": null,
+    "Stages": [
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 0,
+        "ToLevel": 0,
+        "Rarity": "N",
+        "AssetId": "34001",
+        "AdditionalHpPerLevel": 0,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 0
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 1,
+        "ToLevel": 20,
+        "Rarity": "N",
+        "AssetId": "34001",
+        "AdditionalHpPerLevel": 4,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 4
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 21,
+        "ToLevel": 40,
+        "Rarity": "R",
+        "AssetId": "34001",
+        "AdditionalHpPerLevel": 8,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 9
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 41,
+        "ToLevel": 60,
+        "Rarity": "R",
+        "AssetId": "34001",
+        "AdditionalHpPerLevel": 12,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 13
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 61,
+        "ToLevel": 80,
+        "Rarity": "Sr",
+        "AssetId": "34001",
+        "AdditionalHpPerLevel": 15,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 18
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 81,
+        "ToLevel": 100,
+        "Rarity": "Ssr",
+        "AssetId": "34001",
+        "AdditionalHpPerLevel": 18,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 22
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 101,
+        "ToLevel": 150,
+        "Rarity": "Ur",
+        "AssetId": "34001",
+        "AdditionalHpPerLevel": 21,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 25
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 151,
+        "ToLevel": 200,
+        "Rarity": "Lr",
+        "AssetId": "34001",
+        "AdditionalHpPerLevel": 23,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 27
+      },
+      {
+        "type": "TypeEquipmentStage",
+        "FromLevel": 201,
+        "ToLevel": 9999,
+        "Rarity": "Lr",
+        "AssetId": "34001",
+        "AdditionalHpPerLevel": 24,
+        "AdditionalAttackPerLevel": 0,
+        "AdditionalDefensePerLevel": 28
+      }
+    ]
+  }
+]

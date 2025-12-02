@@ -1,0 +1,65 @@
+[
+  {
+    "type": "CharacterEmotionMaster",
+    "Id": 1,
+    "Type": "Normal",
+    "UnlockAffectionLevel": null,
+    "Name": "通常"
+  },
+  {
+    "type": "CharacterEmotionMaster",
+    "Id": 2,
+    "Type": "Shy",
+    "UnlockAffectionLevel": null,
+    "Name": "恥じらい"
+  },
+  {
+    "type": "CharacterEmotionMaster",
+    "Id": 3,
+    "Type": "Smile",
+    "UnlockAffectionLevel": null,
+    "Name": "喜び"
+  },
+  {
+    "type": "CharacterEmotionMaster",
+    "Id": 4,
+    "Type": "Angry",
+    "UnlockAffectionLevel": null,
+    "Name": "怒り"
+  },
+  {
+    "type": "CharacterEmotionMaster",
+    "Id": 5,
+    "Type": "Sad",
+    "UnlockAffectionLevel": null,
+    "Name": "悲しい"
+  },
+  {
+    "type": "CharacterEmotionMaster",
+    "Id": 6,
+    "Type": "Surprised",
+    "UnlockAffectionLevel": null,
+    "Name": "驚き"
+  },
+  {
+    "type": "CharacterEmotionMaster",
+    "Id": 7,
+    "Type": "Confusion",
+    "UnlockAffectionLevel": null,
+    "Name": "困惑"
+  },
+  {
+    "type": "CharacterEmotionMaster",
+    "Id": 8,
+    "Type": "Fear",
+    "UnlockAffectionLevel": null,
+    "Name": "恐怖"
+  },
+  {
+    "type": "CharacterEmotionMaster",
+    "Id": 9,
+    "Type": "Custom",
+    "UnlockAffectionLevel": 10,
+    "Name": "ユニーク"
+  }
+]
