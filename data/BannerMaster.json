@@ -88,5 +88,20 @@
       "ShowAdult"
     ],
     "VisibleDeviceFlags": 59
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 3005,
+    "Order": 1,
+    "ImageStaticPath": "1005",
+    "StartDate": "2025-12-04T20:00:00+08:00",
+    "EndDate": "2025-12-16T12:59:59+08:00",
+    "JumpType": "LimitedTimeShop",
+    "JumpTargetId": 106,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": 59
   }
 ]

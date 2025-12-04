@@ -2728,5 +2728,31 @@
     "QuestPassMasterId": null,
     "LoginBonusMasterId": null,
     "BeforeShopProductMasterId": null
+  },
+  {
+    "type": "ShopProductMaster",
+    "Id": 106,
+    "Category": "Limitation",
+    "Order": 1,
+    "Flags": "None",
+    "Name": "期間限定メモリー「駆け落ちフルスロットル！」",
+    "Description": "特別シナリオ付き！期間限定メモリー「駆け落ちフルスロットル！」×1",
+    "AssetId": "memory_4",
+    "EventMasterId": null,
+    "StartDate": "2025-12-04T20:00:00+08:00",
+    "EndDate": "2025-12-16T12:59:59+08:00",
+    "DailyLimit": null,
+    "WeeklyLimit": null,
+    "MonthlyLimit": null,
+    "OverallLimit": 1,
+    "IsFree": false,
+    "PriceMoney": null,
+    "AcceptableGemType": "Paid",
+    "PriceGem": 5000,
+    "PlatformProductMasterId": null,
+    "ShopProductPackageMasterId": 57,
+    "QuestPassMasterId": null,
+    "LoginBonusMasterId": null,
+    "BeforeShopProductMasterId": null
   }
 ]
