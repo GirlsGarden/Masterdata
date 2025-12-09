@@ -1105,6 +1105,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20060211,
+    "SceneBranchMasterId": 2006021,
+    "Answer": "（いいな……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20060212,
+    "SceneBranchMasterId": 2006021,
+    "Answer": "（…………）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20060311,
+    "SceneBranchMasterId": 2006031,
+    "Answer": "演歌でどうだ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20060312,
+    "SceneBranchMasterId": 2006031,
+    "Answer": "時代劇かな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -1729,6 +1761,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40004911,
+    "SceneBranchMasterId": 4000491,
+    "Answer": "みんな幸せそうだ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40004912,
+    "SceneBranchMasterId": 4000491,
+    "Answer": "羨ましいのか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40005011,
+    "SceneBranchMasterId": 4000501,
+    "Answer": "第２回は俺の部屋開催でどう？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40005012,
+    "SceneBranchMasterId": 4000501,
+    "Answer": "次回、楽しみにしてる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -1884,6 +1948,22 @@
     "Id": 50001412,
     "SceneBranchMasterId": 5000141,
     "Answer": "誤解だ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001511,
+    "SceneBranchMasterId": 5000151,
+    "Answer": "楽しかったか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001512,
+    "SceneBranchMasterId": 5000151,
+    "Answer": "そんな行かないのか",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -4958,6 +5038,70 @@
     "Answer": "やめておく",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1103021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019211,
+    "SceneBranchMasterId": 6101921,
+    "Answer": "な、何をだ？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1073021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019212,
+    "SceneBranchMasterId": 6101921,
+    "Answer": "素晴らしい見応えでした",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1073022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019311,
+    "SceneBranchMasterId": 6101931,
+    "Answer": "特製ビッグパフェ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1073021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019312,
+    "SceneBranchMasterId": 6101931,
+    "Answer": "カツカレー定食",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1073022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019411,
+    "SceneBranchMasterId": 6101941,
+    "Answer": "泉花が歌ってるところを聞きたい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1073021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019412,
+    "SceneBranchMasterId": 6101941,
+    "Answer": "この曲調、どこかで聞いたような……",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1073022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019511,
+    "SceneBranchMasterId": 6101951,
+    "Answer": "踊ってみせてよ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1073021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019512,
+    "SceneBranchMasterId": 6101951,
+    "Answer": "もっと跳んだり回ったりしないの？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1073022
   },
   {
     "type": "SceneBranchSelectionMaster",

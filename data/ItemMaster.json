@@ -13,7 +13,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "10001",
     "ItemAcquisitionLocationGroupMasterId": 13,
-    "Order": 101
+    "Order": 101,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -29,7 +31,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "10002",
     "ItemAcquisitionLocationGroupMasterId": 13,
-    "Order": 102
+    "Order": 102,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -45,7 +49,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "10003",
     "ItemAcquisitionLocationGroupMasterId": 13,
-    "Order": 103
+    "Order": 103,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -61,7 +67,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "10004",
     "ItemAcquisitionLocationGroupMasterId": 13,
-    "Order": 104
+    "Order": 104,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -77,7 +85,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "10005",
     "ItemAcquisitionLocationGroupMasterId": 13,
-    "Order": 105
+    "Order": 105,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -93,7 +103,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "10006",
     "ItemAcquisitionLocationGroupMasterId": 13,
-    "Order": 106
+    "Order": 106,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -109,7 +121,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "10007",
     "ItemAcquisitionLocationGroupMasterId": 13,
-    "Order": 107
+    "Order": 107,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -125,7 +139,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "10008",
     "ItemAcquisitionLocationGroupMasterId": 13,
-    "Order": 108
+    "Order": 108,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -141,7 +157,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "10009",
     "ItemAcquisitionLocationGroupMasterId": 13,
-    "Order": 109
+    "Order": 109,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -157,7 +175,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20000",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 300
+    "Order": 300,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -173,7 +193,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20001",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 301
+    "Order": 301,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -189,7 +211,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20002",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 302
+    "Order": 302,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -205,7 +229,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20003",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 303
+    "Order": 303,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -221,7 +247,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20004",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 304
+    "Order": 304,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -237,7 +265,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20005",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 305
+    "Order": 305,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -253,7 +283,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20006",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 306
+    "Order": 306,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -269,7 +301,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20007",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 307
+    "Order": 307,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -285,7 +319,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20008",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 308
+    "Order": 308,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -301,7 +337,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20009",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 309
+    "Order": 309,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -317,7 +355,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20010",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 310
+    "Order": 310,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -333,7 +373,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20011",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 311
+    "Order": 311,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -349,7 +391,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20012",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 312
+    "Order": 312,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -365,7 +409,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20013",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 313
+    "Order": 313,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -381,7 +427,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20014",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 314
+    "Order": 314,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -397,7 +445,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20015",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 315
+    "Order": 315,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -413,7 +463,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20016",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 316
+    "Order": 316,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -429,7 +481,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20017",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 317
+    "Order": 317,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -445,7 +499,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20018",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 318
+    "Order": 318,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -461,7 +517,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20019",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 319
+    "Order": 319,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -477,7 +535,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "20020",
     "ItemAcquisitionLocationGroupMasterId": 11,
-    "Order": 320
+    "Order": 320,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -493,7 +553,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "30001",
     "ItemAcquisitionLocationGroupMasterId": 10,
-    "Order": 30
+    "Order": 30,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -509,7 +571,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "30002",
     "ItemAcquisitionLocationGroupMasterId": 10,
-    "Order": 31
+    "Order": 31,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -525,7 +589,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40001",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1000
+    "Order": 1000,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -541,7 +607,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40002",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1001
+    "Order": 1001,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -557,7 +625,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40003",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1002
+    "Order": 1002,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -573,7 +643,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40004",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1003
+    "Order": 1003,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -589,7 +661,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40005",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1004
+    "Order": 1004,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -605,7 +679,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40006",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1005
+    "Order": 1005,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -621,7 +697,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40007",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1006
+    "Order": 1006,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -637,7 +715,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40008",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1007
+    "Order": 1007,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -653,7 +733,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40009",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1008
+    "Order": 1008,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -669,7 +751,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40010",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1009
+    "Order": 1009,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -685,7 +769,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40011",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1010
+    "Order": 1010,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -701,7 +787,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40012",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1011
+    "Order": 1011,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -717,7 +805,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40013",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1012
+    "Order": 1012,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -733,7 +823,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40014",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1013
+    "Order": 1013,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -749,7 +841,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40015",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1014
+    "Order": 1014,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -765,7 +859,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40016",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1015
+    "Order": 1015,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -781,7 +877,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40017",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1016
+    "Order": 1016,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -797,7 +895,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40018",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1017
+    "Order": 1017,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -813,7 +913,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40019",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1018
+    "Order": 1018,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -829,7 +931,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40020",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1019
+    "Order": 1019,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -845,7 +949,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40021",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1020
+    "Order": 1020,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -861,7 +967,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40022",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1021
+    "Order": 1021,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -877,7 +985,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40023",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1022
+    "Order": 1022,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -893,7 +1003,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40024",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1023
+    "Order": 1023,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -909,7 +1021,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40025",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1024
+    "Order": 1024,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -925,7 +1039,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40026",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1025
+    "Order": 1025,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -941,7 +1057,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40027",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1026
+    "Order": 1026,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -957,7 +1075,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40028",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1027
+    "Order": 1027,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -973,7 +1093,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40029",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1028
+    "Order": 1028,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -989,7 +1111,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40030",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1029
+    "Order": 1029,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1005,7 +1129,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40031",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1030
+    "Order": 1030,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1021,7 +1147,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40032",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1031
+    "Order": 1031,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1037,7 +1165,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40033",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1032
+    "Order": 1032,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1053,7 +1183,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40034",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1033
+    "Order": 1033,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1069,7 +1201,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40035",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1034
+    "Order": 1034,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1085,7 +1219,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40036",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1035
+    "Order": 1035,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1101,7 +1237,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40037",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1036
+    "Order": 1036,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1117,7 +1255,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40038",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1037
+    "Order": 1037,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1133,7 +1273,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40039",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1038
+    "Order": 1038,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1149,7 +1291,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40040",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1039
+    "Order": 1039,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1165,7 +1309,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40041",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1040
+    "Order": 1040,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1181,7 +1327,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40042",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1041
+    "Order": 1041,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1197,7 +1345,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40043",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1042
+    "Order": 1042,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1213,7 +1363,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40044",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1043
+    "Order": 1043,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1229,7 +1381,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40045",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1044
+    "Order": 1044,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1245,7 +1399,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40046",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1045
+    "Order": 1045,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1261,7 +1417,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40047",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1046
+    "Order": 1046,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1277,7 +1435,27 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "40048",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 1047
+    "Order": 1047,
+    "StartDate": null,
+    "EndDate": null
+  },
+  {
+    "type": "ItemMaster",
+    "Id": 40049,
+    "Category": "CharacterLimitBreak",
+    "Rarity": "Ssr",
+    "Name": "姫川泉花[クリスマスコーデの参謀]のスタイルカード",
+    "Description": "生徒の限界突破に必要なアイテム。",
+    "MaxStock": 999999999,
+    "Consumable": false,
+    "ExpireDays": null,
+    "ConsumeType": "None",
+    "ConsumeRequiredQuantity": null,
+    "AssetId": "40049",
+    "ItemAcquisitionLocationGroupMasterId": null,
+    "Order": 1048,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1293,7 +1471,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50001",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 32
+    "Order": 32,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1309,7 +1489,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50002",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 33
+    "Order": 33,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1325,7 +1507,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50003",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 34
+    "Order": 34,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1341,7 +1525,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50004",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 35
+    "Order": 35,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1357,7 +1543,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50005",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 36
+    "Order": 36,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1373,7 +1561,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50006",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 37
+    "Order": 37,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1389,7 +1579,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50007",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 38
+    "Order": 38,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1405,7 +1597,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50008",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 39
+    "Order": 39,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1421,7 +1615,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50009",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 40
+    "Order": 40,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1437,7 +1633,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50010",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 41
+    "Order": 41,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1453,7 +1651,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50011",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 42
+    "Order": 42,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1469,7 +1669,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "50012",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 43
+    "Order": 43,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1485,7 +1687,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "60001",
     "ItemAcquisitionLocationGroupMasterId": 7,
-    "Order": 46
+    "Order": 46,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1501,7 +1705,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "60002",
     "ItemAcquisitionLocationGroupMasterId": 7,
-    "Order": 47
+    "Order": 47,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1517,7 +1723,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "60003",
     "ItemAcquisitionLocationGroupMasterId": 7,
-    "Order": 48
+    "Order": 48,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1533,7 +1741,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "60004",
     "ItemAcquisitionLocationGroupMasterId": 7,
-    "Order": 49
+    "Order": 49,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1549,7 +1759,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "60005",
     "ItemAcquisitionLocationGroupMasterId": 7,
-    "Order": 50
+    "Order": 50,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1565,7 +1777,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "70001",
     "ItemAcquisitionLocationGroupMasterId": 7,
-    "Order": 51
+    "Order": 51,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1581,7 +1795,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "70002",
     "ItemAcquisitionLocationGroupMasterId": 7,
-    "Order": 52
+    "Order": 52,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1597,7 +1813,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "70003",
     "ItemAcquisitionLocationGroupMasterId": 7,
-    "Order": 53
+    "Order": 53,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1613,7 +1831,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "80001",
     "ItemAcquisitionLocationGroupMasterId": 2,
-    "Order": 20
+    "Order": 20,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1629,7 +1849,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "80002",
     "ItemAcquisitionLocationGroupMasterId": 2,
-    "Order": 21
+    "Order": 21,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1645,7 +1867,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "90001",
     "ItemAcquisitionLocationGroupMasterId": 1,
-    "Order": 10
+    "Order": 10,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1661,7 +1885,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "90002",
     "ItemAcquisitionLocationGroupMasterId": 1,
-    "Order": 11
+    "Order": 11,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1677,7 +1903,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "90003",
     "ItemAcquisitionLocationGroupMasterId": 6,
-    "Order": 12
+    "Order": 12,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1693,7 +1921,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "90004",
     "ItemAcquisitionLocationGroupMasterId": 1,
-    "Order": 13
+    "Order": 13,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1709,7 +1939,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "90005",
     "ItemAcquisitionLocationGroupMasterId": 1,
-    "Order": 14
+    "Order": 14,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1725,7 +1957,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "90006",
     "ItemAcquisitionLocationGroupMasterId": 1,
-    "Order": 15
+    "Order": 15,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1741,7 +1975,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100001",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 20
+    "Order": 20,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1757,7 +1993,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100002",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 21
+    "Order": 21,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1773,7 +2011,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100003",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 22
+    "Order": 22,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1789,7 +2029,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100004",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 10
+    "Order": 10,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1805,7 +2047,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100005",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 11
+    "Order": 11,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1821,7 +2065,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100006",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 12
+    "Order": 12,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1837,7 +2083,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100007",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 100
+    "Order": 100,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1853,7 +2101,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100008",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 53
+    "Order": 53,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1869,7 +2119,9 @@
     "ConsumeRequiredQuantity": 50,
     "AssetId": "100009",
     "ItemAcquisitionLocationGroupMasterId": 4,
-    "Order": 100
+    "Order": 100,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1885,7 +2137,9 @@
     "ConsumeRequiredQuantity": 50,
     "AssetId": "100010",
     "ItemAcquisitionLocationGroupMasterId": 4,
-    "Order": 101
+    "Order": 101,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1901,7 +2155,9 @@
     "ConsumeRequiredQuantity": 50,
     "AssetId": "100011",
     "ItemAcquisitionLocationGroupMasterId": 4,
-    "Order": 102
+    "Order": 102,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1917,7 +2173,9 @@
     "ConsumeRequiredQuantity": 50,
     "AssetId": "100012",
     "ItemAcquisitionLocationGroupMasterId": 4,
-    "Order": 103
+    "Order": 103,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1933,7 +2191,9 @@
     "ConsumeRequiredQuantity": 50,
     "AssetId": "100013",
     "ItemAcquisitionLocationGroupMasterId": 4,
-    "Order": 104
+    "Order": 104,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1949,7 +2209,9 @@
     "ConsumeRequiredQuantity": 50,
     "AssetId": "100014",
     "ItemAcquisitionLocationGroupMasterId": 4,
-    "Order": 105
+    "Order": 105,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1965,7 +2227,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100015",
     "ItemAcquisitionLocationGroupMasterId": 9,
-    "Order": 52
+    "Order": 52,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1981,7 +2245,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100016",
     "ItemAcquisitionLocationGroupMasterId": 12,
-    "Order": 1
+    "Order": 1,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -1997,7 +2263,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100017",
     "ItemAcquisitionLocationGroupMasterId": 9,
-    "Order": 51
+    "Order": 51,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2013,7 +2281,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100018",
     "ItemAcquisitionLocationGroupMasterId": 9,
-    "Order": 50
+    "Order": 50,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2029,7 +2299,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100019",
     "ItemAcquisitionLocationGroupMasterId": 8,
-    "Order": 200
+    "Order": 200,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2045,7 +2317,9 @@
     "ConsumeRequiredQuantity": 1,
     "AssetId": "100020",
     "ItemAcquisitionLocationGroupMasterId": 8,
-    "Order": 2
+    "Order": 2,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2061,7 +2335,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "110001",
     "ItemAcquisitionLocationGroupMasterId": 7,
-    "Order": 200
+    "Order": 200,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2077,7 +2353,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "110002",
     "ItemAcquisitionLocationGroupMasterId": 6,
-    "Order": 201
+    "Order": 201,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2093,7 +2371,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 202
+    "Order": 210,
+    "StartDate": "2025-09-05T20:00:00+08:00",
+    "EndDate": "2025-09-22T12:59:59+08:00"
   },
   {
     "type": "ItemMaster",
@@ -2109,7 +2389,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 203
+    "Order": 211,
+    "StartDate": "2025-09-16T20:30:00+08:00",
+    "EndDate": "2025-10-07T12:59:59+08:00"
   },
   {
     "type": "ItemMaster",
@@ -2125,7 +2407,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "110005",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 203
+    "Order": 202,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2141,7 +2425,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "110006",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 203
+    "Order": 203,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2157,7 +2443,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "110007",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 203
+    "Order": 204,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2173,7 +2461,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 202
+    "Order": 210,
+    "StartDate": "2025-09-30T20:30:00+08:00",
+    "EndDate": "2025-10-20T12:59:59+08:00"
   },
   {
     "type": "ItemMaster",
@@ -2189,7 +2479,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "eventPoint_purple",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 202
+    "Order": 211,
+    "StartDate": "2025-10-14T20:30:00+08:00",
+    "EndDate": "2025-11-04T12:59:59+08:00"
   },
   {
     "type": "ItemMaster",
@@ -2205,7 +2497,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 201
+    "Order": 210,
+    "StartDate": "2025-10-28T20:30:00+08:00",
+    "EndDate": "2025-11-18T12:59:59+08:00"
   },
   {
     "type": "ItemMaster",
@@ -2221,7 +2515,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 200
+    "Order": 211,
+    "StartDate": "2025-11-11T20:30:00+08:00",
+    "EndDate": "2025-12-02T12:59:59+08:00"
   },
   {
     "type": "ItemMaster",
@@ -2237,7 +2533,27 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 199
+    "Order": 210,
+    "StartDate": "2025-11-25T20:30:00+08:00",
+    "EndDate": "2025-12-16T12:59:59+08:00"
+  },
+  {
+    "type": "ItemMaster",
+    "Id": 110013,
+    "Category": "Exchange",
+    "Rarity": "R",
+    "Name": "イベントポイント",
+    "Description": "イベント「Show in the Snow」で獲得できる交換アイテム。\\n何かが記録された媒体。",
+    "MaxStock": 999999999,
+    "Consumable": false,
+    "ExpireDays": null,
+    "ConsumeType": "None",
+    "ConsumeRequiredQuantity": null,
+    "AssetId": "eventPoint_yellow",
+    "ItemAcquisitionLocationGroupMasterId": null,
+    "Order": 211,
+    "StartDate": "2025-12-09T20:30:00+08:00",
+    "EndDate": "2025-12-30T12:59:59+08:00"
   },
   {
     "type": "ItemMaster",
@@ -2253,7 +2569,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "120001",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 44
+    "Order": 44,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2269,7 +2587,9 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "120002",
     "ItemAcquisitionLocationGroupMasterId": 5,
-    "Order": 45
+    "Order": 45,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",
@@ -2285,6 +2605,8 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "130001",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 46
+    "Order": 54,
+    "StartDate": null,
+    "EndDate": null
   }
 ]

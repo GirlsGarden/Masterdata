@@ -1631,6 +1631,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20060101,
+    "EpisodeMasterId": 200601,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "恋を叶えるのは――",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20060201,
+    "EpisodeMasterId": 200602,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "柊校舎クリスマスパーティー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20060301,
+    "EpisodeMasterId": 200603,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "クララ恋愛成就計画",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20060401,
+    "EpisodeMasterId": 200604,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "クリスマスパーティー開幕！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20060501,
+    "EpisodeMasterId": 200605,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "後クリスマスイベント1話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20060601,
+    "EpisodeMasterId": 200606,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "後クリスマスイベント2話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20060701,
+    "EpisodeMasterId": 200607,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "後クリスマスイベント3話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20060801,
+    "EpisodeMasterId": 200608,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "後クリスマスイベント4話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -2671,6 +2751,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40004901,
+    "EpisodeMasterId": 400049,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "雪灯りの夜を分け合って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40004902,
+    "EpisodeMasterId": 400049,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "雪灯りの夜を分け合って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40005001,
+    "EpisodeMasterId": 400050,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "揺れる灯火のように",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40005002,
+    "EpisodeMasterId": 400050,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "揺れる灯火のように",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -2907,6 +3027,46 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "駆け落ちフルスロットル！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001501,
+    "EpisodeMasterId": 500015,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "年の瀬に想う",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001502,
+    "EpisodeMasterId": 500015,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "年の瀬に想う",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001601,
+    "EpisodeMasterId": 500016,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "臆病トナカイの聖夜",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001602,
+    "EpisodeMasterId": 500016,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "臆病トナカイの聖夜",
     "AssetId": null
   },
   {
@@ -4827,6 +4987,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "一緒に汗流そっ♪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019201,
+    "EpisodeMasterId": 610192,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どこ見てるの？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019301,
+    "EpisodeMasterId": 610193,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "何を食べる？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019401,
+    "EpisodeMasterId": 610194,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "曲作り",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019501,
+    "EpisodeMasterId": 610195,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "泉花の振り付け",
     "AssetId": null
   }
 ]

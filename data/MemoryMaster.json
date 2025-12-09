@@ -145,6 +145,26 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10009,
+    "Rarity": "Sr",
+    "Name": "年の瀬に想う",
+    "Description": "ふふ……誰かとカラオケに行くなどめったになくてな。\\nつい思い出して、立ち止まってしまったのだ。",
+    "AssetId": "10005",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10010,
+    "Rarity": "Sr",
+    "Name": "クリスマスのサプライズ♪",
+    "Description": "翠蘭ちゃんがね、指揮官へのプレゼントは一番あげたいものがいいって！\\nだから私をあげるー♪",
+    "AssetId": "10014",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -1331,6 +1351,86 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20038,
+    "Rarity": "Ssr",
+    "Name": "雪灯りの夜を分け合って",
+    "Description": "抜け駆けの独り占めはよくないけど……\\nせめて、今この時間くらいは、いいよね……",
+    "AssetId": "107302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 107,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400007,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Aggressive",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400100,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20039,
+    "Rarity": "Ssr",
+    "Name": "ろうそくが照らす本音",
+    "Description": "……改めて、綺麗ね。真っ暗な中で揺れるろうそくって。\\n安心するというか、落ち着く。",
+    "AssetId": "108302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 108,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400008,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400101,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20040,
+    "Rarity": "Ssr",
+    "Name": "ひねくれの感謝",
+    "Description": "おまえみたいなザーコ、ラミがいなきゃ何もできないんだから。\\nしゃーなしで……これからもよろしくしてあげる。",
+    "AssetId": "20002",
+    "Highlights": null,
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -1626,5 +1726,28 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30013,
+    "Rarity": "Ur",
+    "Name": "臆病トナカイの聖夜",
+    "Description": "え、えっちなトナカイ！？\\nえっ、ええええ、そ、そんなこと……！",
+    "AssetId": "30008",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 56,
+        "CharacterType": null,
+        "SkillMasterId": 400103,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

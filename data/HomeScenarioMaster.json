@@ -673,6 +673,22 @@
   },
   {
     "type": "HomeScenarioMaster",
+    "Id": 97,
+    "Order": 85,
+    "EpisodeMasterId": 400049,
+    "IsAnimation": true,
+    "AssetId": "c107302"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 98,
+    "Order": 86,
+    "EpisodeMasterId": 400049,
+    "IsAnimation": false,
+    "AssetId": "c107302"
+  },
+  {
+    "type": "HomeScenarioMaster",
     "Id": 2000,
     "Order": 1000,
     "EpisodeMasterId": 500003,
@@ -806,5 +822,29 @@
     "EpisodeMasterId": 500014,
     "IsAnimation": false,
     "AssetId": "s300005"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2017,
+    "Order": 1017,
+    "EpisodeMasterId": 500015,
+    "IsAnimation": true,
+    "AssetId": "s200009"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2018,
+    "Order": 1018,
+    "EpisodeMasterId": 500016,
+    "IsAnimation": true,
+    "AssetId": "s300008"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2019,
+    "Order": 1019,
+    "EpisodeMasterId": 500016,
+    "IsAnimation": false,
+    "AssetId": "s300008"
   }
 ]

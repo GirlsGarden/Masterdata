@@ -127,12 +127,30 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 105001,
+    "Type": "Character",
+    "DisplayName": "生駒葵",
+    "Name": "@Aoi_I",
+    "AssetId": "105001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 105301,
     "Type": "Character",
     "DisplayName": "生駒葵「厳格な規律の守護者」",
     "Name": "@Aoi_I",
     "AssetId": "105301",
     "CharacterMasterId": 105301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 106001,
+    "Type": "Character",
+    "DisplayName": "波瀬うるう",
+    "Name": "@Uruu_N",
+    "AssetId": "106001c",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",
@@ -154,12 +172,39 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 107302,
+    "Type": "Character",
+    "DisplayName": "姫川泉花「クリスマスコーデの参謀」",
+    "Name": "@Senka_H",
+    "AssetId": "107302",
+    "CharacterMasterId": 107302
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 108301,
     "Type": "Character",
     "DisplayName": "綺羅クララ「正々堂々なミス・ツンデレ」",
     "Name": "@Kurara_K",
     "AssetId": "108301",
     "CharacterMasterId": 108301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 108302,
+    "Type": "Character",
+    "DisplayName": "綺羅クララ「聖夜のサンタシンガー」",
+    "Name": "@Kurara_K",
+    "AssetId": "108302",
+    "CharacterMasterId": 108302
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 109001,
+    "Type": "Character",
+    "DisplayName": "夕凪舞亜",
+    "Name": "@Maia_Y",
+    "AssetId": "109001c",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",

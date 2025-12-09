@@ -610,6 +610,34 @@
   },
   {
     "type": "CharacterAffectionRewardMaster",
+    "Id": 1073021,
+    "AffectionLevel": 10,
+    "RewardPackageMasterId": 1004901,
+    "CharacterMasterId": 107302
+  },
+  {
+    "type": "CharacterAffectionRewardMaster",
+    "Id": 1073022,
+    "AffectionLevel": 20,
+    "RewardPackageMasterId": 1004902,
+    "CharacterMasterId": 107302
+  },
+  {
+    "type": "CharacterAffectionRewardMaster",
+    "Id": 1073023,
+    "AffectionLevel": 30,
+    "RewardPackageMasterId": 1004903,
+    "CharacterMasterId": 107302
+  },
+  {
+    "type": "CharacterAffectionRewardMaster",
+    "Id": 1073024,
+    "AffectionLevel": 40,
+    "RewardPackageMasterId": 1004904,
+    "CharacterMasterId": 107302
+  },
+  {
+    "type": "CharacterAffectionRewardMaster",
     "Id": 1083011,
     "AffectionLevel": 10,
     "RewardPackageMasterId": 1001401,

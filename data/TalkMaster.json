@@ -157,6 +157,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1073021,
+    "CallCharacterMasterId": 107302,
+    "Order": 107002,
+    "Title": "パーティのあとに",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 107302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400049
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1083011,
     "CallCharacterMasterId": 108301,
     "Order": 108001,

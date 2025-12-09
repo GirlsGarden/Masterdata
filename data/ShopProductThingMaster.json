@@ -1428,5 +1428,15 @@
     "ThingType": "Memory",
     "ThingId": 30012,
     "ThingQuantity": 1
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 581,
+    "ShopProductPackageMasterId": 58,
+    "Order": 1,
+    "IsBonus": false,
+    "ThingType": "Memory",
+    "ThingId": 30013,
+    "ThingQuantity": 1
   }
 ]
