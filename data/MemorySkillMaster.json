@@ -603,6 +603,20 @@
   },
   {
     "type": "MemorySkillMaster",
+    "Id": 200401,
+    "Order": 1,
+    "MemoryMasterId": 20040,
+    "SkillMasterId": 400056
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200402,
+    "Order": 2,
+    "MemoryMasterId": 20040,
+    "SkillMasterId": 400104
+  },
+  {
+    "type": "MemorySkillMaster",
     "Id": 300011,
     "Order": 1,
     "MemoryMasterId": 30001,
