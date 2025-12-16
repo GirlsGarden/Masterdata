@@ -526,5 +526,21 @@
     "SpoilerAlertMasterId": null,
     "BackgroundAssetType": "Adventure",
     "BgmAssetId": null
+  },
+  {
+    "type": "EventMaster",
+    "Id": 6001,
+    "EventGroupMasterId": 12,
+    "Name": "公式MG競技",
+    "Type": "MgBattle",
+    "StartDate": "2025-12-16T20:30:00+08:00",
+    "QuestCloseDate": "2025-12-29T12:59:59+08:00",
+    "EndDate": "2026-01-05T12:59:59+08:00",
+    "Order": 1,
+    "LogoAssetId": null,
+    "BackgroundAssetId": "MG_battle_001",
+    "SpoilerAlertMasterId": null,
+    "BackgroundAssetType": "Adventure",
+    "BgmAssetId": null
   }
 ]

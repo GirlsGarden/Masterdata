@@ -1137,6 +1137,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20060611,
+    "SceneBranchMasterId": 2006061,
+    "Answer": "当たり前だろ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20060612,
+    "SceneBranchMasterId": 2006061,
+    "Answer": "どうだろう",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20060711,
+    "SceneBranchMasterId": 2006071,
+    "Answer": "クリスマスなんて、大嫌い！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20060712,
+    "SceneBranchMasterId": 2006071,
+    "Answer": "クリスマスなんて、クソ喰らえ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -1964,6 +1996,38 @@
     "Id": 50001512,
     "SceneBranchMasterId": 5000151,
     "Answer": "そんな行かないのか",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001611,
+    "SceneBranchMasterId": 5000161,
+    "Answer": "そろそろストップ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001612,
+    "SceneBranchMasterId": 5000161,
+    "Answer": "…………",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001621,
+    "SceneBranchMasterId": 5000162,
+    "Answer": "いや、かわいいぞ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001622,
+    "SceneBranchMasterId": 5000162,
+    "Answer": "じゃあ、ぜひソリに乗せてくれ",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -5102,6 +5166,70 @@
     "Answer": "もっと跳んだり回ったりしないの？",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1073022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019611,
+    "SceneBranchMasterId": 6101961,
+    "Answer": "中庭に行こう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1083021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019612,
+    "SceneBranchMasterId": 6101961,
+    "Answer": "食堂なんてどうだ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1083022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019711,
+    "SceneBranchMasterId": 6101971,
+    "Answer": "紅茶かコーヒーでも持ってこようか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1083021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019712,
+    "SceneBranchMasterId": 6101971,
+    "Answer": "甘いジュースでも買ってきてやるぞ。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1083022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019811,
+    "SceneBranchMasterId": 6101981,
+    "Answer": "とはいえ、無理はするな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1083021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019812,
+    "SceneBranchMasterId": 6101981,
+    "Answer": "どんなケアをしてるんだ？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1083022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019911,
+    "SceneBranchMasterId": 6101991,
+    "Answer": "…………",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1083021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61019912,
+    "SceneBranchMasterId": 6101991,
+    "Answer": "上手かった",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1083022
   },
   {
     "type": "SceneBranchSelectionMaster",

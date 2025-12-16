@@ -181,6 +181,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1083021,
+    "CallCharacterMasterId": 108302,
+    "Order": 108002,
+    "Title": "リベンジ！",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 108302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400050
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1093011,
     "CallCharacterMasterId": 109301,
     "Order": 109001,

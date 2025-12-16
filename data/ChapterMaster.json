@@ -349,5 +349,18 @@
     "ChapterGroupMasterId": 0,
     "Interlude": null,
     "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 200012,
+    "Title": "SECOND",
+    "SubTitle": "イベントストーリー",
+    "Order": 2,
+    "EventMasterId": 1011,
+    "AssetId": "2011",
+    "Overview": null,
+    "ChapterGroupMasterId": 0,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
   }
 ]

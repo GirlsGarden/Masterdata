@@ -1676,7 +1676,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "後クリスマスイベント1話",
+    "Title": "泉花の歌詞",
     "AssetId": null
   },
   {
@@ -1686,7 +1686,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "後クリスマスイベント2話",
+    "Title": "クララ・オン・ステージ！",
     "AssetId": null
   },
   {
@@ -1696,7 +1696,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "後クリスマスイベント3話",
+    "Title": "クリスマスプレゼント",
     "AssetId": null
   },
   {
@@ -1706,7 +1706,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "後クリスマスイベント4話",
+    "Title": "恋する乙女達",
     "AssetId": null
   },
   {
@@ -5027,6 +5027,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "泉花の振り付け",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019601,
+    "EpisodeMasterId": 610196,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "気分転換に場所替え",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019701,
+    "EpisodeMasterId": 610197,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "食後のお飲み物は？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019801,
+    "EpisodeMasterId": 610198,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "のどのケア",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61019901,
+    "EpisodeMasterId": 610199,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ダンスの感想",
     "AssetId": null
   }
 ]

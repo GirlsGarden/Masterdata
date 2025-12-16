@@ -478,5 +478,29 @@
     "Order": 424,
     "UnlockGemQuantity": 100,
     "AssetId": "70024"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 61,
+    "Name": "シティ街中_夜",
+    "Order": 274,
+    "UnlockGemQuantity": 100,
+    "AssetId": "40044"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 62,
+    "Name": "シティ街中クリスマス_夜",
+    "Order": 434,
+    "UnlockGemQuantity": 100,
+    "AssetId": "40054"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 63,
+    "Name": "学園講堂_クリスマス_昼",
+    "Order": 442,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30232"
   }
 ]
