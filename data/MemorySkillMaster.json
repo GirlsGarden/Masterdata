@@ -71,6 +71,13 @@
   },
   {
     "type": "MemorySkillMaster",
+    "Id": 100111,
+    "Order": 1,
+    "MemoryMasterId": 10011,
+    "SkillMasterId": 400106
+  },
+  {
+    "type": "MemorySkillMaster",
     "Id": 200011,
     "Order": 1,
     "MemoryMasterId": 20001,
@@ -631,6 +638,20 @@
   },
   {
     "type": "MemorySkillMaster",
+    "Id": 200411,
+    "Order": 1,
+    "MemoryMasterId": 20041,
+    "SkillMasterId": 400107
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 200412,
+    "Order": 2,
+    "MemoryMasterId": 20041,
+    "SkillMasterId": 400108
+  },
+  {
+    "type": "MemorySkillMaster",
     "Id": 300011,
     "Order": 1,
     "MemoryMasterId": 30001,
@@ -810,5 +831,19 @@
     "Order": 2,
     "MemoryMasterId": 30013,
     "SkillMasterId": 400103
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300141,
+    "Order": 1,
+    "MemoryMasterId": 30014,
+    "SkillMasterId": 400109
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300142,
+    "Order": 2,
+    "MemoryMasterId": 30014,
+    "SkillMasterId": 400057
   }
 ]

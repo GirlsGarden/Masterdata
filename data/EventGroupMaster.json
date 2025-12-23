@@ -166,5 +166,33 @@
     "LogoFrameAssetId": null,
     "MovieAssetId": null,
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 13,
+    "Name": "混沌のパラディグマ",
+    "ActivateType": "EventGroup",
+    "StartDate": "2025-12-23T20:30:00+08:00",
+    "QuestCloseDate": "2026-01-06T12:59:59+08:00",
+    "EndDate": "2026-01-13T12:59:59+08:00",
+    "Order": 13,
+    "LogoAssetId": "9",
+    "LogoFrameAssetId": "newstory_100",
+    "MovieAssetId": "20009",
+    "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 14,
+    "Name": "サークル対抗戦",
+    "ActivateType": "EventGroup",
+    "StartDate": "2025-12-23T20:30:00+08:00",
+    "QuestCloseDate": "2026-01-01T07:59:59+08:00",
+    "EndDate": "2026-01-08T07:59:59+08:00",
+    "Order": 9,
+    "LogoAssetId": null,
+    "LogoFrameAssetId": null,
+    "MovieAssetId": null,
+    "IntroductionEpisodeMasterId": null
   }
 ]

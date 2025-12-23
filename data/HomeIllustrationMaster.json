@@ -334,6 +334,60 @@
   },
   {
     "type": "HomeIllustrationMaster",
+    "Id": 100038,
+    "Order": 34,
+    "GroupNumber": 32,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 101307,
+    "AssetId": "530"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 100039,
+    "Order": 35,
+    "GroupNumber": 33,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 101404,
+    "AssetId": "540"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 100040,
+    "Order": 36,
+    "GroupNumber": 34,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 101505,
+    "AssetId": "550"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 100041,
+    "Order": 37,
+    "GroupNumber": 35,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 101511,
+    "AssetId": "560"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 100042,
+    "Order": 38,
+    "GroupNumber": 36,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 101513,
+    "AssetId": "570"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 100043,
+    "Order": 38,
+    "GroupNumber": 37,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 101514,
+    "AssetId": "570"
+  },
+  {
+    "type": "HomeIllustrationMaster",
     "Id": 200001,
     "Order": 1,
     "GroupNumber": 1,
@@ -736,5 +790,50 @@
     "Type": "Mg",
     "EpisodeMasterId": 101214,
     "AssetId": "500"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 300026,
+    "Order": 25,
+    "GroupNumber": 26,
+    "Type": "Mg",
+    "EpisodeMasterId": 101301,
+    "AssetId": "580"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 300027,
+    "Order": 26,
+    "GroupNumber": 27,
+    "Type": "Mg",
+    "EpisodeMasterId": 101406,
+    "AssetId": "590"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 300028,
+    "Order": 27,
+    "GroupNumber": 28,
+    "Type": "Mg",
+    "EpisodeMasterId": 101408,
+    "AssetId": "600"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 300029,
+    "Order": 28,
+    "GroupNumber": 29,
+    "Type": "Mg",
+    "EpisodeMasterId": 101506,
+    "AssetId": "610"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 300030,
+    "Order": 29,
+    "GroupNumber": 30,
+    "Type": "Mg",
+    "EpisodeMasterId": 101512,
+    "AssetId": "620"
   }
 ]

@@ -701,5 +701,24 @@
     "Height": "155",
     "DisplayType": "Always",
     "IsReleased": true
+  },
+  {
+    "type": "CharacterBaseMaster",
+    "Id": 140,
+    "Name": "リディア・エルドリッジ",
+    "NameRuby": "りでぃあえるどりっじ",
+    "Order": 3,
+    "CharacterTeamMasterId": 402,
+    "CharacterSchoolMasterId": 4,
+    "Hobby": "日記をつける",
+    "Description": "不思議な雰囲気を持つフワフワとした博愛主義の女の子。みんなを笑顔にするために、色んな人の困り事解決や願い事成就のお手伝いをしている。のんびり屋にみえるが、パイロットとしては天才と称されるほど高い操縦技術を持つ。",
+    "BirthdayMonth": 9,
+    "BirthdayDay": 6,
+    "BackgroundAssetId": "140",
+    "BirthPlace": "リバティ",
+    "Favorite": "カスタードプリン・動物",
+    "Height": "140",
+    "DisplayType": "Always",
+    "IsReleased": true
   }
 ]

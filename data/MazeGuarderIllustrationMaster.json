@@ -109,6 +109,33 @@
   },
   {
     "type": "MazeGuarderIllustrationMaster",
+    "Id": 1025,
+    "Order": 102,
+    "MMazeGuarderId": 102,
+    "MEpisodeId": 101408,
+    "IllustType": "ADV",
+    "AssetId": "600"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1026,
+    "Order": 103,
+    "MMazeGuarderId": 102,
+    "MEpisodeId": 101506,
+    "IllustType": "ADV",
+    "AssetId": "610"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1027,
+    "Order": 104,
+    "MMazeGuarderId": 102,
+    "MEpisodeId": 101512,
+    "IllustType": "ADV",
+    "AssetId": "620"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
     "Id": 1031,
     "Order": 1,
     "MMazeGuarderId": 103,

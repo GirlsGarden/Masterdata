@@ -898,5 +898,23 @@
     "Id": 1393013,
     "CharacterMasterId": 139301,
     "ItemMasterId": 20011
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1403011,
+    "CharacterMasterId": 140301,
+    "ItemMasterId": 20000
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1403012,
+    "CharacterMasterId": 140301,
+    "ItemMasterId": 20002
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1403013,
+    "CharacterMasterId": 140301,
+    "ItemMasterId": 20006
   }
 ]

@@ -16,21 +16,6 @@
   },
   {
     "type": "LoginBonusMaster",
-    "Id": 2016,
-    "Name": "PICKUP DAILY LOGIN",
-    "Type": "Campaign",
-    "Order": 1,
-    "StartDate": "2025-12-09T20:30:00+08:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2025-12-23T12:59:59+08:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "2014",
-    "SpineAssetId": "107302s",
-    "BackgroundAssetId": "2001"
-  },
-  {
-    "type": "LoginBonusMaster",
     "Id": 2017,
     "Name": "PICKUP DAILY LOGIN",
     "Type": "Campaign",
@@ -42,6 +27,21 @@
     "IsLoop": false,
     "AssetId": "2013",
     "SpineAssetId": "108302s",
+    "BackgroundAssetId": "2001"
+  },
+  {
+    "type": "LoginBonusMaster",
+    "Id": 2018,
+    "Name": "PICKUP DAILY LOGIN",
+    "Type": "Campaign",
+    "Order": 1,
+    "StartDate": "2025-12-23T20:30:00+08:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-01-06T12:59:59+08:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "2015",
+    "SpineAssetId": "140301s",
     "BackgroundAssetId": "2001"
   },
   {
@@ -58,21 +58,6 @@
     "AssetId": "3002",
     "SpineAssetId": null,
     "BackgroundAssetId": "3002"
-  },
-  {
-    "type": "LoginBonusMaster",
-    "Id": 3005,
-    "Name": "リリース100日記念ログインボーナス",
-    "Type": "Anniversary",
-    "Order": 1,
-    "StartDate": "2025-12-11T20:00:00+08:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2025-12-23T12:59:59+08:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "3006",
-    "SpineAssetId": null,
-    "BackgroundAssetId": "3006"
   },
   {
     "type": "LoginBonusMaster",

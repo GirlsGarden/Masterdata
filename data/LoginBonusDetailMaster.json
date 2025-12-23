@@ -82,69 +82,6 @@
   },
   {
     "type": "LoginBonusDetailMaster",
-    "Id": 20161,
-    "LoginBonusMasterId": 2016,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 1,
-    "LoginBonusThingPackageMasterId": 11000
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 20162,
-    "LoginBonusMasterId": 2016,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 2,
-    "LoginBonusThingPackageMasterId": 11001
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 20163,
-    "LoginBonusMasterId": 2016,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 3,
-    "LoginBonusThingPackageMasterId": 11002
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 20164,
-    "LoginBonusMasterId": 2016,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 4,
-    "LoginBonusThingPackageMasterId": 11008
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 20165,
-    "LoginBonusMasterId": 2016,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 5,
-    "LoginBonusThingPackageMasterId": 11005
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 20166,
-    "LoginBonusMasterId": 2016,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 6,
-    "LoginBonusThingPackageMasterId": 11003
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 20167,
-    "LoginBonusMasterId": 2016,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 7,
-    "LoginBonusThingPackageMasterId": 11004
-  },
-  {
-    "type": "LoginBonusDetailMaster",
     "Id": 20171,
     "LoginBonusMasterId": 2017,
     "Month": null,
@@ -201,6 +138,69 @@
     "type": "LoginBonusDetailMaster",
     "Id": 20177,
     "LoginBonusMasterId": 2017,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 7,
+    "LoginBonusThingPackageMasterId": 11004
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20181,
+    "LoginBonusMasterId": 2018,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 1,
+    "LoginBonusThingPackageMasterId": 11000
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20182,
+    "LoginBonusMasterId": 2018,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 2,
+    "LoginBonusThingPackageMasterId": 11001
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20183,
+    "LoginBonusMasterId": 2018,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 3,
+    "LoginBonusThingPackageMasterId": 11002
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20184,
+    "LoginBonusMasterId": 2018,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 4,
+    "LoginBonusThingPackageMasterId": 11024
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20185,
+    "LoginBonusMasterId": 2018,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 5,
+    "LoginBonusThingPackageMasterId": 11007
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20186,
+    "LoginBonusMasterId": 2018,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 6,
+    "LoginBonusThingPackageMasterId": 11003
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20187,
+    "LoginBonusMasterId": 2018,
     "Month": null,
     "Day": null,
     "LoginCount": 7,
@@ -268,69 +268,6 @@
     "Day": null,
     "LoginCount": 7,
     "LoginBonusThingPackageMasterId": 20013
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 30051,
-    "LoginBonusMasterId": 3005,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 1,
-    "LoginBonusThingPackageMasterId": 20026
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 30052,
-    "LoginBonusMasterId": 3005,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 2,
-    "LoginBonusThingPackageMasterId": 20027
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 30053,
-    "LoginBonusMasterId": 3005,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 3,
-    "LoginBonusThingPackageMasterId": 20028
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 30054,
-    "LoginBonusMasterId": 3005,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 4,
-    "LoginBonusThingPackageMasterId": 20029
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 30055,
-    "LoginBonusMasterId": 3005,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 5,
-    "LoginBonusThingPackageMasterId": 20030
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 30056,
-    "LoginBonusMasterId": 3005,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 6,
-    "LoginBonusThingPackageMasterId": 20031
-  },
-  {
-    "type": "LoginBonusDetailMaster",
-    "Id": 30057,
-    "LoginBonusMasterId": 3005,
-    "Month": null,
-    "Day": null,
-    "LoginCount": 7,
-    "LoginBonusThingPackageMasterId": 20032
   },
   {
     "type": "LoginBonusDetailMaster",

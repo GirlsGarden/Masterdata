@@ -160,7 +160,43 @@
     "Name": "クリスマスのサプライズ♪",
     "Description": "翠蘭ちゃんがね、指揮官へのプレゼントは一番あげたいものがいいって！\\nだから私をあげるー♪",
     "AssetId": "10014",
-    "Highlights": null,
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 2,
+        "CharacterType": null,
+        "SkillMasterId": 400105,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10011,
+    "Rarity": "Sr",
+    "Name": "混沌へと至る過去",
+    "Description": "この、カオスメイデンというチームは……気づいたら、\\n私のことを知っても受け入れてくれる大切な居場所になっていたのです。",
+    "AssetId": "10013",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 1,
+        "CharacterType": null,
+        "SkillMasterId": 400106,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
     "IsReleased": true
   },
   {
@@ -1431,6 +1467,41 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20041,
+    "Rarity": "Ssr",
+    "Name": "『こい』",
+    "Description": "ぽやぽやする……\\nおにいちゃんのなでなで、リディアの一番さん。",
+    "AssetId": "140301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 140,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400107,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 16,
+        "CharacterType": null,
+        "SkillMasterId": 400108,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -1745,6 +1816,29 @@
         "PartyPosition": 56,
         "CharacterType": null,
         "SkillMasterId": 400103,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30014,
+    "Rarity": "Ur",
+    "Name": "Trinity Jewel",
+    "Description": "レイヴェルをリーダーとする才能豊かなチーム。３人編成を最適解とみなしている。",
+    "AssetId": "30020",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 402,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400109,
         "IsTargetingFriendlyParty": true
       }
     ],

@@ -598,5 +598,17 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400046
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1403011,
+    "CallCharacterMasterId": 140301,
+    "Order": 140001,
+    "Title": "明日のまちあわせ",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 140301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400051
   }
 ]

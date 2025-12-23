@@ -327,5 +327,12 @@
     "Type": "FlashTierSale",
     "ActiveHours": 1,
     "EffectType": "Normal"
+  },
+  {
+    "type": "FlashMaster",
+    "Id": 1048,
+    "Type": "FlashTierSale",
+    "ActiveHours": 1,
+    "EffectType": "Normal"
   }
 ]

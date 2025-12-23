@@ -10,5 +10,11 @@
     "Id": 2,
     "EventMasterId": 5001,
     "IntroductionEpisodeMasterId": 300401
+  },
+  {
+    "type": "CircleBattleMaster",
+    "Id": 3,
+    "EventMasterId": 5002,
+    "IntroductionEpisodeMasterId": 300401
   }
 ]

@@ -865,6 +865,102 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 10130311,
+    "SceneBranchMasterId": 1013031,
+    "Answer": "スランプってやつだな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10130312,
+    "SceneBranchMasterId": 1013031,
+    "Answer": "絶不調なわけか",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10130711,
+    "SceneBranchMasterId": 1013071,
+    "Answer": "もっと喧嘩をするべきだった",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10130712,
+    "SceneBranchMasterId": 1013071,
+    "Answer": "もっと意見を言うべきだった",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10140311,
+    "SceneBranchMasterId": 1014031,
+    "Answer": "沙耶に原因がある",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10140312,
+    "SceneBranchMasterId": 1014031,
+    "Answer": "沙耶以外にも原因がある",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10140511,
+    "SceneBranchMasterId": 1014051,
+    "Answer": "なんとかなるだろう",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10140512,
+    "SceneBranchMasterId": 1014051,
+    "Answer": "後で怒られておく",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10140811,
+    "SceneBranchMasterId": 1014081,
+    "Answer": "ユリアに釘を刺す",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10140812,
+    "SceneBranchMasterId": 1014081,
+    "Answer": "沙耶を気遣う",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10140821,
+    "SceneBranchMasterId": 1014082,
+    "Answer": "初めて聞いた",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10140822,
+    "SceneBranchMasterId": 1014082,
+    "Answer": "噂だけは",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 20020311,
     "SceneBranchMasterId": 2002031,
     "Answer": "倒していい障害物を決めるとかか？",
@@ -1825,6 +1921,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40005111,
+    "SceneBranchMasterId": 4000511,
+    "Answer": "自分でも調べてみたのか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40005112,
+    "SceneBranchMasterId": 4000511,
+    "Answer": "それは俺にも難しい問題だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -2028,6 +2140,22 @@
     "Id": 50001622,
     "SceneBranchMasterId": 5000162,
     "Answer": "じゃあ、ぜひソリに乗せてくれ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001711,
+    "SceneBranchMasterId": 5000171,
+    "Answer": "お茶は苦いくらいがちょうどいい",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001712,
+    "SceneBranchMasterId": 5000171,
+    "Answer": "別の事を考えていた",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -5230,6 +5358,70 @@
     "Answer": "上手かった",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1083022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020011,
+    "SceneBranchMasterId": 6102001,
+    "Answer": "それはダメ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1403012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020012,
+    "SceneBranchMasterId": 6102001,
+    "Answer": "答えは……",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1403011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020111,
+    "SceneBranchMasterId": 6102011,
+    "Answer": "あーん",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1403012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020112,
+    "SceneBranchMasterId": 6102011,
+    "Answer": "お礼にジュース飲む？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1403011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020211,
+    "SceneBranchMasterId": 6102021,
+    "Answer": "メニューにアレンジを加える",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1403012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020212,
+    "SceneBranchMasterId": 6102021,
+    "Answer": "一番難しいメニューに挑戦",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1403011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020311,
+    "SceneBranchMasterId": 6102031,
+    "Answer": "よろしくお願いします",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1403012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020312,
+    "SceneBranchMasterId": 6102031,
+    "Answer": "それよりも隣においで",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1403011
   },
   {
     "type": "SceneBranchSelectionMaster",

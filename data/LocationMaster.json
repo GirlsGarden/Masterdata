@@ -653,6 +653,54 @@
   },
   {
     "type": "LocationMaster",
+    "Id": 16009,
+    "EventMasterId": 5002,
+    "Type": "CircleBattleFirstHalf",
+    "Name": "制圧戦本戦",
+    "Order": 1,
+    "AssetId": "80012",
+    "DailyTryCount": 3,
+    "DayOfWeekFlags": "None",
+    "BackgroundAssetType": "Adventure"
+  },
+  {
+    "type": "LocationMaster",
+    "Id": 16010,
+    "EventMasterId": 5002,
+    "Type": "CircleBattleMockBattle",
+    "Name": "制圧戦模擬戦",
+    "Order": 2,
+    "AssetId": "80012",
+    "DailyTryCount": null,
+    "DayOfWeekFlags": "None",
+    "BackgroundAssetType": "Adventure"
+  },
+  {
+    "type": "LocationMaster",
+    "Id": 16011,
+    "EventMasterId": 5002,
+    "Type": "CircleBattleSecondHalf",
+    "Name": "殲滅戦本戦",
+    "Order": 3,
+    "AssetId": "60020",
+    "DailyTryCount": 3,
+    "DayOfWeekFlags": "None",
+    "BackgroundAssetType": "Adventure"
+  },
+  {
+    "type": "LocationMaster",
+    "Id": 16012,
+    "EventMasterId": 5002,
+    "Type": "CircleBattleMockBattle",
+    "Name": "殲滅戦模擬戦",
+    "Order": 4,
+    "AssetId": "60020",
+    "DailyTryCount": null,
+    "DayOfWeekFlags": "None",
+    "BackgroundAssetType": "Adventure"
+  },
+  {
+    "type": "LocationMaster",
     "Id": 17001,
     "EventMasterId": 3000,
     "Type": "EventQuestNormal",
@@ -671,6 +719,18 @@
     "Name": "ブランディング・オーバードライブ",
     "Order": 1,
     "AssetId": "400",
+    "DailyTryCount": null,
+    "DayOfWeekFlags": "None",
+    "BackgroundAssetType": "Adventure"
+  },
+  {
+    "type": "LocationMaster",
+    "Id": 17003,
+    "EventMasterId": 3002,
+    "Type": "EventQuestNormal",
+    "Name": "混沌のパラディグマ",
+    "Order": 1,
+    "AssetId": "530",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
     "BackgroundAssetType": "Adventure"
