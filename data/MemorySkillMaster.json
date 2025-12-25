@@ -71,6 +71,13 @@
   },
   {
     "type": "MemorySkillMaster",
+    "Id": 100101,
+    "Order": 1,
+    "MemoryMasterId": 10010,
+    "SkillMasterId": 400105
+  },
+  {
+    "type": "MemorySkillMaster",
     "Id": 100111,
     "Order": 1,
     "MemoryMasterId": 10011,
