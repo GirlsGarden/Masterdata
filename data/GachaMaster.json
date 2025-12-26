@@ -698,6 +698,23 @@
   },
   {
     "type": "GachaMaster",
+    "Id": 70003,
+    "Type": "PickUp",
+    "Name": "スタンダードガチャ【シャイ属性ピックアップ】",
+    "Description": "有償/無償ジェム・スタンダードガチャチケットを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \n本ガチャでは、ガチャ1回毎にスタンダードガチャポイントが1獲得できます。\n※スタンダードガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。",
+    "StartDate": "2025-12-26T20:00:00+08:00",
+    "EndDate": "2026-01-09T12:59:59+08:00",
+    "Order": 81,
+    "BannerAssetId": "70003",
+    "BackgroundAssetId": "70003",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Image",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null
+  },
+  {
+    "type": "GachaMaster",
     "Id": 80001,
     "Type": "PaidPickup",
     "Name": "DMM POINT限定 LIMITED CHARACTERピックアップガチャ【鑑純夏】",
