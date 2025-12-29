@@ -934,5 +934,23 @@
     "ThingType": "Memory",
     "ThingId": 20040,
     "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200331,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20033,
+    "ThingType": "Item",
+    "ThingId": 20022,
+    "ThingQuantity": 5
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200341,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20034,
+    "ThingType": "HomeSoundtrack",
+    "ThingId": 40,
+    "ThingQuantity": 1
   }
 ]

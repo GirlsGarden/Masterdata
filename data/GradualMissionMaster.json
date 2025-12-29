@@ -40,5 +40,47 @@
     "Id": 17,
     "GradualMissionGroupMasterId": 1,
     "Days": 7
+  },
+  {
+    "type": "GradualMissionMaster",
+    "Id": 21,
+    "GradualMissionGroupMasterId": 2,
+    "Days": 1
+  },
+  {
+    "type": "GradualMissionMaster",
+    "Id": 22,
+    "GradualMissionGroupMasterId": 2,
+    "Days": 2
+  },
+  {
+    "type": "GradualMissionMaster",
+    "Id": 23,
+    "GradualMissionGroupMasterId": 2,
+    "Days": 3
+  },
+  {
+    "type": "GradualMissionMaster",
+    "Id": 24,
+    "GradualMissionGroupMasterId": 2,
+    "Days": 4
+  },
+  {
+    "type": "GradualMissionMaster",
+    "Id": 25,
+    "GradualMissionGroupMasterId": 2,
+    "Days": 5
+  },
+  {
+    "type": "GradualMissionMaster",
+    "Id": 26,
+    "GradualMissionGroupMasterId": 2,
+    "Days": 6
+  },
+  {
+    "type": "GradualMissionMaster",
+    "Id": 27,
+    "GradualMissionGroupMasterId": 2,
+    "Days": 7
   }
 ]

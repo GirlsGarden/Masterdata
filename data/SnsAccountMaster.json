@@ -37,6 +37,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 100001,
+    "Type": "Character",
+    "DisplayName": "桃園める",
+    "Name": "@Meru_M",
+    "AssetId": "100001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 100201,
     "Type": "Character",
     "DisplayName": "桃園める「ドジで純粋な未来のエース」",
@@ -52,6 +61,15 @@
     "Name": "@Meru_M",
     "AssetId": "100301",
     "CharacterMasterId": 100301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 101001,
+    "Type": "Character",
+    "DisplayName": "鳴滝七彩",
+    "Name": "@Nanairo_N",
+    "AssetId": "101001c",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",
@@ -91,6 +109,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 102302,
+    "Type": "Character",
+    "DisplayName": "月ヶ瀬ちゆる「新春のメイズ研究者」",
+    "Name": "@Chiyuru_T",
+    "AssetId": "102302",
+    "CharacterMasterId": 102302
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 103201,
     "Type": "Character",
     "DisplayName": "朽葉ラミ「お金大好きな生意気娘」",
@@ -106,6 +133,24 @@
     "Name": "@Rami_K",
     "AssetId": "103301",
     "CharacterMasterId": 103301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 103302,
+    "Type": "Character",
+    "DisplayName": "朽葉ラミ「大吉ハッピーニューイヤー」",
+    "Name": "@Rami_K",
+    "AssetId": "103302",
+    "CharacterMasterId": 103302
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 104001,
+    "Type": "Character",
+    "DisplayName": "一条白奈",
+    "Name": "@Shirona_I",
+    "AssetId": "104001c",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",

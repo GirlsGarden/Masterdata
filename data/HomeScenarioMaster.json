@@ -886,5 +886,29 @@
     "EpisodeMasterId": 500017,
     "IsAnimation": true,
     "AssetId": "s200011"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2021,
+    "Order": 1021,
+    "EpisodeMasterId": 500018,
+    "IsAnimation": true,
+    "AssetId": "s200012"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2022,
+    "Order": 1022,
+    "EpisodeMasterId": 500019,
+    "IsAnimation": true,
+    "AssetId": "s300006"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2023,
+    "Order": 1023,
+    "EpisodeMasterId": 500019,
+    "IsAnimation": false,
+    "AssetId": "s300006"
   }
 ]

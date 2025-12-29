@@ -8,5 +8,15 @@
     "Period": null,
     "StartDate": null,
     "EndDate": null
+  },
+  {
+    "type": "GradualMissionGroupMaster",
+    "Id": 2,
+    "Title": "謹賀新年ミッション",
+    "AssetId": "2",
+    "BackgroundAssetId": "1",
+    "Period": null,
+    "StartDate": "2026-01-01T08:00:00+08:00",
+    "EndDate": "2026-01-13T12:59:59+08:00"
   }
 ]

@@ -18,5 +18,25 @@
     "IsDefault": false,
     "JumpType": null,
     "JumpTargetId": null
+  },
+  {
+    "type": "SdCharacterMaster",
+    "Id": 3,
+    "Order": 3,
+    "Name": "ピコ【ダンボール】",
+    "AssetId": "mn10011",
+    "IsDefault": false,
+    "JumpType": null,
+    "JumpTargetId": null
+  },
+  {
+    "type": "SdCharacterMaster",
+    "Id": 4,
+    "Order": 4,
+    "Name": "朽葉ラミ【振袖】",
+    "AssetId": "m103302",
+    "IsDefault": false,
+    "JumpType": null,
+    "JumpTargetId": null
   }
 ]

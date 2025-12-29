@@ -1265,6 +1265,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20070111,
+    "SceneBranchMasterId": 2007011,
+    "Answer": "（唇をそっとくっつける）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20070112,
+    "SceneBranchMasterId": 2007011,
+    "Answer": "（いっそのこと舌を絡めてみる）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20070311,
+    "SceneBranchMasterId": 2007031,
+    "Answer": "ラミ、俺のことはいいから……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20070312,
+    "SceneBranchMasterId": 2007031,
+    "Answer": "少し落ち着いたらどうだ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -1937,6 +1969,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40005211,
+    "SceneBranchMasterId": 4000521,
+    "Answer": "お姉ちゃんしてるなぁ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40005212,
+    "SceneBranchMasterId": 4000521,
+    "Answer": "ラミお姉ちゅわぁ～～～～ん！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -2156,6 +2204,22 @@
     "Id": 50001712,
     "SceneBranchMasterId": 5000171,
     "Answer": "別の事を考えていた",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001811,
+    "SceneBranchMasterId": 5000181,
+    "Answer": "（かわいい）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50001812,
+    "SceneBranchMasterId": 5000181,
+    "Answer": "（似合ってる）",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -5422,6 +5486,70 @@
     "Answer": "それよりも隣においで",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1403011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020411,
+    "SceneBranchMasterId": 6102041,
+    "Answer": "まずい、隠れるぞ！",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1033021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020412,
+    "SceneBranchMasterId": 6102041,
+    "Answer": "窓から逃げるぞ！",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1033022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020511,
+    "SceneBranchMasterId": 6102051,
+    "Answer": "お雑煮セットにしよう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1033021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020512,
+    "SceneBranchMasterId": 6102051,
+    "Answer": "きな粉餅セットを奢ってやる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1033022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020611,
+    "SceneBranchMasterId": 6102061,
+    "Answer": "よしよしする……ラミを",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1033021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020612,
+    "SceneBranchMasterId": 6102061,
+    "Answer": "よしよしする……猫を",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1033022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020711,
+    "SceneBranchMasterId": 6102071,
+    "Answer": "ゆっくり",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1033021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61020712,
+    "SceneBranchMasterId": 6102071,
+    "Answer": "思いっきり",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1033022
   },
   {
     "type": "SceneBranchSelectionMaster",

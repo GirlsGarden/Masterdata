@@ -2011,6 +2011,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20070101,
+    "EpisodeMasterId": 200701,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "思い描く『将来』の色は……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20070201,
+    "EpisodeMasterId": 200702,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "突然の報せと家庭事情",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20070301,
+    "EpisodeMasterId": 200703,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "重ねた過去とすれ違い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20070401,
+    "EpisodeMasterId": 200704,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "初夢のような将来",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20070501,
+    "EpisodeMasterId": 200705,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "後正月イベント1話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20070601,
+    "EpisodeMasterId": 200706,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "後正月イベント2話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20070701,
+    "EpisodeMasterId": 200707,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "後正月イベント3話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20070801,
+    "EpisodeMasterId": 200708,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "後正月イベント4話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -3111,6 +3191,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40005201,
+    "EpisodeMasterId": 400052,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ラミ弟妹の学園訪問",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40005202,
+    "EpisodeMasterId": 400052,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ラミ弟妹の学園訪問",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -3407,6 +3507,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "混沌へと至る過去",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001801,
+    "EpisodeMasterId": 500018,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "知らない君の景色を巡って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001802,
+    "EpisodeMasterId": 500018,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "知らない君の景色を巡って",
     "AssetId": null
   },
   {
@@ -5447,6 +5567,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "おねんね",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61020401,
+    "EpisodeMasterId": 610204,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "誰もいない校舎で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61020501,
+    "EpisodeMasterId": 610205,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お正月限定メニュー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61020601,
+    "EpisodeMasterId": 610206,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "よしよししよう",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61020701,
+    "EpisodeMasterId": 610207,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "羽根突きの罰ゲーム",
     "AssetId": null
   }
 ]

@@ -445,6 +445,30 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 38,
+    "Name": "Girls New Year!",
+    "Order": 38,
+    "LengthSeconds": 95,
+    "IsRequiredUnlock": true,
+    "AssetId": "10027",
+    "StartLoopPointSampleCounts": 1531677,
+    "EndLoopPointSampleCounts": 5345732,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 39,
+    "Name": "Sunrise Temple",
+    "Order": 39,
+    "LengthSeconds": 100,
+    "IsRequiredUnlock": true,
+    "AssetId": "20010",
+    "StartLoopPointSampleCounts": 525590,
+    "EndLoopPointSampleCounts": 4585206,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

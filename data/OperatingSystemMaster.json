@@ -22,10 +22,24 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 102302,
+    "Name": "精密調理おもち",
+    "Description": "月ヶ瀬ちゆる「新春のメイズ研究者」の専用OSです。",
+    "AssetId": "102302"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 103301,
     "Name": "BLACK GOLD",
     "Description": "朽葉ラミ「負けず嫌いな不屈少女」の専用OSです。",
     "AssetId": "103301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 103302,
+    "Name": "大吉のおみくじ",
+    "Description": "朽葉ラミ「大吉ハッピーニューイヤー」の専用OSです。",
+    "AssetId": "103302"
   },
   {
     "type": "OperatingSystemMaster",

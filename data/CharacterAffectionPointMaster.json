@@ -145,5 +145,12 @@
     "ItemMasterId": 20000,
     "NormalPoint": 10,
     "FavoritePoint": 10
+  },
+  {
+    "type": "CharacterAffectionPointMaster",
+    "Id": 22,
+    "ItemMasterId": 20022,
+    "NormalPoint": 20,
+    "FavoritePoint": 20
   }
 ]

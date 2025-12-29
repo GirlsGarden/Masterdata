@@ -201,6 +201,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10012,
+    "Rarity": "Sr",
+    "Name": "知らない君の景色を巡って",
+    "Description": "一気に全部を知ってもらうんじゃなくて、\\n少しずつ今のわたしの『本当』をみんなに伝えていく――",
+    "AssetId": "10015",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 16,
+        "CharacterType": null,
+        "SkillMasterId": 400114,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -1502,6 +1525,76 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20042,
+    "Rarity": "Ssr",
+    "Name": "ラミ弟妹の学園訪問",
+    "Description": "はーい、ふたりともそこまでー。\\n道端でケンカしないの。他に歩いている人達いるでしょ？",
+    "AssetId": "103302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 103,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400110,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Cute",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400111,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20043,
+    "Rarity": "Ssr",
+    "Name": "お正月っぽいこと→餅パしよう♪",
+    "Description": "ねえねえ、それよりどう？　似合う？\\nホント？　見飽きてない？",
+    "AssetId": "102302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 102,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400112,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 4,
+        "CharacterType": null,
+        "SkillMasterId": 400113,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -1843,5 +1936,50 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30015,
+    "Rarity": "Ur",
+    "Name": "桃園家のお正月",
+    "Description": "ん～、やっぱりお母さんの黒豆最高～っ！\\nお母さん！　この黒豆のレシピ、あとで教えて！",
+    "AssetId": "30016",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": "Physical",
+        "SkillMasterId": 400115,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": "Agility",
+        "SkillMasterId": 400116,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30016,
+    "Rarity": "Ur",
+    "Name": "新年のご挨拶",
+    "Description": "あけましておめでとうございます。ザルトゥーム学園がより素晴らしくなるよう精進いたします。\\n今年もお力添えいただけると幸いです。",
+    "AssetId": "30018",
+    "Highlights": null,
+    "IsReleased": false
   }
 ]

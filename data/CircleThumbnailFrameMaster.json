@@ -54,5 +54,47 @@
     "Order": 8,
     "IsDefault": false,
     "AssetId": "30001"
+  },
+  {
+    "type": "CircleThumbnailFrameMaster",
+    "Id": 9,
+    "Order": 9,
+    "IsDefault": false,
+    "AssetId": "30002"
+  },
+  {
+    "type": "CircleThumbnailFrameMaster",
+    "Id": 10,
+    "Order": 10,
+    "IsDefault": false,
+    "AssetId": "30003"
+  },
+  {
+    "type": "CircleThumbnailFrameMaster",
+    "Id": 11,
+    "Order": 11,
+    "IsDefault": false,
+    "AssetId": "30004"
+  },
+  {
+    "type": "CircleThumbnailFrameMaster",
+    "Id": 12,
+    "Order": 12,
+    "IsDefault": false,
+    "AssetId": "30007"
+  },
+  {
+    "type": "CircleThumbnailFrameMaster",
+    "Id": 13,
+    "Order": 13,
+    "IsDefault": false,
+    "AssetId": "30006"
+  },
+  {
+    "type": "CircleThumbnailFrameMaster",
+    "Id": 14,
+    "Order": 14,
+    "IsDefault": false,
+    "AssetId": "30005"
   }
 ]

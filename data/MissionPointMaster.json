@@ -4,27 +4,39 @@
     "Id": 1,
     "Type": "DailyMission",
     "IsDisplayReward": true,
-    "AssetId": null
+    "AssetId": null,
+    "MissionMasterId": null
   },
   {
     "type": "MissionPointMaster",
     "Id": 2,
     "Type": "WeeklyMission",
     "IsDisplayReward": true,
-    "AssetId": null
+    "AssetId": null,
+    "MissionMasterId": null
   },
   {
     "type": "MissionPointMaster",
     "Id": 3,
     "Type": "GradualMission",
     "IsDisplayReward": false,
-    "AssetId": null
+    "AssetId": null,
+    "MissionMasterId": 190001
+  },
+  {
+    "type": "MissionPointMaster",
+    "Id": 4,
+    "Type": "GradualMission",
+    "IsDisplayReward": false,
+    "AssetId": null,
+    "MissionMasterId": 190002
   },
   {
     "type": "MissionPointMaster",
     "Id": 9990,
     "Type": "EventGoalMission",
     "IsDisplayReward": true,
-    "AssetId": null
+    "AssetId": null,
+    "MissionMasterId": null
   }
 ]

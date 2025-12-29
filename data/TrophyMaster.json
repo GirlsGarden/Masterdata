@@ -4771,6 +4771,21 @@
   },
   {
     "type": "TrophyMaster",
+    "Id": 30213,
+    "Name": "ハァハァ初詣",
+    "GroupNumber": 22,
+    "Order": 1,
+    "Type": "Event",
+    "Rank": 1,
+    "UnlockDescription": "ミニゲーム「ラミちゃんのハァハァ初詣」に20回チャレンジする",
+    "FlavorText": null,
+    "TrophyFrameMasterId": null,
+    "TrophyIndicatorMasterId": 1002,
+    "IllustrationAssetId": "900007",
+    "IllustrationType": "Default"
+  },
+  {
+    "type": "TrophyMaster",
     "Id": 200910,
     "Name": "総戦力",
     "GroupNumber": 9,
