@@ -46,21 +46,6 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 1013,
-    "Order": 1,
-    "ImageStaticPath": "2011",
-    "StartDate": "2025-12-16T20:30:00+08:00",
-    "EndDate": "2025-12-30T12:59:59+08:00",
-    "JumpType": "EventTop",
-    "JumpTargetId": 11,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": 59
-  },
-  {
-    "type": "BannerMaster",
     "Id": 1014,
     "Order": 1,
     "ImageStaticPath": "1002",
