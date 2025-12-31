@@ -721,6 +721,22 @@
   },
   {
     "type": "HomeScenarioMaster",
+    "Id": 103,
+    "Order": 91,
+    "EpisodeMasterId": 400052,
+    "IsAnimation": true,
+    "AssetId": "c103302"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 104,
+    "Order": 92,
+    "EpisodeMasterId": 400052,
+    "IsAnimation": false,
+    "AssetId": "c103302"
+  },
+  {
+    "type": "HomeScenarioMaster",
     "Id": 2000,
     "Order": 1000,
     "EpisodeMasterId": 500003,

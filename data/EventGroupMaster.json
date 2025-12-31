@@ -194,5 +194,19 @@
     "LogoFrameAssetId": null,
     "MovieAssetId": null,
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 15,
+    "Name": "初夢に昇るソレイユ",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-01-01T00:00:00+09:00",
+    "QuestCloseDate": "2026-01-13T04:59:59+09:00",
+    "EndDate": "2026-01-20T04:59:59+09:00",
+    "Order": 14,
+    "LogoAssetId": "10",
+    "LogoFrameAssetId": "100",
+    "MovieAssetId": "20010",
+    "IntroductionEpisodeMasterId": null
   }
 ]

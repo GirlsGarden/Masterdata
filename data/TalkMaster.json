@@ -97,6 +97,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1033021,
+    "CallCharacterMasterId": 103302,
+    "Order": 103003,
+    "Title": "明日も神社！",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 103302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400052
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1042011,
     "CallCharacterMasterId": 104201,
     "Order": 104001,

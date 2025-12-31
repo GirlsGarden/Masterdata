@@ -414,5 +414,18 @@
     "ChapterGroupMasterId": 0,
     "Interlude": null,
     "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 200013,
+    "Title": "FIRST",
+    "SubTitle": "イベントストーリー",
+    "Order": 1,
+    "EventMasterId": 1012,
+    "AssetId": "2012",
+    "Overview": null,
+    "ChapterGroupMasterId": 0,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
   }
 ]

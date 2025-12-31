@@ -985,6 +985,66 @@
   },
   {
     "type": "GachaDetailCostMaster",
+    "Id": 2001611,
+    "GachaDetailMasterId": 200161,
+    "Cost": 1,
+    "GemType": "Paid",
+    "Gem": 150,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 2001621,
+    "GachaDetailMasterId": 200162,
+    "Cost": 1,
+    "GemType": "All",
+    "Gem": 300,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 2001622,
+    "GachaDetailMasterId": 200162,
+    "Cost": 1,
+    "GemType": "Unknown",
+    "Gem": null,
+    "ItemPriority": 1,
+    "ItemMasterId": 90002,
+    "ItemQuantity": 1,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 2001631,
+    "GachaDetailMasterId": 200163,
+    "Cost": 1,
+    "GemType": "All",
+    "Gem": 300,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 2001632,
+    "GachaDetailMasterId": 200163,
+    "Cost": 1,
+    "GemType": "Unknown",
+    "Gem": null,
+    "ItemPriority": 1,
+    "ItemMasterId": 90002,
+    "ItemQuantity": 1,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
     "Id": 3000111,
     "GachaDetailMasterId": 300011,
     "Cost": 1,
@@ -1345,6 +1405,18 @@
   },
   {
     "type": "GachaDetailCostMaster",
+    "Id": 4001611,
+    "GachaDetailMasterId": 400161,
+    "Cost": 1,
+    "GemType": "Unknown",
+    "Gem": null,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": 242
+  },
+  {
+    "type": "GachaDetailCostMaster",
     "Id": 6000111,
     "GachaDetailMasterId": 600011,
     "Cost": 1,
@@ -1618,5 +1690,17 @@
     "ItemMasterId": null,
     "ItemQuantity": null,
     "PlatformProductMasterId": 182
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 9000211,
+    "GachaDetailMasterId": 900021,
+    "Cost": 1,
+    "GemType": "Unknown",
+    "Gem": null,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": 289
   }
 ]

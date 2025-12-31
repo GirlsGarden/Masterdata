@@ -17468,6 +17468,1221 @@
   },
   {
     "type": "GachaLineup",
+    "Id": 200161,
+    "GachaDetailMasterId": 200161,
+    "Boxes": [
+      {
+        "type": "GachaLineupBox",
+        "GachaBoxMasterId": 2001611,
+        "RarityProbabilities": {
+          "1": 0.64,
+          "2": 0.32,
+          "3": 0.04
+        },
+        "PrizeCount": 10,
+        "ThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 125101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 126101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 127101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 128101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 100201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 101201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 102201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 104201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 122201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 123201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 124201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 100301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 101301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 102301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 104301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 105301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 106301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 109301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 111301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 112301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 114301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 118301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 119301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 120301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 131301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 130301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 129301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 128301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 127301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 138301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 139301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 115301,
+            "Quantity": 1,
+            "Probability": 0.0002,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 121301,
+            "Quantity": 1,
+            "Probability": 0.0002,
+            "CanSelectWish": false
+          }
+        ],
+        "PickupThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103302,
+            "Quantity": 1,
+            "Probability": 0.0075,
+            "CanSelectWish": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "GachaLineup",
+    "Id": 200162,
+    "GachaDetailMasterId": 200162,
+    "Boxes": [
+      {
+        "type": "GachaLineupBox",
+        "GachaBoxMasterId": 2001621,
+        "RarityProbabilities": {
+          "1": 0.64,
+          "2": 0.32,
+          "3": 0.04
+        },
+        "PrizeCount": 1,
+        "ThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 125101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 126101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 127101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 128101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 100201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 101201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 102201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 104201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 122201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 123201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 124201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 100301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 101301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 102301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 104301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 105301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 106301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 109301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 111301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 112301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 114301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 118301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 119301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 120301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 131301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 130301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 129301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 128301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 127301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 138301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 139301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 115301,
+            "Quantity": 1,
+            "Probability": 0.0002,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 121301,
+            "Quantity": 1,
+            "Probability": 0.0002,
+            "CanSelectWish": false
+          }
+        ],
+        "PickupThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103302,
+            "Quantity": 1,
+            "Probability": 0.0075,
+            "CanSelectWish": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "GachaLineup",
+    "Id": 200163,
+    "GachaDetailMasterId": 200163,
+    "Boxes": [
+      {
+        "type": "GachaLineupBox",
+        "GachaBoxMasterId": 2001631,
+        "RarityProbabilities": {
+          "1": 0.64,
+          "2": 0.32,
+          "3": 0.04
+        },
+        "PrizeCount": 10,
+        "ThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 125101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 126101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 127101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 128101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 100201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 101201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 102201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 104201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 122201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 123201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 124201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 100301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 101301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 102301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 104301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 105301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 106301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 109301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 111301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 112301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 114301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 118301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 119301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 120301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 131301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 130301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 129301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 128301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 127301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 138301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 139301,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108302,
+            "Quantity": 1,
+            "Probability": 0.0009727273,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 115301,
+            "Quantity": 1,
+            "Probability": 0.0002,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 121301,
+            "Quantity": 1,
+            "Probability": 0.0002,
+            "CanSelectWish": false
+          }
+        ],
+        "PickupThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103302,
+            "Quantity": 1,
+            "Probability": 0.0075,
+            "CanSelectWish": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "GachaLineup",
     "Id": 300011,
     "GachaDetailMasterId": 300011,
     "Boxes": [
@@ -25796,6 +27011,411 @@
   },
   {
     "type": "GachaLineup",
+    "Id": 400161,
+    "GachaDetailMasterId": 400161,
+    "Boxes": [
+      {
+        "type": "GachaLineupBox",
+        "GachaBoxMasterId": 4001611,
+        "RarityProbabilities": {
+          "1": 0.64,
+          "2": 0.32,
+          "3": 0.04
+        },
+        "PrizeCount": 10,
+        "ThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 125101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 126101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 127101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 128101,
+            "Quantity": 1,
+            "Probability": 0.16,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 100201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 101201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 102201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 104201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 122201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 123201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 124201,
+            "Quantity": 1,
+            "Probability": 0.04,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 100301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 101301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 102301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 104301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 105301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 106301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 109301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 111301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 112301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 114301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 118301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 119301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 120301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 131301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 130301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 129301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 128301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 127301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116302,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117302,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 138301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 139301,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113302,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110302,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107302,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108302,
+            "Quantity": 1,
+            "Probability": 0.00074545457,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 115301,
+            "Quantity": 1,
+            "Probability": 0.0002,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 121301,
+            "Quantity": 1,
+            "Probability": 0.0002,
+            "CanSelectWish": false
+          }
+        ],
+        "PickupThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103302,
+            "Quantity": 1,
+            "Probability": 0.015,
+            "CanSelectWish": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "GachaLineup",
     "Id": 600011,
     "GachaDetailMasterId": 600011,
     "Boxes": [
@@ -31959,6 +33579,322 @@
             "ThingId": 108302,
             "Quantity": 1,
             "Probability": 0.0012,
+            "CanSelectWish": false
+          }
+        ],
+        "PickupThingProbabilities": null
+      }
+    ]
+  },
+  {
+    "type": "GachaLineup",
+    "Id": 900021,
+    "GachaDetailMasterId": 900021,
+    "Boxes": [
+      {
+        "type": "GachaLineupBox",
+        "GachaBoxMasterId": 9000211,
+        "RarityProbabilities": {
+          "3": 1
+        },
+        "PrizeCount": 1,
+        "ThingProbabilities": null,
+        "PickupThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 115301,
+            "Quantity": 1,
+            "Probability": 0.5,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 121301,
+            "Quantity": 1,
+            "Probability": 0.5,
+            "CanSelectWish": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "GachaLineup",
+    "Id": 900031,
+    "GachaDetailMasterId": 900031,
+    "Boxes": [
+      {
+        "type": "GachaLineupBox",
+        "GachaBoxMasterId": 9000311,
+        "RarityProbabilities": {
+          "3": 1
+        },
+        "PrizeCount": 1,
+        "ThingProbabilities": [
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 100301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 101301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 102301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 103301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 104301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 105301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 106301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 109301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 111301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 112301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 114301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 118301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 119301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 120301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 131301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 130301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 129301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 128301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 127301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 116302,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 117302,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 138301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 139301,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 113302,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 110302,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 107302,
+            "Quantity": 1,
+            "Probability": 0.030303031,
+            "CanSelectWish": false
+          },
+          {
+            "type": "GachaLineupBoxThing",
+            "ThingType": "Character",
+            "ThingId": 108302,
+            "Quantity": 1,
+            "Probability": 0.030303031,
             "CanSelectWish": false
           }
         ],
