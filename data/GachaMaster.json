@@ -763,5 +763,22 @@
     "BackgroundAssetType": "Movie",
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011"
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 90001,
+    "Type": "Campaign",
+    "Name": "ゆく年くる年！最大100連！毎日無料10連ガチャ",
+    "Description": "期間中無料で利用できるガチャです。\n\n【ガチャポイントについて】 \n本ガチャでは、ガチャポイントが獲得できません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。",
+    "StartDate": "2025-12-30T20:00:00+08:00",
+    "EndDate": "2026-01-09T12:59:59+08:00",
+    "Order": 1,
+    "BannerAssetId": "90001",
+    "BackgroundAssetId": "90001",
+    "ExchangeMasterId": null,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null
   }
 ]
