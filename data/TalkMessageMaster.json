@@ -529,6 +529,72 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 10230211,
+    "TalkMasterId": 1023021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし～？　%usernameusernameuserna%、あけおめ～！\n――なんて、さすがにもうそろそろこの挨拶も賞味期限切れかな？",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10230212,
+    "TalkMasterId": 1023021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "いやぁ、餅パ楽しかったね～！\nまあ、さすがにあんだけの量あったからか、食べ切れなかったけど。\n……どうする、この余り。シリウスシュガーのみんなに配っちゃう？",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10230213,
+    "TalkMasterId": 1023021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "え？　また餅パやればいい？\nまあ、それはそうかもしれないけど、お正月はもう終わりじゃない？",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10230214,
+    "TalkMasterId": 1023021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "いやでも、別に楽しいことはお正月に限らず、\n好きなときにやればいっか。じゃあ、第２回餅パ開催決定ってことで♪\nまたグラウンドに七輪持ち出してやっちゃおう！",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10230215,
+    "TalkMasterId": 1023021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "もし第１回をふたりでやったなんて言ったら、\nめるちゃん達ってばきっと別のおモチ焼いちゃうんだろうなぁ～。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10230216,
+    "TalkMasterId": 1023021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "ん？　なんのおモチかって？\nふふ、それは乙女のヒ・ミ・ツ♪",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 10320111,
     "TalkMasterId": 1032011,
     "Order": 1,

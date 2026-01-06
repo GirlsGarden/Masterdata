@@ -8326,6 +8326,141 @@
   },
   {
     "type": "RewardMaster",
+    "Id": 20200221,
+    "RewardPackageMasterId": 2020022,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100008,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200222,
+    "RewardPackageMasterId": 2020022,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100015,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200223,
+    "RewardPackageMasterId": 2020022,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 22
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200231,
+    "RewardPackageMasterId": 2020023,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100008,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200232,
+    "RewardPackageMasterId": 2020023,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100015,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200233,
+    "RewardPackageMasterId": 2020023,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 23
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200241,
+    "RewardPackageMasterId": 2020024,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100008,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200242,
+    "RewardPackageMasterId": 2020024,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100015,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200243,
+    "RewardPackageMasterId": 2020024,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 24
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200251,
+    "RewardPackageMasterId": 2020025,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100008,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200252,
+    "RewardPackageMasterId": 2020025,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100015,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200253,
+    "RewardPackageMasterId": 2020025,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 25
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200261,
+    "RewardPackageMasterId": 2020026,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100008,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200262,
+    "RewardPackageMasterId": 2020026,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100015,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 20200263,
+    "RewardPackageMasterId": 2020026,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 26
+  },
+  {
+    "type": "RewardMaster",
     "Id": 20250011,
     "RewardPackageMasterId": 2025001,
     "Order": 0,

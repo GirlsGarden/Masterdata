@@ -469,6 +469,18 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 40,
+    "Name": "New Year Dance",
+    "Order": 40,
+    "LengthSeconds": 86,
+    "IsRequiredUnlock": true,
+    "AssetId": "70001",
+    "StartLoopPointSampleCounts": 0,
+    "EndLoopPointSampleCounts": 3803625,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

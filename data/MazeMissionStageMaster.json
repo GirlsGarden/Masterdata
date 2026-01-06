@@ -538,5 +538,50 @@
     "StageGoalValue": 300,
     "Name": "【新レリック解放】ビーストミート",
     "Description": "指揮官ランクが300に到達する事でレリック【(SR)ビーストミート】がメイズ探索中に発見される事がある。"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000110,
+    "MazeMissionMasterId": 20001,
+    "Order": 11,
+    "StageGoalValue": 210,
+    "Name": "【新レリック解放】リスキースロット",
+    "Description": "メイズ探索第210エリアをクリアでレリック【リスキースロット】がクラフトキットから制作できる事がある。\t\t\t\t\t\t\t\t"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000111,
+    "MazeMissionMasterId": 20001,
+    "Order": 12,
+    "StageGoalValue": 220,
+    "Name": "【新レリック解放】ミートコンボ",
+    "Description": "メイズ探索第220エリアをクリアでレリック【ミートコンボ】がクラフトキットから制作できる事がある。\t\t\t\t\t\t\t\t"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000112,
+    "MazeMissionMasterId": 20001,
+    "Order": 13,
+    "StageGoalValue": 230,
+    "Name": "【新レリック解放】クォーツアルケミー",
+    "Description": "メイズ探索第230エリアをクリアでレリック【クォーツアルケミー】がクラフトキットから制作できる事がある。\t\t\t\t\t\t\t\t"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000113,
+    "MazeMissionMasterId": 20001,
+    "Order": 14,
+    "StageGoalValue": 240,
+    "Name": "【新レリック解放】ジャックオランタン",
+    "Description": "メイズ探索第240エリアをクリアでレリック【ジャックオランタン】がクラフトキットから制作できる事がある。\t\t\t\t\t\t\t\t"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000114,
+    "MazeMissionMasterId": 20001,
+    "Order": 15,
+    "StageGoalValue": 250,
+    "Name": "【新レリック解放】デュアルエレメント",
+    "Description": "メイズ探索第250エリアをクリアでレリック【デュアルエレメント】がメイズ探索中に発見される事がある。\t\t\t\t\t\t\t\t"
   }
 ]

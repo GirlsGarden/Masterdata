@@ -2056,7 +2056,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "後正月イベント1話",
+    "Title": "願うなら、今だけはワガママに",
     "AssetId": null
   },
   {
@@ -2066,7 +2066,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "後正月イベント2話",
+    "Title": "時よ、もう少しだけ",
     "AssetId": null
   },
   {
@@ -2076,7 +2076,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "後正月イベント3話",
+    "Title": "親と子",
     "AssetId": null
   },
   {
@@ -2086,7 +2086,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "後正月イベント4話",
+    "Title": "今年もよろしくお願いします！",
     "AssetId": null
   },
   {
@@ -3211,6 +3211,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40005301,
+    "EpisodeMasterId": 400053,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お正月っぽいこと→餅パしよう♪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40005302,
+    "EpisodeMasterId": 400053,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "お正月っぽいこと→餅パしよう♪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -3527,6 +3547,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "知らない君の景色を巡って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001901,
+    "EpisodeMasterId": 500019,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "桃園家のお正月",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50001902,
+    "EpisodeMasterId": 500019,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "桃園家のお正月",
     "AssetId": null
   },
   {
@@ -5607,6 +5647,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "羽根突きの罰ゲーム",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61020801,
+    "EpisodeMasterId": 610208,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "鍵はいずこ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61020901,
+    "EpisodeMasterId": 610209,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "正月限定ドリンク",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61021001,
+    "EpisodeMasterId": 610210,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "換気をしよう",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61022001,
+    "EpisodeMasterId": 610211,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "仲間として",
     "AssetId": null
   }
 ]

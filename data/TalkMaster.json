@@ -73,6 +73,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1023021,
+    "CallCharacterMasterId": 102302,
+    "Order": 102003,
+    "Title": "第2回餅パ開催決定",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 102302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400053
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1032011,
     "CallCharacterMasterId": 103201,
     "Order": 103001,
