@@ -208,5 +208,19 @@
     "LogoFrameAssetId": "100",
     "MovieAssetId": "20010",
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 16,
+    "Name": "ホワイトアウト・エスケープ",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-01-13T12:30:00+09:00",
+    "QuestCloseDate": "2026-01-27T04:59:59+09:00",
+    "EndDate": "2026-02-03T04:59:59+09:00",
+    "Order": 15,
+    "LogoAssetId": "11",
+    "LogoFrameAssetId": "100",
+    "MovieAssetId": "20011",
+    "IntroductionEpisodeMasterId": null
   }
 ]

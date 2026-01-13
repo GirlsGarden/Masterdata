@@ -607,5 +607,33 @@
     "Type": "FlashRelay",
     "ActiveHours": 3,
     "EffectType": "NewYear"
+  },
+  {
+    "type": "FlashMaster",
+    "Id": 1088,
+    "Type": "FlashTierSale",
+    "ActiveHours": 1,
+    "EffectType": "Normal"
+  },
+  {
+    "type": "FlashMaster",
+    "Id": 1089,
+    "Type": "FlashTierSale",
+    "ActiveHours": 1,
+    "EffectType": "Normal"
+  },
+  {
+    "type": "FlashMaster",
+    "Id": 1090,
+    "Type": "FlashRelay",
+    "ActiveHours": 1,
+    "EffectType": "Normal"
+  },
+  {
+    "type": "FlashMaster",
+    "Id": 1091,
+    "Type": "FlashRelay",
+    "ActiveHours": 1,
+    "EffectType": "Normal"
   }
 ]

@@ -224,6 +224,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10013,
+    "Rarity": "Sr",
+    "Name": "雪山のもうひとつの噂",
+    "Description": "まだ見ていない景色は沢山ありますわ。\\nその時には……その、ご一緒してもよろしくて？",
+    "AssetId": "10016",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 32,
+        "CharacterType": null,
+        "SkillMasterId": 400118,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -1595,6 +1618,76 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20044,
+    "Rarity": "Ssr",
+    "Name": "初めての雪合戦",
+    "Description": "な、なんでぇ～！？ちゃんと練習もしてるし、\\n普段から特訓だって……いだぁあああい！？",
+    "AssetId": "125301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 125,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400119,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 4,
+        "CharacterType": null,
+        "SkillMasterId": 400120,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20045,
+    "Rarity": "Ssr",
+    "Name": "熱と湿度と介抱と",
+    "Description": "お姉ちゃんとして……弟と妹には、\\nカッコいい姿を見せてあげたいなーって思うの。",
+    "AssetId": "126301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 126,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400121,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Control",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400096,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -1981,5 +2074,40 @@
     "AssetId": "30018",
     "Highlights": null,
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30017,
+    "Rarity": "Ur",
+    "Name": "密着！？テントの中の珍騒動",
+    "Description": "あはは！　楽しいかも！　ほらほらー！\\nおしくらまんじゅう、押されて泣くなー！",
+    "AssetId": "30017",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 501,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400122,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400123,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

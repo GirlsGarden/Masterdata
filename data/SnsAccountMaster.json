@@ -487,6 +487,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 125301,
+    "Type": "Character",
+    "DisplayName": "ジュリー・ステイシー「雪山もこもこ少女」",
+    "Name": "@Julie_S",
+    "AssetId": "125301",
+    "CharacterMasterId": 125301
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 126001,
     "Type": "Character",
     "DisplayName": "黒森ラウラ",
@@ -505,6 +514,24 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 126301,
+    "Type": "Character",
+    "DisplayName": "黒森ラウラ",
+    "Name": "@Laura_K",
+    "AssetId": "126301",
+    "CharacterMasterId": 126301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 127001,
+    "Type": "Character",
+    "DisplayName": "樋向心香",
+    "Name": "@Shinka_H",
+    "AssetId": "127001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 127101,
     "Type": "Character",
     "DisplayName": "樋向心香「ストイックな努力家」",
@@ -520,6 +547,15 @@
     "Name": "@Shinka_H",
     "AssetId": "127301",
     "CharacterMasterId": 127301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 128001,
+    "Type": "Character",
+    "DisplayName": "ノエル・アルエ",
+    "Name": "@Noelle_A",
+    "AssetId": "128001c",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",

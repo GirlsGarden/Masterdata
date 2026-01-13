@@ -469,6 +469,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1253011,
+    "CallCharacterMasterId": 125301,
+    "Order": 125002,
+    "Title": "また一緒に遊ぼう",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 125301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400054
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1261011,
     "CallCharacterMasterId": 126101,
     "Order": 126001,

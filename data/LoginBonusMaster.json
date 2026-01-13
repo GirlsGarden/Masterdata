@@ -16,21 +16,6 @@
   },
   {
     "type": "LoginBonusMaster",
-    "Id": 2019,
-    "Name": "PICKUP DAILY LOGIN",
-    "Type": "Campaign",
-    "Order": 1,
-    "StartDate": "2026-01-01T00:00:00+09:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2026-01-13T04:59:59+09:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "2016",
-    "SpineAssetId": "103302s",
-    "BackgroundAssetId": "2001"
-  },
-  {
-    "type": "LoginBonusMaster",
     "Id": 2020,
     "Name": "PICKUP DAILY LOGIN",
     "Type": "Campaign",
@@ -42,6 +27,21 @@
     "IsLoop": false,
     "AssetId": "2017",
     "SpineAssetId": "102302s",
+    "BackgroundAssetId": "2001"
+  },
+  {
+    "type": "LoginBonusMaster",
+    "Id": 2021,
+    "Name": "PICKUP DAILY LOGIN",
+    "Type": "Campaign",
+    "Order": 1,
+    "StartDate": "2026-01-13T12:30:00+09:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-01-27T04:59:59+09:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "2018",
+    "SpineAssetId": "125301s",
     "BackgroundAssetId": "2001"
   },
   {
@@ -58,36 +58,6 @@
     "AssetId": "3002",
     "SpineAssetId": null,
     "BackgroundAssetId": "3002"
-  },
-  {
-    "type": "LoginBonusMaster",
-    "Id": 3006,
-    "Name": "お正月ログインボーナス",
-    "Type": "Anniversary",
-    "Order": 1,
-    "StartDate": "2026-01-01T00:00:00+09:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2026-01-13T04:59:59+09:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "3007",
-    "SpineAssetId": null,
-    "BackgroundAssetId": "3007"
-  },
-  {
-    "type": "LoginBonusMaster",
-    "Id": 3007,
-    "Name": "迎春ログインボーナス",
-    "Type": "Anniversary",
-    "Order": 1,
-    "StartDate": "2026-01-06T12:30:00+09:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2026-01-13T04:59:59+09:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "3008",
-    "SpineAssetId": null,
-    "BackgroundAssetId": "3008"
   },
   {
     "type": "LoginBonusMaster",

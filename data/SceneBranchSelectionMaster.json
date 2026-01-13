@@ -1329,6 +1329,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20080311,
+    "SceneBranchMasterId": 2008031,
+    "Answer": "ジュリーが決めてくれ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20080312,
+    "SceneBranchMasterId": 2008031,
+    "Answer": "ジュリー・ステイシー探検隊だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20080411,
+    "SceneBranchMasterId": 2008041,
+    "Answer": "声をかけるんだ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20080412,
+    "SceneBranchMasterId": 2008041,
+    "Answer": "ひとりになるな！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -2033,6 +2065,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40005411,
+    "SceneBranchMasterId": 4000541,
+    "Answer": "マッサージでもするか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40005412,
+    "SceneBranchMasterId": 4000541,
+    "Answer": "注射でも打つか",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -2300,6 +2348,22 @@
     "Id": 50001922,
     "SceneBranchMasterId": 5000192,
     "Answer": "（かわいい）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002011,
+    "SceneBranchMasterId": 5000201,
+    "Answer": "あの狐が主だった？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002012,
+    "SceneBranchMasterId": 5000201,
+    "Answer": "あの狐が主を呼んだ",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -5694,6 +5758,70 @@
     "Answer": "また鍛えてやろうか？",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1023022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61023011,
+    "SceneBranchMasterId": 6102301,
+    "Answer": "自分のオシャレを貫く",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1253011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61023012,
+    "SceneBranchMasterId": 6102301,
+    "Answer": "ペアルックになる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1253012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61024011,
+    "SceneBranchMasterId": 6102401,
+    "Answer": "買った方がいい",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1253012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61024012,
+    "SceneBranchMasterId": 6102401,
+    "Answer": "買わない方がいい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1253011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61025011,
+    "SceneBranchMasterId": 6102501,
+    "Answer": "アトラクションはどうだ？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1253012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61025012,
+    "SceneBranchMasterId": 6102501,
+    "Answer": "だが、まだ甘いな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1253011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61026011,
+    "SceneBranchMasterId": 6102601,
+    "Answer": "理由なんて必要ない",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1253011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61026012,
+    "SceneBranchMasterId": 6102601,
+    "Answer": "だが、まだ甘いな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1253012
   },
   {
     "type": "SceneBranchSelectionMaster",

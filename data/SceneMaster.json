@@ -2091,6 +2091,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20080101,
+    "EpisodeMasterId": 200801,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ザルトゥーム学園七不思議",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20080201,
+    "EpisodeMasterId": 200802,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "気分はピクニック",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20080301,
+    "EpisodeMasterId": 200803,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ジュリー・ステイシー探検隊",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20080401,
+    "EpisodeMasterId": 200804,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "雪山の洗礼",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20080501,
+    "EpisodeMasterId": 200805,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "遭難の予行演習",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20080601,
+    "EpisodeMasterId": 200806,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "雪玉の行方",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20080701,
+    "EpisodeMasterId": 200807,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "雪に眠るＭＧ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20080801,
+    "EpisodeMasterId": 200808,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "雪山を越えて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -3231,6 +3311,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40005401,
+    "EpisodeMasterId": 400054,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "雪山で大満喫！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40005402,
+    "EpisodeMasterId": 400054,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "雪山で大満喫！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -3567,6 +3667,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "桃園家のお正月",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002001,
+    "EpisodeMasterId": 500020,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "雪山のもうひとつの噂",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002002,
+    "EpisodeMasterId": 500020,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "雪山のもうひとつの噂",
     "AssetId": null
   },
   {
@@ -5687,6 +5807,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "仲間として",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61023001,
+    "EpisodeMasterId": 610212,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "オシャレは我慢！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61024001,
+    "EpisodeMasterId": 610213,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "登山グッズに興味アリ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61025001,
+    "EpisodeMasterId": 610214,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "色んなシミュレーション？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61026001,
+    "EpisodeMasterId": 610215,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "流石にこれは暑い？",
     "AssetId": null
   }
 ]
