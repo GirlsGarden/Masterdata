@@ -1361,6 +1361,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20080711,
+    "SceneBranchMasterId": 2008071,
+    "Answer": "大丈夫だという",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20080712,
+    "SceneBranchMasterId": 2008071,
+    "Answer": "心配するなという",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20080811,
+    "SceneBranchMasterId": 2008081,
+    "Answer": "勝ったんだろ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20080812,
+    "SceneBranchMasterId": 2008081,
+    "Answer": "教えてくれ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -2081,6 +2113,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40005511,
+    "SceneBranchMasterId": 4000551,
+    "Answer": "大丈夫だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40005512,
+    "SceneBranchMasterId": 4000551,
+    "Answer": "まだ調子が悪い",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -2364,6 +2412,22 @@
     "Id": 50002012,
     "SceneBranchMasterId": 5000201,
     "Answer": "あの狐が主を呼んだ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002111,
+    "SceneBranchMasterId": 5000211,
+    "Answer": "手を出してみる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002112,
+    "SceneBranchMasterId": 5000211,
+    "Answer": "眺めている",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -5822,6 +5886,70 @@
     "Answer": "だが、まだ甘いな",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1253012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61027011,
+    "SceneBranchMasterId": 6102701,
+    "Answer": "心配無用だ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1263012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61027012,
+    "SceneBranchMasterId": 6102701,
+    "Answer": "雪山なら大丈夫だ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1263011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61028011,
+    "SceneBranchMasterId": 6102801,
+    "Answer": "甘いものが必要",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1263011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61028012,
+    "SceneBranchMasterId": 6102801,
+    "Answer": "マフラーとかどうだ？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1263012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61029011,
+    "SceneBranchMasterId": 6102901,
+    "Answer": "小型のメイズシフターから",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1263012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61029012,
+    "SceneBranchMasterId": 6102901,
+    "Answer": "あえて大型のメイズシフターから",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1263011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61030011,
+    "SceneBranchMasterId": 6103001,
+    "Answer": "間違ってない",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1263011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61030012,
+    "SceneBranchMasterId": 6103001,
+    "Answer": "間違っている",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1263012
   },
   {
     "type": "SceneBranchSelectionMaster",

@@ -236,7 +236,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "作戦通りに",
+    "Title": "新技披露",
     "AssetId": null
   },
   {
@@ -246,7 +246,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "彼女の決意",
+    "Title": "彼女の不安",
     "AssetId": null
   },
   {
@@ -266,7 +266,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "圧倒的な存在",
+    "Title": "圧倒的実力",
     "AssetId": null
   },
   {
@@ -296,7 +296,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "カオスメイデン",
+    "Title": "決戦",
     "AssetId": null
   },
   {
@@ -306,7 +306,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "一対一",
+    "Title": "怪物",
     "AssetId": null
   },
   {
@@ -336,7 +336,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "新技披露",
+    "Title": "作戦通りに",
     "AssetId": null
   },
   {
@@ -346,7 +346,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "彼女の不安",
+    "Title": "彼女の決意",
     "AssetId": null
   },
   {
@@ -366,7 +366,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "圧倒的実力",
+    "Title": "圧倒的な存在",
     "AssetId": null
   },
   {
@@ -396,7 +396,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "決戦",
+    "Title": "カオスメイデン",
     "AssetId": null
   },
   {
@@ -406,7 +406,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "怪物",
+    "Title": "一対一",
     "AssetId": null
   },
   {
@@ -3331,6 +3331,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40005501,
+    "EpisodeMasterId": 400055,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "熱と湿度と介抱と",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40005502,
+    "EpisodeMasterId": 400055,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "熱と湿度と介抱と",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -3687,6 +3707,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "雪山のもうひとつの噂",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002101,
+    "EpisodeMasterId": 500021,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "密着！？　テントの中の珍騒動",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002102,
+    "EpisodeMasterId": 500021,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "密着！？　テントの中の珍騒動",
     "AssetId": null
   },
   {
@@ -5847,6 +5887,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "流石にこれは暑い？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61027001,
+    "EpisodeMasterId": 610216,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "登山の不安",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61028001,
+    "EpisodeMasterId": 610217,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "山には何が必要？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61029001,
+    "EpisodeMasterId": 610218,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "極限の状況？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61030001,
+    "EpisodeMasterId": 610219,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "体力トレーニング",
     "AssetId": null
   }
 ]

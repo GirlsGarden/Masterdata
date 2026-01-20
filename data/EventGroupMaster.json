@@ -222,5 +222,19 @@
     "LogoFrameAssetId": "100",
     "MovieAssetId": "20011",
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 17,
+    "Name": "公式MG競技",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-01-20T12:30:00+09:00",
+    "QuestCloseDate": "2026-02-03T04:59:59+09:00",
+    "EndDate": "2026-02-10T04:59:59+09:00",
+    "Order": 17,
+    "LogoAssetId": null,
+    "LogoFrameAssetId": null,
+    "MovieAssetId": null,
+    "IntroductionEpisodeMasterId": null
   }
 ]

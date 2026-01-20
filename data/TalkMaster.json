@@ -493,6 +493,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1263011,
+    "CallCharacterMasterId": 126301,
+    "Order": 126002,
+    "Title": "いつだって甘えて",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 126301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400055
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1271011,
     "CallCharacterMasterId": 127101,
     "Order": 127001,

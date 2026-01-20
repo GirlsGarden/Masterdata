@@ -13,7 +13,7 @@
     "type": "MemoryMaster",
     "Id": 10002,
     "Rarity": "Sr",
-    "Name": "どこか欠けた星たちと",
+    "Name": "集合写真の思い出",
     "Description": "あっ、そうだ、思い出した。いいもの見せてあげる。\\nこれは結成してすぐに取ってもらった写真だよ。ほらほら、可愛くない？",
     "AssetId": "10002",
     "Highlights": null,
@@ -23,7 +23,7 @@
     "type": "MemoryMaster",
     "Id": 10003,
     "Rarity": "Sr",
-    "Name": "立派なものをお持ちで……",
+    "Name": "猛特訓を止めるには？",
     "Description": "う～ん、すっごく柔らかいねぇ～、うりうりうり～。\\nきゃって、んっ、うぅう……っ、ち、ちゆるさん……",
     "AssetId": "10003",
     "Highlights": null,
@@ -539,7 +539,7 @@
     "type": "MemoryMaster",
     "Id": 20011,
     "Rarity": "Ssr",
-    "Name": "危険な君の気持ち",
+    "Name": "デンジャラスな君の気持ち",
     "Description": "今はこのエアガンがブームってわけ！\\n結構体を動かすし、パイロット活動の訓練にもなるんだよね。",
     "AssetId": "110301",
     "Highlights": [
@@ -1470,7 +1470,7 @@
     "type": "MemoryMaster",
     "Id": 20039,
     "Rarity": "Ssr",
-    "Name": "ろうそくが照らす本音",
+    "Name": "揺れる灯火のように",
     "Description": "……改めて、綺麗ね。真っ暗な中で揺れるろうそくって。\\n安心するというか、落ち着く。",
     "AssetId": "108302",
     "Highlights": [
@@ -1620,7 +1620,7 @@
     "type": "MemoryMaster",
     "Id": 20044,
     "Rarity": "Ssr",
-    "Name": "初めての雪合戦",
+    "Name": "雪山で大満喫！",
     "Description": "な、なんでぇ～！？ちゃんと練習もしてるし、\\n普段から特訓だって……いだぁあああい！？",
     "AssetId": "125301",
     "Highlights": [
@@ -1684,7 +1684,7 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",

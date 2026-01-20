@@ -502,5 +502,61 @@
     "Order": 442,
     "UnlockGemQuantity": 100,
     "AssetId": "30232"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 64,
+    "Name": "住宅街_昼",
+    "Order": 452,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80042"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 65,
+    "Name": "一般家庭リビング_昼",
+    "Order": 462,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80052"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 66,
+    "Name": "神社_昼",
+    "Order": 472,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80062"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 67,
+    "Name": "煌晶帯_その他",
+    "Order": 480,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60040"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 68,
+    "Name": "メイズポータル入口_特殊1",
+    "Order": 305,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60015"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 69,
+    "Name": "ガレムグラード山岳雪山差分_昼",
+    "Order": 492,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80072"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 70,
+    "Name": "木のコテージ_昼",
+    "Order": 502,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80082"
   }
 ]

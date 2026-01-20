@@ -1809,7 +1809,7 @@
     "CharacterBaseMasterId": 126,
     "IsDefaultCharacter": false,
     "Name": "みんなを見守る山ガール",
-    "Order": 1,
+    "Order": 2,
     "DefaultRarity": "Ssr",
     "Type": "Physical",
     "Attribute": "Aggressive",
@@ -1838,14 +1838,14 @@
     "BonusDefencePerLevel": 88,
     "BonusSpeedPerLevel": 2,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "116302",
+    "ModelAssetId": "126301",
     "CockpitAssetId": null,
     "MinCombatPower": 5067,
     "MaxCombatPower": 89254,
     "PositionType": "Back",
     "RoleType": "Control",
     "GachaBackgroundAssetId": "80072",
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "CharacterMaster",
