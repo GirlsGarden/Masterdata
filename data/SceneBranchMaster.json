@@ -361,6 +361,60 @@
   },
   {
     "type": "SceneBranchMaster",
+    "Id": 1016011,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 1016021,
+    "Type": "Normal",
+    "IsRequireSelection": true
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 1016022,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 1016023,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 1016061,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 1016071,
+    "Type": "Normal",
+    "IsRequireSelection": true
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 1017011,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 1017021,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 1017031,
+    "Type": "Normal",
+    "IsRequireSelection": true
+  },
+  {
+    "type": "SceneBranchMaster",
     "Id": 2002031,
     "Type": "Normal",
     "IsRequireSelection": false
@@ -799,6 +853,18 @@
   },
   {
     "type": "SceneBranchMaster",
+    "Id": 4000561,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 4000562,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
     "Id": 5000031,
     "Type": "Normal",
     "IsRequireSelection": false
@@ -908,6 +974,12 @@
   {
     "type": "SceneBranchMaster",
     "Id": 5000211,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 5000221,
     "Type": "Normal",
     "IsRequireSelection": false
   },
@@ -2228,6 +2300,30 @@
   {
     "type": "SceneBranchMaster",
     "Id": 6103001,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6103101,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6103201,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6103301,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6103401,
     "Type": "Spot",
     "IsRequireSelection": false
   },

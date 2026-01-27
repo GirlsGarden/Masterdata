@@ -421,6 +421,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1213021,
+    "CallCharacterMasterId": 121302,
+    "Order": 121002,
+    "Title": "また連れて行ってください",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 121302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400056
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1222011,
     "CallCharacterMasterId": 122201,
     "Order": 122001,

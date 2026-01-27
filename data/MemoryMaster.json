@@ -247,6 +247,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10014,
+    "Rarity": "Sr",
+    "Name": "努力の証明",
+    "Description": "私がアークトゥルスに相応しい実力を\\n備えていると判断していただけたからです。",
+    "AssetId": "10017",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 8,
+        "CharacterType": null,
+        "SkillMasterId": 400124,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -1688,6 +1711,76 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20046,
+    "Rarity": "Ssr",
+    "Name": "束の間の息抜き",
+    "Description": "こんな麺料理、初めて見ました。\\n見ているだけでも、わくわくしてしまいます！",
+    "AssetId": "121302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 121,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400021,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 32,
+        "CharacterType": null,
+        "SkillMasterId": 400125,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20047,
+    "Rarity": "Ssr",
+    "Name": "変わらないもの",
+    "Description": "……はぁ、まったく。\\nあたしが必要じゃなくなるまでは面倒をみてやるよ。",
+    "AssetId": "129302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 129,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400126,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 2,
+        "CharacterType": null,
+        "SkillMasterId": 400127,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -2109,5 +2202,40 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30018,
+    "Rarity": "Ur",
+    "Name": "メイド３人のおもてなし？",
+    "Description": "何事じゃありませんよ！\\nこの変態！　鬼畜！　覗き魔！　極悪人！！",
+    "AssetId": "30019",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Cute",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400128,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400129,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

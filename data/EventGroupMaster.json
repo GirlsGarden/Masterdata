@@ -236,5 +236,33 @@
     "LogoFrameAssetId": null,
     "MovieAssetId": null,
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 18,
+    "Name": "月下に咲くは白百合の旗",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-01-27T12:30:00+09:00",
+    "QuestCloseDate": "2026-02-10T04:59:59+09:00",
+    "EndDate": "2026-02-17T04:59:59+09:00",
+    "Order": 18,
+    "LogoAssetId": "12",
+    "LogoFrameAssetId": "newstory_100",
+    "MovieAssetId": "20012",
+    "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 19,
+    "Name": "サークル対抗戦",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-01-27T12:30:00+09:00",
+    "QuestCloseDate": "2026-02-06T04:59:59+09:00",
+    "EndDate": "2026-02-13T04:59:59+09:00",
+    "Order": 19,
+    "LogoAssetId": null,
+    "LogoFrameAssetId": null,
+    "MovieAssetId": null,
+    "IntroductionEpisodeMasterId": null
   }
 ]

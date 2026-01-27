@@ -4507,6 +4507,211 @@
   },
   {
     "type": "SkillMaster",
+    "Id": 110044,
+    "Name": "ノーブル・プライド",
+    "Type": "Extra",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 7,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵3体に威力{威力2}で3ヒット、威力{威力}でもう1ヒットEN攻撃をし、対象のEXゲージを3削る"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力2",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            20
+          ],
+          [
+            3,
+            21.08
+          ],
+          [
+            4,
+            22.94
+          ],
+          [
+            6,
+            23.86
+          ],
+          [
+            7,
+            25.72
+          ],
+          [
+            9,
+            26.64
+          ],
+          [
+            10,
+            31.2
+          ],
+          [
+            15,
+            37.92
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            45
+          ],
+          [
+            3,
+            47.48
+          ],
+          [
+            4,
+            52.45
+          ],
+          [
+            6,
+            54.93
+          ],
+          [
+            7,
+            59.9
+          ],
+          [
+            9,
+            62.38
+          ],
+          [
+            10,
+            70.2
+          ],
+          [
+            15,
+            85.32
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 24,
+    "DisplaySkillPowerTagName": "威力2",
+    "DisplayAttacksCountTagName": "3",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "ThreePawns",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 110045,
+    "Name": "メイドの本能",
+    "Type": "Extra",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 8,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "最もHP割合が低い味方単体に対し、1行動の間敵から受ける攻撃のダメージを無効にする効果を付与する。さらに1行動の間攻撃力を{atk}%上昇させるが、同時に1行動の毒を付与する。毒状態は行動タイミングごとに現在HPの{poison}%のダメージを受ける"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "atk",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            20
+          ],
+          [
+            3,
+            21.66
+          ],
+          [
+            4,
+            24.98
+          ],
+          [
+            6,
+            26.64
+          ],
+          [
+            7,
+            29.96
+          ],
+          [
+            9,
+            31.62
+          ],
+          [
+            10,
+            35
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "poison",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            30
+          ],
+          [
+            10,
+            30
+          ],
+          [
+            15,
+            20
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 22,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
     "Id": 120001,
     "Name": "リペアバレル",
     "Type": "Active",
@@ -13666,6 +13871,371 @@
     "DisplaySkillPowerTagName": "威力",
     "DisplayAttacksCountTagName": "1",
     "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 120098,
+    "Name": "リビューク・ジ・イグノーブル",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 1,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵単体に威力{威力}でEN攻撃し、次に受ける攻撃の被ダメージを{dmg}%増加させるデバフ（重複可）と、「気品」を1つ付与する。この攻撃は所持している「気品」の数が最も少ない敵を優先する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            95
+          ],
+          [
+            3,
+            100.6
+          ],
+          [
+            4,
+            111.8
+          ],
+          [
+            6,
+            117.4
+          ],
+          [
+            7,
+            128.6
+          ],
+          [
+            9,
+            134.2
+          ],
+          [
+            10,
+            148.2
+          ],
+          [
+            15,
+            201.4
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            7.5
+          ],
+          [
+            3,
+            8.32
+          ],
+          [
+            4,
+            9.96
+          ],
+          [
+            6,
+            10.78
+          ],
+          [
+            7,
+            12.42
+          ],
+          [
+            9,
+            13.24
+          ],
+          [
+            10,
+            15
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 120099,
+    "Name": "エッジ・オブ・グレイス",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵単体に威力{威力}でEN攻撃し、2行動の間防御力を5%低下させる（重複可）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            95
+          ],
+          [
+            3,
+            100.6
+          ],
+          [
+            4,
+            111.8
+          ],
+          [
+            6,
+            117.4
+          ],
+          [
+            7,
+            128.6
+          ],
+          [
+            9,
+            134.2
+          ],
+          [
+            10,
+            148.2
+          ],
+          [
+            15,
+            201.4
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 120100,
+    "Name": "キックアウト",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack"
+        ]
+      },
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 11,
+        "Value": [
+          "Attack",
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 2,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵単体に威力{威力}でEN攻撃する"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 11,
+        "Template": "敵単体に威力{威力}でEN攻撃し、与えたダメージの{cure}%分、最もHP割合が低い味方単体のHPを回復する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            55
+          ],
+          [
+            3,
+            58.72
+          ],
+          [
+            4,
+            66.18
+          ],
+          [
+            6,
+            69.9
+          ],
+          [
+            7,
+            77.36
+          ],
+          [
+            9,
+            81.08
+          ],
+          [
+            10,
+            85.8
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "cure",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            0
+          ],
+          [
+            10,
+            0
+          ],
+          [
+            11,
+            25
+          ],
+          [
+            15,
+            35
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 120101,
+    "Name": "エイド・フロム",
+    "Type": "Active",
+    "Kind": "Recovery",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "最もHP割合の低い味方単体のHPを威力{威力}で回復する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            25
+          ],
+          [
+            3,
+            27
+          ],
+          [
+            4,
+            30
+          ],
+          [
+            6,
+            32
+          ],
+          [
+            7,
+            35
+          ],
+          [
+            9,
+            37
+          ],
+          [
+            10,
+            40
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
     "DisplayTargetRange": "OnePawn",
     "DisplayTargetPriority": null
   },
@@ -23104,6 +23674,418 @@
   },
   {
     "type": "SkillMaster",
+    "Id": 130108,
+    "Name": "融和の象徴",
+    "Type": "Passive",
+    "Kind": "Interference",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン開始時に発動。自身に最も近い敵と最も遠い敵に1ターンの間リンクを付与し、対象同士が受けたダメージの{dmg}%を共有しあう状態にする。生存している敵が1体のみの場合、このスキルは発動しない。このスキルは戦闘中に一度しか発動しない"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            15
+          ],
+          [
+            3,
+            16.1
+          ],
+          [
+            4,
+            18.3
+          ],
+          [
+            6,
+            19.4
+          ],
+          [
+            7,
+            21.6
+          ],
+          [
+            9,
+            22.7
+          ],
+          [
+            10,
+            25
+          ],
+          [
+            15,
+            35
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "TwoPawns",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 130109,
+    "Name": "新時代の先駆け",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 99,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "TurnEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身がダメージリンクを付与した敵が倒された際に発動。自身の行動速度を{spd}上昇させる（重複可）。自身が付与したダメージリンクが既に消滅している場合、このスキルは発動しない。このスキルは戦闘中に1度しか発動しない"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 11,
+        "Template": "自身がダメージリンクを付与した敵が倒された際に発動。自身の行動速度を{spd}上昇させる（重複可）。加えて、前列の味方を優先し、味方2体に攻撃力×{shield}%のシールドを付与する。シールドは対象の2行動後に消滅する。自身が付与したダメージリンクが既に消滅している場合、このスキルは発動しない。このスキルは戦闘中に1度しか発動しない"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "spd",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            50
+          ],
+          [
+            3,
+            56
+          ],
+          [
+            4,
+            67
+          ],
+          [
+            6,
+            73
+          ],
+          [
+            7,
+            84
+          ],
+          [
+            9,
+            90
+          ],
+          [
+            10,
+            100
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "shield",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            0
+          ],
+          [
+            10,
+            0
+          ],
+          [
+            11,
+            12.5
+          ],
+          [
+            15,
+            25
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 130110,
+    "Name": "ルミナス・ガード",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      },
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 11,
+        "Value": [
+          "Support",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": 2,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身がアクティブスキルを使用した後に発動。自身に隣接する味方に対し、2行動の間、行動時に威力{威力}でHPを回復する効果を付与する"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 11,
+        "Template": "自身がアクティブスキルを使用した後に発動。自身に隣接する味方に対し、2行動の間、行動時に威力{威力}でHPを回復する効果を付与する。さらに敵前衛に対し、1行動の間、行動時に攻撃力×{dmg}%のENダメージを受けるデバフを付与する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            10
+          ],
+          [
+            3,
+            10.54
+          ],
+          [
+            4,
+            11.62
+          ],
+          [
+            6,
+            12.16
+          ],
+          [
+            7,
+            13.24
+          ],
+          [
+            9,
+            13.78
+          ],
+          [
+            10,
+            15
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            0
+          ],
+          [
+            10,
+            0
+          ],
+          [
+            11,
+            7.5
+          ],
+          [
+            15,
+            10
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 130111,
+    "Name": "マーシーズ・エンブレイス",
+    "Type": "Passive",
+    "Kind": "Recovery",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Recovery"
+        ]
+      },
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 11,
+        "Value": [
+          "Support",
+          "Interference",
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン終了時に発動。威力{威力}分のHP回復量を、自身を除く味方全体に均等に配分して回復する"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 11,
+        "Template": "ターン終了時に発動。威力{威力}分のHP回復量を、自身を除く味方全体に均等に配分して回復し、HP回復量を{cure}%増加させるバフを付与する（重複可）。さらに敵全体に対し、HP回復量を{debuff}%減少させるデバフを付与する（重複可）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            40
+          ],
+          [
+            3,
+            43
+          ],
+          [
+            4,
+            49
+          ],
+          [
+            6,
+            52
+          ],
+          [
+            7,
+            58
+          ],
+          [
+            9,
+            61
+          ],
+          [
+            10,
+            65
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "cure",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            0
+          ],
+          [
+            10,
+            0
+          ],
+          [
+            11,
+            7.5
+          ],
+          [
+            15,
+            15
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "debuff",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            0
+          ],
+          [
+            10,
+            0
+          ],
+          [
+            11,
+            7.5
+          ],
+          [
+            15,
+            15
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
     "Id": 200000,
     "Name": "リブート",
     "Type": "Active",
@@ -27557,6 +28539,280 @@
     "DisplayTargetType": "Enemies",
     "DisplayTargetRange": "Line",
     "DisplayTargetPriority": "FrontLine"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 210053,
+    "Name": "ノーブル・プライド",
+    "Type": "Extra",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 7,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵3体に威力{威力2}で3ヒット、威力{威力}でもう1ヒットEN攻撃をし、対象のEXゲージを3削る"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力2",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            20
+          ],
+          [
+            3,
+            21.08
+          ],
+          [
+            4,
+            22.94
+          ],
+          [
+            6,
+            23.86
+          ],
+          [
+            7,
+            25.72
+          ],
+          [
+            9,
+            26.64
+          ],
+          [
+            10,
+            31.2
+          ],
+          [
+            15,
+            37.92
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            45
+          ],
+          [
+            3,
+            47.48
+          ],
+          [
+            4,
+            52.45
+          ],
+          [
+            6,
+            54.93
+          ],
+          [
+            7,
+            59.9
+          ],
+          [
+            9,
+            62.38
+          ],
+          [
+            10,
+            70.2
+          ],
+          [
+            15,
+            85.32
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 24,
+    "DisplaySkillPowerTagName": "威力2",
+    "DisplayAttacksCountTagName": "3",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "ThreePawns",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 210054,
+    "Name": "クォーツライザー",
+    "Type": "Extra",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 7,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵横一列に威力{威力}で攻撃して攻撃速度を25低下させ（重複可）、1行動の間与ダメージを{dmg}%減少させるデバフを付与する（重複可）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            85
+          ],
+          [
+            3,
+            90.28
+          ],
+          [
+            4,
+            100.85
+          ],
+          [
+            6,
+            106.13
+          ],
+          [
+            7,
+            116.7
+          ],
+          [
+            9,
+            121.98
+          ],
+          [
+            10,
+            132.6
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            20
+          ],
+          [
+            10,
+            30
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 24,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "Line",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 210055,
+    "Name": "全晶蝕域",
+    "Type": "Extra",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 7,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵全体に威力{威力}でEN攻撃し、2行動の間、行動時に攻撃力×10%のENダメージを受けるデバフを付与する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            75
+          ],
+          [
+            3,
+            79.66
+          ],
+          [
+            4,
+            88.99
+          ],
+          [
+            6,
+            93.65
+          ],
+          [
+            7,
+            102.98
+          ],
+          [
+            9,
+            107.64
+          ],
+          [
+            10,
+            117
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 22,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "AllPawns",
+    "DisplayTargetPriority": null
   },
   {
     "type": "SkillMaster",
@@ -41920,6 +43176,482 @@
     "DisplayAttacksCountTagName": "3",
     "DisplayTargetType": "Enemies",
     "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 220226,
+    "Name": "スピアスラスト",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 1,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵前後列に威力{威力}で攻撃し、自身に対し攻撃力×{shield}%のシールドを付与する。シールドは自身の1行動後に消滅する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            60
+          ],
+          [
+            3,
+            63.72
+          ],
+          [
+            4,
+            71.18
+          ],
+          [
+            6,
+            74.9
+          ],
+          [
+            7,
+            82.36
+          ],
+          [
+            9,
+            86.08
+          ],
+          [
+            10,
+            93.6
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "shield",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          [
+            1,
+            50
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "Column",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 220227,
+    "Name": "アップワードスラッシュ",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵単体に威力{威力}で攻撃する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            100
+          ],
+          [
+            3,
+            106.22
+          ],
+          [
+            4,
+            118.66
+          ],
+          [
+            6,
+            124.88
+          ],
+          [
+            7,
+            137.32
+          ],
+          [
+            9,
+            143.54
+          ],
+          [
+            10,
+            156
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 220228,
+    "Name": "リビューク・ジ・イグノーブル",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 1,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵単体に威力{威力}でEN攻撃し、次に受ける攻撃の被ダメージを{dmg}%増加させるデバフ（重複可）と、「気品」を1つ付与する。この攻撃は所持している「気品」の数が最も少ない敵を優先する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            95
+          ],
+          [
+            3,
+            100.6
+          ],
+          [
+            4,
+            111.8
+          ],
+          [
+            6,
+            117.4
+          ],
+          [
+            7,
+            128.6
+          ],
+          [
+            9,
+            134.2
+          ],
+          [
+            10,
+            148.2
+          ],
+          [
+            15,
+            201.4
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            7.5
+          ],
+          [
+            3,
+            8.32
+          ],
+          [
+            4,
+            9.96
+          ],
+          [
+            6,
+            10.78
+          ],
+          [
+            7,
+            12.42
+          ],
+          [
+            9,
+            13.24
+          ],
+          [
+            10,
+            15
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 220229,
+    "Name": "エッジ・オブ・グレイス",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵単体に威力{威力}でEN攻撃し、2行動の間防御力を5%低下させる（重複可）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            95
+          ],
+          [
+            3,
+            100.6
+          ],
+          [
+            4,
+            111.8
+          ],
+          [
+            6,
+            117.4
+          ],
+          [
+            7,
+            128.6
+          ],
+          [
+            9,
+            134.2
+          ],
+          [
+            10,
+            148.2
+          ],
+          [
+            15,
+            201.4
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 220230,
+    "Name": "デセルレイター",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "最も行動速度の高い敵単体に威力{威力}でEN攻撃し、2行動の間対象の行動速度を100低下させる"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          [
+            1,
+            60
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 13,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 220231,
+    "Name": "砕晶三散",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵3体に威力{威力}でEN攻撃し、次に受けるEN攻撃のダメージが{dmg}%上昇するデバフを付与する（重複可）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            50
+          ],
+          [
+            3,
+            53.1
+          ],
+          [
+            4,
+            59.32
+          ],
+          [
+            6,
+            62.42
+          ],
+          [
+            7,
+            68.64
+          ],
+          [
+            9,
+            71.74
+          ],
+          [
+            10,
+            78
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            10
+          ],
+          [
+            10,
+            20
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "ThreePawns",
     "DisplayTargetPriority": null
   },
   {
@@ -56630,6 +58362,642 @@
   },
   {
     "type": "SkillMaster",
+    "Id": 230230,
+    "Name": "クイックヒール",
+    "Type": "Passive",
+    "Kind": "Recovery",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "他の味方が攻撃を受けた直後に発動。攻撃を受けた味方単体のHPを威力{威力}で回復する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            35
+          ],
+          [
+            3,
+            36
+          ],
+          [
+            4,
+            38
+          ],
+          [
+            6,
+            39
+          ],
+          [
+            7,
+            41
+          ],
+          [
+            9,
+            42
+          ],
+          [
+            10,
+            45
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 230231,
+    "Name": "ADSCダウン",
+    "Type": "Passive",
+    "Kind": "Interference",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン開始時に発動。3行動の間、敵全体の攻撃力を{atk}%、防御力を{def}%、行動速度を{spd}、会心率を{crt}%低下させる（重複可）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "atk",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            5
+          ],
+          [
+            3,
+            6.1
+          ],
+          [
+            4,
+            8.3
+          ],
+          [
+            6,
+            9.4
+          ],
+          [
+            7,
+            11.6
+          ],
+          [
+            9,
+            12.7
+          ],
+          [
+            10,
+            15
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "def",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            5
+          ],
+          [
+            3,
+            6.1
+          ],
+          [
+            4,
+            8.3
+          ],
+          [
+            6,
+            9.4
+          ],
+          [
+            7,
+            11.6
+          ],
+          [
+            9,
+            12.7
+          ],
+          [
+            10,
+            15
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "spd",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            35
+          ],
+          [
+            3,
+            39
+          ],
+          [
+            4,
+            48
+          ],
+          [
+            6,
+            52
+          ],
+          [
+            7,
+            61
+          ],
+          [
+            9,
+            65
+          ],
+          [
+            10,
+            75
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "crt",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            5
+          ],
+          [
+            3,
+            6.1
+          ],
+          [
+            4,
+            8.3
+          ],
+          [
+            6,
+            9.4
+          ],
+          [
+            7,
+            11.6
+          ],
+          [
+            9,
+            12.7
+          ],
+          [
+            10,
+            15
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "AllPawns",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 230232,
+    "Name": "融和の象徴",
+    "Type": "Passive",
+    "Kind": "Interference",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン開始時に発動。自身に最も近い敵と最も遠い敵に1ターンの間リンクを付与し、対象同士が受けたダメージの{dmg}%を共有しあう状態にする。生存している敵が1体のみの場合、このスキルは発動しない。このスキルは戦闘中に一度しか発動しない"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            15
+          ],
+          [
+            3,
+            16.1
+          ],
+          [
+            4,
+            18.3
+          ],
+          [
+            6,
+            19.4
+          ],
+          [
+            7,
+            21.6
+          ],
+          [
+            9,
+            22.7
+          ],
+          [
+            10,
+            25
+          ],
+          [
+            15,
+            35
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "TwoPawns",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 230233,
+    "Name": "新時代の先駆け",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 99,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "TurnEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身がダメージリンクを付与した敵が倒された際に発動。自身の行動速度を{spd}上昇させる（重複可）。自身が付与したダメージリンクが既に消滅している場合、このスキルは発動しない。このスキルは戦闘中に1度しか発動しない"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 11,
+        "Template": "自身がダメージリンクを付与した敵が倒された際に発動。自身の行動速度を{spd}上昇させる（重複可）。加えて、前列の味方を優先し、味方2体に攻撃力×{shield}%のシールドを付与する。シールドは対象の2行動後に消滅する。自身が付与したダメージリンクが既に消滅している場合、このスキルは発動しない。このスキルは戦闘中に1度しか発動しない"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "spd",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            50
+          ],
+          [
+            3,
+            56
+          ],
+          [
+            4,
+            67
+          ],
+          [
+            6,
+            73
+          ],
+          [
+            7,
+            84
+          ],
+          [
+            9,
+            90
+          ],
+          [
+            10,
+            100
+          ]
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "shield",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            0
+          ],
+          [
+            10,
+            0
+          ],
+          [
+            11,
+            12.5
+          ],
+          [
+            15,
+            25
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 230234,
+    "Name": "晶核再生",
+    "Type": "Passive",
+    "Kind": "Recovery",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン終了時に発動。自身にかけられたデバフを5個まで解除し、自身のHPを最高で、最大HP×40%回復する。回復量は自身のHPが少ないほど多くなる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 230235,
+    "Name": "甲晶盾",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身がENタイプの敵から攻撃される直前に発動。EN攻撃を{guard}%ガードする"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "guard",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            25
+          ],
+          [
+            3,
+            27.76
+          ],
+          [
+            4,
+            33.28
+          ],
+          [
+            6,
+            36.04
+          ],
+          [
+            7,
+            41.56
+          ],
+          [
+            9,
+            44.32
+          ],
+          [
+            10,
+            50
+          ],
+          [
+            15,
+            75
+          ]
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 230236,
+    "Name": "甲晶吸奪",
+    "Type": "Passive",
+    "Kind": "Interference",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": 2,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身が物理タイプの敵からアクティブスキルで攻撃された後に発動。攻撃してきた対象のEXゲージを3減少させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 230237,
+    "Name": "充晶増幅",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン終了時に発動。自身のEXゲージを1加算する"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 230238,
+    "Name": "醒晶",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン終了時に発動。自身に対し、1行動の間、EN与ダメージを30%上昇させるバフを付与する（重複可）。このスキルは自身のHPが60%以上の場合は発動しない"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
     "Id": 300001,
     "Name": "バイタルコア",
     "Type": "Passive",
@@ -65981,6 +68349,216 @@
         "type": "SkillDescriptionTemplate",
         "Level": 1,
         "Template": "戦闘開始時に発動。味方前衛の防御力を2.5%上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400124,
+    "Name": "速度上昇【左列後衛】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。左列後衛の味方の行動速度を1行動の間20上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400125,
+    "Name": "ENダメージ上昇【右列後衛】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "右列後衛の味方に対し、EN攻撃で与えるダメージを8.4%上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400126,
+    "Name": "攻撃上昇【リュシー】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。リュシー・ムーアクロフトの攻撃力を1000上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400127,
+    "Name": "回復量上昇【中央列前衛】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。中央列前衛のHP回復量を6%上昇させる。"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400128,
+    "Name": "与ダメージ上昇【キュート】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。キュート属性の味方全員に対し、与ダメージを2.5%上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400129,
+    "Name": "攻撃上昇【スマート】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。スマート属性の味方全員の攻撃力を1250上昇させる"
       }
     ],
     "TemplateTags": null,

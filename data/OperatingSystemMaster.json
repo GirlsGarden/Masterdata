@@ -211,6 +211,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 121302,
+    "Name": "特盛ラーメン",
+    "Description": "ドロテア・カークランド「新たなる時代の導き手」の専用OSです。",
+    "AssetId": "121302"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 125301,
     "Name": "白くま帽子",
     "Description": "ジュリー・ステイシー「雪山もこもこ少女」の専用OSです。",
@@ -243,6 +250,13 @@
     "Name": "水郷の羊飼い",
     "Description": "リュシー・ムーアクロフト「忠義の狂犬メイド」の専用OSです。",
     "AssetId": "129301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 129302,
+    "Name": "最強の窓ふき",
+    "Description": "リュシー・ムーアクロフト「連れ添い歩む傍らの友」の専用OSです。",
+    "AssetId": "129302"
   },
   {
     "type": "OperatingSystemMaster",
