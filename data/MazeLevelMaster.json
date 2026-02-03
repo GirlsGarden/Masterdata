@@ -1998,5 +1998,13 @@
     "LevelNumber": 250,
     "EquipmentMaxLevel": 180,
     "RewardPackageId": 2020026
+  },
+  {
+    "type": "MazeLevelMaster",
+    "Id": 20002,
+    "MazeMasterId": 3,
+    "LevelNumber": 1,
+    "EquipmentMaxLevel": 0,
+    "RewardPackageId": null
   }
 ]

@@ -1105,6 +1105,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 10180611,
+    "SceneBranchMasterId": 1018061,
+    "Answer": "微笑みを向ける",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10180612,
+    "SceneBranchMasterId": 1018061,
+    "Answer": "握手する",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10181211,
+    "SceneBranchMasterId": 1018121,
+    "Answer": "指で涙を拭ってやる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10181212,
+    "SceneBranchMasterId": 1018121,
+    "Answer": "ハンカチで涙を拭ってやる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 20020311,
     "SceneBranchMasterId": 2002031,
     "Answer": "倒していい障害物を決めるとかか？",
@@ -2305,6 +2337,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40005711,
+    "SceneBranchMasterId": 4000571,
+    "Answer": "よかった",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40005712,
+    "SceneBranchMasterId": 4000571,
+    "Answer": "任せられそうか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -2620,6 +2668,22 @@
     "Id": 50002212,
     "SceneBranchMasterId": 5000221,
     "Answer": "（そういえば……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002311,
+    "SceneBranchMasterId": 5000231,
+    "Answer": "そんなわけないだろ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002312,
+    "SceneBranchMasterId": 5000231,
+    "Answer": "覚悟はしている！",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -6206,6 +6270,70 @@
     "Answer": "紅茶",
     "IsSelectSuccess": true,
     "SceneBranchSelectAffectionMasterId": 1213022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61035011,
+    "SceneBranchMasterId": 6103501,
+    "Answer": "似合ってるのにな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1293022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61035012,
+    "SceneBranchMasterId": 6103501,
+    "Answer": "普段通りがいいよな。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1293021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61036011,
+    "SceneBranchMasterId": 6103601,
+    "Answer": "やっぱりヤンキー？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1293022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61036012,
+    "SceneBranchMasterId": 6103601,
+    "Answer": "やっぱりメイド？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1293021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61037011,
+    "SceneBranchMasterId": 6103701,
+    "Answer": "反省できるのは偉いんじゃないか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1293021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61037012,
+    "SceneBranchMasterId": 6103701,
+    "Answer": "賢明な判断だと思うぞ。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1293022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61038011,
+    "SceneBranchMasterId": 6103801,
+    "Answer": "メイド服の方がイキイキしてる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1293022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61038012,
+    "SceneBranchMasterId": 6103801,
+    "Answer": "安定感がある",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1293021
   },
   {
     "type": "SceneBranchSelectionMaster",

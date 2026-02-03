@@ -577,6 +577,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1293021,
+    "CallCharacterMasterId": 129302,
+    "Order": 129002,
+    "Title": "あたしのやるべきこと",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 129302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400057
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1303011,
     "CallCharacterMasterId": 130301,
     "Order": 130001,

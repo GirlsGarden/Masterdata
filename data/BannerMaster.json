@@ -46,21 +46,6 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 1018,
-    "Order": 1,
-    "ImageStaticPath": "2015",
-    "StartDate": "2026-01-20T12:30:00+09:00",
-    "EndDate": "2026-02-03T04:59:59+09:00",
-    "JumpType": "EventTop",
-    "JumpTargetId": 16,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": 59
-  },
-  {
-    "type": "BannerMaster",
     "Id": 1019,
     "Order": 1,
     "ImageStaticPath": "1003",
@@ -68,21 +53,6 @@
     "EndDate": "2026-02-17T04:59:59+09:00",
     "JumpType": "EventTop",
     "JumpTargetId": 18,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": 59
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 2024,
-    "Order": 66,
-    "ImageStaticPath": "20019",
-    "StartDate": "2026-01-20T12:30:00+09:00",
-    "EndDate": "2026-02-03T04:59:59+09:00",
-    "JumpType": "Gacha",
-    "JumpTargetId": 20019,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"
@@ -106,28 +76,13 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 3001,
-    "Order": 4,
-    "ImageStaticPath": "1001_01",
-    "StartDate": "2026-01-22T12:00:00+09:00",
-    "EndDate": "2026-02-03T04:59:59+09:00",
-    "JumpType": "LimitedTimeShop",
-    "JumpTargetId": 42,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": 59
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 3008,
-    "Order": 1,
-    "ImageStaticPath": "1008",
-    "StartDate": "2026-01-22T12:00:00+09:00",
-    "EndDate": "2026-02-03T04:59:59+09:00",
-    "JumpType": "LimitedTimeShop",
-    "JumpTargetId": 139,
+    "Id": 2026,
+    "Order": 64,
+    "ImageStaticPath": "20021",
+    "StartDate": "2026-02-03T12:30:00+09:00",
+    "EndDate": "2026-02-17T04:59:59+09:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20021,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"

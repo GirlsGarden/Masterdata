@@ -1686,7 +1686,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "コード９９１",
     "AssetId": null
   },
   {
@@ -1696,7 +1696,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "勇気の伝播",
     "AssetId": null
   },
   {
@@ -1706,7 +1706,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "誇り――想いを継いで",
     "AssetId": null
   },
   {
@@ -1716,7 +1716,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "標的を目指して",
     "AssetId": null
   },
   {
@@ -1726,7 +1726,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "誇りを示せ",
     "AssetId": null
   },
   {
@@ -1736,7 +1736,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "相互理解",
     "AssetId": null
   },
   {
@@ -1746,7 +1746,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "コード９９１",
     "AssetId": null
   },
   {
@@ -1756,7 +1756,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "ポータル・ゼロ",
     "AssetId": null
   },
   {
@@ -1766,7 +1766,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "サイレン",
     "AssetId": null
   },
   {
@@ -1776,7 +1776,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "リュシーの居場所",
     "AssetId": null
   },
   {
@@ -1786,7 +1786,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "スタンピードの英雄",
     "AssetId": null
   },
   {
@@ -1796,7 +1796,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "親友",
     "AssetId": null
   },
   {
@@ -1806,7 +1806,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "アークトゥルス",
     "AssetId": null
   },
   {
@@ -1816,7 +1816,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮です",
+    "Title": "アークトゥルス",
     "AssetId": null
   },
   {
@@ -6337,6 +6337,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "差し入れの飲み物",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61032001,
+    "EpisodeMasterId": 610224,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "慣れない格好",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61032002,
+    "EpisodeMasterId": 610225,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "身が引き締まる思い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61032003,
+    "EpisodeMasterId": 610226,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ゲームは苦手？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61032004,
+    "EpisodeMasterId": 610227,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どっちの方がいい？",
     "AssetId": null
   }
 ]

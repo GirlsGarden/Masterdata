@@ -2932,5 +2932,41 @@
     "AppStoreProductId": "app-product-326",
     "Type": "Gacha",
     "Price": 3000
+  },
+  {
+    "type": "PlatformProductMaster",
+    "Id": 327,
+    "DmmProductId": "dmm_product_327",
+    "GooglePlayProductId": "app-product-327",
+    "AppStoreProductId": "app-product-327",
+    "Type": "Flash",
+    "Price": 3000
+  },
+  {
+    "type": "PlatformProductMaster",
+    "Id": 328,
+    "DmmProductId": "dmm_product_328",
+    "GooglePlayProductId": "app-product-328",
+    "AppStoreProductId": "app-product-328",
+    "Type": "Flash",
+    "Price": 5000
+  },
+  {
+    "type": "PlatformProductMaster",
+    "Id": 329,
+    "DmmProductId": "dmm_product_329",
+    "GooglePlayProductId": "app-product-329",
+    "AppStoreProductId": "app-product-329",
+    "Type": "Flash",
+    "Price": 6000
+  },
+  {
+    "type": "PlatformProductMaster",
+    "Id": 330,
+    "DmmProductId": "dmm_product_330",
+    "GooglePlayProductId": "app-product-330",
+    "AppStoreProductId": "app-product-330",
+    "Type": "Flash",
+    "Price": 9000
   }
 ]

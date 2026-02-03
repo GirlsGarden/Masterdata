@@ -4324,6 +4324,105 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 12930211,
+    "TalkMasterId": 1293021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "よう、%usernameusernameuserna%。\nあたしだけど……今、時間は空いてるか？",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12930212,
+    "TalkMasterId": 1293021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "色々と落ち着いたから報告したくてな……\n結局、あたしが危惧してたみたいに変わることはなかったよ。",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12930213,
+    "TalkMasterId": 1293021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "なんだかんだ、今まで通り……多少は変わったところはあっても、\nそれでもあたしが思うような変化はなかった。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12930214,
+    "TalkMasterId": 1293021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "……きっと、大きく変わる事なんてそうなくて、\nゆっくりと形を変えていくんだろうな。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12930215,
+    "TalkMasterId": 1293021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "ほら、あたしはそそっかしいからさ。\n色々と焦って、変わらないといけないって思いこんでた。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12930216,
+    "TalkMasterId": 1293021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "%usernameusernameuserna%に話を聞いてもらって、\n落ち着いて考えなけりゃ、暴走してたかもしれない。",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12930217,
+    "TalkMasterId": 1293021,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "まあ、だから……その、なんだ。\nまたこうやって相談に乗って貰っても良いか？",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12930218,
+    "TalkMasterId": 1293021,
+    "Order": 8,
+    "Speaker": "Character",
+    "Message": "こんな風に、弱みを見せれるような相手はいなくてさ。\nもし、%usernameusernameuserna%がよければだけど……",
+    "VoiceAssetId": "8.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12930219,
+    "TalkMasterId": 1293021,
+    "Order": 9,
+    "Speaker": "Character",
+    "Message": "……ありがとうな。\nそういってくれて嬉しいよ。",
+    "VoiceAssetId": "9.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 13030111,
     "TalkMasterId": 1303011,
     "Order": 1,
@@ -5243,6 +5342,17 @@
     "Speaker": "Character",
     "Message": "それじゃあ、またね。",
     "VoiceAssetId": "14.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 129302110,
+    "TalkMasterId": 1293021,
+    "Order": 10,
+    "Speaker": "Character",
+    "Message": "それじゃあ、またな。\n……そんで、これからもよろしく。",
+    "VoiceAssetId": "10.ogg",
     "VideoBackgroundAssetId": null,
     "VideoSpineAssetId": null
   },
