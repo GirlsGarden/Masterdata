@@ -3820,5 +3820,31 @@
     "QuestPassMasterId": null,
     "LoginBonusMasterId": null,
     "BeforeShopProductMasterId": null
+  },
+  {
+    "type": "ShopProductMaster",
+    "Id": 148,
+    "Category": "Limitation",
+    "Order": 1,
+    "Flags": "None",
+    "Name": "期間限定メモリー「メイド３人のおもてなし？」",
+    "Description": "特別シナリオ付き！期間限定メモリー「メイド３人のおもてなし？」×1",
+    "AssetId": "memory_8",
+    "EventMasterId": null,
+    "StartDate": "2026-02-05T12:00:00+09:00",
+    "EndDate": "2026-02-17T04:59:59+09:00",
+    "DailyLimit": null,
+    "WeeklyLimit": null,
+    "MonthlyLimit": null,
+    "OverallLimit": 1,
+    "IsFree": false,
+    "PriceMoney": null,
+    "AcceptableGemType": "Paid",
+    "PriceGem": 5000,
+    "PlatformProductMasterId": null,
+    "ShopProductPackageMasterId": 65,
+    "QuestPassMasterId": null,
+    "LoginBonusMasterId": null,
+    "BeforeShopProductMasterId": null
   }
 ]
