@@ -2353,6 +2353,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40005811,
+    "SceneBranchMasterId": 4000581,
+    "Answer": "じゃああと5分",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40005812,
+    "SceneBranchMasterId": 4000581,
+    "Answer": "どうか情けを……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -6334,6 +6350,70 @@
     "Answer": "安定感がある",
     "IsSelectSuccess": true,
     "SceneBranchSelectAffectionMasterId": 1293021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61039011,
+    "SceneBranchMasterId": 6103901,
+    "Answer": "そのままが一番",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1413011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61039012,
+    "SceneBranchMasterId": 6103901,
+    "Answer": "ランプとかはどうだ？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1413012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61040011,
+    "SceneBranchMasterId": 6104001,
+    "Answer": "はっ！失礼しました榊隊長！",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1413012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61040012,
+    "SceneBranchMasterId": 6104001,
+    "Answer": "そうかなあ？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1413011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61041011,
+    "SceneBranchMasterId": 6104101,
+    "Answer": "オレと勝負しようぜ！",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1413011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61041012,
+    "SceneBranchMasterId": 6104101,
+    "Answer": "委員長に考えてほしい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1413012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61042011,
+    "SceneBranchMasterId": 6104201,
+    "Answer": "端末で探せる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1413011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61042012,
+    "SceneBranchMasterId": 6104201,
+    "Answer": "詳しい人に聞けばいい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1413012
   },
   {
     "type": "SceneBranchSelectionMaster",

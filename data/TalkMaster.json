@@ -649,6 +649,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1353011,
+    "CallCharacterMasterId": 135301,
+    "Order": 135001,
+    "Title": "いつか見つかる日まで",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 135301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400058
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1383011,
     "CallCharacterMasterId": 138301,
     "Order": 138001,

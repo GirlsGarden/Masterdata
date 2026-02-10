@@ -270,6 +270,16 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10015,
+    "Rarity": "Sr",
+    "Name": "記憶に引っかかるもの",
+    "Description": "ＭＧのことはもっとよく知っておきたいわね。\\n戦術機とすごく良く似てるけど、いろいろと違いがあるようだし。",
+    "AssetId": "10018",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -1781,6 +1791,111 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20048,
+    "Rarity": "Ssr",
+    "Name": "追憶のストライド",
+    "Description": "起きなさい、白銀！\\nもうとっくに約束の時間は過ぎてるわよ！",
+    "AssetId": "135301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 135,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400130,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Tank",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400133,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20049,
+    "Rarity": "Ssr",
+    "Name": "コンティニューは二人で",
+    "Description": "タケルもきっと驚くよ！じゃあ見ててね！\\nまずはこうやって後ろから前に紐を渡して……。",
+    "AssetId": "136301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 136,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400131,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 1,
+        "CharacterType": null,
+        "SkillMasterId": 400134,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20050,
+    "Rarity": "Ssr",
+    "Name": "彩峰慧(仮)",
+    "Description": "携帯食にもバッチリ。冷めてても美味しい。完璧。",
+    "AssetId": "137301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 137,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400132,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "PhysicalAttacker",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400135,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -2237,5 +2352,40 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30019,
+    "Rarity": "Ur",
+    "Name": "腐れ縁で犬猿の仲？",
+    "Description": "榊は意識ばっかりで健康じゃない。すぐ怒るのが証拠。",
+    "AssetId": "30020",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400136,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400137,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

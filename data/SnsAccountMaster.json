@@ -37,6 +37,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 5,
+    "Type": "Character",
+    "DisplayName": "クラウディア・ヴァーグナー",
+    "Name": "@Claudia_W",
+    "AssetId": "n10012",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 100001,
     "Type": "Character",
     "DisplayName": "桃園める",
@@ -651,10 +660,10 @@
     "type": "SnsAccountMaster",
     "Id": 135001,
     "Type": "Character",
-    "DisplayName": "榊千鶴",
+    "DisplayName": "榊千鶴「ドメスティックなリーダー」",
     "Name": "@Chizuru_S",
-    "AssetId": "135301s",
-    "CharacterMasterId": null
+    "AssetId": "135301",
+    "CharacterMasterId": 135301
   },
   {
     "type": "SnsAccountMaster",
@@ -663,7 +672,7 @@
     "DisplayName": "鎧衣美琴",
     "Name": "@Mikoto_Y",
     "AssetId": "136301s",
-    "CharacterMasterId": null
+    "CharacterMasterId": 136301
   },
   {
     "type": "SnsAccountMaster",
@@ -672,7 +681,7 @@
     "DisplayName": "彩峰慧",
     "Name": "@Kei_A",
     "AssetId": "137301s",
-    "CharacterMasterId": null
+    "CharacterMasterId": 137301
   },
   {
     "type": "SnsAccountMaster",

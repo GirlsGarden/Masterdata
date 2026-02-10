@@ -558,5 +558,21 @@
     "Order": 502,
     "UnlockGemQuantity": 100,
     "AssetId": "80082"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 71,
+    "Name": "ユーロ廊下_昼",
+    "Order": 512,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30252"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 72,
+    "Name": "ユーロ中庭_昼",
+    "Order": 522,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30242"
   }
 ]

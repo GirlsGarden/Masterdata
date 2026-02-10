@@ -88,5 +88,14 @@
     "LogoAssetId": "9001",
     "BackgroundAssetId": "50022",
     "LoggedInActivateMasterId": 1
+  },
+  {
+    "type": "CharacterTeamMaster",
+    "Id": 802,
+    "Name": "STRANGERS Ⅱ",
+    "Description": "コラボ「STRANGERS Ⅱ」",
+    "LogoAssetId": "9002",
+    "BackgroundAssetId": "50022",
+    "LoggedInActivateMasterId": 2
   }
 ]

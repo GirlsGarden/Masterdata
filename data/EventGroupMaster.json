@@ -264,5 +264,19 @@
     "LogoFrameAssetId": null,
     "MovieAssetId": null,
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 20,
+    "Name": "STRANGERS Ⅱ",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-02-10T12:30:00+09:00",
+    "QuestCloseDate": "2026-03-03T04:59:59+09:00",
+    "EndDate": "2026-03-10T04:59:59+09:00",
+    "Order": 20,
+    "LogoAssetId": "13",
+    "LogoFrameAssetId": "100",
+    "MovieAssetId": "20013",
+    "IntroductionEpisodeMasterId": null
   }
 ]

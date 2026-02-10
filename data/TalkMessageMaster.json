@@ -4918,6 +4918,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 13530111,
+    "TalkMasterId": 1353011,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし、榊です。\n白銀の番号よね？",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13530112,
+    "TalkMasterId": 1353011,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "昨日はとっても楽しかったわ。\nちょっと筋肉痛になっちゃった。白銀はどう？",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13530113,
+    "TalkMasterId": 1353011,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "で、また今度一緒に出かける話なんだけど……\nスポーツ系じゃなくてもいいかしら？",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13530114,
+    "TalkMasterId": 1353011,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "買い物で出かけることもあるだろうし、\n博物館とかそういうところに行くこともあるかもしれないし……",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13530115,
+    "TalkMasterId": 1353011,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "白銀が良かったらでいいんだけど……\nえ？どこでも付き合うって？　……ありがとう。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13530116,
+    "TalkMasterId": 1353011,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "実は行ってみたいところがいくつもあるのよね。\nどこでもって言ったからには、全部付き合ってもらいますからね！",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13530117,
+    "TalkMasterId": 1353011,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "それじゃあ、行き先リストをまとめたらまた連絡するわ。\nまたね！",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 13830111,
     "TalkMasterId": 1383011,
     "Order": 1,
