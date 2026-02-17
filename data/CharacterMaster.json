@@ -2454,14 +2454,14 @@
     "BonusDefencePerLevel": 106,
     "BonusSpeedPerLevel": 3,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "103302",
+    "ModelAssetId": "136301",
     "CockpitAssetId": null,
     "MinCombatPower": 5434,
     "MaxCombatPower": 91325,
     "PositionType": "Front",
     "RoleType": "Control",
     "GachaBackgroundAssetId": "20012",
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "CharacterMaster",

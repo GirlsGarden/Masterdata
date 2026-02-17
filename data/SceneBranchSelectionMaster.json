@@ -2369,6 +2369,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40005911,
+    "SceneBranchMasterId": 4000591,
+    "Answer": "指の動きがさっぱり",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40005912,
+    "SceneBranchMasterId": 4000591,
+    "Answer": "何が出来上がるのか想像もつかない",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -2700,6 +2716,38 @@
     "Id": 50002312,
     "SceneBranchMasterId": 5000231,
     "Answer": "覚悟はしている！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002511,
+    "SceneBranchMasterId": 5000251,
+    "Answer": "どっちにもつかない",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002512,
+    "SceneBranchMasterId": 5000251,
+    "Answer": "勝った方の味方",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002521,
+    "SceneBranchMasterId": 5000252,
+    "Answer": "今のが興奮する",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002522,
+    "SceneBranchMasterId": 5000252,
+    "Answer": "どっちもいいものだ",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -6414,6 +6462,70 @@
     "Answer": "詳しい人に聞けばいい",
     "IsSelectSuccess": true,
     "SceneBranchSelectAffectionMasterId": 1413012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61043011,
+    "SceneBranchMasterId": 6104301,
+    "Answer": "一緒に見に行かないか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1423012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61043012,
+    "SceneBranchMasterId": 6104301,
+    "Answer": "みんなにも聞いてみるか",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1423011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61044011,
+    "SceneBranchMasterId": 6104401,
+    "Answer": "それは無理だ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1423012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61044012,
+    "SceneBranchMasterId": 6104401,
+    "Answer": "今の仕事を楽しむ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1423011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61045011,
+    "SceneBranchMasterId": 6104501,
+    "Answer": "モテモテだな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1423011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61045012,
+    "SceneBranchMasterId": 6104501,
+    "Answer": "ズルいぞ！",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1423012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61046011,
+    "SceneBranchMasterId": 6104601,
+    "Answer": "買って後悔だ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1423012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61046012,
+    "SceneBranchMasterId": 6104601,
+    "Answer": "買わない方が賢い",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1423011
   },
   {
     "type": "SceneBranchSelectionMaster",

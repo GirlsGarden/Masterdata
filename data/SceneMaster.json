@@ -3791,6 +3791,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40005901,
+    "EpisodeMasterId": 400059,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "コンティニューは二人で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40005902,
+    "EpisodeMasterId": 400059,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "コンティニューは二人で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006001,
+    "EpisodeMasterId": 400060,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "仮",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006002,
+    "EpisodeMasterId": 400060,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "仮",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -6567,6 +6607,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "抑えておくべき場所",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61034001,
+    "EpisodeMasterId": 610232,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どこまでやるべき？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61034002,
+    "EpisodeMasterId": 610233,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ボクのやりたい仕事",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61034003,
+    "EpisodeMasterId": 610234,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "アクロバットは得意？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61034004,
+    "EpisodeMasterId": 610235,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "謎の買い物？",
     "AssetId": null
   }
 ]

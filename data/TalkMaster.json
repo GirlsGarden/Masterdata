@@ -661,6 +661,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1363011,
+    "CallCharacterMasterId": 136301,
+    "Order": 136001,
+    "Title": "また明日の約束",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 136301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400059
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1383011,
     "CallCharacterMasterId": 138301,
     "Order": 138001,

@@ -1857,13 +1857,13 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
     "Id": 20050,
     "Rarity": "Ssr",
-    "Name": "彩峰慧(仮)",
+    "Name": "焼きそばパン狂想曲",
     "Description": "携帯食にもバッチリ。冷めてても美味しい。完璧。",
     "AssetId": "137301",
     "Highlights": [
@@ -2359,7 +2359,7 @@
     "Rarity": "Ur",
     "Name": "腐れ縁で犬猿の仲？",
     "Description": "榊は意識ばっかりで健康じゃない。すぐ怒るのが証拠。",
-    "AssetId": "30020",
+    "AssetId": "30021",
     "Highlights": [
       {
         "type": "MemoryHighlight",
