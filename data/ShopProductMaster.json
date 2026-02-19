@@ -4054,5 +4054,31 @@
     "QuestPassMasterId": null,
     "LoginBonusMasterId": null,
     "BeforeShopProductMasterId": null
+  },
+  {
+    "type": "ShopProductMaster",
+    "Id": 157,
+    "Category": "Limitation",
+    "Order": 1,
+    "Flags": "None",
+    "Name": "期間限定メモリー「腐れ縁で犬猿の仲？」",
+    "Description": "特別シナリオ付き！期間限定メモリー「腐れ縁で犬猿の仲？」×1",
+    "AssetId": "memory_9",
+    "EventMasterId": null,
+    "StartDate": "2026-02-19T12:00:00+09:00",
+    "EndDate": "2026-03-03T04:59:59+09:00",
+    "DailyLimit": null,
+    "WeeklyLimit": null,
+    "MonthlyLimit": null,
+    "OverallLimit": 1,
+    "IsFree": false,
+    "PriceMoney": null,
+    "AcceptableGemType": "Paid",
+    "PriceGem": 5000,
+    "PlatformProductMasterId": null,
+    "ShopProductPackageMasterId": 66,
+    "QuestPassMasterId": null,
+    "LoginBonusMasterId": null,
+    "BeforeShopProductMasterId": null
   }
 ]
