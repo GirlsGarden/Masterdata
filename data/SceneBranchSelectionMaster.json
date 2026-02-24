@@ -2385,6 +2385,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40006011,
+    "SceneBranchMasterId": 4000601,
+    "Answer": "まずはお願い",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006012,
+    "SceneBranchMasterId": 4000601,
+    "Answer": "更なるトッピング",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -6526,6 +6542,70 @@
     "Answer": "買わない方が賢い",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1423011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61047011,
+    "SceneBranchMasterId": 6104701,
+    "Answer": "彩峰",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1423013
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61047012,
+    "SceneBranchMasterId": 6104701,
+    "Answer": "味見独占権",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1423014
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61048011,
+    "SceneBranchMasterId": 6104801,
+    "Answer": "全力で追いつく！",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1423014
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61048012,
+    "SceneBranchMasterId": 6104801,
+    "Answer": "なんて逃げ足だ…！",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1423013
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61049011,
+    "SceneBranchMasterId": 6104901,
+    "Answer": "もしかしたら",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1423014
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61049012,
+    "SceneBranchMasterId": 6104901,
+    "Answer": "気の緩み",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1423013
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61050011,
+    "SceneBranchMasterId": 6105001,
+    "Answer": "買ってきてやろうか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1423014
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61050012,
+    "SceneBranchMasterId": 6105001,
+    "Answer": "張り込みだな！",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1423013
   },
   {
     "type": "SceneBranchSelectionMaster",

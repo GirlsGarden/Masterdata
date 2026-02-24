@@ -544,5 +544,18 @@
     "ChapterGroupMasterId": 0,
     "Interlude": null,
     "LoggedInActivateMasterId": 2
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 200019,
+    "Title": "THIRD",
+    "SubTitle": "イベントストーリー",
+    "Order": 3,
+    "EventMasterId": 1018,
+    "AssetId": "2018",
+    "Overview": null,
+    "ChapterGroupMasterId": 0,
+    "Interlude": null,
+    "LoggedInActivateMasterId": 2
   }
 ]

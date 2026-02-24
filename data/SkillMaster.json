@@ -4920,7 +4920,7 @@
   {
     "type": "SkillMaster",
     "Id": 110048,
-    "Name": "彩峰慧EXスキル",
+    "Name": "突撃前衛",
     "Type": "Extra",
     "Kind": "Attack",
     "AdditionalKinds": [
@@ -14962,7 +14962,7 @@
   {
     "type": "SkillMaster",
     "Id": 120106,
-    "Name": "彩峰慧AS1",
+    "Name": "ウルフズショット",
     "Type": "Active",
     "Kind": "Attack",
     "AdditionalKinds": [
@@ -14984,12 +14984,12 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "敵2体に威力{威力}で攻撃し、さらに自身に最も近い敵に隣接する敵に対して威力{威力2}で攻撃する。加えて自身に対し1行動の「焼きそばパン」を付与する。「焼きそばパン」を所持している状態で「アクティブスキル2」を使用した際、その攻撃が強化される"
+        "Template": "敵2体に威力{威力}で攻撃し、さらに自身に最も近い敵に隣接する敵に対して威力{威力2}で攻撃する。加えて自身に対し1行動の「狼心」を付与する"
       },
       {
         "type": "SkillDescriptionTemplate",
         "Level": 15,
-        "Template": "敵3体に威力{威力}で攻撃し、さらに自身に最も近い敵に隣接する敵に対して威力{威力2}で攻撃する。加えて自身に対し1行動の「焼きそばパン」を付与する。「焼きそばパン」を所持している状態で「アクティブスキル2」を使用した際、その攻撃が強化される"
+        "Template": "敵3体に威力{威力}で攻撃し、さらに自身に最も近い敵に隣接する敵に対して威力{威力2}で攻撃する。加えて自身に対し1行動の「狼心」を付与する"
       }
     ],
     "TemplateTags": [
@@ -15082,7 +15082,7 @@
   {
     "type": "SkillMaster",
     "Id": 120107,
-    "Name": "彩峰慧AS2",
+    "Name": "ウルフズスラッシュ",
     "Type": "Active",
     "Kind": "Attack",
     "AdditionalKinds": [
@@ -15103,7 +15103,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "敵単体に威力{威力}で攻撃する。自身が「焼きそばパン」を所持している場合この攻撃の威力は{威力2}になり、攻撃範囲が敵3体になる"
+        "Template": "敵単体に威力{威力}で攻撃する。自身が「狼心」を所持している場合この攻撃の威力は{威力2}になり、攻撃範囲が敵3体になる"
       }
     ],
     "TemplateTags": [
@@ -25323,7 +25323,7 @@
   {
     "type": "SkillMaster",
     "Id": 130116,
-    "Name": "彩峰慧PS1",
+    "Name": "応急防御",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -25344,12 +25344,12 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "ターン開始時に発動。自身に対し、自身のHPが最大HPの{hp}%以上の場合にのみ被ダメージを50%減少させる効果を付与する。このスキルは戦闘中に1度しか発動しない"
+        "Template": "ターン開始時に発動。自身に対し、自身のHPが最大HPの{hp}%以上の場合にのみ被ダメージを30%減少させる効果を付与する。このスキルは戦闘中に1度しか発動しない"
       },
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "ターン開始時に発動。自身の最大HPを{buff}%上昇させ（解除不可）、自身に対し、自身のHPが最大HPの{hp}%以上の場合にのみ被ダメージを50%減少させる効果を付与する。このスキルは戦闘中に1度しか発動しない"
+        "Template": "ターン開始時に発動。自身の最大HPを{buff}%上昇させ（解除不可）、自身に対し、自身のHPが最大HPの{hp}%以上の場合にのみ被ダメージを30%減少させる効果を付与する。このスキルは戦闘中に1度しか発動しない"
       }
     ],
     "TemplateTags": [
@@ -25402,7 +25402,7 @@
   {
     "type": "SkillMaster",
     "Id": 130117,
-    "Name": "彩峰慧PS2",
+    "Name": "勝機の直感",
     "Type": "Passive",
     "Kind": "Attack",
     "AdditionalKinds": [
@@ -46896,10 +46896,46 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "敵横一列に威力55で攻撃し、「聖芽」を1つ付与する"
+        "Template": "敵横一列に威力{威力}で攻撃し、「聖芽」を1つ付与する"
       }
     ],
-    "TemplateTags": null,
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            55
+          ],
+          [
+            3,
+            58.72
+          ],
+          [
+            4,
+            66.18
+          ],
+          [
+            6,
+            69.9
+          ],
+          [
+            7,
+            77.36
+          ],
+          [
+            9,
+            81.08
+          ],
+          [
+            10,
+            85.8
+          ]
+        ]
+      }
+    ],
     "SkillLevelPatternMasterId": 13,
     "DisplaySkillPowerTagName": "威力",
     "DisplayAttacksCountTagName": "1",
@@ -64532,10 +64568,26 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身がアクティブスキルで攻撃した後に発動。最もHP割合が低い味方単体のHPを最大HP×15%分回復し、防御力を2.5%上昇させる（重複可）"
+        "Template": "自身がアクティブスキルで攻撃した後に発動。最もHP割合が低い味方単体のHPを最大HP×15%分回復し、防御力を{def}%上昇させる（重複可）"
       }
     ],
-    "TemplateTags": null,
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "def",
+        "InterpolationMode": "Linear",
+        "Values": [
+          [
+            1,
+            2.5
+          ],
+          [
+            10,
+            5
+          ]
+        ]
+      }
+    ],
     "SkillLevelPatternMasterId": 11,
     "DisplaySkillPowerTagName": null,
     "DisplayAttacksCountTagName": null,
@@ -71142,6 +71194,41 @@
     "DisplaySkillPowerTagName": null,
     "DisplayAttacksCountTagName": null,
     "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300149,
+    "Name": "ネクロノミコン",
+    "Type": "Passive",
+    "Kind": "Interference",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時、味方全員の最大HPが\u003ccolor=#00aab9\u003e30%\u003c/color\u003e減少するが、敵全体の基本ステータスを\u003ccolor=#ff701a\u003e15%\u003c/color\u003eダウンさせる。"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
     "DisplayTargetRange": null,
     "DisplayTargetPriority": null
   },

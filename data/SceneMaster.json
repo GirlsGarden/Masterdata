@@ -3816,7 +3816,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮",
+    "Title": "焼きそばパン狂想曲",
     "AssetId": null
   },
   {
@@ -3826,7 +3826,7 @@
     "Types": "Still",
     "Order": 2,
     "IsAdult": true,
-    "Title": "仮",
+    "Title": "焼きそばパン狂想曲",
     "AssetId": null
   },
   {
@@ -6647,6 +6647,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "謎の買い物？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61035001,
+    "EpisodeMasterId": 610236,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "シンプルイズベスト",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61035002,
+    "EpisodeMasterId": 610237,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "息苦しい？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61035003,
+    "EpisodeMasterId": 610238,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "たまには戦闘訓練",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61035004,
+    "EpisodeMasterId": 610239,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "探すは焼きそばパン",
     "AssetId": null
   }
 ]

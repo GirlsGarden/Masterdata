@@ -1995,6 +1995,24 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 3027,
+    "Names": {
+      "5": "ネクロノミコン",
+      "6": "ネクロノミコン"
+    },
+    "Descriptions": {
+      "5": "狂気と死を招く禁書、戦闘開始時、味方全員の最大HPが\u003ccolor=#00aab9\u003e30%\u003c/color\u003e減少するが、敵全体の基本ステータスを\u003ccolor=#ff701a\u003e15%\u003c/color\u003eダウンさせる。",
+      "6": "禁書の狂気は、触れる者の精神を深淵へと誘う、戦闘開始時、味方全員の最大HPが\u003ccolor=#00aab9\u003e10%\u003c/color\u003e減少するが、敵全体の基本ステータスを\u003ccolor=#ff701a\u003e30%\u003c/color\u003eダウンさせる。"
+    },
+    "AssetIds": {
+      "5": "3027",
+      "6": "3027"
+    },
+    "Rarity": "Ur",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 4001,
     "Names": {
       "3": "アンチデバフ"

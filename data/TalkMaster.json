@@ -673,6 +673,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1373011,
+    "CallCharacterMasterId": 137301,
+    "Order": 137001,
+    "Title": "美味しさの理由",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 137301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400060
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1383011,
     "CallCharacterMasterId": 138301,
     "Order": 138001,

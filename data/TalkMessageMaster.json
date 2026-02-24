@@ -5083,6 +5083,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 13730111,
+    "TalkMasterId": 1373011,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし、白銀？\n……うん。彩峰慧。",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13730112,
+    "TalkMasterId": 1373011,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "昨日の白銀の焼きそばパン、\nもっと良くする方法を思いついた。",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13730113,
+    "TalkMasterId": 1373011,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "わりと革命的な味になる予感がする。\n明日食べに来て。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13730114,
+    "TalkMasterId": 1373011,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "……え？用件はそれだけ。\nあ、でももう一つだけ。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13730115,
+    "TalkMasterId": 1373011,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "白銀と一緒に食べると、一人より美味しい気がしてる。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13730116,
+    "TalkMasterId": 1373011,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "……だから、明日は絶対に来て。約束。",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 13730117,
+    "TalkMasterId": 1373011,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "じゃ、またね。",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 13830111,
     "TalkMasterId": 1383011,
     "Order": 1,
