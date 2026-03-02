@@ -12,7 +12,13 @@
       "ShowNormal",
       "ShowAdult"
     ],
-    "VisibleDeviceFlags": 59
+    "VisibleDeviceFlags": [
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "Web"
+    ]
   },
   {
     "type": "BannerMaster",
@@ -27,7 +33,13 @@
       "ShowNormal",
       "ShowAdult"
     ],
-    "VisibleDeviceFlags": 59
+    "VisibleDeviceFlags": [
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "Web"
+    ]
   },
   {
     "type": "BannerMaster",
@@ -42,7 +54,13 @@
       "ShowNormal",
       "ShowAdult"
     ],
-    "VisibleDeviceFlags": 59
+    "VisibleDeviceFlags": [
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "Web"
+    ]
   },
   {
     "type": "BannerMaster",
@@ -57,7 +75,13 @@
       "ShowNormal",
       "ShowAdult"
     ],
-    "VisibleDeviceFlags": 59
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "BannerMaster",
@@ -72,7 +96,13 @@
       "ShowNormal",
       "ShowAdult"
     ],
-    "VisibleDeviceFlags": 59
+    "VisibleDeviceFlags": [
+      "GooglePlay",
+      "Web",
+      "Sp",
+      "SpWeb",
+      "Client"
+    ]
   },
   {
     "type": "BannerMaster",
@@ -87,7 +117,13 @@
       "ShowNormal",
       "ShowAdult"
     ],
-    "VisibleDeviceFlags": 59
+    "VisibleDeviceFlags": [
+      "AppStore",
+      "GooglePlay",
+      "Web",
+      "Sp",
+      "SpWeb"
+    ]
   },
   {
     "type": "BannerMaster",
@@ -102,6 +138,12 @@
       "ShowNormal",
       "ShowAdult"
     ],
-    "VisibleDeviceFlags": 59
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   }
 ]

@@ -3295,6 +3295,24 @@
   },
   {
     "type": "RewardMaster",
+    "Id": 300201,
+    "RewardPackageMasterId": 30020,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 90001,
+    "ThingQuantity": 10
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 300202,
+    "RewardPackageMasterId": 30020,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 20000,
+    "ThingQuantity": 15
+  },
+  {
+    "type": "RewardMaster",
     "Id": 400011,
     "RewardPackageMasterId": 40001,
     "Order": 0,

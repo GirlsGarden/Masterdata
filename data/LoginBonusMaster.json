@@ -1,13 +1,13 @@
 [
   {
     "type": "LoginBonusMaster",
-    "Id": 1006,
-    "Name": "2月マンスリーログインボーナス",
+    "Id": 1007,
+    "Name": "3月マンスリーログインボーナス",
     "Type": "Month",
     "Order": 1,
-    "StartDate": "2026-02-01T05:00:00+09:00",
+    "StartDate": "2026-03-01T05:00:00+09:00",
     "StartDeadlineDate": null,
-    "EndDate": "2026-03-01T04:59:59+09:00",
+    "EndDate": "2026-04-01T04:59:59+09:00",
     "ExtraLoginBonusMasterId": 1,
     "IsLoop": false,
     "AssetId": "1001",

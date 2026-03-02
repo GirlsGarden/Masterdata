@@ -46,8 +46,11 @@
     "DailyTryCount": 10,
     "DayOfWeekFlags": [
       "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
       "Friday",
-      "Sunday"
+      "Saturday"
     ],
     "BackgroundAssetType": "Adventure"
   },
@@ -77,9 +80,12 @@
     "AssetId": "30130",
     "DailyTryCount": 10,
     "DayOfWeekFlags": [
-      "Wednesday",
-      "Saturday",
-      "Sunday"
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
     ],
     "BackgroundAssetType": "Adventure"
   },
