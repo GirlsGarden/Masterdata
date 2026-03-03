@@ -30,5 +30,13 @@
     "EventMasterId": 3003,
     "LocationMasterId": 17004,
     "AssetId": "location_unlock_point"
+  },
+  {
+    "type": "LocationUnlockPointMaster",
+    "Id": 5,
+    "Order": 1,
+    "EventMasterId": 3004,
+    "LocationMasterId": 17005,
+    "AssetId": "location_unlock_point"
   }
 ]

@@ -31791,6 +31791,346 @@
   },
   {
     "type": "QuestMaster",
+    "Id": 400121,
+    "Name": "NORMAL",
+    "EnemyPartyMasterId": 400121,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400122,
+    "Name": "HARD",
+    "EnemyPartyMasterId": 400122,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400123,
+    "Name": "EXPERT",
+    "EnemyPartyMasterId": 400123,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400124,
+    "Name": "LEGEND",
+    "EnemyPartyMasterId": 400124,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400125,
+    "Name": "ENDLESS",
+    "EnemyPartyMasterId": 400125,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": true,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400126,
+    "Name": "NORMAL",
+    "EnemyPartyMasterId": 400126,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400127,
+    "Name": "HARD",
+    "EnemyPartyMasterId": 400127,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400128,
+    "Name": "EXPERT",
+    "EnemyPartyMasterId": 400128,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400129,
+    "Name": "LEGEND",
+    "EnemyPartyMasterId": 400129,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400130,
+    "Name": "ENDLESS",
+    "EnemyPartyMasterId": 400130,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": true,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400131,
+    "Name": "NORMAL",
+    "EnemyPartyMasterId": 400131,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400132,
+    "Name": "HARD",
+    "EnemyPartyMasterId": 400132,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400133,
+    "Name": "EXPERT",
+    "EnemyPartyMasterId": 400133,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400134,
+    "Name": "LEGEND",
+    "EnemyPartyMasterId": 400134,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400135,
+    "Name": "ENDLESS",
+    "EnemyPartyMasterId": 400135,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": true,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400136,
+    "Name": "NORMAL",
+    "EnemyPartyMasterId": 400136,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400137,
+    "Name": "HARD",
+    "EnemyPartyMasterId": 400137,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400138,
+    "Name": "EXPERT",
+    "EnemyPartyMasterId": 400138,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400139,
+    "Name": "LEGEND",
+    "EnemyPartyMasterId": 400139,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 400140,
+    "Name": "ENDLESS",
+    "EnemyPartyMasterId": 400140,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": true,
+    "MaxTurn": 5,
+    "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
     "Id": 1000101,
     "Name": "FIRST1-2",
     "EnemyPartyMasterId": 1000101,
@@ -44711,6 +45051,312 @@
   },
   {
     "type": "QuestMaster",
+    "Id": 4000501,
+    "Name": "01",
+    "EnemyPartyMasterId": 4000501,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000502,
+    "Name": "02",
+    "EnemyPartyMasterId": 4000502,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000503,
+    "Name": "03",
+    "EnemyPartyMasterId": 4000503,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000504,
+    "Name": "04",
+    "EnemyPartyMasterId": 4000504,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": 200504
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000505,
+    "Name": "05",
+    "EnemyPartyMasterId": 4000505,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": 200505
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000506,
+    "Name": "06",
+    "EnemyPartyMasterId": 4000506,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": 200506
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000507,
+    "Name": "07",
+    "EnemyPartyMasterId": 4000507,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": 200507
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000508,
+    "Name": "08",
+    "EnemyPartyMasterId": 4000508,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000509,
+    "Name": "09",
+    "EnemyPartyMasterId": 4000509,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000510,
+    "Name": "10",
+    "EnemyPartyMasterId": 4000510,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000511,
+    "Name": "11",
+    "EnemyPartyMasterId": 4000511,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000512,
+    "Name": "12",
+    "EnemyPartyMasterId": 4000512,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000513,
+    "Name": "13",
+    "EnemyPartyMasterId": 4000513,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000514,
+    "Name": "14",
+    "EnemyPartyMasterId": 4000514,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000515,
+    "Name": "15",
+    "EnemyPartyMasterId": 4000515,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000516,
+    "Name": "16",
+    "EnemyPartyMasterId": 4000516,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000517,
+    "Name": "17",
+    "EnemyPartyMasterId": 4000517,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 4000518,
+    "Name": "18",
+    "EnemyPartyMasterId": 4000518,
+    "AutoBattleAllowed": false,
+    "AutoBattleDurationMinutes": 1,
+    "IsRepeatAllowed": true,
+    "MaxTurn": null,
+    "FieldMapType": "City",
+    "FirstClearRewardPackageMasterId": 2050001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": 200518
+  },
+  {
+    "type": "QuestMaster",
     "Id": 10000001,
     "Name": "0-3",
     "EnemyPartyMasterId": 10000,
@@ -44775,7 +45421,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44792,7 +45438,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44809,7 +45455,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44826,7 +45472,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44843,7 +45489,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44860,7 +45506,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44877,7 +45523,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44894,7 +45540,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44911,7 +45557,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44928,7 +45574,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44945,7 +45591,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44962,7 +45608,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44979,7 +45625,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -44996,7 +45642,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -45013,7 +45659,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -45030,7 +45676,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -45047,7 +45693,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -45064,7 +45710,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300101
   },
   {
     "type": "QuestMaster",
@@ -45081,7 +45727,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45098,7 +45744,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45115,7 +45761,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45132,7 +45778,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45149,7 +45795,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45166,7 +45812,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45183,7 +45829,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45200,7 +45846,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45217,7 +45863,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45234,7 +45880,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45251,7 +45897,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45268,7 +45914,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45285,7 +45931,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45302,7 +45948,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45319,7 +45965,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45336,7 +45982,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45353,7 +45999,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45370,7 +46016,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45387,7 +46033,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45404,7 +46050,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45421,7 +46067,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45438,7 +46084,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300102
   },
   {
     "type": "QuestMaster",
@@ -45455,7 +46101,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45472,7 +46118,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45489,7 +46135,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45506,7 +46152,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45523,7 +46169,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45540,7 +46186,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45557,7 +46203,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45574,7 +46220,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45591,7 +46237,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45608,7 +46254,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45625,7 +46271,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45642,7 +46288,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45659,7 +46305,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45676,7 +46322,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45693,7 +46339,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45710,7 +46356,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45727,7 +46373,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45744,7 +46390,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45761,7 +46407,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45778,7 +46424,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45795,7 +46441,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45812,7 +46458,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45829,7 +46475,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45846,7 +46492,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45863,7 +46509,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300103
   },
   {
     "type": "QuestMaster",
@@ -45880,7 +46526,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -45897,7 +46543,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -45914,7 +46560,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -45931,7 +46577,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -45948,7 +46594,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -45965,7 +46611,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -45982,7 +46628,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -45999,7 +46645,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46016,7 +46662,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46033,7 +46679,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46050,7 +46696,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46067,7 +46713,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46084,7 +46730,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46101,7 +46747,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46118,7 +46764,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46135,7 +46781,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46152,7 +46798,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46169,7 +46815,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46186,7 +46832,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46203,7 +46849,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46220,7 +46866,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46237,7 +46883,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46254,7 +46900,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46271,7 +46917,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46288,7 +46934,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46305,7 +46951,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46322,7 +46968,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46339,7 +46985,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46356,7 +47002,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46373,7 +47019,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300104
   },
   {
     "type": "QuestMaster",
@@ -46390,7 +47036,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46407,7 +47053,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46424,7 +47070,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46441,7 +47087,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46458,7 +47104,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46475,7 +47121,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46492,7 +47138,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46509,7 +47155,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46526,7 +47172,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46543,7 +47189,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46560,7 +47206,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46577,7 +47223,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46594,7 +47240,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46611,7 +47257,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46628,7 +47274,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46645,7 +47291,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46662,7 +47308,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46679,7 +47325,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46696,7 +47342,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46713,7 +47359,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46730,7 +47376,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46747,7 +47393,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46764,7 +47410,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46781,7 +47427,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46798,7 +47444,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46815,7 +47461,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46832,7 +47478,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46849,7 +47495,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46866,7 +47512,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46883,7 +47529,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300105
   },
   {
     "type": "QuestMaster",
@@ -46900,7 +47546,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -46917,7 +47563,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -46934,7 +47580,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -46951,7 +47597,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -46968,7 +47614,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -46985,7 +47631,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47002,7 +47648,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47019,7 +47665,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47036,7 +47682,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47053,7 +47699,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47070,7 +47716,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47087,7 +47733,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47104,7 +47750,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47121,7 +47767,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47138,7 +47784,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47155,7 +47801,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47172,7 +47818,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47189,7 +47835,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47206,7 +47852,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47223,7 +47869,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47240,7 +47886,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47257,7 +47903,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47274,7 +47920,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47291,7 +47937,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47308,7 +47954,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47325,7 +47971,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47342,7 +47988,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47359,7 +48005,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47376,7 +48022,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47393,7 +48039,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300106
   },
   {
     "type": "QuestMaster",
@@ -47410,7 +48056,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47427,7 +48073,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47444,7 +48090,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47461,7 +48107,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47478,7 +48124,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47495,7 +48141,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47512,7 +48158,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47529,7 +48175,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47546,7 +48192,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47563,7 +48209,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47580,7 +48226,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47597,7 +48243,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47614,7 +48260,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47631,7 +48277,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47648,7 +48294,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47665,7 +48311,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47682,7 +48328,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47699,7 +48345,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47716,7 +48362,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47733,7 +48379,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47750,7 +48396,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47767,7 +48413,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47784,7 +48430,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47801,7 +48447,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47818,7 +48464,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47835,7 +48481,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47852,7 +48498,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47869,7 +48515,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47886,7 +48532,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47903,7 +48549,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300107
   },
   {
     "type": "QuestMaster",
@@ -47920,7 +48566,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -47937,7 +48583,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -47954,7 +48600,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -47971,7 +48617,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -47988,7 +48634,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48005,7 +48651,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48022,7 +48668,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48039,7 +48685,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48056,7 +48702,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48073,7 +48719,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48090,7 +48736,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48107,7 +48753,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48124,7 +48770,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48141,7 +48787,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48158,7 +48804,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48175,7 +48821,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48192,7 +48838,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48209,7 +48855,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48226,7 +48872,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48243,7 +48889,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48260,7 +48906,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48277,7 +48923,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48294,7 +48940,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48311,7 +48957,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48328,7 +48974,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48345,7 +48991,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48362,7 +49008,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48379,7 +49025,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48396,7 +49042,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48413,7 +49059,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300108
   },
   {
     "type": "QuestMaster",
@@ -48430,7 +49076,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48447,7 +49093,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48464,7 +49110,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48481,7 +49127,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48498,7 +49144,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48515,7 +49161,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48532,7 +49178,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48549,7 +49195,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48566,7 +49212,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48583,7 +49229,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48600,7 +49246,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48617,7 +49263,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48634,7 +49280,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48651,7 +49297,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48668,7 +49314,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48685,7 +49331,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48702,7 +49348,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48719,7 +49365,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48736,7 +49382,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48753,7 +49399,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48770,7 +49416,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48787,7 +49433,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48804,7 +49450,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48821,7 +49467,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48838,7 +49484,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48855,7 +49501,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48872,7 +49518,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48889,7 +49535,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48906,7 +49552,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48923,7 +49569,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300109
   },
   {
     "type": "QuestMaster",
@@ -48940,7 +49586,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -48957,7 +49603,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -48974,7 +49620,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -48991,7 +49637,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49008,7 +49654,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49025,7 +49671,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49042,7 +49688,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49059,7 +49705,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49076,7 +49722,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49093,7 +49739,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49110,7 +49756,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49127,7 +49773,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49144,7 +49790,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49161,7 +49807,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49178,7 +49824,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49195,7 +49841,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49212,7 +49858,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49229,7 +49875,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49246,7 +49892,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49263,7 +49909,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49280,7 +49926,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49297,7 +49943,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49314,7 +49960,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49331,7 +49977,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49348,7 +49994,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49365,7 +50011,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49382,7 +50028,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49399,7 +50045,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49416,7 +50062,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49433,7 +50079,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300110
   },
   {
     "type": "QuestMaster",
@@ -49450,7 +50096,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49467,7 +50113,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49484,7 +50130,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49501,7 +50147,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49518,7 +50164,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49535,7 +50181,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49552,7 +50198,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49569,7 +50215,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49586,7 +50232,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49603,7 +50249,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49620,7 +50266,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49637,7 +50283,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49654,7 +50300,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49671,7 +50317,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49688,7 +50334,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49705,7 +50351,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49722,7 +50368,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49739,7 +50385,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49756,7 +50402,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49773,7 +50419,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49790,7 +50436,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49807,7 +50453,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49824,7 +50470,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49841,7 +50487,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49858,7 +50504,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49875,7 +50521,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49892,7 +50538,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49909,7 +50555,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49926,7 +50572,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49943,7 +50589,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300111
   },
   {
     "type": "QuestMaster",
@@ -49960,7 +50606,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -49977,7 +50623,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -49994,7 +50640,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50011,7 +50657,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50028,7 +50674,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50045,7 +50691,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50062,7 +50708,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50079,7 +50725,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50096,7 +50742,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50113,7 +50759,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50130,7 +50776,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50147,7 +50793,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50164,7 +50810,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50181,7 +50827,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50198,7 +50844,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50215,7 +50861,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50232,7 +50878,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50249,7 +50895,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50266,7 +50912,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50283,7 +50929,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50300,7 +50946,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50317,7 +50963,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50334,7 +50980,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50351,7 +50997,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50368,7 +51014,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50385,7 +51031,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50402,7 +51048,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50419,7 +51065,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50436,7 +51082,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50453,7 +51099,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50470,7 +51116,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50487,7 +51133,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50504,7 +51150,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50521,7 +51167,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50538,7 +51184,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50555,7 +51201,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50572,7 +51218,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50589,7 +51235,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50606,7 +51252,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50623,7 +51269,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50640,7 +51286,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50657,7 +51303,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50674,7 +51320,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50691,7 +51337,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50708,7 +51354,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50725,7 +51371,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50742,7 +51388,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50759,7 +51405,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50776,7 +51422,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50793,7 +51439,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50810,7 +51456,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50827,7 +51473,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50844,7 +51490,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50861,7 +51507,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50878,7 +51524,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50895,7 +51541,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50912,7 +51558,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50929,7 +51575,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50946,7 +51592,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50963,7 +51609,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300112
   },
   {
     "type": "QuestMaster",
@@ -50980,7 +51626,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -50997,7 +51643,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51014,7 +51660,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51031,7 +51677,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51048,7 +51694,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51065,7 +51711,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51082,7 +51728,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51099,7 +51745,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51116,7 +51762,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51133,7 +51779,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51150,7 +51796,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51167,7 +51813,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51184,7 +51830,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51201,7 +51847,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51218,7 +51864,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51235,7 +51881,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51252,7 +51898,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51269,7 +51915,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51286,7 +51932,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51303,7 +51949,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51320,7 +51966,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51337,7 +51983,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51354,7 +52000,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51371,7 +52017,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51388,7 +52034,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51405,7 +52051,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51422,7 +52068,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51439,7 +52085,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51456,7 +52102,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51473,7 +52119,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300113
   },
   {
     "type": "QuestMaster",
@@ -51490,7 +52136,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51507,7 +52153,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51524,7 +52170,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51541,7 +52187,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51558,7 +52204,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51575,7 +52221,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51592,7 +52238,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51609,7 +52255,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51626,7 +52272,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51643,7 +52289,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51660,7 +52306,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51677,7 +52323,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51694,7 +52340,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51711,7 +52357,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51728,7 +52374,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51745,7 +52391,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51762,7 +52408,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51779,7 +52425,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51796,7 +52442,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51813,7 +52459,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51830,7 +52476,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51847,7 +52493,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51864,7 +52510,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51881,7 +52527,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51898,7 +52544,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51915,7 +52561,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51932,7 +52578,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51949,7 +52595,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51966,7 +52612,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -51983,7 +52629,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300114
   },
   {
     "type": "QuestMaster",
@@ -52000,7 +52646,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52017,7 +52663,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52034,7 +52680,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52051,7 +52697,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52068,7 +52714,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52085,7 +52731,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52102,7 +52748,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52119,7 +52765,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52136,7 +52782,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52153,7 +52799,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52170,7 +52816,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52187,7 +52833,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52204,7 +52850,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52221,7 +52867,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52238,7 +52884,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52255,7 +52901,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52272,7 +52918,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52289,7 +52935,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52306,7 +52952,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52323,7 +52969,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52340,7 +52986,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52357,7 +53003,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52374,7 +53020,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52391,7 +53037,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52408,7 +53054,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52425,7 +53071,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52442,7 +53088,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52459,7 +53105,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52476,7 +53122,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52493,7 +53139,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300115
   },
   {
     "type": "QuestMaster",
@@ -52510,7 +53156,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52527,7 +53173,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52544,7 +53190,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52561,7 +53207,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52578,7 +53224,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52595,7 +53241,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52612,7 +53258,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52629,7 +53275,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52646,7 +53292,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52663,7 +53309,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52680,7 +53326,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52697,7 +53343,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52714,7 +53360,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52731,7 +53377,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52748,7 +53394,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52765,7 +53411,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52782,7 +53428,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52799,7 +53445,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52816,7 +53462,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52833,7 +53479,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52850,7 +53496,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52867,7 +53513,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52884,7 +53530,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52901,7 +53547,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52918,7 +53564,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52935,7 +53581,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52952,7 +53598,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52969,7 +53615,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -52986,7 +53632,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -53003,7 +53649,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300116
   },
   {
     "type": "QuestMaster",
@@ -53020,7 +53666,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53037,7 +53683,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53054,7 +53700,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53071,7 +53717,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53088,7 +53734,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53105,7 +53751,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53122,7 +53768,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53139,7 +53785,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53156,7 +53802,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53173,7 +53819,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53190,7 +53836,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53207,7 +53853,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53224,7 +53870,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53241,7 +53887,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53258,7 +53904,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53275,7 +53921,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53292,7 +53938,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53309,7 +53955,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53326,7 +53972,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53343,7 +53989,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53360,7 +54006,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53377,7 +54023,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53394,7 +54040,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53411,7 +54057,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53428,7 +54074,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53445,7 +54091,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53462,7 +54108,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53479,7 +54125,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53496,7 +54142,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53513,7 +54159,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300117
   },
   {
     "type": "QuestMaster",
@@ -53530,7 +54176,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53547,7 +54193,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53564,7 +54210,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53581,7 +54227,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53598,7 +54244,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53615,7 +54261,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53632,7 +54278,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53649,7 +54295,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53666,7 +54312,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53683,7 +54329,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53700,7 +54346,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53717,7 +54363,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53734,7 +54380,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53751,7 +54397,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53768,7 +54414,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53785,7 +54431,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53802,7 +54448,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53819,7 +54465,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53836,7 +54482,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53853,7 +54499,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53870,7 +54516,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53887,7 +54533,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53904,7 +54550,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53921,7 +54567,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53938,7 +54584,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53955,7 +54601,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53972,7 +54618,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -53989,7 +54635,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54006,7 +54652,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54023,7 +54669,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54040,7 +54686,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54057,7 +54703,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54074,7 +54720,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54091,7 +54737,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54108,7 +54754,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54125,7 +54771,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54142,7 +54788,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54159,7 +54805,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54176,7 +54822,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54193,7 +54839,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54210,7 +54856,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54227,7 +54873,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54244,7 +54890,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54261,7 +54907,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54278,7 +54924,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54295,7 +54941,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54312,7 +54958,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54329,7 +54975,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54346,7 +54992,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54363,7 +55009,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54380,7 +55026,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54397,7 +55043,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54414,7 +55060,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54431,7 +55077,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54448,7 +55094,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54465,7 +55111,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54482,7 +55128,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54499,7 +55145,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54516,7 +55162,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -54533,7 +55179,7 @@
     "key_index_10": null,
     "VictoryCondition": "EnemyAnnihilated",
     "TargetEnemyPosition": null,
-    "TrialPartyMasterId": null
+    "TrialPartyMasterId": 300118
   },
   {
     "type": "QuestMaster",
@@ -82170,6 +82816,1315 @@
     "IsRepeatAllowed": true,
     "MaxTurn": 5,
     "FieldMapType": "Mountain",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001001,
+    "Name": "地穴帯Lv.1",
+    "EnemyPartyMasterId": 90001001,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001002,
+    "Name": "地穴帯Lv.2",
+    "EnemyPartyMasterId": 90001002,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091002,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001003,
+    "Name": "地穴帯Lv.3",
+    "EnemyPartyMasterId": 90001003,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091003,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001004,
+    "Name": "地穴帯Lv.4",
+    "EnemyPartyMasterId": 90001004,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091004,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001005,
+    "Name": "地穴帯Lv.5",
+    "EnemyPartyMasterId": 90001005,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091005,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001006,
+    "Name": "地穴帯Lv.6",
+    "EnemyPartyMasterId": 90001006,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091006,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001007,
+    "Name": "地穴帯Lv.7",
+    "EnemyPartyMasterId": 90001007,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091007,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001008,
+    "Name": "地穴帯Lv.8",
+    "EnemyPartyMasterId": 90001008,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091008,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001009,
+    "Name": "地穴帯Lv.9",
+    "EnemyPartyMasterId": 90001009,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091009,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001010,
+    "Name": "地穴帯Lv.10",
+    "EnemyPartyMasterId": 90001010,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091010,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001011,
+    "Name": "地穴帯Lv.11",
+    "EnemyPartyMasterId": 90001011,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091011,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001012,
+    "Name": "地穴帯Lv.12",
+    "EnemyPartyMasterId": 90001012,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091012,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001013,
+    "Name": "地穴帯Lv.13",
+    "EnemyPartyMasterId": 90001013,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091013,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001014,
+    "Name": "地穴帯Lv.14",
+    "EnemyPartyMasterId": 90001014,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091014,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001015,
+    "Name": "地穴帯Lv.15",
+    "EnemyPartyMasterId": 90001015,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091015,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001016,
+    "Name": "原生帯Lv.1",
+    "EnemyPartyMasterId": 90001016,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001017,
+    "Name": "原生帯Lv.2",
+    "EnemyPartyMasterId": 90001017,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091002,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001018,
+    "Name": "原生帯Lv.3",
+    "EnemyPartyMasterId": 90001018,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091003,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001019,
+    "Name": "原生帯Lv.4",
+    "EnemyPartyMasterId": 90001019,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091004,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001020,
+    "Name": "原生帯Lv.5",
+    "EnemyPartyMasterId": 90001020,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091005,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001021,
+    "Name": "原生帯Lv.6",
+    "EnemyPartyMasterId": 90001021,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091006,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001022,
+    "Name": "原生帯Lv.7",
+    "EnemyPartyMasterId": 90001022,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091007,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001023,
+    "Name": "原生帯Lv.8",
+    "EnemyPartyMasterId": 90001023,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091008,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001024,
+    "Name": "原生帯Lv.9",
+    "EnemyPartyMasterId": 90001024,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091009,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001025,
+    "Name": "原生帯Lv.10",
+    "EnemyPartyMasterId": 90001025,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091010,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001026,
+    "Name": "原生帯Lv.11",
+    "EnemyPartyMasterId": 90001026,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091011,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001027,
+    "Name": "原生帯Lv.12",
+    "EnemyPartyMasterId": 90001027,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091012,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001028,
+    "Name": "原生帯Lv.13",
+    "EnemyPartyMasterId": 90001028,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091013,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001029,
+    "Name": "原生帯Lv.14",
+    "EnemyPartyMasterId": 90001029,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091014,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001030,
+    "Name": "原生帯Lv.15",
+    "EnemyPartyMasterId": 90001030,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091015,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001031,
+    "Name": "煌晶帯Lv.1",
+    "EnemyPartyMasterId": 90001031,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001032,
+    "Name": "煌晶帯Lv.2",
+    "EnemyPartyMasterId": 90001032,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091002,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001033,
+    "Name": "煌晶帯Lv.3",
+    "EnemyPartyMasterId": 90001033,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091003,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001034,
+    "Name": "煌晶帯Lv.4",
+    "EnemyPartyMasterId": 90001034,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091004,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001035,
+    "Name": "煌晶帯Lv.5",
+    "EnemyPartyMasterId": 90001035,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091005,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001036,
+    "Name": "煌晶帯Lv.6",
+    "EnemyPartyMasterId": 90001036,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091006,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001037,
+    "Name": "煌晶帯Lv.7",
+    "EnemyPartyMasterId": 90001037,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091007,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001038,
+    "Name": "煌晶帯Lv.8",
+    "EnemyPartyMasterId": 90001038,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091008,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001039,
+    "Name": "煌晶帯Lv.9",
+    "EnemyPartyMasterId": 90001039,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091009,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001040,
+    "Name": "煌晶帯Lv.10",
+    "EnemyPartyMasterId": 90001040,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091010,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001041,
+    "Name": "煌晶帯Lv.11",
+    "EnemyPartyMasterId": 90001041,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091011,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001042,
+    "Name": "煌晶帯Lv.12",
+    "EnemyPartyMasterId": 90001042,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091012,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001043,
+    "Name": "煌晶帯Lv.13",
+    "EnemyPartyMasterId": 90001043,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091013,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001044,
+    "Name": "煌晶帯Lv.14",
+    "EnemyPartyMasterId": 90001044,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091014,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001045,
+    "Name": "煌晶帯Lv.15",
+    "EnemyPartyMasterId": 90001045,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091015,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001046,
+    "Name": "星界帯Lv.1",
+    "EnemyPartyMasterId": 90001046,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001047,
+    "Name": "星界帯Lv.2",
+    "EnemyPartyMasterId": 90001047,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091002,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001048,
+    "Name": "星界帯Lv.3",
+    "EnemyPartyMasterId": 90001048,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091003,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001049,
+    "Name": "星界帯Lv.4",
+    "EnemyPartyMasterId": 90001049,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091004,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001050,
+    "Name": "星界帯Lv.5",
+    "EnemyPartyMasterId": 90001050,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091005,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001051,
+    "Name": "星界帯Lv.6",
+    "EnemyPartyMasterId": 90001051,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091006,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001052,
+    "Name": "星界帯Lv.7",
+    "EnemyPartyMasterId": 90001052,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091007,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001053,
+    "Name": "星界帯Lv.8",
+    "EnemyPartyMasterId": 90001053,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091008,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001054,
+    "Name": "星界帯Lv.9",
+    "EnemyPartyMasterId": 90001054,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091009,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001055,
+    "Name": "星界帯Lv.10",
+    "EnemyPartyMasterId": 90001055,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091010,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001056,
+    "Name": "星界帯Lv.11",
+    "EnemyPartyMasterId": 90001056,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091011,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001057,
+    "Name": "星界帯Lv.12",
+    "EnemyPartyMasterId": 90001057,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091012,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001058,
+    "Name": "星界帯Lv.13",
+    "EnemyPartyMasterId": 90001058,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091013,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001059,
+    "Name": "星界帯Lv.14",
+    "EnemyPartyMasterId": 90001059,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091014,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001060,
+    "Name": "星界帯Lv.15",
+    "EnemyPartyMasterId": 90001060,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091015,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001061,
+    "Name": "脱出Lv.1",
+    "EnemyPartyMasterId": 90001061,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091001,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001062,
+    "Name": "脱出Lv.2",
+    "EnemyPartyMasterId": 90001062,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091002,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001063,
+    "Name": "脱出Lv.3",
+    "EnemyPartyMasterId": 90001063,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091003,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001064,
+    "Name": "脱出Lv.4",
+    "EnemyPartyMasterId": 90001064,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091004,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001065,
+    "Name": "脱出Lv.5",
+    "EnemyPartyMasterId": 90001065,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091005,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001066,
+    "Name": "脱出Lv.6",
+    "EnemyPartyMasterId": 90001066,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091006,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001067,
+    "Name": "脱出Lv.7",
+    "EnemyPartyMasterId": 90001067,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091007,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001068,
+    "Name": "脱出Lv.8",
+    "EnemyPartyMasterId": 90001068,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091008,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001069,
+    "Name": "脱出Lv.9",
+    "EnemyPartyMasterId": 90001069,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091009,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001070,
+    "Name": "脱出Lv.10",
+    "EnemyPartyMasterId": 90001070,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091010,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001071,
+    "Name": "脱出Lv.11",
+    "EnemyPartyMasterId": 90001071,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091011,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001072,
+    "Name": "脱出Lv.12",
+    "EnemyPartyMasterId": 90001072,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091012,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001073,
+    "Name": "脱出Lv.13",
+    "EnemyPartyMasterId": 90001073,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091013,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001074,
+    "Name": "脱出Lv.14",
+    "EnemyPartyMasterId": 90001074,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091014,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 90001075,
+    "Name": "脱出Lv.15",
+    "EnemyPartyMasterId": 90001075,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": 2091015,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 800521000,
+    "Name": "学園総力戦テストクエスト1",
+    "EnemyPartyMasterId": 10001,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": false,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
+    "FirstClearRewardPackageMasterId": null,
+    "RepeatableMRewardPackageId": null,
+    "key_index_10": null,
+    "VictoryCondition": "EnemyAnnihilated",
+    "TargetEnemyPosition": null,
+    "TrialPartyMasterId": null
+  },
+  {
+    "type": "QuestMaster",
+    "Id": 800521001,
+    "Name": "学園総力戦テストクエスト2",
+    "EnemyPartyMasterId": 10011,
+    "AutoBattleAllowed": true,
+    "AutoBattleDurationMinutes": 0,
+    "IsRepeatAllowed": true,
+    "MaxTurn": 5,
+    "FieldMapType": "Forest",
     "FirstClearRewardPackageMasterId": null,
     "RepeatableMRewardPackageId": null,
     "key_index_10": null,

@@ -133,5 +133,14 @@
     "IsInitialOwnership": false,
     "Name": "明光フレーム",
     "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 16,
+    "Order": 16,
+    "AssetId": "20009",
+    "IsInitialOwnership": false,
+    "Name": "エクスプローラーフレームⅡ",
+    "Description": "プロフィールアイコンで使用できるフレーム"
   }
 ]

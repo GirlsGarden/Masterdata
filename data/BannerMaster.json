@@ -3,7 +3,7 @@
     "type": "BannerMaster",
     "Id": 1,
     "Order": 100,
-    "ImageStaticPath": "1_002",
+    "ImageStaticPath": "1_003",
     "StartDate": "2025-04-01T00:00:00+09:00",
     "EndDate": null,
     "JumpType": "Gacha",
@@ -13,11 +13,11 @@
       "ShowAdult"
     ],
     "VisibleDeviceFlags": [
+      "Web",
       "Sp",
       "Client",
       "AppStore",
-      "GooglePlay",
-      "Web"
+      "GooglePlay"
     ]
   },
   {
@@ -34,11 +34,11 @@
       "ShowAdult"
     ],
     "VisibleDeviceFlags": [
+      "Web",
       "Sp",
       "Client",
       "AppStore",
-      "GooglePlay",
-      "Web"
+      "GooglePlay"
     ]
   },
   {
@@ -55,11 +55,11 @@
       "ShowAdult"
     ],
     "VisibleDeviceFlags": [
+      "Web",
       "Sp",
       "Client",
       "AppStore",
-      "GooglePlay",
-      "Web"
+      "GooglePlay"
     ]
   },
   {
@@ -85,23 +85,23 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 2028,
-    "Order": 62,
-    "ImageStaticPath": "30005",
-    "StartDate": "2026-02-17T12:30:00+09:00",
-    "EndDate": "2026-03-03T04:59:59+09:00",
-    "JumpType": "Gacha",
-    "JumpTargetId": 30005,
+    "Id": 1023,
+    "Order": 1,
+    "ImageStaticPath": "1004",
+    "StartDate": "2026-03-03T12:30:00+09:00",
+    "EndDate": "2026-03-31T04:59:59+09:00",
+    "JumpType": "EventTop",
+    "JumpTargetId": 22,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"
     ],
     "VisibleDeviceFlags": [
-      "GooglePlay",
       "Web",
       "Sp",
-      "SpWeb",
-      "Client"
+      "Client",
+      "AppStore",
+      "GooglePlay"
     ]
   },
   {
@@ -118,22 +118,22 @@
       "ShowAdult"
     ],
     "VisibleDeviceFlags": [
-      "AppStore",
-      "GooglePlay",
       "Web",
       "Sp",
-      "SpWeb"
+      "Client",
+      "AppStore",
+      "GooglePlay"
     ]
   },
   {
     "type": "BannerMaster",
-    "Id": 3010,
-    "Order": 1,
-    "ImageStaticPath": "1010",
-    "StartDate": "2026-02-19T12:00:00+09:00",
-    "EndDate": "2026-03-03T04:59:59+09:00",
-    "JumpType": "LimitedTimeShop",
-    "JumpTargetId": 157,
+    "Id": 2030,
+    "Order": 60,
+    "ImageStaticPath": "20022",
+    "StartDate": "2026-03-03T12:30:00+09:00",
+    "EndDate": "2026-03-17T04:59:59+09:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20022,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"

@@ -278,5 +278,19 @@
     "LogoFrameAssetId": "100",
     "MovieAssetId": "20013",
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 22,
+    "Name": "刻まれしアナムネーシス",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-03-03T12:30:00+09:00",
+    "QuestCloseDate": "2026-03-24T04:59:59+09:00",
+    "EndDate": "2026-03-31T04:59:59+09:00",
+    "Order": 22,
+    "LogoAssetId": "14",
+    "LogoFrameAssetId": "newstory_100",
+    "MovieAssetId": "20014",
+    "IntroductionEpisodeMasterId": null
   }
 ]

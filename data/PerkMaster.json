@@ -1189,6 +1189,285 @@
   },
   {
     "type": "PerkMaster",
+    "Id": 221,
+    "PerkGroupMasterId": 22,
+    "Type": "MiningMoneyAcquisitionRate",
+    "Value": 1,
+    "Description": "採掘で得られる資金の獲得量",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 222,
+    "PerkGroupMasterId": 22,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られるトレーニングレポートの獲得量",
+    "MItemId": 30001
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 223,
+    "PerkGroupMasterId": 22,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られるテクニカルレポートの獲得量",
+    "MItemId": 30002
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 224,
+    "PerkGroupMasterId": 22,
+    "Type": "CollectLoginBonusCount",
+    "Value": 0,
+    "Description": "ログインボーナスの見逃し補填回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 225,
+    "PerkGroupMasterId": 22,
+    "Type": "SkipCount",
+    "Value": 0,
+    "Description": "採掘の時短受け取りでの回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 226,
+    "PerkGroupMasterId": 22,
+    "Type": "VolunteerSlot",
+    "Value": 0,
+    "Description": "課外活動の活動枠数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 231,
+    "PerkGroupMasterId": 23,
+    "Type": "MiningMoneyAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られる資金の獲得量",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 232,
+    "PerkGroupMasterId": 23,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 1,
+    "Description": "採掘で得られるトレーニングレポートの獲得量",
+    "MItemId": 30001
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 233,
+    "PerkGroupMasterId": 23,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られるテクニカルレポートの獲得量",
+    "MItemId": 30002
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 234,
+    "PerkGroupMasterId": 23,
+    "Type": "CollectLoginBonusCount",
+    "Value": 0,
+    "Description": "ログインボーナスの見逃し補填回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 235,
+    "PerkGroupMasterId": 23,
+    "Type": "SkipCount",
+    "Value": 0,
+    "Description": "採掘の時短受け取りでの回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 236,
+    "PerkGroupMasterId": 23,
+    "Type": "VolunteerSlot",
+    "Value": 0,
+    "Description": "課外活動の活動枠数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 241,
+    "PerkGroupMasterId": 24,
+    "Type": "MiningMoneyAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られる資金の獲得量",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 242,
+    "PerkGroupMasterId": 24,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られるトレーニングレポートの獲得量",
+    "MItemId": 30001
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 243,
+    "PerkGroupMasterId": 24,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 1,
+    "Description": "採掘で得られるテクニカルレポートの獲得量",
+    "MItemId": 30002
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 244,
+    "PerkGroupMasterId": 24,
+    "Type": "CollectLoginBonusCount",
+    "Value": 0,
+    "Description": "ログインボーナスの見逃し補填回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 245,
+    "PerkGroupMasterId": 24,
+    "Type": "SkipCount",
+    "Value": 0,
+    "Description": "採掘の時短受け取りでの回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 246,
+    "PerkGroupMasterId": 24,
+    "Type": "VolunteerSlot",
+    "Value": 0,
+    "Description": "課外活動の活動枠数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 251,
+    "PerkGroupMasterId": 25,
+    "Type": "MiningMoneyAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られる資金の獲得量",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 252,
+    "PerkGroupMasterId": 25,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られるトレーニングレポートの獲得量",
+    "MItemId": 30001
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 253,
+    "PerkGroupMasterId": 25,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られるテクニカルレポートの獲得量",
+    "MItemId": 30002
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 254,
+    "PerkGroupMasterId": 25,
+    "Type": "CollectLoginBonusCount",
+    "Value": 1,
+    "Description": "ログインボーナスの見逃し補填回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 255,
+    "PerkGroupMasterId": 25,
+    "Type": "SkipCount",
+    "Value": 0,
+    "Description": "採掘の時短受け取りでの回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 256,
+    "PerkGroupMasterId": 25,
+    "Type": "VolunteerSlot",
+    "Value": 0,
+    "Description": "課外活動の活動枠数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 261,
+    "PerkGroupMasterId": 26,
+    "Type": "MiningMoneyAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られる資金の獲得量",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 262,
+    "PerkGroupMasterId": 26,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られるトレーニングレポートの獲得量",
+    "MItemId": 30001
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 263,
+    "PerkGroupMasterId": 26,
+    "Type": "MiningItemAcquisitionRate",
+    "Value": 0,
+    "Description": "採掘で得られるテクニカルレポートの獲得量",
+    "MItemId": 30002
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 264,
+    "PerkGroupMasterId": 26,
+    "Type": "CollectLoginBonusCount",
+    "Value": 0,
+    "Description": "ログインボーナスの見逃し補填回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 265,
+    "PerkGroupMasterId": 26,
+    "Type": "SkipCount",
+    "Value": 1,
+    "Description": "採掘の時短受け取りでの回数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 266,
+    "PerkGroupMasterId": 26,
+    "Type": "VolunteerSlot",
+    "Value": 1,
+    "Description": "課外活動の活動枠数",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
+    "Id": 267,
+    "PerkGroupMasterId": 26,
+    "Type": "AddTrophyOrFrame",
+    "Value": 0,
+    "Description": "VIPランク専用フレームの獲得",
+    "MItemId": null
+  },
+  {
+    "type": "PerkMaster",
     "Id": 100001,
     "PerkGroupMasterId": 10000,
     "Type": "SkipCount",

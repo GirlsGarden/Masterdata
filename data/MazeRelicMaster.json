@@ -2489,6 +2489,21 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 8013,
+    "Names": {
+      "2": "プチフェーズシフト"
+    },
+    "Descriptions": {
+      "2": "わずかなズレで敵を惑わす、戦闘開始時敵全体の行動速度を\u003ccolor=#ff701a\u003e5%ダウン\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "2": "1014"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 9000,
     "Names": {
       "6": "ピンクマカローン"

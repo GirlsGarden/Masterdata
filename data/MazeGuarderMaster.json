@@ -97,6 +97,18 @@
   },
   {
     "type": "MazeGuarderMaster",
+    "Id": 108,
+    "Order": 9,
+    "Affiliation": "アマツ",
+    "Identification": "メイズガーダー",
+    "Name": "天穹",
+    "Type": "Tenkyu",
+    "Height": "19.8m",
+    "AssetId": "20",
+    "Description": "アマツ製ＭＧ。開発の遅れにより先に本機の実証実験機『黎明』が導入されていたが、ようやく日の目を見ることとなった。アマツは純正機開発に出遅れたが、他地区製と比較しても高い性能を持つ機体に仕上がっている。なお懸念点として拡張性の低さと整備性の悪さが挙げられており、これは高い要求仕様を満たすこととのトレードオフで、これ以上は導入の延期ができなかったことも関係している。"
+  },
+  {
+    "type": "MazeGuarderMaster",
     "Id": 900,
     "Order": 1,
     "Affiliation": "STRANGERS Ⅰ＆Ⅱ",

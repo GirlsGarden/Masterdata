@@ -565,5 +565,140 @@
     "ThingType": "Item",
     "ThingId": 100003,
     "ThingQuantity": 48
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 221,
+    "VipRankProductMasterId": 22,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 100001,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 222,
+    "VipRankProductMasterId": 22,
+    "Order": 2,
+    "ThingType": "Item",
+    "ThingId": 100002,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 223,
+    "VipRankProductMasterId": 22,
+    "Order": 3,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 231,
+    "VipRankProductMasterId": 23,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 100001,
+    "ThingQuantity": 52
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 232,
+    "VipRankProductMasterId": 23,
+    "Order": 2,
+    "ThingType": "Item",
+    "ThingId": 100002,
+    "ThingQuantity": 52
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 233,
+    "VipRankProductMasterId": 23,
+    "Order": 3,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 52
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 241,
+    "VipRankProductMasterId": 24,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 100001,
+    "ThingQuantity": 54
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 242,
+    "VipRankProductMasterId": 24,
+    "Order": 2,
+    "ThingType": "Item",
+    "ThingId": 100002,
+    "ThingQuantity": 54
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 243,
+    "VipRankProductMasterId": 24,
+    "Order": 3,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 54
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 251,
+    "VipRankProductMasterId": 25,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 100001,
+    "ThingQuantity": 56
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 252,
+    "VipRankProductMasterId": 25,
+    "Order": 2,
+    "ThingType": "Item",
+    "ThingId": 100002,
+    "ThingQuantity": 56
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 253,
+    "VipRankProductMasterId": 25,
+    "Order": 3,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 56
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 261,
+    "VipRankProductMasterId": 26,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 100001,
+    "ThingQuantity": 58
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 262,
+    "VipRankProductMasterId": 26,
+    "Order": 2,
+    "ThingType": "Item",
+    "ThingId": 100002,
+    "ThingQuantity": 58
+  },
+  {
+    "type": "VipRankProductThingMaster",
+    "Id": 263,
+    "VipRankProductMasterId": 26,
+    "Order": 3,
+    "ThingType": "Item",
+    "ThingId": 100003,
+    "ThingQuantity": 58
   }
 ]

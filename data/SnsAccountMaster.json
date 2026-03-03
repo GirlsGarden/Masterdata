@@ -73,6 +73,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 100302,
+    "Type": "Character",
+    "DisplayName": "桃園める「蒼き穹舞うフラットスピン」",
+    "Name": "@Meru_M",
+    "AssetId": "100302",
+    "CharacterMasterId": 100302
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 101001,
     "Type": "Character",
     "DisplayName": "鳴滝七彩",
@@ -97,6 +106,15 @@
     "Name": "@Nanairo_N",
     "AssetId": "101301",
     "CharacterMasterId": 101301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 101302,
+    "Type": "Character",
+    "DisplayName": "鳴滝七彩",
+    "Name": "@Nanairo_N",
+    "AssetId": "101302s",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",
@@ -127,6 +145,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 102303,
+    "Type": "Character",
+    "DisplayName": "月ヶ瀬ちゆる",
+    "Name": "@Chiyuru_T",
+    "AssetId": "102303s",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 103201,
     "Type": "Character",
     "DisplayName": "朽葉ラミ「お金大好きな生意気娘」",
@@ -154,6 +181,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 103303,
+    "Type": "Character",
+    "DisplayName": "朽葉ラミ",
+    "Name": "@Rami_K",
+    "AssetId": "103303s",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 104001,
     "Type": "Character",
     "DisplayName": "一条白奈",
@@ -178,6 +214,15 @@
     "Name": "@Shirona_I",
     "AssetId": "104301",
     "CharacterMasterId": 104301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 104302,
+    "Type": "Character",
+    "DisplayName": "一条白奈",
+    "Name": "@Shirona_I",
+    "AssetId": "104302s",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",

@@ -313,6 +313,45 @@
   },
   {
     "type": "ChapterMaster",
+    "Id": 100701,
+    "Title": "7章1節",
+    "SubTitle": "7章1節サブタイトル",
+    "Order": 1,
+    "EventMasterId": 1,
+    "AssetId": "1024",
+    "Overview": "7章1節あらすじ",
+    "ChapterGroupMasterId": 1007,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 100702,
+    "Title": "7章2節",
+    "SubTitle": "7章2節サブタイトル",
+    "Order": 1,
+    "EventMasterId": 1,
+    "AssetId": "1025",
+    "Overview": "7章2節あらすじ",
+    "ChapterGroupMasterId": 1007,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 100703,
+    "Title": "7章3節",
+    "SubTitle": "7章3節サブタイトル",
+    "Order": 1,
+    "EventMasterId": 1,
+    "AssetId": "1026",
+    "Overview": "7章3節あらすじ",
+    "ChapterGroupMasterId": 1007,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
     "Id": 200001,
     "Title": "FIRST",
     "SubTitle": "イベントストーリー",
@@ -557,5 +596,18 @@
     "ChapterGroupMasterId": 0,
     "Interlude": null,
     "LoggedInActivateMasterId": 2
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 300001,
+    "Title": "1-6",
+    "SubTitle": null,
+    "Order": 1,
+    "EventMasterId": 7001,
+    "AssetId": "8000",
+    "Overview": null,
+    "ChapterGroupMasterId": 0,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
   }
 ]

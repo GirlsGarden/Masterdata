@@ -187,5 +187,50 @@
     "RewardPackageMasterId": 920,
     "VipRankProductMasterId": 21,
     "PerkGroupMasterId": 21
+  },
+  {
+    "type": "VipRankMaster",
+    "Id": 22,
+    "Rank": 21,
+    "RequiredPoint": 100000,
+    "RewardPackageMasterId": 920,
+    "VipRankProductMasterId": 21,
+    "PerkGroupMasterId": 22
+  },
+  {
+    "type": "VipRankMaster",
+    "Id": 23,
+    "Rank": 22,
+    "RequiredPoint": 100000,
+    "RewardPackageMasterId": 920,
+    "VipRankProductMasterId": 21,
+    "PerkGroupMasterId": 23
+  },
+  {
+    "type": "VipRankMaster",
+    "Id": 24,
+    "Rank": 23,
+    "RequiredPoint": 100000,
+    "RewardPackageMasterId": 920,
+    "VipRankProductMasterId": 21,
+    "PerkGroupMasterId": 24
+  },
+  {
+    "type": "VipRankMaster",
+    "Id": 25,
+    "Rank": 24,
+    "RequiredPoint": 100000,
+    "RewardPackageMasterId": 920,
+    "VipRankProductMasterId": 21,
+    "PerkGroupMasterId": 25
+  },
+  {
+    "type": "VipRankMaster",
+    "Id": 26,
+    "Rank": 25,
+    "RequiredPoint": 100000,
+    "RewardPackageMasterId": 920,
+    "VipRankProductMasterId": 21,
+    "PerkGroupMasterId": 26
   }
 ]

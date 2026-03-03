@@ -8,6 +8,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 100302,
+    "Name": "試作用パイロットスーツ",
+    "Description": "桃園める「蒼き穹舞うフラットスピン」の専用OSです。",
+    "AssetId": "100302"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 101301,
     "Name": "歯車",
     "Description": "鳴滝七彩「オールラウンダーな統率者」の専用OSです。",
@@ -47,6 +54,13 @@
     "Name": "777",
     "Description": "一条白奈「純白のラッキーガール」の専用OSです。",
     "AssetId": "104301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 104302,
+    "Name": "仮ハフバ白奈のOS名仮",
+    "Description": "一条白奈「期待応える輝きの穹」の専用OSです。",
+    "AssetId": "104302"
   },
   {
     "type": "OperatingSystemMaster",
@@ -334,5 +348,12 @@
     "Name": "くまさん",
     "Description": "リディア・エルドリッジ「純真無垢なるジーニアス」の専用OSです。",
     "AssetId": "140301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 154301,
+    "Name": "コトハ仮",
+    "Description": "コトハ「世界への反逆者」の専用OSです。",
+    "AssetId": "154301"
   }
 ]

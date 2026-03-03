@@ -8,15 +8,21 @@
     "StartDate": null,
     "EndDate": null,
     "Order": 7000,
-    "BannerAssetId": "1_002",
-    "BackgroundAssetId": "1_002",
+    "BannerAssetId": "1_003",
+    "BackgroundAssetId": "1_003",
     "ExchangeMasterId": 1004,
     "LogoAssetId": null,
     "BackgroundAssetType": "Movie",
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
-    "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "GachaWishMasterId": 1,
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -35,7 +41,13 @@
     "IsLimitCountInvisible": true,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -54,7 +66,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -73,7 +91,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -92,7 +116,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -111,7 +141,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -130,7 +166,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -149,7 +191,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -168,7 +216,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -187,7 +241,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -206,7 +266,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -225,7 +291,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -244,7 +316,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -263,7 +341,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -282,7 +366,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -301,7 +391,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -320,7 +416,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -339,7 +441,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -358,7 +466,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -377,7 +491,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -396,7 +516,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -415,7 +541,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -434,7 +566,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -453,7 +591,38 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 20022,
+    "Type": "PickUp",
+    "Name": "NEW CHARACTERピックアップガチャ【桃園める】",
+    "Description": "有償/無償ジェム・ピックアップガチャチケットを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【ピックアップ生徒について】\n本ピックアップガチャで新登場した生徒は、ガチャ開催終了後、スタンダードガチャの排出対象に順次追加されます。",
+    "StartDate": "2026-03-03T12:30:00+09:00",
+    "EndDate": "2026-03-17T04:59:59+09:00",
+    "Order": 71,
+    "BannerAssetId": "20022",
+    "BackgroundAssetId": "20022",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -472,7 +641,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -491,7 +666,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -510,7 +691,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -529,7 +716,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -548,7 +741,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -567,7 +766,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -586,7 +791,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -605,7 +814,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -624,7 +837,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -643,7 +860,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -662,7 +883,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -681,7 +906,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -700,7 +929,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -719,7 +952,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -738,7 +975,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -757,7 +998,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -776,7 +1021,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -795,7 +1044,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -814,7 +1067,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -833,7 +1090,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -852,7 +1113,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -871,7 +1136,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -890,7 +1159,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -909,7 +1182,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -928,7 +1205,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -947,7 +1228,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -966,7 +1251,34 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 40022,
+    "Type": "PaidPickup",
+    "Name": "DMM POINT限定 NEW CHARACTERピックアップガチャ【桃園める】",
+    "Description": "DMMポイントを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【ピックアップ生徒について】\n本ピックアップガチャで新登場した生徒は、ガチャ開催終了後、スタンダードガチャの排出対象に順次追加されます。",
+    "StartDate": "2026-03-03T12:30:00+09:00",
+    "EndDate": "2026-03-17T04:59:59+09:00",
+    "Order": 71,
+    "BannerAssetId": "40022",
+    "BackgroundAssetId": "20022",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -977,15 +1289,21 @@
     "StartDate": null,
     "EndDate": null,
     "Order": 8000,
-    "BannerAssetId": "60001_002",
-    "BackgroundAssetId": "60001_002",
+    "BannerAssetId": "60001_003",
+    "BackgroundAssetId": "60001_003",
     "ExchangeMasterId": null,
     "LogoAssetId": "60001",
     "BackgroundAssetType": "Image",
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1004,7 +1322,13 @@
     "IsLimitCountInvisible": true,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1023,7 +1347,38 @@
     "IsLimitCountInvisible": true,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 60004,
+    "Type": "SelectWishList",
+    "Name": "セレクトピックアップSSR確定チケットガチャ",
+    "Description": "セレクトピックアップSSR確定チケットを消費して利用できるガチャです。\nレアリティSSRの生徒が出現します。 \n本ガチャの開催期間は「2026/03/31 04:59:59まで」になります。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。",
+    "StartDate": "2026-03-03T12:30:00+09:00",
+    "EndDate": "2026-03-31T04:59:59+09:00",
+    "Order": 7999,
+    "BannerAssetId": "60004",
+    "BackgroundAssetId": "60004",
+    "ExchangeMasterId": null,
+    "LogoAssetId": "60004",
+    "BackgroundAssetType": "Image",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": 2,
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1042,7 +1397,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1061,7 +1422,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1080,7 +1447,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1099,7 +1472,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1118,7 +1497,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1137,7 +1520,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1156,7 +1543,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1175,7 +1566,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1194,7 +1589,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1213,7 +1612,11 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": "90011",
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1232,7 +1635,13 @@
     "IsLimitCountInvisible": false,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1251,7 +1660,13 @@
     "IsLimitCountInvisible": true,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   },
   {
     "type": "GachaMaster",
@@ -1270,6 +1685,12 @@
     "IsLimitCountInvisible": true,
     "BgmAssetId": null,
     "GachaWishMasterId": null,
-    "VisibleDeviceFlags": null
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   }
 ]

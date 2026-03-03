@@ -64,5 +64,11 @@
     "Id": 12,
     "InboxType": "Compensation",
     "Message": "人気ランキング連続1位入賞のプレゼント"
+  },
+  {
+    "type": "InboxMessageMaster",
+    "Id": 13,
+    "InboxType": "ManualSend",
+    "Message": "アカウント連携報酬"
   }
 ]

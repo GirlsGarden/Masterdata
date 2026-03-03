@@ -142,5 +142,14 @@
     "ThingType": "Item",
     "ThingId": 100019,
     "ThingQuantity": 10
+  },
+  {
+    "type": "InboxThingMaster",
+    "Id": 1311,
+    "InboxMasterId": 131,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 90005,
+    "ThingQuantity": 1
   }
 ]

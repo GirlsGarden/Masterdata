@@ -155,6 +155,72 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 10030211,
+    "TalkMasterId": 1003021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "あっ……%usernameusernameuserna%さん、お疲れ様です。\nその……今日は相談に乗っていただき、ありがとうございました。\nやっぱりお話してよかったです。",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10030212,
+    "TalkMasterId": 1003021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "そうじゃないと、いつまでもウジウジ悩んでしまって……\nきっと本番も集中できなかったかもしれません。\nみんなが長所といってくれたこの集中力も活かせなかったです。",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10030213,
+    "TalkMasterId": 1003021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "……あ、そうだ。もし一斉検挙作戦が始まったら、\nあまりお話しできる機会がないと思うので今のうちに言っておきますね。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10030214,
+    "TalkMasterId": 1003021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "%usernameusernameuserna%さん……\n私達の命……%usernameusernameuserna%さんにお預けします。\nあなたを信じています。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10030215,
+    "TalkMasterId": 1003021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "だから%usernameusernameuserna%さんも、私を――私達を信じて\n指揮していただけたら嬉しいです。全力でまっとうしてみせます。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10030216,
+    "TalkMasterId": 1003021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "だから――当日はよろしくお願いいたしますね。",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 10120111,
     "TalkMasterId": 1012011,
     "Order": 1,

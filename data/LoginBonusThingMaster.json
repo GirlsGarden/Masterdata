@@ -952,5 +952,32 @@
     "ThingType": "HomeSoundtrack",
     "ThingId": 40,
     "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200351,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20035,
+    "ThingType": "FreeGem",
+    "ThingId": 1000,
+    "ThingQuantity": 1000
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200361,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20036,
+    "ThingType": "FreeGem",
+    "ThingId": 1500,
+    "ThingQuantity": 1500
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200371,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20037,
+    "ThingType": "FreeGem",
+    "ThingId": 2000,
+    "ThingQuantity": 2000
   }
 ]

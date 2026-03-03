@@ -18,5 +18,15 @@
     "Period": null,
     "StartDate": "2026-01-01T00:00:00+09:00",
     "EndDate": "2026-01-13T04:59:59+09:00"
+  },
+  {
+    "type": "GradualMissionGroupMaster",
+    "Id": 3,
+    "Title": "モリモリブートキャンプミッション",
+    "AssetId": "3",
+    "BackgroundAssetId": "1",
+    "Period": null,
+    "StartDate": null,
+    "EndDate": null
   }
 ]

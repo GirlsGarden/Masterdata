@@ -1137,6 +1137,150 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 10190111,
+    "SceneBranchMasterId": 1019011,
+    "Answer": "呆れる真桜",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190112,
+    "SceneBranchMasterId": 1019011,
+    "Answer": "ため息をつく真桜",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190211,
+    "SceneBranchMasterId": 1019021,
+    "Answer": "記憶が混濁しているみたいだ……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190212,
+    "SceneBranchMasterId": 1019021,
+    "Answer": "人違いじゃないのか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190221,
+    "SceneBranchMasterId": 1019022,
+    "Answer": "お前は言葉を選べよ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190222,
+    "SceneBranchMasterId": 1019022,
+    "Answer": "もっとオブラートに包め！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190411,
+    "SceneBranchMasterId": 1019041,
+    "Answer": "ついでに美味いものも発注しとけ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190412,
+    "SceneBranchMasterId": 1019041,
+    "Answer": "ついでにおしゃれ雑貨も発注しとけ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190421,
+    "SceneBranchMasterId": 1019042,
+    "Answer": "（目のやり場に困る……！）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190422,
+    "SceneBranchMasterId": 1019042,
+    "Answer": "（なんてエッチなんだ！）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190431,
+    "SceneBranchMasterId": 1019043,
+    "Answer": "天穹……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190432,
+    "SceneBranchMasterId": 1019043,
+    "Answer": "かっこいいな……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190611,
+    "SceneBranchMasterId": 1019061,
+    "Answer": "（みんな無事みたいだが……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190612,
+    "SceneBranchMasterId": 1019061,
+    "Answer": "（ボロボロのようだな……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190811,
+    "SceneBranchMasterId": 1019081,
+    "Answer": "クラウディア、無事か！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190812,
+    "SceneBranchMasterId": 1019081,
+    "Answer": "間に合った！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190911,
+    "SceneBranchMasterId": 1019091,
+    "Answer": "（どこかで見たことあるな……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10190912,
+    "SceneBranchMasterId": 1019091,
+    "Answer": "（懐かしい……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 20020311,
     "SceneBranchMasterId": 2002031,
     "Answer": "倒していい障害物を決めるとかか？",
@@ -2401,6 +2545,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40006111,
+    "SceneBranchMasterId": 4000611,
+    "Answer": "視線が気になった",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006112,
+    "SceneBranchMasterId": 4000611,
+    "Answer": "オーダーミスだと思った",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -2764,6 +2924,22 @@
     "Id": 50002522,
     "SceneBranchMasterId": 5000252,
     "Answer": "どっちもいいものだ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002611,
+    "SceneBranchMasterId": 5000261,
+    "Answer": "黙り込む",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002612,
+    "SceneBranchMasterId": 5000261,
+    "Answer": "慌てて否定する",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -6606,6 +6782,150 @@
     "Answer": "張り込みだな！",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1423013
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61051011,
+    "SceneBranchMasterId": 6105101,
+    "Answer": "似合ってるから大丈夫だぞ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1003022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61051012,
+    "SceneBranchMasterId": 6105101,
+    "Answer": "代わりに俺が何か買ってきてやろう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1003021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61052011,
+    "SceneBranchMasterId": 6105201,
+    "Answer": "食べ過ぎなければ大丈夫",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1003022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61052012,
+    "SceneBranchMasterId": 6105201,
+    "Answer": "美味しそうに食べるめるは魅力的だ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1003021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61053011,
+    "SceneBranchMasterId": 6105301,
+    "Answer": "俺の上着、羽織るか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1003021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61053012,
+    "SceneBranchMasterId": 6105301,
+    "Answer": "そのうち慣れるさ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1003022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61054011,
+    "SceneBranchMasterId": 6105401,
+    "Answer": "俺も着たいな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1003021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61054012,
+    "SceneBranchMasterId": 6105401,
+    "Answer": "確かに動きやすそうだ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1003022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000111,
+    "SceneBranchMasterId": 7100011,
+    "Answer": "めるだった",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000112,
+    "SceneBranchMasterId": 7100011,
+    "Answer": "七彩だった",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000211,
+    "SceneBranchMasterId": 7100021,
+    "Answer": "ラミに告白",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000212,
+    "SceneBranchMasterId": 7100021,
+    "Answer": "白奈に告白",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000411,
+    "SceneBranchMasterId": 7100041,
+    "Answer": "フルートの力を頼る。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000412,
+    "SceneBranchMasterId": 7100041,
+    "Answer": "エヴィの力を頼る。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000511,
+    "SceneBranchMasterId": 7100051,
+    "Answer": "ユリアたちのチーム",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000512,
+    "SceneBranchMasterId": 7100051,
+    "Answer": "沙耶たちのチーム",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000611,
+    "SceneBranchMasterId": 7100061,
+    "Answer": "ドロテアと共に行動する。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 71000612,
+    "SceneBranchMasterId": 7100061,
+    "Answer": "リュシーと共に行動する。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
   },
   {
     "type": "SceneBranchSelectionMaster",

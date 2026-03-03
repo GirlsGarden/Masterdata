@@ -280,6 +280,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10016,
+    "Rarity": "Sr",
+    "Name": "ポンコツいいんちょ",
+    "Description": "本当に私ってば、ダメダメですね……\\n人を助けようとしたつもりが、一緒に助けられる側になるなんて……",
+    "AssetId": "10019",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 32,
+        "CharacterType": null,
+        "SkillMasterId": 400142,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -1896,6 +1919,99 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20051,
+    "Rarity": "Ssr",
+    "Name": "ふたりの共同作業",
+    "Description": "ある意味裸よりも恥ずかしい格好だから、\\n最初何かの間違いなんじゃないかって驚いたけど……",
+    "AssetId": "100302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 100,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400145,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20052,
+    "Rarity": "Ssr",
+    "Name": "もう大丈夫",
+    "Description": "実戦になったら、迷ったりしてる余裕なんてない……\\n今の内に上手く使えるようになっておかないと。",
+    "AssetId": "104302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 104,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400139,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400086,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20053,
+    "Rarity": "Ssr",
+    "Name": "不器用な優しさ",
+    "Description": "行くところがないんでしょ？\\nそれなら私が『行くところ』を用意してあげる。",
+    "AssetId": "154301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 154,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400140,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Comical",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400141,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -2387,5 +2503,50 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30020,
+    "Rarity": "Ur",
+    "Name": "不満と不安",
+    "Description": "どんだけ少ない時間で、完璧求めんの！\\n文句と要望だけはご立派に言いやがって！",
+    "AssetId": "30023",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400143,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 56,
+        "CharacterType": null,
+        "SkillMasterId": 400144,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30021,
+    "Rarity": "Ur",
+    "Name": "リリース200日KV",
+    "Description": "仮",
+    "AssetId": "30022",
+    "Highlights": null,
+    "IsReleased": false
   }
 ]

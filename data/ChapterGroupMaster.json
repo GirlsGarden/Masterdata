@@ -75,5 +75,16 @@
     "BannerAssetId": "1006",
     "BackgroundAssetType": "Adventure",
     "BackgroundAssetId": "630"
+  },
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1007,
+    "Title": "7章",
+    "SubTitle": "刻まれしアナムネーシス",
+    "Description": "7章あらすじ",
+    "Order": 8,
+    "BannerAssetId": "1007",
+    "BackgroundAssetType": "Adventure",
+    "BackgroundAssetId": "760"
   }
 ]

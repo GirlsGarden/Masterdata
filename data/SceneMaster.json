@@ -1821,6 +1821,226 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 10190101,
+    "EpisodeMasterId": 101901,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "頻発するスタンピード",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10190201,
+    "EpisodeMasterId": 101902,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "オルガ・ヴォルコワ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10190301,
+    "EpisodeMasterId": 101903,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "未曽有の作戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10190401,
+    "EpisodeMasterId": 101904,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新たなる力",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10190501,
+    "EpisodeMasterId": 101905,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "作戦開始",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10190601,
+    "EpisodeMasterId": 101906,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "駒",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10190701,
+    "EpisodeMasterId": 101907,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "神楽の決断",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10190801,
+    "EpisodeMasterId": 101908,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ファンファーレ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10190901,
+    "EpisodeMasterId": 101909,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "星界帯",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10200101,
+    "EpisodeMasterId": 102001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "戦術機",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10200201,
+    "EpisodeMasterId": 102002,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "同位生成体",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10200301,
+    "EpisodeMasterId": 102003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "自由の夜",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10200401,
+    "EpisodeMasterId": 102004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "『管理者』",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10200501,
+    "EpisodeMasterId": 102005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "イザナミ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10200601,
+    "EpisodeMasterId": 102006,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "思考の枷",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10200701,
+    "EpisodeMasterId": 102007,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "姉妹二人",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10210101,
+    "EpisodeMasterId": 102101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "コトハだけの教導指揮官",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10210201,
+    "EpisodeMasterId": 102102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "チーム『クラスナ』",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10210301,
+    "EpisodeMasterId": 102103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "神楽のプレゼント",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10210401,
+    "EpisodeMasterId": 102104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "繋ぎ、託された想い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10210501,
+    "EpisodeMasterId": 102105,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "オペレーション・プロメテウス",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10210601,
+    "EpisodeMasterId": 102106,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＶＳシリウスシュガー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 20010101,
     "EpisodeMasterId": 200101,
     "Types": "Adventure",
@@ -3831,6 +4051,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40006101,
+    "EpisodeMasterId": 400061,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ふたりの共同作業",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006102,
+    "EpisodeMasterId": 400061,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ふたりの共同作業",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -4287,6 +4527,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "腐れ縁で犬猿の仲？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002601,
+    "EpisodeMasterId": 500026,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ポンコツいいんちょ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002602,
+    "EpisodeMasterId": 500026,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ポンコツいいんちょ",
     "AssetId": null
   },
   {
@@ -6687,6 +6947,106 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "探すは焼きそばパン",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61036001,
+    "EpisodeMasterId": 610240,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "思わず着たまま",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61036002,
+    "EpisodeMasterId": 610241,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "体型が出てしまう！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61036003,
+    "EpisodeMasterId": 610242,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "風を浴びて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61036004,
+    "EpisodeMasterId": 610243,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "トレーニングウェアとして",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 71000001,
+    "EpisodeMasterId": 710001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "輝き始めた星々",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 71000002,
+    "EpisodeMasterId": 710002,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "光届かぬ暗闇の中で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 71000003,
+    "EpisodeMasterId": 710003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新たなる光と忍び寄る闇",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 71000004,
+    "EpisodeMasterId": 710004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ブランディング・オーバードライブ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 71000005,
+    "EpisodeMasterId": 710005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "混沌のパラディグマ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 71000006,
+    "EpisodeMasterId": 710006,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "月下に咲くは白百合の旗",
     "AssetId": null
   }
 ]

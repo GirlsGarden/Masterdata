@@ -33,6 +33,14 @@
   },
   {
     "type": "MissionPointMaster",
+    "Id": 5,
+    "Type": "GradualMission",
+    "IsDisplayReward": false,
+    "AssetId": null,
+    "MissionMasterId": 190003
+  },
+  {
+    "type": "MissionPointMaster",
     "Id": 9990,
     "Type": "EventGoalMission",
     "IsDisplayReward": true,

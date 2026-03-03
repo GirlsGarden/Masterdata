@@ -25,6 +25,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1003021,
+    "CallCharacterMasterId": 100302,
+    "Order": 100003,
+    "Title": "作戦の前に",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 100302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400061
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1012011,
     "CallCharacterMasterId": 101201,
     "Order": 101001,
