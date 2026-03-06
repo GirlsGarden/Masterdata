@@ -493,6 +493,18 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 42,
+    "Name": "Code Red",
+    "Order": 42,
+    "LengthSeconds": 132,
+    "IsRequiredUnlock": false,
+    "AssetId": "20011",
+    "StartLoopPointSampleCounts": 661493,
+    "EndLoopPointSampleCounts": 4630493,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

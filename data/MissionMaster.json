@@ -4303,6 +4303,27 @@
   },
   {
     "type": "MissionMaster",
+    "Id": 210022,
+    "Title": null,
+    "Description": "学園総力戦に移動する",
+    "EventGroupMasterId": 22,
+    "GradualMissionMasterId": null,
+    "GradualMissionGroupMasterId": null,
+    "Order": 2,
+    "Category": "EventDaily",
+    "ConditionType": [
+      "ClearedQuestCount",
+      "SpecificPlayedMiniGameCount"
+    ],
+    "StartDate": "2026-03-06T12:30:00+09:00",
+    "EndDate": "2026-03-24T04:59:59+09:00",
+    "JumpType": "TotalWar",
+    "TargetId": 21,
+    "QuestPassMasterId": null,
+    "ReceiveEndDate": "2026-03-31T04:59:59+09:00"
+  },
+  {
+    "type": "MissionMaster",
     "Id": 210023,
     "Title": null,
     "Description": "戦術演習に[:param]回挑戦する",
@@ -4552,5 +4573,23 @@
     "TargetId": 3004,
     "QuestPassMasterId": null,
     "ReceiveEndDate": "2026-03-31T04:59:59+09:00"
+  },
+  {
+    "type": "MissionMaster",
+    "Id": 220087,
+    "Title": null,
+    "Description": "学園総力戦PHASE01地穴帯のLv.1をクリアする",
+    "EventGroupMasterId": 22,
+    "GradualMissionMasterId": null,
+    "GradualMissionGroupMasterId": null,
+    "Order": 3,
+    "Category": "EventGoal",
+    "ConditionType": "SpecificLocationStageClear",
+    "StartDate": "2026-03-06T12:30:00+09:00",
+    "EndDate": "2026-03-08T04:59:59+09:00",
+    "JumpType": "TotalWar",
+    "TargetId": 21,
+    "QuestPassMasterId": null,
+    "ReceiveEndDate": "2026-03-08T11:59:59+09:00"
   }
 ]

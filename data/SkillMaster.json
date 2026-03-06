@@ -36316,42 +36316,42 @@
           {
             "type": "TagValue",
             "Level": 1,
-            "Value": 15
+            "Value": 5
           },
           {
             "type": "TagValue",
             "Level": 3,
-            "Value": 16.66
+            "Value": 5.55
           },
           {
             "type": "TagValue",
             "Level": 4,
-            "Value": 19.98
+            "Value": 6.66
           },
           {
             "type": "TagValue",
             "Level": 6,
-            "Value": 21.64
+            "Value": 7.21
           },
           {
             "type": "TagValue",
             "Level": 7,
-            "Value": 24.96
+            "Value": 8.32
           },
           {
             "type": "TagValue",
             "Level": 9,
-            "Value": 26.62
+            "Value": 8.87
           },
           {
             "type": "TagValue",
             "Level": 10,
-            "Value": 30
+            "Value": 10
           },
           {
             "type": "TagValue",
             "Level": 15,
-            "Value": 45
+            "Value": 15
           }
         ]
       },
@@ -52944,27 +52944,27 @@
           {
             "type": "TagValue",
             "Level": 3,
-            "Value": 58.72
+            "Value": 58.1
           },
           {
             "type": "TagValue",
             "Level": 4,
-            "Value": 66.18
+            "Value": 64.32
           },
           {
             "type": "TagValue",
             "Level": 6,
-            "Value": 69.9
+            "Value": 67.42
           },
           {
             "type": "TagValue",
             "Level": 7,
-            "Value": 77.36
+            "Value": 73.64
           },
           {
             "type": "TagValue",
             "Level": 9,
-            "Value": 81.08
+            "Value": 76.74
           },
           {
             "type": "TagValue",
@@ -55426,7 +55426,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "HP割合が最も低い味方単体のHPを威力{威力}で回復する。対象に付与されている「コスモル」1つにつき、このスキルによる回復量が10%増加する（最大3つまで）。さらに対象に対し、「コスモル」を1つ付与する"
+        "Template": "HP割合が最も低い味方単体のHPを威力{威力}で回復する。対象に付与されている「コスモル」1つにつき、このスキルによる回復量が10%増加する（最大3つまで）。さらに対象に対し、4行動の「コスモル」を1つ付与する"
       }
     ],
     "TemplateTags": [
@@ -55942,42 +55942,42 @@
           {
             "type": "TagValue",
             "Level": 1,
-            "Value": 5
+            "Value": 1.66
           },
           {
             "type": "TagValue",
             "Level": 3,
-            "Value": 5.54
+            "Value": 1.84
           },
           {
             "type": "TagValue",
             "Level": 4,
-            "Value": 6.62
+            "Value": 2.2
           },
           {
             "type": "TagValue",
             "Level": 6,
-            "Value": 7.16
+            "Value": 2.38
           },
           {
             "type": "TagValue",
             "Level": 7,
-            "Value": 8.24
+            "Value": 2.74
           },
           {
             "type": "TagValue",
             "Level": 9,
-            "Value": 8.78
+            "Value": 2.92
           },
           {
             "type": "TagValue",
             "Level": 10,
-            "Value": 10
+            "Value": 3.33
           },
           {
             "type": "TagValue",
             "Level": 15,
-            "Value": 15
+            "Value": 5
           }
         ]
       }
@@ -75680,7 +75680,7 @@
       },
       {
         "type": "SkillDescriptionTemplate",
-        "Level": 5,
+        "Level": 6,
         "Template": "自身がアクティブスキルで攻撃する前に発動。自身に対し「コスモル」を2つと、2ヒットだけ攻撃を回避するバフを付与する。自身が付与されている「コスモル」が5つ以上だった場合、さらにもう1ヒット分の回避バフを付与する"
       }
     ],

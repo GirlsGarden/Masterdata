@@ -5325,28 +5325,6 @@
   },
   {
     "type": "MissionStageMaster",
-    "Id": 2100222,
-    "MissionMasterId": 210022,
-    "MissionStageOrder": 2,
-    "StageGoalValue": 2,
-    "StartDate": null,
-    "RewardPackageMasterId": 3070109,
-    "Description": null,
-    "IsDescriptionEnabled": true
-  },
-  {
-    "type": "MissionStageMaster",
-    "Id": 2100223,
-    "MissionMasterId": 210022,
-    "MissionStageOrder": 3,
-    "StageGoalValue": 3,
-    "StartDate": null,
-    "RewardPackageMasterId": 3070110,
-    "Description": null,
-    "IsDescriptionEnabled": true
-  },
-  {
-    "type": "MissionStageMaster",
     "Id": 2100231,
     "MissionMasterId": 210023,
     "MissionStageOrder": 1,
@@ -12812,6 +12790,61 @@
     "StartDate": null,
     "RewardPackageMasterId": 3070117,
     "Description": "イベント「刻まれしアナムネーシス」1節9話をクリアする",
+    "IsDescriptionEnabled": false
+  },
+  {
+    "type": "MissionStageMaster",
+    "Id": 2200871,
+    "MissionMasterId": 220087,
+    "MissionStageOrder": 1,
+    "StageGoalValue": 1,
+    "StartDate": null,
+    "RewardPackageMasterId": 3070118,
+    "Description": null,
+    "IsDescriptionEnabled": false
+  },
+  {
+    "type": "MissionStageMaster",
+    "Id": 2200881,
+    "MissionMasterId": 220088,
+    "MissionStageOrder": 1,
+    "StageGoalValue": 1,
+    "StartDate": null,
+    "RewardPackageMasterId": 3070118,
+    "Description": null,
+    "IsDescriptionEnabled": false
+  },
+  {
+    "type": "MissionStageMaster",
+    "Id": 2200891,
+    "MissionMasterId": 220089,
+    "MissionStageOrder": 1,
+    "StageGoalValue": 1,
+    "StartDate": null,
+    "RewardPackageMasterId": 3070118,
+    "Description": null,
+    "IsDescriptionEnabled": false
+  },
+  {
+    "type": "MissionStageMaster",
+    "Id": 2200901,
+    "MissionMasterId": 220090,
+    "MissionStageOrder": 1,
+    "StageGoalValue": 1,
+    "StartDate": null,
+    "RewardPackageMasterId": 3070118,
+    "Description": null,
+    "IsDescriptionEnabled": false
+  },
+  {
+    "type": "MissionStageMaster",
+    "Id": 2200911,
+    "MissionMasterId": 220091,
+    "MissionStageOrder": 1,
+    "StageGoalValue": 1,
+    "StartDate": null,
+    "RewardPackageMasterId": 3070118,
+    "Description": null,
     "IsDescriptionEnabled": false
   },
   {
