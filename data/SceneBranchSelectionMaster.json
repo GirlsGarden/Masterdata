@@ -1281,6 +1281,134 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 10201011,
+    "SceneBranchMasterId": 1020101,
+    "Answer": "やはり……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10201012,
+    "SceneBranchMasterId": 1020101,
+    "Answer": "お前ら……！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10201021,
+    "SceneBranchMasterId": 1020102,
+    "Answer": "隻腕のＭＧか……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10201022,
+    "SceneBranchMasterId": 1020102,
+    "Answer": "激しい戦闘があったみたいだ……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10202011,
+    "SceneBranchMasterId": 1020201,
+    "Answer": "そのまんまだ……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10202012,
+    "SceneBranchMasterId": 1020201,
+    "Answer": "会長がふたり……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10202021,
+    "SceneBranchMasterId": 1020202,
+    "Answer": "目を見張る",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10202022,
+    "SceneBranchMasterId": 1020202,
+    "Answer": "息を呑む",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10205011,
+    "SceneBranchMasterId": 1020501,
+    "Answer": "様子が変だぞ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10205012,
+    "SceneBranchMasterId": 1020501,
+    "Answer": "なんだか有能に見えるぞ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10206011,
+    "SceneBranchMasterId": 1020601,
+    "Answer": "める！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10206012,
+    "SceneBranchMasterId": 1020601,
+    "Answer": "どうしちまったんだ！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10207011,
+    "SceneBranchMasterId": 1020701,
+    "Answer": "…………",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10207012,
+    "SceneBranchMasterId": 1020701,
+    "Answer": "（生徒会長……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10207021,
+    "SceneBranchMasterId": 1020702,
+    "Answer": "独りじゃない",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10207022,
+    "SceneBranchMasterId": 1020702,
+    "Answer": "（黙っている）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 20020311,
     "SceneBranchMasterId": 2002031,
     "Answer": "倒していい障害物を決めるとかか？",
@@ -2561,6 +2689,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40006211,
+    "SceneBranchMasterId": 4000621,
+    "Answer": "頑張り屋さんだな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006212,
+    "SceneBranchMasterId": 4000621,
+    "Answer": "真面目だな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -2940,6 +3084,22 @@
     "Id": 50002612,
     "SceneBranchMasterId": 5000261,
     "Answer": "慌てて否定する",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002711,
+    "SceneBranchMasterId": 5000271,
+    "Answer": "生徒会長にどうぞ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002712,
+    "SceneBranchMasterId": 5000271,
+    "Answer": "受けて立つ！",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -6846,6 +7006,70 @@
     "Answer": "確かに動きやすそうだ",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1003022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61055011,
+    "SceneBranchMasterId": 6105501,
+    "Answer": "他の誰かが見つけてないかな？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1043021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61055012,
+    "SceneBranchMasterId": 6105501,
+    "Answer": "最後に鍵を持っていたのはいつだ？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1043022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61056011,
+    "SceneBranchMasterId": 6105601,
+    "Answer": "ソフトクリームのほうをいただこう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1043021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61056012,
+    "SceneBranchMasterId": 6105601,
+    "Answer": "じゃあ、俺はハンバーグもらうよ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1043022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61057011,
+    "SceneBranchMasterId": 6105701,
+    "Answer": "じゃあ、温めてやろう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1043021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61057012,
+    "SceneBranchMasterId": 6105701,
+    "Answer": "日向に移動しよう",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1043022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61058011,
+    "SceneBranchMasterId": 6105801,
+    "Answer": "俺が背負ってやるよ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1043021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61058012,
+    "SceneBranchMasterId": 6105801,
+    "Answer": "手を引いて立たせてやる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1043022
   },
   {
     "type": "SceneBranchSelectionMaster",

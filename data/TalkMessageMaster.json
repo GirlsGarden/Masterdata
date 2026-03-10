@@ -1123,6 +1123,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 10430211,
+    "TalkMasterId": 1043021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "……いよいよ、明日、一斉検挙。\nきっと作戦始まったら話せなくなりそうだから、話しておきたい。",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10430212,
+    "TalkMasterId": 1043021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "みんなとはどうなのかって？　とっくにいっぱい話した。\n長い作戦になるだろうから、しばらく私語とかできない。\nだからいろんな話をした。",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10430213,
+    "TalkMasterId": 1043021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "終わったら美味しいスイーツをみんなで食べに行こうとか、\n%usernameusernameuserna%を連れて、\nまた正月みたいにアマツに遊びに行こうとか……",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10430214,
+    "TalkMasterId": 1043021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "こうして全部終わったあとのことをまっすぐ話せるのも、\n%usernameusernameuserna%に自信をつけてもらったからだと思う。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10430215,
+    "TalkMasterId": 1043021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "いつも%usernameusernameuserna%はわたし達を助けてくれる。\nかけがえのないものをいっぱいくれる。導いてくれる。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10430216,
+    "TalkMasterId": 1043021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "そんなあなただから、きっとみんなこの作戦に参加することを\n決めたんだと思う。ついていこうと思ったんだと思う。",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10430217,
+    "TalkMasterId": 1043021,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "……当日も、頼りにしてる。\nよろしく、わたし達の教導指揮官。",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 10530111,
     "TalkMasterId": 1053011,
     "Order": 1,

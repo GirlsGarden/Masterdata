@@ -5692,7 +5692,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "前列の味方を優先し、1行動の間味方2体の防御力を{def}%上昇させる。加えて3行動の間、自身の最大HP×{life}%のHPを持つ「子機」を付与する。「子機」は「子機」所持者に向けられた攻撃のダメージを代わりに受け、「子機」所持者が攻撃したとき、そのダメージに自身の攻撃力×{atk}%のENダメージを追加する。「子機」は所持HPが尽きると消滅する"
+        "Template": "前列の味方を優先し、1行動の間味方2体の防御力を{def}%上昇させる。加えて3行動の間、自身の最大HP×{life}%のHPを持ち、味方の攻撃時に自身の攻撃力×{atk}%のENダメージを追加するサブユニット「子機Ⅱ」を付与する"
       }
     ],
     "TemplateTags": [
@@ -17536,12 +17536,12 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身以外を優先し、味方単体に対して3行動の間、自身の最大HP×25%のHPを持つ「子機」を付与する。「子機」は「子機」所持者に向けられた攻撃のダメージを代わりに受け、「子機」所持者が攻撃したとき、そのダメージに自身の攻撃力×{atk}%のENダメージを追加する。「子機」は所持HPが尽きると消滅する"
+        "Template": "ENタイプを優先し、味方単体の攻撃力を5%上昇させる（重複可）。さらに3行動の間、自身の最大HP×25%のHPを持ち、味方の攻撃時に自身の攻撃力×{atk}%のENダメージを追加するサブユニット「子機Ⅰ」を付与する。このスキルは自身以外の味方に対して優先して発動する"
       },
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "自身以外を優先し、味方単体に対して3行動の間、自身の最大HP×25%のHPを持つ「子機」を付与する。「子機」は「子機」所持者に向けられた攻撃のダメージを代わりに受け、「子機」所持者が攻撃したとき、そのダメージに自身の攻撃力×{atk}%のENダメージと、攻撃対象の行動速度を{spd}低下させるデバフ（重複可）を追加する。「子機」は所持HPが尽きると消滅する"
+        "Template": "ENタイプを優先し、味方単体の攻撃力を5%上昇させる（重複可）。さらに3行動の間、自身の最大HP×25%のHPを持ち、味方の攻撃時に自身の攻撃力×{atk}%のENダメージと、攻撃対象の行動速度を{spd}低下させるデバフ（重複可）を追加するサブユニット「子機Ⅰ」を付与する。このスキルは自身以外の味方に対して優先して発動する"
       }
     ],
     "TemplateTags": [
@@ -17651,7 +17651,17 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "自身以外を優先し、最もHP割合の低い味方単体のHPを威力{威力}で回復する。さらに対象にかけられたデバフを{debuff}個まで解除する"
+        "Template": "自身以外を優先し、最もHP割合の低い味方単体のHPを威力{威力}で回復する。さらに対象にかけられたデバフを1個まで解除する"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 12,
+        "Template": "自身以外を優先し、最もHP割合の低い味方単体のHPを威力{威力}で回復する。さらに対象にかけられたデバフを3個まで解除する"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 13,
+        "Template": "自身以外を優先し、最もHP割合の低い味方単体のHPを威力{威力}で回復する。さらに対象にかけられたデバフを5個まで解除する"
       },
       {
         "type": "SkillDescriptionTemplate",
@@ -29282,7 +29292,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "アクティブスキルを2回使用するたびに発動。敵単体に5ヒットEN攻撃する。\n対象となる敵が前衛の場合この攻撃は威力{威力}となり、後衛の場合威力{威力2}となる。\nさらに対象に対し、1行動の間与ダメージをl{dmg}%減少させるデバフを付与する（重複可）"
+        "Template": "アクティブスキルを2回使用するたびに発動。敵単体に5ヒットEN攻撃する。\n対象となる敵が前衛の場合この攻撃は威力{威力}となり、後衛の場合威力{威力2}となる。\nさらに対象に対し、1行動の間与ダメージを{dmg}%減少させるデバフを付与する（重複可）"
       }
     ],
     "TemplateTags": [
@@ -29399,8 +29409,8 @@
       }
     ],
     "SkillLevelPatternMasterId": 13,
-    "DisplaySkillPowerTagName": "威力",
-    "DisplayAttacksCountTagName": null,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": "5",
     "DisplayTargetType": "Enemies",
     "DisplayTargetRange": "OnePawn",
     "DisplayTargetPriority": null
@@ -35860,7 +35870,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "前列の味方を優先し、1行動の間味方2体の防御力を{def}%上昇させる。加えて3行動の間、自身の最大HP×{life}%のHPを持つ「子機」を付与する。「子機」は「子機」所持者に向けられた攻撃のダメージを代わりに受け、「子機」所持者が攻撃したとき、そのダメージに自身の攻撃力×{atk}%のENダメージを追加する。「子機」は所持HPが尽きると消滅する"
+        "Template": "前列の味方を優先し、1行動の間味方2体の防御力を{def}%上昇させる。加えて3行動の間、自身の最大HP×{life}%のHPを持ち、味方の攻撃時に自身の攻撃力×{atk}%のENダメージを追加するサブユニット「子機Ⅱ」を付与する"
       }
     ],
     "TemplateTags": [
@@ -55139,12 +55149,12 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身以外を優先し、味方単体に対して3行動の間、自身の最大HP×25%のHPを持つ「子機」を付与する。「子機」は「子機」所持者に向けられた攻撃のダメージを代わりに受け、「子機」所持者が攻撃したとき、そのダメージに自身の攻撃力×{atk}%のENダメージを追加する。「子機」は所持HPが尽きると消滅する"
+        "Template": "ENタイプを優先し、味方単体の攻撃力を5%上昇させる（重複可）。さらに3行動の間、自身の最大HP×25%のHPを持ち、味方の攻撃時に自身の攻撃力×{atk}%のENダメージを追加するサブユニット「子機Ⅰ」を付与する。このスキルは自身以外の味方に対して優先して発動する"
       },
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "自身以外を優先し、味方単体に対して3行動の間、自身の最大HP×25%のHPを持つ「子機」を付与する。「子機」は「子機」所持者に向けられた攻撃のダメージを代わりに受け、「子機」所持者が攻撃したとき、そのダメージに自身の攻撃力×{atk}%のENダメージと、攻撃対象の行動速度を{spd}低下させるデバフ（重複可）を追加する。「子機」は所持HPが尽きると消滅する"
+        "Template": "ENタイプを優先し、味方単体の攻撃力を5%上昇させる（重複可）。さらに3行動の間、自身の最大HP×25%のHPを持ち、味方の攻撃時に自身の攻撃力×{atk}%のENダメージと、攻撃対象の行動速度を{spd}低下させるデバフ（重複可）を追加するサブユニット「子機Ⅰ」を付与する。このスキルは自身以外の味方に対して優先して発動する"
       }
     ],
     "TemplateTags": [
@@ -55254,7 +55264,17 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "自身以外を優先し、最もHP割合の低い味方単体のHPを威力{威力}で回復する。さらに対象にかけられたデバフを{debuff}個まで解除する"
+        "Template": "自身以外を優先し、最もHP割合の低い味方単体のHPを威力{威力}で回復する。さらに対象にかけられたデバフを1個まで解除する"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 12,
+        "Template": "自身以外を優先し、最もHP割合の低い味方単体のHPを威力{威力}で回復する。さらに対象にかけられたデバフを3個まで解除する"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 13,
+        "Template": "自身以外を優先し、最もHP割合の低い味方単体のHPを威力{威力}で回復する。さらに対象にかけられたデバフを5個まで解除する"
       },
       {
         "type": "SkillDescriptionTemplate",
@@ -75082,7 +75102,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "アクティブスキルを2回使用するたびに発動。敵単体に5ヒットEN攻撃する。\n対象となる敵が前衛の場合この攻撃は威力{威力}となり、後衛の場合威力{威力2}となる。\nさらに対象に対し、1行動の間与ダメージをl{dmg}%減少させるデバフを付与する（重複可）"
+        "Template": "アクティブスキルを2回使用するたびに発動。敵単体に5ヒットEN攻撃する。\n対象となる敵が前衛の場合この攻撃は威力{威力}となり、後衛の場合威力{威力2}となる。\nさらに対象に対し、1行動の間与ダメージを{dmg}%減少させるデバフを付与する（重複可）"
       }
     ],
     "TemplateTags": [
@@ -75199,8 +75219,8 @@
       }
     ],
     "SkillLevelPatternMasterId": 13,
-    "DisplaySkillPowerTagName": "威力",
-    "DisplayAttacksCountTagName": null,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": "5",
     "DisplayTargetType": "Enemies",
     "DisplayTargetRange": "OnePawn",
     "DisplayTargetPriority": null
@@ -75348,10 +75368,23 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身がアクティブスキルで攻撃された後に発動。攻撃してきた敵単体に威力60で反撃する。この攻撃で会心攻撃が発生した場合、自身に対し「コスモル」を1つ付与する"
+        "Template": "自身がアクティブスキルで攻撃された後に発動。攻撃してきた敵単体に威力{威力}で反撃する。この攻撃で会心攻撃が発生した場合、自身に対し「コスモル」を1つ付与する"
       }
     ],
-    "TemplateTags": null,
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 60
+          }
+        ]
+      }
+    ],
     "SkillLevelPatternMasterId": 12,
     "DisplaySkillPowerTagName": "威力",
     "DisplayAttacksCountTagName": "1",

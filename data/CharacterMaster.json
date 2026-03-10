@@ -606,14 +606,14 @@
     "BonusDefencePerLevel": 76,
     "BonusSpeedPerLevel": 2,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "104301",
+    "ModelAssetId": "104302",
     "CockpitAssetId": null,
     "MinCombatPower": 5089,
     "MaxCombatPower": 94299,
     "PositionType": "Back",
     "RoleType": "Support",
     "GachaBackgroundAssetId": "30150",
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "CharacterMaster",

@@ -4071,6 +4071,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40006201,
+    "EpisodeMasterId": 400062,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "もう大丈夫",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006202,
+    "EpisodeMasterId": 400062,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "もう大丈夫",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -4547,6 +4567,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "ポンコツいいんちょ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002701,
+    "EpisodeMasterId": 500027,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "不満と不安",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002702,
+    "EpisodeMasterId": 500027,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "不満と不安",
     "AssetId": null
   },
   {
@@ -6987,6 +7027,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "トレーニングウェアとして",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61037001,
+    "EpisodeMasterId": 610244,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ロッカーの鍵の行方",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61037002,
+    "EpisodeMasterId": 610245,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "特大ハンバーグとソフトクリーム",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61037003,
+    "EpisodeMasterId": 610246,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "手が冷たい",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61037004,
+    "EpisodeMasterId": 610247,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "期待の目",
     "AssetId": null
   },
   {

@@ -157,6 +157,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1043021,
+    "CallCharacterMasterId": 104302,
+    "Order": 104002,
+    "Title": "わたしの大事な宝物",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 104302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400062
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1053011,
     "CallCharacterMasterId": 105301,
     "Order": 105001,
