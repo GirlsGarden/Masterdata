@@ -4414,20 +4414,20 @@
   },
   {
     "type": "MissionMaster",
-    "Id": 220089,
+    "Id": 220090,
     "Title": null,
-    "Description": "学園総力戦PHASE03煌晶帯のLv.1をクリアする",
+    "Description": "学園総力戦PHASE04星界帯のLv.1をクリアする",
     "EventGroupMasterId": 22,
     "GradualMissionMasterId": null,
     "GradualMissionGroupMasterId": null,
-    "Order": 5,
+    "Order": 6,
     "Category": "EventGoal",
     "ConditionType": "SpecificLocationStageClear",
-    "StartDate": "2026-03-10T17:00:00+09:00",
-    "EndDate": "2026-03-12T04:59:59+09:00",
+    "StartDate": "2026-03-12T12:00:00+09:00",
+    "EndDate": "2026-03-14T04:59:59+09:00",
     "JumpType": "TotalWar",
     "TargetId": 21,
     "QuestPassMasterId": null,
-    "ReceiveEndDate": "2026-03-12T11:59:59+09:00"
+    "ReceiveEndDate": "2026-03-14T11:59:59+09:00"
   }
 ]
