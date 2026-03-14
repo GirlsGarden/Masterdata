@@ -4414,20 +4414,20 @@
   },
   {
     "type": "MissionMaster",
-    "Id": 220090,
+    "Id": 220091,
     "Title": null,
-    "Description": "学園総力戦PHASE04星界帯のLv.1をクリアする",
+    "Description": "学園総力戦PHASE05脱出のLv.1をクリアする",
     "EventGroupMasterId": 22,
     "GradualMissionMasterId": null,
     "GradualMissionGroupMasterId": null,
-    "Order": 6,
+    "Order": 7,
     "Category": "EventGoal",
     "ConditionType": "SpecificLocationStageClear",
-    "StartDate": "2026-03-12T12:00:00+09:00",
-    "EndDate": "2026-03-14T04:59:59+09:00",
+    "StartDate": "2026-03-14T12:00:00+09:00",
+    "EndDate": "2026-03-17T04:59:59+09:00",
     "JumpType": "TotalWar",
     "TargetId": 21,
     "QuestPassMasterId": null,
-    "ReceiveEndDate": "2026-03-14T11:59:59+09:00"
+    "ReceiveEndDate": "2026-03-24T04:59:59+09:00"
   }
 ]
