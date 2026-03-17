@@ -582,5 +582,37 @@
     "Order": 530,
     "UnlockGemQuantity": 100,
     "AssetId": "60060"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 74,
+    "Name": "双頭の斧補給基地その他",
+    "Order": 540,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60070"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 75,
+    "Name": "メイズ内部_特殊1",
+    "Order": 555,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60025"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 76,
+    "Name": "双頭の斧ストリート_昼",
+    "Order": 562,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80092"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 77,
+    "Name": "双頭の斧ストリート_夕",
+    "Order": 563,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80093"
   }
 ]

@@ -777,5 +777,24 @@
     "Height": "140",
     "DisplayType": "Always",
     "IsReleased": true
+  },
+  {
+    "type": "CharacterBaseMaster",
+    "Id": 154,
+    "Name": "コトハ",
+    "NameRuby": "ことは",
+    "Order": 1,
+    "CharacterTeamMasterId": 1100,
+    "CharacterSchoolMasterId": 10,
+    "Hobby": "食べたことないもの探し",
+    "Description": "違法パイロット組織『双頭の斧』のボス。その正体は『ＡＩＤＡプロトコル統括ＡＩ・イザナミ』の支配から世界を解放するため、暗躍していたオリジナル四王天神楽の同位生成体である。一見勝ち気な性格だが、根は他人を思いやる優しい人物。",
+    "BirthdayMonth": 1,
+    "BirthdayDay": 1,
+    "BackgroundAssetId": "154",
+    "BirthPlace": "ザルトゥーム学園",
+    "Favorite": "豪華な物",
+    "Height": "150",
+    "DisplayType": "Always",
+    "IsReleased": true
   }
 ]

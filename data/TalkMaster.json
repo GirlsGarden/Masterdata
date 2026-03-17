@@ -742,5 +742,17 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400051
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1543011,
+    "CallCharacterMasterId": 154301,
+    "Order": 154001,
+    "Title": "目の前にいるのに",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 154301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400063
   }
 ]

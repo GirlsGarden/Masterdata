@@ -16300,6 +16300,96 @@
   },
   {
     "type": "RewardMaster",
+    "Id": 30300721,
+    "RewardPackageMasterId": 3030072,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 30,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300722,
+    "RewardPackageMasterId": 3030072,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20024,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300731,
+    "RewardPackageMasterId": 3030073,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 30,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300732,
+    "RewardPackageMasterId": 3030073,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20034,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300741,
+    "RewardPackageMasterId": 3030074,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 30,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300742,
+    "RewardPackageMasterId": 3030074,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20044,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300751,
+    "RewardPackageMasterId": 3030075,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 30,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300752,
+    "RewardPackageMasterId": 3030075,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20054,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300761,
+    "RewardPackageMasterId": 3030076,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 30,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300762,
+    "RewardPackageMasterId": 3030076,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20064,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
     "Id": 30400011,
     "RewardPackageMasterId": 3040001,
     "Order": 0,

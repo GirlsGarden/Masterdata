@@ -1486,5 +1486,29 @@
     "Id": 1433014,
     "SpotAreaPointMasterId": 103,
     "CharacterMasterId": 100302
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1543011,
+    "SpotAreaPointMasterId": 600,
+    "CharacterMasterId": 154301
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1543012,
+    "SpotAreaPointMasterId": 601,
+    "CharacterMasterId": 154301
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1543013,
+    "SpotAreaPointMasterId": 602,
+    "CharacterMasterId": 154301
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1543014,
+    "SpotAreaPointMasterId": 603,
+    "CharacterMasterId": 154301
   }
 ]

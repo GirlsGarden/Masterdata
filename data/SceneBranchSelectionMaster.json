@@ -1409,6 +1409,134 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 10210111,
+    "SceneBranchMasterId": 1021011,
+    "Answer": "あれは……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210112,
+    "SceneBranchMasterId": 1021011,
+    "Answer": "一体……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210121,
+    "SceneBranchMasterId": 1021012,
+    "Answer": "あれは……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210122,
+    "SceneBranchMasterId": 1021012,
+    "Answer": "ＭＧ……！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210211,
+    "SceneBranchMasterId": 1021021,
+    "Answer": "（三度目の自己紹介だな）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210212,
+    "SceneBranchMasterId": 1021021,
+    "Answer": "（やっとちゃんとした自己紹介だ）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210311,
+    "SceneBranchMasterId": 1021031,
+    "Answer": "娘……！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210312,
+    "SceneBranchMasterId": 1021031,
+    "Answer": "同じ『ヴォルコワ』だ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210321,
+    "SceneBranchMasterId": 1021032,
+    "Answer": "やはり……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210322,
+    "SceneBranchMasterId": 1021032,
+    "Answer": "新開発の機体か",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210411,
+    "SceneBranchMasterId": 1021041,
+    "Answer": "黙って見守る",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210412,
+    "SceneBranchMasterId": 1021041,
+    "Answer": "そっとハンカチを渡す",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210711,
+    "SceneBranchMasterId": 1021071,
+    "Answer": "（こんなの……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210712,
+    "SceneBranchMasterId": 1021071,
+    "Answer": "（シリウスシュガーじゃない！）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210721,
+    "SceneBranchMasterId": 1021072,
+    "Answer": "みんな……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10210722,
+    "SceneBranchMasterId": 1021072,
+    "Answer": "すまん……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 20020311,
     "SceneBranchMasterId": 2002031,
     "Answer": "倒していい障害物を決めるとかか？",
@@ -2700,6 +2828,22 @@
     "Id": 40006212,
     "SceneBranchMasterId": 4000621,
     "Answer": "真面目だな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006311,
+    "SceneBranchMasterId": 4000631,
+    "Answer": "ため息をつく",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006312,
+    "SceneBranchMasterId": 4000631,
+    "Answer": "鼻で笑う",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -7070,6 +7214,70 @@
     "Answer": "手を引いて立たせてやる",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1043022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61059011,
+    "SceneBranchMasterId": 6105901,
+    "Answer": "お茶でも淹れよう",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1543012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61059012,
+    "SceneBranchMasterId": 6105901,
+    "Answer": "甘いおやつもあるぞ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1543011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61060011,
+    "SceneBranchMasterId": 6106001,
+    "Answer": "無理して会う必要はないんじゃないか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1543012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61060012,
+    "SceneBranchMasterId": 6106001,
+    "Answer": "応援してるよ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1543011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61061011,
+    "SceneBranchMasterId": 6106101,
+    "Answer": "でも一緒には走ってくれるんだ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1543012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61061012,
+    "SceneBranchMasterId": 6106101,
+    "Answer": "負けず嫌いだ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1543011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61062011,
+    "SceneBranchMasterId": 6106201,
+    "Answer": "よっぽど慕ってるんだな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1543012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61062012,
+    "SceneBranchMasterId": 6106201,
+    "Answer": "君の分も奢るよ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1543011
   },
   {
     "type": "SceneBranchSelectionMaster",

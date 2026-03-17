@@ -97,5 +97,14 @@
     "LogoAssetId": "9002",
     "BackgroundAssetId": "50022",
     "LoggedInActivateMasterId": 2
+  },
+  {
+    "type": "CharacterTeamMaster",
+    "Id": 1100,
+    "Name": "双頭の斧",
+    "Description": "双頭の斧",
+    "LogoAssetId": "11000",
+    "BackgroundAssetId": "80092",
+    "LoggedInActivateMasterId": null
   }
 ]

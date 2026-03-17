@@ -2294,6 +2294,81 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 7023,
+    "Names": {
+      "2": "めるのボイスレコーダー"
+    },
+    "Descriptions": {
+      "2": "指揮官の名を絶えず呼び続けるめるの声が録音されている。"
+    },
+    "AssetIds": {
+      "2": "7023"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7024,
+    "Names": {
+      "2": "七彩のボイスレコーダー"
+    },
+    "Descriptions": {
+      "2": "途切れ途切れに皆を心配する七彩の声が録音されている。"
+    },
+    "AssetIds": {
+      "2": "7023"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7025,
+    "Names": {
+      "2": "ちゆるのボイスレコーダー"
+    },
+    "Descriptions": {
+      "2": "苦痛にもがき呻くちゆるの声が録音されている。"
+    },
+    "AssetIds": {
+      "2": "7023"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7026,
+    "Names": {
+      "2": "ラミのボイスレコーダー"
+    },
+    "Descriptions": {
+      "2": "錯乱して叫ぶラミの声が録音されている。"
+    },
+    "AssetIds": {
+      "2": "7023"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7027,
+    "Names": {
+      "2": "白奈のボイスレコーダー"
+    },
+    "Descriptions": {
+      "2": "仲間に何度も助けを求める白奈の声が録音されている。"
+    },
+    "AssetIds": {
+      "2": "7023"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 8000,
     "Names": {
       "2": "プチフォース（物理）"
@@ -2498,6 +2573,21 @@
     },
     "AssetIds": {
       "2": "1014"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 8014,
+    "Names": {
+      "2": "プチフォース(物理)"
+    },
+    "Descriptions": {
+      "2": "わずかなズレで敵を惑わす、戦闘開始時物理タイプの味方の攻撃力を\u003ccolor=#ff701a\u003e10%アップ\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "2": "2016"
     },
     "Rarity": "R",
     "MaxRarity": "R"

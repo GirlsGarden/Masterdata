@@ -2001,14 +2001,14 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Comical",
+        "CharacterAttribute": "Clever",
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400141,
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
@@ -2543,10 +2543,10 @@
     "type": "MemoryMaster",
     "Id": 30021,
     "Rarity": "Ur",
-    "Name": "リリース200日KV",
-    "Description": "仮",
+    "Name": "これからも共に歩むあなたへ",
+    "Description": "振り返れば指揮官さんがいてくれる……それが一番の勇気になるんです。\\nこれからもよろしくお願いします！",
     "AssetId": "30022",
     "Highlights": null,
-    "IsReleased": false
+    "IsReleased": true
   }
 ]

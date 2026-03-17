@@ -5534,6 +5534,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 15430111,
+    "TalkMasterId": 1543011,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "……もしもし、コトハよ。\n……は？　目の前にいるのになんで電話するのかって？\n別にいいでしょ。ちょっと伝えたいことがあるの。",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 15430112,
+    "TalkMasterId": 1543011,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "直接伝えればいい？\nそれができないから電話使ってるんでしょーが！\n逆ギレすんなですって！？　うるさいわね！",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 15430113,
+    "TalkMasterId": 1543011,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "……って、本題からずれちゃった。\n別にたいしたことじゃないんだけど、こうでもしないとその……\n言えなかったのよ。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 15430114,
+    "TalkMasterId": 1543011,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "何がって……\nいい？　一度しか言わないから、ちゃんと聞きなさい。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 15430115,
+    "TalkMasterId": 1543011,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "……………………ありがと。私の頑張りを認めてくれて。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 15430116,
+    "TalkMasterId": 1543011,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "…………それだけ！！\nもう絶対二度と言わないから！\nなんなら今の忘れてくれたっていいわ。",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 15430117,
+    "TalkMasterId": 1543011,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "って、ニヤケ顔こっち向けないでよ、気持ち悪いっ！\nもう切るから！！",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 102301110,
     "TalkMasterId": 1023011,
     "Order": 10,

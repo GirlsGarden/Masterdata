@@ -2041,6 +2041,16 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 10210701,
+    "EpisodeMasterId": 102107,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "地上へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 20010101,
     "EpisodeMasterId": 200101,
     "Types": "Adventure",
@@ -4087,6 +4097,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "もう大丈夫",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006301,
+    "EpisodeMasterId": 400063,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "不器用な優しさ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006302,
+    "EpisodeMasterId": 400063,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "不器用な優しさ",
     "AssetId": null
   },
   {
@@ -7067,6 +7097,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "期待の目",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61038001,
+    "EpisodeMasterId": 610248,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "夜の見回り",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61038002,
+    "EpisodeMasterId": 610249,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "気まずい相手",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61038003,
+    "EpisodeMasterId": 610250,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "妄想話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61038004,
+    "EpisodeMasterId": 610251,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "優しさ巡って",
     "AssetId": null
   },
   {

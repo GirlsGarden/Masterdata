@@ -903,10 +903,7 @@
     "type": "TutorialMaster",
     "Id": 20035,
     "Category": "FreeTutorial",
-    "StageType": [
-      "Birthday",
-      "SupportCharacter"
-    ],
+    "StageType": "SchoolWarsTop",
     "UnlockFunctionMasterId": null,
     "EpisodeMasterId": null,
     "SceneFrameOrder": null,
@@ -924,10 +921,7 @@
     "type": "TutorialMaster",
     "Id": 20036,
     "Category": "FreeTutorial",
-    "StageType": [
-      "Episode0_1",
-      "SupportCharacter"
-    ],
+    "StageType": "SchoolWarsPreparation",
     "UnlockFunctionMasterId": null,
     "EpisodeMasterId": null,
     "SceneFrameOrder": null,

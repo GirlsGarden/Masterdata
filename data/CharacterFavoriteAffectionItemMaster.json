@@ -1114,5 +1114,23 @@
     "Id": 1403013,
     "CharacterMasterId": 140301,
     "ItemMasterId": 20006
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1543011,
+    "CharacterMasterId": 154301,
+    "ItemMasterId": 20000
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1543013,
+    "CharacterMasterId": 154301,
+    "ItemMasterId": 20009
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1543012,
+    "CharacterMasterId": 154301,
+    "ItemMasterId": 20010
   }
 ]

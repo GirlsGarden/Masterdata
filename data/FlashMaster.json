@@ -197,6 +197,13 @@
   },
   {
     "type": "FlashMaster",
+    "Id": 1104,
+    "Type": "FlashTierSale",
+    "ActiveHours": 4,
+    "EffectType": "Anniversary"
+  },
+  {
+    "type": "FlashMaster",
     "Id": 1107,
     "Type": "FlashRelay",
     "ActiveHours": 1,
