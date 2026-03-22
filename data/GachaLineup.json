@@ -8,9 +8,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -468,9 +468,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 121,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -928,9 +928,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 131,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -1388,7 +1388,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 211,
         "RarityProbabilities": {
-          "2": 1
+          "Sr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -1407,7 +1407,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 212,
         "RarityProbabilities": {
-          "2": 1
+          "Sr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -1426,7 +1426,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 213,
         "RarityProbabilities": {
-          "2": 1
+          "Sr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -1445,7 +1445,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 214,
         "RarityProbabilities": {
-          "2": 1
+          "Sr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -1464,7 +1464,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 215,
         "RarityProbabilities": {
-          "2": 1
+          "Sr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -1490,9 +1490,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 511,
         "RarityProbabilities": {
-          "1": 0.67,
-          "2": 0.32,
-          "3": 0.01
+          "R": 0.67,
+          "Sr": 0.32,
+          "Ssr": 0.01
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -1918,9 +1918,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 521,
         "RarityProbabilities": {
-          "1": 0.67,
-          "2": 0.32,
-          "3": 0.01
+          "R": 0.67,
+          "Sr": 0.32,
+          "Ssr": 0.01
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -2346,9 +2346,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -2639,9 +2639,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000121,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -2932,9 +2932,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000131,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -3225,9 +3225,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000211,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -3526,9 +3526,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000221,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -3827,9 +3827,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000231,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -4128,9 +4128,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000311,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -4429,9 +4429,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000321,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -4730,9 +4730,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000331,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -5031,9 +5031,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -5340,9 +5340,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000421,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -5649,9 +5649,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000431,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -5958,9 +5958,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000511,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -6275,9 +6275,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000521,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -6592,9 +6592,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000531,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -6909,9 +6909,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000611,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -7234,9 +7234,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000621,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -7559,9 +7559,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000631,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -7884,9 +7884,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000711,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -8217,9 +8217,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000721,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -8550,9 +8550,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000731,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -8883,9 +8883,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000811,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -9224,9 +9224,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000821,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -9565,9 +9565,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000831,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -9906,9 +9906,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000911,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -10263,9 +10263,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000921,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -10620,9 +10620,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2000931,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -10977,9 +10977,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001011,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -11334,9 +11334,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001021,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -11691,9 +11691,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001031,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -12048,9 +12048,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -12413,9 +12413,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001121,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -12778,9 +12778,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001131,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -13143,9 +13143,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001211,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -13516,9 +13516,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001221,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -13889,9 +13889,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001231,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -14262,9 +14262,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001311,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -14643,9 +14643,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001321,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -15024,9 +15024,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001331,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -15405,9 +15405,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -15794,9 +15794,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001421,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -16183,9 +16183,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001431,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -16572,9 +16572,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001511,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -16969,9 +16969,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001521,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -17366,9 +17366,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001531,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -17763,9 +17763,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001611,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -18168,9 +18168,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001621,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -18573,9 +18573,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001631,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -18978,9 +18978,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001711,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -19391,9 +19391,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001721,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -19804,9 +19804,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001731,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -20217,9 +20217,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001811,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -20638,9 +20638,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001821,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -21059,9 +21059,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001831,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -21480,9 +21480,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001911,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -21909,9 +21909,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001921,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -22338,9 +22338,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2001931,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -22767,9 +22767,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002011,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -23204,9 +23204,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002021,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -23641,9 +23641,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002031,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -24078,9 +24078,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -24523,9 +24523,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002121,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -24968,9 +24968,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002131,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -25413,9 +25413,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002211,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -25874,9 +25874,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002221,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -26335,9 +26335,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002231,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -26796,9 +26796,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002311,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -27257,9 +27257,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002321,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -27718,9 +27718,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002331,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -28179,9 +28179,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -28648,9 +28648,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002421,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -29117,9 +29117,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 2002431,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -29586,9 +29586,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -29935,9 +29935,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000121,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -30284,9 +30284,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000131,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -30633,9 +30633,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000211,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -30990,9 +30990,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000221,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -31347,9 +31347,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000231,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -31704,9 +31704,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000311,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -32061,9 +32061,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000321,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -32418,9 +32418,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000331,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -32775,9 +32775,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -33228,9 +33228,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000421,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -33681,9 +33681,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000431,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -34134,9 +34134,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000511,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -34595,9 +34595,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000521,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -35056,9 +35056,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000531,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -35517,9 +35517,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000611,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -35978,9 +35978,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000621,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -36439,9 +36439,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 3000631,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -36900,9 +36900,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4000111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -37193,9 +37193,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4000211,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -37494,9 +37494,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4000311,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -37795,9 +37795,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4000411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -38104,9 +38104,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4000511,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -38421,9 +38421,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4000611,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -38746,9 +38746,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4000711,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -39079,9 +39079,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4000811,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -39420,9 +39420,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4000911,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -39777,9 +39777,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001011,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -40134,9 +40134,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -40499,9 +40499,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001211,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -40872,9 +40872,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001311,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -41253,9 +41253,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -41642,9 +41642,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001511,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -42039,9 +42039,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001611,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -42444,9 +42444,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001711,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -42857,9 +42857,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001811,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -43278,9 +43278,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4001911,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -43707,9 +43707,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4002011,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -44144,9 +44144,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4002111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -44589,9 +44589,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4002211,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -45050,9 +45050,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4002311,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -45511,9 +45511,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 4002411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -45980,7 +45980,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 6000111,
         "RarityProbabilities": {
-          "3": 1
+          "Ssr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -46342,7 +46342,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 6000121,
         "RarityProbabilities": {
-          "3": 1
+          "Ssr": 1
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -46704,8 +46704,8 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 6000211,
         "RarityProbabilities": {
-          "2": 0.96,
-          "3": 0.04
+          "Sr": 0.96,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -47131,8 +47131,8 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 6000221,
         "RarityProbabilities": {
-          "2": 0.96,
-          "3": 0.04
+          "Sr": 0.96,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -47558,7 +47558,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 6000311,
         "RarityProbabilities": {
-          "3": 1
+          "Ssr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -47920,7 +47920,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 6000411,
         "RarityProbabilities": {
-          "3": 1
+          "Ssr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -48274,9 +48274,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -48567,9 +48567,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000121,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -48860,9 +48860,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000131,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -49153,9 +49153,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000211,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.040000003
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.040000003
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -49502,9 +49502,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000221,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.040000003
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.040000003
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -49851,9 +49851,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000231,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.040000003
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.040000003
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -50200,9 +50200,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000311,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -50589,9 +50589,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000321,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -50978,9 +50978,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000331,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -51367,9 +51367,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -51796,9 +51796,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000421,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -52225,9 +52225,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 7000431,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -52654,9 +52654,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 8000111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -53003,9 +53003,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 8000211,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -53360,9 +53360,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 8000311,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -53717,9 +53717,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 8000411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -54170,9 +54170,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 8000511,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -54631,9 +54631,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 8000611,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -55092,9 +55092,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 9000111,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [
@@ -55488,7 +55488,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 9000211,
         "RarityProbabilities": {
-          "3": 1
+          "Ssr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": null,
@@ -55522,7 +55522,7 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 9000311,
         "RarityProbabilities": {
-          "3": 1
+          "Ssr": 1
         },
         "PrizeCount": 1,
         "ThingProbabilities": [
@@ -55804,9 +55804,9 @@
         "type": "GachaLineupBox",
         "GachaBoxMasterId": 9000411,
         "RarityProbabilities": {
-          "1": 0.64,
-          "2": 0.32,
-          "3": 0.04
+          "R": 0.64,
+          "Sr": 0.32,
+          "Ssr": 0.04
         },
         "PrizeCount": 10,
         "ThingProbabilities": [

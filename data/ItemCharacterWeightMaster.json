@@ -4,7 +4,7 @@
     "Id": 1,
     "ItemMasterId": 100009,
     "RarityProbabilities": {
-      "3": 1
+      "Ssr": 1
     },
     "CharacterMasterIds": [
       100301,
@@ -53,8 +53,8 @@
     "Id": 2,
     "ItemMasterId": 100010,
     "RarityProbabilities": {
-      "2": 0.9,
-      "3": 0.1
+      "Sr": 0.9,
+      "Ssr": 0.1
     },
     "CharacterMasterIds": [
       101301,
@@ -111,7 +111,7 @@
     "Id": 3,
     "ItemMasterId": 100011,
     "RarityProbabilities": {
-      "3": 1
+      "Ssr": 1
     },
     "CharacterMasterIds": [
       126301,
@@ -131,7 +131,7 @@
     "Id": 4,
     "ItemMasterId": 100012,
     "RarityProbabilities": {
-      "3": 1
+      "Ssr": 1
     },
     "CharacterMasterIds": [
       104301,
@@ -152,7 +152,7 @@
     "Id": 5,
     "ItemMasterId": 100013,
     "RarityProbabilities": {
-      "3": 1
+      "Ssr": 1
     },
     "CharacterMasterIds": [
       102301,
@@ -171,7 +171,7 @@
     "Id": 6,
     "ItemMasterId": 100014,
     "RarityProbabilities": {
-      "3": 1
+      "Ssr": 1
     },
     "CharacterMasterIds": [
       101301,
