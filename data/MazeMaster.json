@@ -34,5 +34,23 @@
     "Level3RequiredThreatLevel": null,
     "Level4RequiredThreatLevel": null,
     "Level5RequiredThreatLevel": null
+  },
+  {
+    "type": "MazeMaster",
+    "Id": 5,
+    "BackgroundAssetId": "60010",
+    "IntroductionEpisodeMasterId": 300101,
+    "Name": "緊急脱出",
+    "MazeType": "StoryMaze",
+    "StartDate": null,
+    "ExplorationCloseDate": null,
+    "EndDate": null,
+    "CharacterLevelLimitMode": "AsConfiguredFixed",
+    "CharacterLevelLimit": 200,
+    "BaseThreatLevel": 0,
+    "Level2RequiredThreatLevel": null,
+    "Level3RequiredThreatLevel": null,
+    "Level4RequiredThreatLevel": null,
+    "Level5RequiredThreatLevel": null
   }
 ]

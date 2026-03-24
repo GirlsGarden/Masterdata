@@ -1969,6 +1969,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20100211,
+    "SceneBranchMasterId": 2010021,
+    "Answer": "当たって砕けろ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20100212,
+    "SceneBranchMasterId": 2010021,
+    "Answer": "何事も挑戦",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -2849,6 +2865,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40006411,
+    "SceneBranchMasterId": 4000641,
+    "Answer": "ああ、よくやった。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006412,
+    "SceneBranchMasterId": 4000641,
+    "Answer": "偉大なる一歩だな。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -3244,6 +3276,22 @@
     "Id": 50002712,
     "SceneBranchMasterId": 5000271,
     "Answer": "受けて立つ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002811,
+    "SceneBranchMasterId": 5000281,
+    "Answer": "順番なんてない",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002812,
+    "SceneBranchMasterId": 5000281,
+    "Answer": "レイヴェルの着こなしは流石だな",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -7278,6 +7326,70 @@
     "Answer": "君の分も奢るよ",
     "IsSelectSuccess": true,
     "SceneBranchSelectAffectionMasterId": 1543011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61063011,
+    "SceneBranchMasterId": 6106301,
+    "Answer": "勿論聞いていた。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1183022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61063012,
+    "SceneBranchMasterId": 6106301,
+    "Answer": "楽しそうだったから。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1183021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61064011,
+    "SceneBranchMasterId": 6106401,
+    "Answer": "でも見てみたいな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1183022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61064012,
+    "SceneBranchMasterId": 6106401,
+    "Answer": "このカフェが一番",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1183021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61065011,
+    "SceneBranchMasterId": 6106501,
+    "Answer": "論理的に答える",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1183022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61065012,
+    "SceneBranchMasterId": 6106501,
+    "Answer": "意見に同意する",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1183021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61066011,
+    "SceneBranchMasterId": 6106601,
+    "Answer": "音楽はわからん。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1183022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61066012,
+    "SceneBranchMasterId": 6106601,
+    "Answer": "シエナとセッション出来るなら。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1183021
   },
   {
     "type": "SceneBranchSelectionMaster",

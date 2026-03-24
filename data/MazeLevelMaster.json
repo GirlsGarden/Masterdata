@@ -2707,5 +2707,14 @@
     "EquipmentMaxLevel": 0,
     "RewardPackageId": null,
     "TrialPartyMasterId": 3
+  },
+  {
+    "type": "MazeLevelMaster",
+    "Id": 20004,
+    "MazeMasterId": 5,
+    "LevelNumber": 1,
+    "EquipmentMaxLevel": 0,
+    "RewardPackageId": null,
+    "TrialPartyMasterId": 4
   }
 ]

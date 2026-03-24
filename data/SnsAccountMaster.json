@@ -460,11 +460,29 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 118302,
+    "Type": "Character",
+    "DisplayName": "シエナ・クラーク「旋律を紡ぐ静謐のディーヴァ」",
+    "Name": "@Sienna_C",
+    "AssetId": "118302",
+    "CharacterMasterId": 118302
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 119301,
     "Type": "Character",
     "DisplayName": "レイラ・ジェンキンス「戦うアントレプレナー」",
     "Name": "@Layla_J",
     "AssetId": "119301",
+    "CharacterMasterId": 119301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 119302,
+    "Type": "Character",
+    "DisplayName": "レイラ・ジェンキンス",
+    "Name": "@Layla_J",
+    "AssetId": "119001c",
     "CharacterMasterId": 119301
   },
   {
@@ -667,6 +685,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 130302,
+    "Type": "Character",
+    "DisplayName": "リリー・ラヴォア",
+    "Name": "@Lilly_L",
+    "AssetId": "130302s",
+    "CharacterMasterId": 130302
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 131301,
     "Type": "Character",
     "DisplayName": "姜小花「風紀委員会の策謀家」",
@@ -735,6 +762,15 @@
     "DisplayName": "レイヴェル・ブライトリーフ「気高きランウェイモデル」",
     "Name": "@Reivel_B",
     "AssetId": "138301",
+    "CharacterMasterId": 138301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 138302,
+    "Type": "Character",
+    "DisplayName": "レイヴェル・ブライトリーフ",
+    "Name": "@Reivel_B",
+    "AssetId": "138001c",
     "CharacterMasterId": 138301
   },
   {

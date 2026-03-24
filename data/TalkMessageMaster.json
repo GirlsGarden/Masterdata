@@ -2982,6 +2982,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 11830211,
+    "TalkMasterId": 1183021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし、%usernameusernameuserna%？\n私、シエナだよ。今……ちょっとだけ、時間をもらってもいいかな？",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11830212,
+    "TalkMasterId": 1183021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "……あの時、勇気をくれてありがとうね。\nちゃんと自分の言葉で断れてスッキリしたの。",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11830213,
+    "TalkMasterId": 1183021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "ずっとずっと、歌姫シエナとして我慢をしてきて、\n自分のために何かを言うってことはしてこなかったから……",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11830214,
+    "TalkMasterId": 1183021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "あんなふうに自分の意志をちゃんと伝えられたのは、\nすっごい成長だったと思うんだ。\nこれも、%usernameusernameuserna%のおかげだよ♪",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11830215,
+    "TalkMasterId": 1183021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "うん……ちょっとづつ、ワガママになっていこうと思うの。\nフルートさんたちも、こっちのほうが良いって言ってくれたし……",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11830216,
+    "TalkMasterId": 1183021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "……えっと、それでワガママの第一歩で……一緒にお出かけしない？\nあ、じ、時間がある時でいいよ！",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11830217,
+    "TalkMasterId": 1183021,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "……えへへ、予定が決まったら教えてね？\nそれじゃあ……またね。",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 11930111,
     "TalkMasterId": 1193011,
     "Order": 1,

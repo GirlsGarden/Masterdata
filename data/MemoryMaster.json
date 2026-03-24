@@ -303,6 +303,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10017,
+    "Rarity": "Sr",
+    "Name": "ライブモード",
+    "Description": "うん、想像していたよりも遥かにいいな。\n皆の個性が出ていて、とてもよく似合っている。",
+    "AssetId": "10020",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 1,
+        "CharacterType": null,
+        "SkillMasterId": 400149,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -2012,6 +2035,76 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20054,
+    "Rarity": "Ssr",
+    "Name": "初めてのワガママを",
+    "Description": "私、ワガママって初めて言ったから。\nきっと本当はもっと早く、言ってもよかったんだよね……？",
+    "AssetId": "118302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 118,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400150,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 56,
+        "CharacterType": null,
+        "SkillMasterId": 400151,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20055,
+    "Rarity": "Ssr",
+    "Name": "挑戦のハードル",
+    "Description": "……リリーがジャスティオンに変えてもらったみたいに、\nその人をもっと良い方向に導きたいんだ。",
+    "AssetId": "130302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 130,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400152,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Support",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400153,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -2548,5 +2641,40 @@
     "AssetId": "30022",
     "Highlights": null,
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30022,
+    "Rarity": "Ur",
+    "Name": "忙しい時のまどろみ",
+    "Description": "撮影は……スタッフを通して……\nぐぅ……出禁……",
+    "AssetId": "30024",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 56,
+        "CharacterType": null,
+        "SkillMasterId": 400148,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 56,
+        "CharacterType": null,
+        "SkillMasterId": 400147,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

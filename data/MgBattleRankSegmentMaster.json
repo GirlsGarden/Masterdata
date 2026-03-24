@@ -127,6 +127,36 @@
   },
   {
     "type": "MgBattleRankSegmentMaster",
+    "Id": 71,
+    "MgBattleRankSegmentGroupMasterId": 7,
+    "WorldMasterId": 32
+  },
+  {
+    "type": "MgBattleRankSegmentMaster",
+    "Id": 81,
+    "MgBattleRankSegmentGroupMasterId": 8,
+    "WorldMasterId": 33
+  },
+  {
+    "type": "MgBattleRankSegmentMaster",
+    "Id": 82,
+    "MgBattleRankSegmentGroupMasterId": 8,
+    "WorldMasterId": 34
+  },
+  {
+    "type": "MgBattleRankSegmentMaster",
+    "Id": 91,
+    "MgBattleRankSegmentGroupMasterId": 9,
+    "WorldMasterId": 35
+  },
+  {
+    "type": "MgBattleRankSegmentMaster",
+    "Id": 92,
+    "MgBattleRankSegmentGroupMasterId": 9,
+    "WorldMasterId": 36
+  },
+  {
+    "type": "MgBattleRankSegmentMaster",
     "Id": 110,
     "MgBattleRankSegmentGroupMasterId": 1,
     "WorldMasterId": 13

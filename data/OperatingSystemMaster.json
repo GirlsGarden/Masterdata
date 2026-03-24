@@ -204,6 +204,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 118302,
+    "Name": "Calma",
+    "Description": "シエナ・クラーク「旋律を紡ぐ静謐のディーヴァ」の専用OSです。",
+    "AssetId": "118302"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 119301,
     "Name": "ACT BOLDLY",
     "Description": "レイラ・ジェンキンス「戦うアントレプレナー」の専用OSです。",
@@ -278,6 +285,13 @@
     "Name": "ヒーロードライブ",
     "Description": "リリー・ラヴォア「正義のヒーロー」の専用OSです。",
     "AssetId": "130301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 130302,
+    "Name": "仮仮ライブリリーOS名仮仮",
+    "Description": "リリー・ラヴォア「想い響かせるヒーローシンガー」の専用OSです。",
+    "AssetId": "130302"
   },
   {
     "type": "OperatingSystemMaster",

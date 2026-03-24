@@ -22,6 +22,13 @@
   },
   {
     "type": "TrialPartyMaster",
+    "Id": 4,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": true
+  },
+  {
+    "type": "TrialPartyMaster",
     "Id": 100101,
     "IsSwappableOwnCharacter": false,
     "IsOptionalParticipationCharacter": false,
@@ -372,6 +379,41 @@
   },
   {
     "type": "TrialPartyMaster",
+    "Id": 100151,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 100152,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 100153,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 100154,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 100155,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
     "Id": 100201,
     "IsSwappableOwnCharacter": false,
     "IsOptionalParticipationCharacter": false,
@@ -716,6 +758,41 @@
   {
     "type": "TrialPartyMaster",
     "Id": 100250,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 100251,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 100252,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 100253,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 100254,
+    "IsSwappableOwnCharacter": false,
+    "IsOptionalParticipationCharacter": false,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 100255,
     "IsSwappableOwnCharacter": false,
     "IsOptionalParticipationCharacter": false,
     "LockSlots": false
@@ -1325,6 +1402,27 @@
   {
     "type": "TrialPartyMaster",
     "Id": 300118,
+    "IsSwappableOwnCharacter": true,
+    "IsOptionalParticipationCharacter": true,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 300119,
+    "IsSwappableOwnCharacter": true,
+    "IsOptionalParticipationCharacter": true,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 300120,
+    "IsSwappableOwnCharacter": true,
+    "IsOptionalParticipationCharacter": true,
+    "LockSlots": false
+  },
+  {
+    "type": "TrialPartyMaster",
+    "Id": 300121,
     "IsSwappableOwnCharacter": true,
     "IsOptionalParticipationCharacter": true,
     "LockSlots": false

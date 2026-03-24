@@ -409,6 +409,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1183021,
+    "CallCharacterMasterId": 118302,
+    "Order": 118302,
+    "Title": "冷静になってみると……",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 118302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400064
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1193011,
     "CallCharacterMasterId": 119301,
     "Order": 119001,

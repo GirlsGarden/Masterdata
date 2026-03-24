@@ -57,6 +57,20 @@
   },
   {
     "type": "TrialPartyCharacterMaster",
+    "Id": 41,
+    "TrialPartyMasterId": 4,
+    "Position": 2,
+    "CharacterMasterId": 154301,
+    "Level": 200,
+    "AffectionLevel": 10,
+    "SkillLevel": 10,
+    "EquipmentLevel": 150,
+    "CombatPower": 64981,
+    "Order": 1,
+    "CharacterRarity": "Lr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
     "Id": 1001011,
     "TrialPartyMasterId": 100101,
     "Position": 2,
@@ -277,7 +291,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 8342,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -291,7 +305,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 11819,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -305,7 +319,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 18088,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -319,7 +333,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 23655,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -333,7 +347,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 37374,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -757,6 +771,76 @@
   },
   {
     "type": "TrialPartyCharacterMaster",
+    "Id": 1001511,
+    "TrialPartyMasterId": 100151,
+    "Position": 5,
+    "CharacterMasterId": 118302,
+    "Level": 30,
+    "AffectionLevel": 1,
+    "SkillLevel": 1,
+    "EquipmentLevel": 0,
+    "CombatPower": 8461,
+    "Order": 1,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 1001521,
+    "TrialPartyMasterId": 100152,
+    "Position": 5,
+    "CharacterMasterId": 118302,
+    "Level": 60,
+    "AffectionLevel": 1,
+    "SkillLevel": 1,
+    "EquipmentLevel": 0,
+    "CombatPower": 11925,
+    "Order": 1,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 1001531,
+    "TrialPartyMasterId": 100153,
+    "Position": 5,
+    "CharacterMasterId": 118302,
+    "Level": 90,
+    "AffectionLevel": 1,
+    "SkillLevel": 5,
+    "EquipmentLevel": 0,
+    "CombatPower": 18193,
+    "Order": 1,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 1001541,
+    "TrialPartyMasterId": 100154,
+    "Position": 5,
+    "CharacterMasterId": 118302,
+    "Level": 120,
+    "AffectionLevel": 1,
+    "SkillLevel": 5,
+    "EquipmentLevel": 0,
+    "CombatPower": 23742,
+    "Order": 1,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 1001551,
+    "TrialPartyMasterId": 100155,
+    "Position": 5,
+    "CharacterMasterId": 118302,
+    "Level": 150,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 37436,
+    "Order": 1,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
     "Id": 1002011,
     "TrialPartyMasterId": 100201,
     "Position": 5,
@@ -977,7 +1061,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 8037,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -991,7 +1075,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 11195,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -1005,7 +1089,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 16935,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -1019,7 +1103,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 21988,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -1033,7 +1117,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 34512,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -1047,7 +1131,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 8463,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -1061,7 +1145,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 11897,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -1075,7 +1159,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 18101,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -1089,7 +1173,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 23588,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -1103,7 +1187,7 @@
     "EquipmentLevel": 0,
     "CombatPower": 37141,
     "Order": 1,
-    "CharacterRarity": "Sr"
+    "CharacterRarity": "Ssr"
   },
   {
     "type": "TrialPartyCharacterMaster",
@@ -5167,6 +5251,286 @@
   },
   {
     "type": "TrialPartyCharacterMaster",
+    "Id": 3001191,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 100302,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 64832,
+    "Order": 1,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001192,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 104302,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 64271,
+    "Order": 2,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001193,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 105301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 63101,
+    "Order": 3,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001194,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 106301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 61141,
+    "Order": 4,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001195,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 107301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 62624,
+    "Order": 5,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001196,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 108301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 60993,
+    "Order": 6,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001197,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 109301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 64729,
+    "Order": 7,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001198,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 138301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 62737,
+    "Order": 8,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001199,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 139301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 64097,
+    "Order": 9,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001200,
+    "TrialPartyMasterId": 300119,
+    "Position": 1,
+    "CharacterMasterId": 140301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 66258,
+    "Order": 10,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001201,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 100302,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 64832,
+    "Order": 1,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001202,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 104302,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 64271,
+    "Order": 2,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001203,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 110301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 64248,
+    "Order": 3,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001204,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 111301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 70388,
+    "Order": 4,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001205,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 112301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 64413,
+    "Order": 5,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001206,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 113301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 63263,
+    "Order": 6,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001207,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 114301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 60763,
+    "Order": 7,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001208,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 116301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 62669,
+    "Order": 8,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001209,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 117301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 69683,
+    "Order": 9,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 3001211,
+    "TrialPartyMasterId": 300121,
+    "Position": 1,
+    "CharacterMasterId": 154301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 63981,
+    "Order": 1,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
     "Id": 30011510,
     "TrialPartyMasterId": 300115,
     "Position": 1,
@@ -5177,6 +5541,76 @@
     "EquipmentLevel": 0,
     "CombatPower": 50543,
     "Order": 10,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 30012010,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 118301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 62291,
+    "Order": 10,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 30012011,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 119301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 61663,
+    "Order": 11,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 30012012,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 120301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 61090,
+    "Order": 12,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 30012013,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 121301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 66306,
+    "Order": 13,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
+    "Id": 30012014,
+    "TrialPartyMasterId": 300120,
+    "Position": 1,
+    "CharacterMasterId": 129301,
+    "Level": 200,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 63731,
+    "Order": 14,
     "CharacterRarity": "Ssr"
   }
 ]

@@ -2781,6 +2781,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20100101,
+    "EpisodeMasterId": 201001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "歌姫とライブを",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20100201,
+    "EpisodeMasterId": 201002,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "歌姫オーディション開始",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20100301,
+    "EpisodeMasterId": 201003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "初めての野外ライブ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20100401,
+    "EpisodeMasterId": 201004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "レイヴェルの講評",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20100501,
+    "EpisodeMasterId": 201005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "歌姫の悩み",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20100601,
+    "EpisodeMasterId": 201006,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "その答えは",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20100701,
+    "EpisodeMasterId": 201007,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "勇気を出す方法",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20100801,
+    "EpisodeMasterId": 201008,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "Daybreak Frontier",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -4121,6 +4201,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40006401,
+    "EpisodeMasterId": 400064,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "初めてのワガママを",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006402,
+    "EpisodeMasterId": 400064,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "初めてのワガママを",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006501,
+    "EpisodeMasterId": 400065,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "挑戦のハードル",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006502,
+    "EpisodeMasterId": 400065,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "挑戦のハードル",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -4617,6 +4737,46 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "不満と不安",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002801,
+    "EpisodeMasterId": 500028,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ライブモード",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002802,
+    "EpisodeMasterId": 500028,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ライブモード",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002901,
+    "EpisodeMasterId": 500029,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "忙しい時のまどろみ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50002902,
+    "EpisodeMasterId": 500029,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "忙しい時のまどろみ",
     "AssetId": null
   },
   {
@@ -7137,6 +7297,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "優しさ巡って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61039001,
+    "EpisodeMasterId": 610252,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "鼻歌は恥ずかしい？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61039002,
+    "EpisodeMasterId": 610253,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ぴったりのカフェは",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61039003,
+    "EpisodeMasterId": 610254,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "音響はバッチリ？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61039004,
+    "EpisodeMasterId": 610255,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ライブは体力",
     "AssetId": null
   },
   {
