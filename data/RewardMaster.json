@@ -496,6 +496,24 @@
   },
   {
     "type": "RewardMaster",
+    "Id": 4051,
+    "RewardPackageMasterId": 405,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 100,
+    "ThingQuantity": 100
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4052,
+    "RewardPackageMasterId": 405,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20116,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
     "Id": 4101,
     "RewardPackageMasterId": 410,
     "Order": 0,
