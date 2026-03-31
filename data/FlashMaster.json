@@ -190,6 +190,13 @@
   },
   {
     "type": "FlashMaster",
+    "Id": 1106,
+    "Type": "FlashTierSale",
+    "ActiveHours": 1,
+    "EffectType": "Normal"
+  },
+  {
+    "type": "FlashMaster",
     "Id": 1107,
     "Type": "FlashRelay",
     "ActiveHours": 1,

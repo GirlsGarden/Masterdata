@@ -7341,6 +7341,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 61040001,
+    "EpisodeMasterId": 610256,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "気づかれない？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61040002,
+    "EpisodeMasterId": 610257,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "相反する存在？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61040003,
+    "EpisodeMasterId": 610258,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "リハーサルは入念に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61040004,
+    "EpisodeMasterId": 610259,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "柔軟をする大切さ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 71000001,
     "EpisodeMasterId": 710001,
     "Types": "Adventure",

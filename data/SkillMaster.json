@@ -156,6 +156,195 @@
   },
   {
     "type": "SkillMaster",
+    "Id": 4,
+    "Name": "与ダメージシールド",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "威力100で攻撃し、与ダメージの100％のシールドを張る"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 5,
+    "Name": "かばうEX",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "HasExecutionRestriction",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "（同時発動制限）他の味方が攻撃される前に発動。その行動が終了するまでの間攻撃を自身に引き寄せ、{guard}%をガードし肩代わりする。また攻撃してくる敵単体のその行動内での攻撃力を50％低下させる"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "guard",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 30
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 32.22
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 36.66
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 38.88
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 43.32
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 45.54
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 50
+          },
+          {
+            "type": "TagValue",
+            "Level": 15,
+            "Value": 75
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 6,
+    "Name": "ブラー",
+    "Type": "Active",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "2スキルの間自分にブラーを付与する"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 7,
+    "Name": "EXゲージ増幅",
+    "Type": "Active",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "1行動の間味方全体のEXゲージを100％増幅させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
     "Id": 110001,
     "Name": "ルミナグレイス",
     "Type": "Extra",
@@ -1435,7 +1624,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "後列優先で、敵横一列に威力{威力}で攻撃する。さらに自身に対し、最大HP×60%のダメージを防ぐシールドを自身に付与する。シールドは1行動に付き最大値の25%減少する"
+        "Template": "後列優先で、敵横一列に威力{威力}で攻撃する。さらに自身に対し、最大HP×60%のダメージを防ぐシールドを付与する。シールドは1行動に付き最大値の25%減少する"
       },
       {
         "type": "SkillDescriptionTemplate",
@@ -18697,7 +18886,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身の行動速度を100低下させ（重複可）、さらに1行動の間攻撃力を{atk}%低下させて、前列の味方を優先して味方単体に1行動の間、受けるダメージを無効にする効果を付与する"
+        "Template": "前列優先で味方単体に対し、攻撃を2回受けるまで被ダメージを無効にする効果を付与するが、同時に自身の行動速度を100低下させ（重複可）、さらに1行動の間自身の攻撃力を{atk}%低下させる"
       }
     ],
     "TemplateTags": [
@@ -18754,7 +18943,7 @@
     "DisplayAttacksCountTagName": null,
     "DisplayTargetType": "SelfAndFriends",
     "DisplayTargetRange": "OnePawn",
-    "DisplayTargetPriority": null
+    "DisplayTargetPriority": "FrontLine"
   },
   {
     "type": "SkillMaster",
@@ -18792,42 +18981,42 @@
           {
             "type": "TagValue",
             "Level": 1,
-            "Value": 40
+            "Value": 30
           },
           {
             "type": "TagValue",
             "Level": 3,
-            "Value": 42.16
+            "Value": 31.86
           },
           {
             "type": "TagValue",
             "Level": 4,
-            "Value": 46.51
+            "Value": 35.59
           },
           {
             "type": "TagValue",
             "Level": 6,
-            "Value": 48.67
+            "Value": 37.45
           },
           {
             "type": "TagValue",
             "Level": 7,
-            "Value": 53.02
+            "Value": 41.18
           },
           {
             "type": "TagValue",
             "Level": 9,
-            "Value": 55.18
+            "Value": 43.04
           },
           {
             "type": "TagValue",
             "Level": 10,
-            "Value": 62.4
+            "Value": 46.8
           },
           {
             "type": "TagValue",
             "Level": 15,
-            "Value": 84.8
+            "Value": 63.6
           }
         ]
       }
@@ -31237,7 +31426,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "ターン開始時に発動。前列の味方に自身の最大HP×25%のENシールドを付与し、攻撃力を{atk}%上昇させる（重複可）が、自身が次に受けるEN攻撃の被ダメージが{dmg}%増加するデバフも付与される（重複可）。シールドは2行動後に消滅し、シールドの消滅と共に攻撃力バフも消滅する。このスキルは戦闘中に1度しか発動しない"
+        "Template": "ターン開始時に発動。前列の味方に自身の最大HP×25%のENシールドを付与する。さらに前列の味方の攻撃力を{atk}%上昇させる（重複可）（解除不可）が、自身が次に受けるEN攻撃の被ダメージが{dmg}%増加するデバフも付与される（重複可）。シールドは2行動後に消滅し、シールドの消滅と共に攻撃力バフも消滅する。このスキルは戦闘中に1度しか発動しない"
       }
     ],
     "TemplateTags": [
@@ -31336,7 +31525,7 @@
     "DisplayAttacksCountTagName": null,
     "DisplayTargetType": "SelfAndFriends",
     "DisplayTargetRange": "Line",
-    "DisplayTargetPriority": "FrontLine"
+    "DisplayTargetPriority": null
   },
   {
     "type": "SkillMaster",
@@ -34053,7 +34242,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "後列優先で、敵横一列に威力{威力}で攻撃する。さらに自身に対し、最大HP×60%のダメージを防ぐシールドを自身に付与する。シールドは1行動に付き最大値の25%減少する"
+        "Template": "後列優先で、敵横一列に威力{威力}で攻撃する。さらに自身に対し、最大HP×60%のダメージを防ぐシールドを付与する。シールドは1行動に付き最大値の25%減少する"
       },
       {
         "type": "SkillDescriptionTemplate",
@@ -68683,7 +68872,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身が攻撃された際に発動。3行動の間、自身の防御力を{value}%上昇させる。さらに自身が受ける物理攻撃による被ダメージを{dmg}%減少させる効果を付与する"
+        "Template": "自身が攻撃された際に発動。3行動の間、自身の防御力を{value}%上昇させ、自身が受ける物理攻撃による被ダメージを{dmg}%減少させる効果を付与する"
       }
     ],
     "TemplateTags": [
@@ -92089,7 +92278,7 @@
   {
     "type": "SkillMaster",
     "Id": 400143,
-    "Name": "攻撃力上昇【前衛】",
+    "Name": "攻撃力上昇毎T開始【前衛】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -92264,7 +92453,7 @@
   {
     "type": "SkillMaster",
     "Id": 400148,
-    "Name": "被ダメージ減少【後衛】",
+    "Name": "被ダメージ減少毎T開始【後衛】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -92461,6 +92650,146 @@
         "type": "SkillDescriptionTemplate",
         "Level": 1,
         "Template": "戦闘開始時に発動。サポートの防御力を140上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400154,
+    "Name": "速度上昇【ALL】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。味方全体の行動速度を10上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400155,
+    "Name": "HP上昇【右列前衛】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。右列前衛の味方のHPを1200上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400156,
+    "Name": "どすこい【ALL】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。「どすこい」を獲得する"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400157,
+    "Name": "攻撃上昇【中央列前衛】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": 0,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。中央列前衛の味方の攻撃力を750上昇させる"
       }
     ],
     "TemplateTags": null,

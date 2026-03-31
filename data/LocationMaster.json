@@ -1,6 +1,20 @@
 [
   {
     "type": "LocationMaster",
+    "Id": 14019,
+    "EventMasterId": 1020,
+    "Type": "EventQuestNormal",
+    "Name": "Daybreak Frontier-後半-",
+    "Order": 1,
+    "AssetId": "10020",
+    "DailyTryCount": null,
+    "DayOfWeekFlags": "None",
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
+  },
+  {
+    "type": "LocationMaster",
     "Id": 10001,
     "EventMasterId": 1,
     "Type": "Normal",
@@ -9,7 +23,9 @@
     "AssetId": "Location_1",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": null
+    "BackgroundAssetType": null,
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -21,7 +37,9 @@
     "AssetId": "Location_1",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": null
+    "BackgroundAssetType": null,
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -33,7 +51,9 @@
     "AssetId": "30130",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -49,7 +69,9 @@
       "Friday",
       "Sunday"
     ],
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -65,7 +87,9 @@
       "Friday",
       "Sunday"
     ],
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -81,7 +105,9 @@
       "Saturday",
       "Sunday"
     ],
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -97,7 +123,9 @@
       "Saturday",
       "Sunday"
     ],
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -109,7 +137,9 @@
     "AssetId": "30142",
     "DailyTryCount": 5,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -121,7 +151,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -133,7 +165,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -145,7 +179,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -157,7 +193,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -169,7 +207,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -181,7 +221,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -193,7 +235,9 @@
     "AssetId": "10150",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -205,7 +249,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -217,7 +263,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -229,7 +277,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -241,7 +291,9 @@
     "AssetId": "10190",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -253,7 +305,9 @@
     "AssetId": "10190",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -265,7 +319,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -277,7 +333,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -289,7 +347,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -301,7 +361,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -313,7 +375,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -325,7 +389,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -337,7 +403,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -349,7 +417,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -361,7 +431,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -373,7 +445,9 @@
     "AssetId": "10010",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -385,7 +459,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -397,7 +473,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -409,7 +487,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -421,7 +501,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -433,7 +515,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -445,7 +529,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -457,7 +543,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -469,7 +557,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -481,7 +571,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -493,7 +585,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -505,7 +599,9 @@
     "AssetId": "10200",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -517,7 +613,9 @@
     "AssetId": "10200",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -529,7 +627,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -541,7 +641,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -553,7 +655,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -565,7 +669,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -577,7 +683,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -589,19 +697,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
-  },
-  {
-    "type": "LocationMaster",
-    "Id": 14019,
-    "EventMasterId": 1020,
-    "Type": "EventQuestNormal",
-    "Name": "Daybreak Frontier-後半-",
-    "Order": 1,
-    "AssetId": "10020",
-    "DailyTryCount": null,
-    "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -613,7 +711,9 @@
     "AssetId": "10020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -625,7 +725,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -637,7 +739,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -649,7 +753,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -661,7 +767,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -673,7 +781,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -685,7 +795,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -697,7 +809,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -709,7 +823,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -721,7 +837,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -733,7 +851,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -745,7 +865,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -757,7 +879,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -769,7 +893,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -781,7 +907,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -793,7 +921,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -805,7 +935,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -817,7 +949,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -829,7 +963,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -841,7 +977,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -853,7 +991,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -865,7 +1005,9 @@
     "AssetId": "10010",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -877,7 +1019,9 @@
     "AssetId": "10020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -889,7 +1033,9 @@
     "AssetId": "80012",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -901,7 +1047,9 @@
     "AssetId": "80012",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -913,7 +1061,9 @@
     "AssetId": "60020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -925,7 +1075,9 @@
     "AssetId": "60020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -937,7 +1089,9 @@
     "AssetId": "80012",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -949,7 +1103,9 @@
     "AssetId": "80012",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -961,7 +1117,9 @@
     "AssetId": "60020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -973,7 +1131,9 @@
     "AssetId": "60020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -985,7 +1145,9 @@
     "AssetId": "80012",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -997,7 +1159,9 @@
     "AssetId": "80012",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1009,7 +1173,9 @@
     "AssetId": "60020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1021,7 +1187,9 @@
     "AssetId": "60020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1033,7 +1201,9 @@
     "AssetId": "80012",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1045,7 +1215,9 @@
     "AssetId": "80012",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1057,7 +1229,9 @@
     "AssetId": "60020",
     "DailyTryCount": 3,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1069,7 +1243,9 @@
     "AssetId": "60020",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1081,7 +1257,9 @@
     "AssetId": "160",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1093,7 +1271,9 @@
     "AssetId": "400",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1105,7 +1285,9 @@
     "AssetId": "530",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1117,7 +1299,9 @@
     "AssetId": "630",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1129,7 +1313,9 @@
     "AssetId": "760",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1141,7 +1327,9 @@
     "AssetId": "1",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1153,7 +1341,9 @@
     "AssetId": "1",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1165,7 +1355,9 @@
     "AssetId": "1",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1177,7 +1369,9 @@
     "AssetId": "1",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   },
   {
     "type": "LocationMaster",
@@ -1189,6 +1383,8 @@
     "AssetId": "1",
     "DailyTryCount": null,
     "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure"
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   }
 ]

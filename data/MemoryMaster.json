@@ -326,6 +326,16 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10018,
+    "Rarity": "Sr",
+    "Name": "感度3000倍ぬるぬる相撲",
+    "Description": "『感度3000倍ぬるぬる液』発売中！ネットの海で出会ったとある２人――彼女達のノリから生まれたこの新商品、ぜひ乙女の相撲でお試しください。",
+    "AssetId": "10024",
+    "Highlights": null,
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -2098,6 +2108,51 @@
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400153,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20056,
+    "Rarity": "Ssr",
+    "Name": "風紀違反のイラスト",
+    "Description": "カリナ「絵上手いね～。ウチといいんちょ、こんなふうに見られてるんだぁ」\\n真桜「えっちなのは風紀違反です！　って、何勝手にアップロードしてるんですか！？」",
+    "AssetId": "20021",
+    "Highlights": null,
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20057,
+    "Rarity": "Ssr",
+    "Name": "ピコが清書しました！",
+    "Description": "マスター！　ボクが清書しましたよー！",
+    "AssetId": "20020",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 4,
+        "CharacterType": null,
+        "SkillMasterId": 400155,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 2,
+        "CharacterType": null,
+        "SkillMasterId": 400157,
         "IsTargetingFriendlyParty": true
       }
     ],

@@ -514,6 +514,78 @@
   },
   {
     "type": "RewardMaster",
+    "Id": 4061,
+    "RewardPackageMasterId": 406,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 100,
+    "ThingQuantity": 100
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4062,
+    "RewardPackageMasterId": 406,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20117,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4071,
+    "RewardPackageMasterId": 407,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 100,
+    "ThingQuantity": 100
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4072,
+    "RewardPackageMasterId": 407,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20118,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4081,
+    "RewardPackageMasterId": 408,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 100,
+    "ThingQuantity": 100
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4082,
+    "RewardPackageMasterId": 408,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20119,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4091,
+    "RewardPackageMasterId": 409,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 100,
+    "ThingQuantity": 100
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4092,
+    "RewardPackageMasterId": 409,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 201110,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
     "Id": 4101,
     "RewardPackageMasterId": 410,
     "Order": 0,
@@ -3616,6 +3688,42 @@
     "ThingType": "Item",
     "ThingId": 100009,
     "ThingQuantity": 5
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 300271,
+    "RewardPackageMasterId": 30027,
+    "Order": 0,
+    "ThingType": "Memory",
+    "ThingId": 10018,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 300281,
+    "RewardPackageMasterId": 30028,
+    "Order": 0,
+    "ThingType": "Memory",
+    "ThingId": 20056,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 300291,
+    "RewardPackageMasterId": 30029,
+    "Order": 0,
+    "ThingType": "Memory",
+    "ThingId": 20057,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 300301,
+    "RewardPackageMasterId": 30030,
+    "Order": 0,
+    "ThingType": "SdCharacter",
+    "ThingId": 5,
+    "ThingQuantity": 1
   },
   {
     "type": "RewardMaster",

@@ -1985,6 +1985,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20100511,
+    "SceneBranchMasterId": 2010051,
+    "Answer": "可愛いと思うぞ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20100512,
+    "SceneBranchMasterId": 2010051,
+    "Answer": "個性が出てるぞ。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -2881,6 +2897,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40006511,
+    "SceneBranchMasterId": 4000651,
+    "Answer": "……なるほど？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006512,
+    "SceneBranchMasterId": 4000651,
+    "Answer": "俺と同じだ……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -3292,6 +3324,22 @@
     "Id": 50002812,
     "SceneBranchMasterId": 5000281,
     "Answer": "レイヴェルの着こなしは流石だな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002911,
+    "SceneBranchMasterId": 5000291,
+    "Answer": "眠るレイラを眺める",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50002912,
+    "SceneBranchMasterId": 5000291,
+    "Answer": "スマートデバイスをいじる",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -7390,6 +7438,70 @@
     "Answer": "シエナとセッション出来るなら。",
     "IsSelectSuccess": true,
     "SceneBranchSelectAffectionMasterId": 1183021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61067011,
+    "SceneBranchMasterId": 6106701,
+    "Answer": "逆にヒーローっぽい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1303021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61067012,
+    "SceneBranchMasterId": 6106701,
+    "Answer": "普段の姿が認められてる。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1303022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61068011,
+    "SceneBranchMasterId": 6106801,
+    "Answer": "期待して待ってる",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1303021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61068012,
+    "SceneBranchMasterId": 6106801,
+    "Answer": "オリジナルも楽しみ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1303022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61069011,
+    "SceneBranchMasterId": 6106901,
+    "Answer": "一緒に訓練をする",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1303021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61069012,
+    "SceneBranchMasterId": 6106901,
+    "Answer": "心配する",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1303022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61070011,
+    "SceneBranchMasterId": 6107001,
+    "Answer": "柔軟を手伝おうか",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1303021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61070012,
+    "SceneBranchMasterId": 6107001,
+    "Answer": "運動と同じなんだな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1303022
   },
   {
     "type": "SceneBranchSelectionMaster",

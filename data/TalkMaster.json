@@ -637,6 +637,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1303021,
+    "CallCharacterMasterId": 130302,
+    "Order": 130002,
+    "Title": "一緒に歩む相棒",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 130302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400065
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1313011,
     "CallCharacterMasterId": 131301,
     "Order": 131001,

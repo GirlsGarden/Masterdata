@@ -87,7 +87,7 @@
     "UnlockFunctionType": "WishList",
     "JumpType": null,
     "JumpTargetId": null,
-    "EffectJson": null
+    "EffectJson": "{\"Performances\":[{\"PerformAt\":\"WishList\",\"Frames\":[{\"Text\":\"ピコーン！！マスター！！\\nウィッシュリストが解放されましたのでさっそく見てみましょう！\",\"Character\":\"n10001\",\"VoiceAssetId\":\"0/81\"},{\"Hole1\":{\"Name\":\"guideWishListButtonHole\"}}]},{\"PerformAt\":\"WishListWindow\",\"Frames\":[{\"Text\":\"ウィッシュリストは、ガチャから排出される生徒を絞ることができますよ！\",\"Character\":\"n10001\",\"OrderInLayer\":21},{\"Text\":\"アグレッシブ・スマート・シャイ・キュートの4属性は、4スロットずつ生徒を設定することができます！\",\"Character\":\"n10001\",\"PositionType\":2,\"Hole1\":{\"Name\":\"guideAttributeHole\",\"Block\":1,\"ArrowDirection\":0},\"OrderInLayer\":21},{\"Text\":\"コミカル・クレバーの2属性は、1スロットずつ生徒を設定することができます！\\n狙いの生徒を積極的に設定していきましょう！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideAdditionalAttributeHole\",\"Block\":1,\"ArrowDirection\":0},\"OrderInLayer\":21}]}],\"EnableAutoPlayUnlockFunction\":1}"
   },
   {
     "type": "UnlockFunctionMaster",

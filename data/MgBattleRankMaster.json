@@ -2302,5 +2302,101 @@
     "RankUpRewardPackageMasterId": 40045,
     "SeasonRewardPackageMasterId": 40046,
     "MgBattleRankSegmentGroupMasterId": 9
+  },
+  {
+    "type": "MgBattleRankMaster",
+    "Id": 100373,
+    "MgBattleRankGroupMasterId": 1003,
+    "Order": 1,
+    "RequiredRankUpPoint": 35000,
+    "Name": "アイアン",
+    "IconAssetId": "1",
+    "RankUpRewardPackageMasterId": null,
+    "SeasonRewardPackageMasterId": 40016,
+    "MgBattleRankSegmentGroupMasterId": 10
+  },
+  {
+    "type": "MgBattleRankMaster",
+    "Id": 100374,
+    "MgBattleRankGroupMasterId": 1003,
+    "Order": 2,
+    "RequiredRankUpPoint": 70000,
+    "Name": "ブロンズ",
+    "IconAssetId": "2",
+    "RankUpRewardPackageMasterId": 40039,
+    "SeasonRewardPackageMasterId": 40017,
+    "MgBattleRankSegmentGroupMasterId": 10
+  },
+  {
+    "type": "MgBattleRankMaster",
+    "Id": 100375,
+    "MgBattleRankGroupMasterId": 1003,
+    "Order": 3,
+    "RequiredRankUpPoint": 100000,
+    "Name": "シルバー",
+    "IconAssetId": "3",
+    "RankUpRewardPackageMasterId": 40040,
+    "SeasonRewardPackageMasterId": 40018,
+    "MgBattleRankSegmentGroupMasterId": 10
+  },
+  {
+    "type": "MgBattleRankMaster",
+    "Id": 100376,
+    "MgBattleRankGroupMasterId": 1003,
+    "Order": 4,
+    "RequiredRankUpPoint": 140000,
+    "Name": "ゴールド",
+    "IconAssetId": "4",
+    "RankUpRewardPackageMasterId": 40041,
+    "SeasonRewardPackageMasterId": 40019,
+    "MgBattleRankSegmentGroupMasterId": 10
+  },
+  {
+    "type": "MgBattleRankMaster",
+    "Id": 100377,
+    "MgBattleRankGroupMasterId": 1003,
+    "Order": 5,
+    "RequiredRankUpPoint": 175000,
+    "Name": "プラチナ",
+    "IconAssetId": "5",
+    "RankUpRewardPackageMasterId": 40042,
+    "SeasonRewardPackageMasterId": 40020,
+    "MgBattleRankSegmentGroupMasterId": 10
+  },
+  {
+    "type": "MgBattleRankMaster",
+    "Id": 100378,
+    "MgBattleRankGroupMasterId": 1003,
+    "Order": 6,
+    "RequiredRankUpPoint": 200000,
+    "Name": "ダイヤ",
+    "IconAssetId": "6",
+    "RankUpRewardPackageMasterId": 40043,
+    "SeasonRewardPackageMasterId": 40021,
+    "MgBattleRankSegmentGroupMasterId": 10
+  },
+  {
+    "type": "MgBattleRankMaster",
+    "Id": 100379,
+    "MgBattleRankGroupMasterId": 1003,
+    "Order": 7,
+    "RequiredRankUpPoint": 245000,
+    "Name": "レジェンド",
+    "IconAssetId": "7",
+    "RankUpRewardPackageMasterId": 40044,
+    "SeasonRewardPackageMasterId": 40022,
+    "MgBattleRankSegmentGroupMasterId": 10
+  },
+  {
+    "type": "MgBattleRankMaster",
+    "Id": 100380,
+    "MgBattleRankGroupMasterId": 1003,
+    "Order": 8,
+    "RequiredRankUpPoint": null,
+    "Name": "ルーラー",
+    "IconAssetId": "8",
+    "RankUpRewardPackageMasterId": 40045,
+    "SeasonRewardPackageMasterId": 40046,
+    "MgBattleRankSegmentGroupMasterId": 10
   }
 ]

@@ -934,5 +934,23 @@
     "GradualMissionGroupMasterId": null,
     "DetailClearCondition": "Unknown",
     "EffectJson": "{\"Performances\":[{\"PerformAt\":\"SchoolWarsPreparation\",\"Frames\":[{\"Text\":\"今回の学園総力戦では各レベルに対して\\n最大3編成を用いて出撃することができます！\",\"Character\":\"n10001\",\"VoiceAssetId\":\"0/140\",\"Hole1\":{\"Name\":\"guidePartyHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"２部隊目以降で同じ生徒を編成する事はできますが、\\n連戦すると基礎ステータスが低下するので気を付けて下さいね！\",\"Character\":\"n10001\"},{\"Text\":\"もしも討伐に失敗してしまった場合は前回の詳細を\\nボクがしっかり記録しているので、その時は確認してみてください！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePreviousHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"ここからは危険な戦いになると思いますが、きっと大丈夫です！\\n頑張ってくださいね！\",\"Character\":\"n10001\"}]}],\"Conditions\":[17],\"ProgressTutorials\":[63]}"
+  },
+  {
+    "type": "TutorialMaster",
+    "Id": 20037,
+    "Category": "FreeTutorial",
+    "StageType": "WishList",
+    "UnlockFunctionMasterId": null,
+    "EpisodeMasterId": null,
+    "SceneFrameOrder": null,
+    "QuestMasterId": null,
+    "CharacterMasterId": null,
+    "SnsTimelineMasterId": null,
+    "TalkMasterId": null,
+    "ShopProductMasterId": null,
+    "GachaMasterId": 1,
+    "GradualMissionGroupMasterId": null,
+    "DetailClearCondition": "Unknown",
+    "EffectJson": "{\"Performances\":[{\"PerformAt\":\"WishList\",\"Frames\":[{\"Text\":\"ピコーン！！マスター！！\\nウィッシュリストが解放されましたのでさっそく見てみましょう！\",\"Character\":\"n10001\",\"VoiceAssetId\":\"0/81\"},{\"Hole1\":{\"Name\":\"guideWishListButtonHole\"}}]},{\"PerformAt\":\"WishListWindow\",\"Frames\":[{\"Text\":\"ウィッシュリストは、ガチャから排出される生徒を絞ることができますよ！\",\"Character\":\"n10001\",\"OrderInLayer\":21},{\"Text\":\"アグレッシブ・スマート・シャイ・キュートの4属性は、4スロットずつ生徒を設定することができます！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideAttributeHole\",\"Block\":1,\"ArrowDirection\":0},\"OrderInLayer\":21},{\"Text\":\"コミカル・クレバーの2属性は、1スロットずつ生徒を設定することができます！\\n狙いの生徒を積極的に設定していきましょう！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideAdditionalAttributeHole\",\"Block\":1,\"ArrowDirection\":0},\"OrderInLayer\":21}]}],\"Conditions\":[17],\"ProgressTutorials\":[64]}"
   }
 ]

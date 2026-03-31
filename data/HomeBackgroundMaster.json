@@ -614,5 +614,21 @@
     "Order": 563,
     "UnlockGemQuantity": 100,
     "AssetId": "80093"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 78,
+    "Name": "野外フェスステージ_昼",
+    "Order": 572,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30282"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 79,
+    "Name": "野外フェスステージ_夜",
+    "Order": 574,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30284"
   }
 ]

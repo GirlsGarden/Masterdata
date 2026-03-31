@@ -6,8 +6,8 @@
     "MgBattleRankGroupMasterId": 1,
     "EpisodeMasterId": 300601,
     "DailyTryCount": 5,
-    "DailyOpponentChangableCount": 5,
-    "Name": "SEASON 000"
+    "Name": "SEASON 000",
+    "MgBattleType": "Regular"
   },
   {
     "type": "MgBattleMaster",
@@ -16,8 +16,8 @@
     "MgBattleRankGroupMasterId": 1001,
     "EpisodeMasterId": 300601,
     "DailyTryCount": 5,
-    "DailyOpponentChangableCount": 5,
-    "Name": "SEASON 001"
+    "Name": "SEASON 001",
+    "MgBattleType": "Regular"
   },
   {
     "type": "MgBattleMaster",
@@ -26,17 +26,17 @@
     "MgBattleRankGroupMasterId": 1002,
     "EpisodeMasterId": 300601,
     "DailyTryCount": 5,
-    "DailyOpponentChangableCount": 5,
-    "Name": "SEASON 002"
+    "Name": "SEASON 002",
+    "MgBattleType": "Regular"
   },
   {
     "type": "MgBattleMaster",
     "Id": 4,
     "EventMasterId": 6003,
-    "MgBattleRankGroupMasterId": 1002,
+    "MgBattleRankGroupMasterId": 1003,
     "EpisodeMasterId": 300601,
     "DailyTryCount": 5,
-    "DailyOpponentChangableCount": 5,
-    "Name": "SEASON 003"
+    "Name": "SEASON 003",
+    "MgBattleType": "GrandPrix"
   }
 ]

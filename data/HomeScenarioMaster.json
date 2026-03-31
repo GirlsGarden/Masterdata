@@ -929,6 +929,22 @@
   },
   {
     "type": "HomeScenarioMaster",
+    "Id": 129,
+    "Order": 117,
+    "EpisodeMasterId": 400065,
+    "IsAnimation": true,
+    "AssetId": "c130302"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 130,
+    "Order": 118,
+    "EpisodeMasterId": 400065,
+    "IsAnimation": false,
+    "AssetId": "c130302"
+  },
+  {
+    "type": "HomeScenarioMaster",
     "Id": 2000,
     "Order": 1000,
     "EpisodeMasterId": 500003,
@@ -1229,7 +1245,7 @@
     "Order": 1037,
     "EpisodeMasterId": 500029,
     "IsAnimation": true,
-    "AssetId": "s200017"
+    "AssetId": "s300012"
   },
   {
     "type": "HomeScenarioMaster",
@@ -1237,6 +1253,6 @@
     "Order": 1038,
     "EpisodeMasterId": 500029,
     "IsAnimation": false,
-    "AssetId": "s200017"
+    "AssetId": "s300012"
   }
 ]

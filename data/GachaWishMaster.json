@@ -3,12 +3,22 @@
     "type": "GachaWishMaster",
     "Id": 1,
     "FrameCount": 4,
-    "Attribute": "All"
+    "Attribute": [
+      "Aggressive",
+      "Smart",
+      "Shy",
+      "Cute",
+      "All"
+    ],
+    "AdditionalFrameCount": 1,
+    "AdditionalAttribute": "All"
   },
   {
     "type": "GachaWishMaster",
     "Id": 2,
     "FrameCount": 3,
-    "Attribute": "All"
+    "Attribute": "All",
+    "AdditionalFrameCount": null,
+    "AdditionalAttribute": "Unknown"
   }
 ]
