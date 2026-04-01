@@ -1,20 +1,6 @@
 [
   {
     "type": "LocationMaster",
-    "Id": 14019,
-    "EventMasterId": 1020,
-    "Type": "EventQuestNormal",
-    "Name": "Daybreak Frontier-後半-",
-    "Order": 1,
-    "AssetId": "10020",
-    "DailyTryCount": null,
-    "DayOfWeekFlags": "None",
-    "BackgroundAssetType": "Adventure",
-    "MovieAssetId": null,
-    "MovieBgmAssetId": null
-  },
-  {
-    "type": "LocationMaster",
     "Id": 10001,
     "EventMasterId": 1,
     "Type": "Normal",
@@ -700,6 +686,20 @@
     "BackgroundAssetType": "Adventure",
     "MovieAssetId": null,
     "MovieBgmAssetId": null
+  },
+  {
+    "type": "LocationMaster",
+    "Id": 14019,
+    "EventMasterId": 1020,
+    "Type": "EventQuestNormal",
+    "Name": "Daybreak Frontier-後半-",
+    "Order": 1,
+    "AssetId": "10020",
+    "DailyTryCount": null,
+    "DayOfWeekFlags": "None",
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": "RAY OF HERO",
+    "MovieBgmAssetId": "10033"
   },
   {
     "type": "LocationMaster",

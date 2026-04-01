@@ -1,13 +1,13 @@
 [
   {
     "type": "LoginBonusMaster",
-    "Id": 1007,
-    "Name": "3月マンスリーログインボーナス",
+    "Id": 1008,
+    "Name": "4月マンスリーログインボーナス",
     "Type": "Month",
     "Order": 1,
-    "StartDate": "2026-03-01T05:00:00+09:00",
+    "StartDate": "2026-04-01T05:00:00+09:00",
     "StartDeadlineDate": null,
-    "EndDate": "2026-04-01T04:59:59+09:00",
+    "EndDate": "2026-05-01T04:59:59+09:00",
     "ExtraLoginBonusMasterId": 1,
     "IsLoop": false,
     "AssetId": "1001",
@@ -73,21 +73,6 @@
     "AssetId": "3011",
     "SpineAssetId": null,
     "BackgroundAssetId": "3011"
-  },
-  {
-    "type": "LoginBonusMaster",
-    "Id": 3010,
-    "Name": "リリース200日記念ログインボーナス",
-    "Type": "Anniversary",
-    "Order": 1,
-    "StartDate": "2026-03-21T12:00:00+09:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2026-04-01T04:59:59+09:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "3010",
-    "SpineAssetId": null,
-    "BackgroundAssetId": "3010"
   },
   {
     "type": "LoginBonusMaster",
