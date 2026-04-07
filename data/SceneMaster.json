@@ -2861,6 +2861,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20110101,
+    "EpisodeMasterId": 201101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "風紀委員会からの依頼",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20110201,
+    "EpisodeMasterId": 201102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "風紀委員長の理由",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20110301,
+    "EpisodeMasterId": 201103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ユーロ・タワーの大事件",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20110401,
+    "EpisodeMasterId": 201104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "事件を解き明かすのは……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20110501,
+    "EpisodeMasterId": 201105,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "事件は解決？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20110601,
+    "EpisodeMasterId": 201106,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "風紀委員として",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20110701,
+    "EpisodeMasterId": 201107,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ほんの少しの勇気を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20110801,
+    "EpisodeMasterId": 201108,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "彼女たちが守ったもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -4241,6 +4321,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40006601,
+    "EpisodeMasterId": 400066,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "副委員長の、ホントの姿？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006602,
+    "EpisodeMasterId": 400066,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "副委員長の、ホントの姿？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -4777,6 +4877,36 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "忙しい時のまどろみ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003001,
+    "EpisodeMasterId": 500030,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイド探偵団、学園の謎を追う",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003002,
+    "EpisodeMasterId": 500030,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "メイド探偵団、学園の謎を追う",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003101,
+    "EpisodeMasterId": 500031,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "1日ユーロ・タワー体験",
     "AssetId": null
   },
   {
@@ -7377,6 +7507,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "柔軟をする大切さ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61041001,
+    "EpisodeMasterId": 610260,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ゆるーい風紀副委員長",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61041002,
+    "EpisodeMasterId": 610261,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お買い物大好き",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61041003,
+    "EpisodeMasterId": 610262,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "好きなジャンルは？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61041004,
+    "EpisodeMasterId": 610263,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "差し入れの飲み物",
     "AssetId": null
   },
   {

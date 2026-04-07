@@ -505,6 +505,30 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 43,
+    "Name": "Daily Order",
+    "Order": 43,
+    "LengthSeconds": 91,
+    "IsRequiredUnlock": true,
+    "AssetId": "10029",
+    "StartLoopPointSampleCounts": 62222,
+    "EndLoopPointSampleCounts": 4046836,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 44,
+    "Name": "Enforcement",
+    "Order": 44,
+    "LengthSeconds": 89,
+    "IsRequiredUnlock": true,
+    "AssetId": "20012",
+    "StartLoopPointSampleCounts": 80203,
+    "EndLoopPointSampleCounts": 3928934,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

@@ -2001,6 +2001,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20110311,
+    "SceneBranchMasterId": 2011031,
+    "Answer": "真桜を心配する",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20110312,
+    "SceneBranchMasterId": 2011031,
+    "Answer": "カリナに突っ込む。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -2913,6 +2929,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40006611,
+    "SceneBranchMasterId": 4000661,
+    "Answer": "ああ、見直した。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006612,
+    "SceneBranchMasterId": 4000661,
+    "Answer": "よく働くサボり屋だ。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -3340,6 +3372,22 @@
     "Id": 50002912,
     "SceneBranchMasterId": 5000291,
     "Answer": "スマートデバイスをいじる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003011,
+    "SceneBranchMasterId": 5000301,
+    "Answer": "飛び掛かる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003012,
+    "SceneBranchMasterId": 5000301,
+    "Answer": "しがみ付く",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -7502,6 +7550,70 @@
     "Answer": "運動と同じなんだな",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1303022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61071011,
+    "SceneBranchMasterId": 6107101,
+    "Answer": "ゆるい方がいいのかもな。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1433012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61071012,
+    "SceneBranchMasterId": 6107101,
+    "Answer": "カリナ、優しいんだな。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1433011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61072011,
+    "SceneBranchMasterId": 6107201,
+    "Answer": "一緒に休憩するか聞いてみる。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1433012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61072012,
+    "SceneBranchMasterId": 6107201,
+    "Answer": "荷物を持とうか聞いてみる。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1433011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61073011,
+    "SceneBranchMasterId": 6107301,
+    "Answer": "ストレートにポップな音楽",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1433012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61073012,
+    "SceneBranchMasterId": 6107301,
+    "Answer": "意外とクラシックな音楽",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1433011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61074011,
+    "SceneBranchMasterId": 6107401,
+    "Answer": "カリナ、苦手なものあるんだな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1433012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61074012,
+    "SceneBranchMasterId": 6107401,
+    "Answer": "可愛い反応だった",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1433011
   },
   {
     "type": "SceneBranchSelectionMaster",

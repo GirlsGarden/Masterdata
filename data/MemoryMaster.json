@@ -336,6 +336,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10019,
+    "Rarity": "Sr",
+    "Name": "メイド探偵団、学園の謎を追う",
+    "Description": "とりゃー！捕まえたぞ、犯人めー！\n皆から盗ったものを返せー！",
+    "AssetId": "10025",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 2,
+        "CharacterType": null,
+        "SkillMasterId": 400158,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -2160,6 +2183,76 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20058,
+    "Rarity": "Ssr",
+    "Name": "副委員長の、ホントの姿？",
+    "Description": "普段はしーっかりとサボって、\n必要な時にはバーンって活躍するくらいでいいんだからさ。",
+    "AssetId": "141301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 141,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400159,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400027,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20059,
+    "Rarity": "Ssr",
+    "Name": "忘れていたキッカケの言葉",
+    "Description": "す、すみません！　ご迷惑をおかけして……\nその、あまり動かれると……そ、その……",
+    "AssetId": "142301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 142,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400160,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Cute",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400161,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -2731,5 +2824,40 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30023,
+    "Rarity": "Ur",
+    "Name": "１日ユーロ・タワー体験",
+    "Description": "何をやってるんですか！終わっていいとは言っていませんよ！\n今から３分間！　限界まで腕立て伏せを続けるのです！",
+    "AssetId": "30028",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Support",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400162,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 48,
+        "CharacterType": null,
+        "SkillMasterId": 400163,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

@@ -1981,6 +1981,16 @@
   },
   {
     "type": "ShopProductThingMaster",
+    "Id": 741,
+    "ShopProductPackageMasterId": 74,
+    "Order": 1,
+    "IsBonus": false,
+    "ThingType": "Memory",
+    "ThingId": 30023,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "ShopProductThingMaster",
     "Id": 6110,
     "ShopProductPackageMasterId": 61,
     "Order": 10,

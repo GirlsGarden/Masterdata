@@ -8,5 +8,15 @@
     "EndDate": "2026-04-07T04:59:59+09:00",
     "LastReceiveDate": "2026-04-17T04:59:59+09:00",
     "IntroductionEpisodeMasterId": 300301
+  },
+  {
+    "type": "TacticMaster",
+    "Id": 8,
+    "LocationMasterId": 12001,
+    "Name": "シーズン8",
+    "StartDate": "2026-04-07T12:30:00+09:00",
+    "EndDate": "2026-05-05T04:59:59+09:00",
+    "LastReceiveDate": "2026-05-15T04:59:59+09:00",
+    "IntroductionEpisodeMasterId": 300301
   }
 ]
