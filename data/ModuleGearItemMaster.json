@@ -5,7 +5,8 @@
     "ItemMasterId": 70001,
     "Quantity": 1,
     "Money": 0,
-    "LossRate": 0.5
+    "LossRate": 0.5,
+    "ModuleGearRates": null
   },
   {
     "type": "ModuleGearItemMaster",
@@ -13,7 +14,8 @@
     "ItemMasterId": 70002,
     "Quantity": 1,
     "Money": 0,
-    "LossRate": 0.25
+    "LossRate": 0.25,
+    "ModuleGearRates": null
   },
   {
     "type": "ModuleGearItemMaster",
@@ -21,6 +23,7 @@
     "ItemMasterId": 70003,
     "Quantity": 1,
     "Money": 0,
-    "LossRate": 0
+    "LossRate": 0,
+    "ModuleGearRates": null
   }
 ]
