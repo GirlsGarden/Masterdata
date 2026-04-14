@@ -1,0 +1,15 @@
+[
+  {
+    "type": "GrandPrixMaster",
+    "Id": 1,
+    "EventMasterId": 6004,
+    "GrandPrixScheduleGroupMasterId": 100,
+    "EpisodeMasterId": 300901,
+    "RewardPackageId": 50000,
+    "GroupCount": 10,
+    "ItemMasterId": 110022,
+    "BetHighRate": 1.8,
+    "BetLowRate": 1.2,
+    "GrandPrixPhaseRewardGroupMasterId": 100
+  }
+]

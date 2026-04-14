@@ -222,5 +222,13 @@
     "UnlockFunctionTriggerType": "ClearMazeFloor",
     "Configuration": "{\"Floor\":100}",
     "Description": "メイズ探索エリア100クリアで解放"
+  },
+  {
+    "type": "UnlockFunctionTriggerMaster",
+    "Id": 29,
+    "UnlockFunctionMasterId": 38,
+    "UnlockFunctionTriggerType": "ClearLocationNode",
+    "Configuration": "{\"LocationId\":10001,\"Sequence\":209}",
+    "Description": "メインクエスト2章3節6-37クリアで解放"
   }
 ]

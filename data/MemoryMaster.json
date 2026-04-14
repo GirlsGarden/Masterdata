@@ -2249,7 +2249,7 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
@@ -2859,5 +2859,28 @@
       }
     ],
     "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30024,
+    "Rarity": "Ur",
+    "Name": "風紀委員会",
+    "Description": "生徒会直下の治安維持チーム。各校舎から集められた生徒達で構成されている。",
+    "AssetId": "30029",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 701,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400164,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
   }
 ]

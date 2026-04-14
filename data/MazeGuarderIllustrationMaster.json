@@ -281,11 +281,20 @@
   {
     "type": "MazeGuarderIllustrationMaster",
     "Id": 1062,
-    "Order": 2,
+    "Order": 100,
     "MMazeGuarderId": 106,
     "MEpisodeId": 100902,
     "IllustType": "ADV",
     "AssetId": "370"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 1063,
+    "Order": 2,
+    "MMazeGuarderId": 106,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "1602"
   },
   {
     "type": "MazeGuarderIllustrationMaster",

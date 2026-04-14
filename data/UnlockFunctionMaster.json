@@ -368,5 +368,15 @@
     "JumpType": null,
     "JumpTargetId": null,
     "EffectJson": null
+  },
+  {
+    "type": "UnlockFunctionMaster",
+    "Id": 38,
+    "Name": "P-1グランプリ",
+    "Description": "【P-1 グランプリ】が解放されました！",
+    "UnlockFunctionType": "GrandPrix",
+    "JumpType": null,
+    "JumpTargetId": null,
+    "EffectJson": null
   }
 ]

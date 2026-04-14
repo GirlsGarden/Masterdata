@@ -6,7 +6,112 @@
     "Quantity": 1,
     "Money": 0,
     "LossRate": 0.5,
-    "ModuleGearRates": null
+    "ModuleGearRates": [
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 1,
+        "Rate": 0.13,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 2,
+        "Rate": 0.08,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 3,
+        "Rate": 0.08,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 4,
+        "Rate": 0.08,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 5,
+        "Rate": 0.1,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 6,
+        "Rate": 0.1,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 7,
+        "Rate": 0.13,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 8,
+        "Rate": 0.3,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      }
+    ]
   },
   {
     "type": "ModuleGearItemMaster",
@@ -15,7 +120,112 @@
     "Quantity": 1,
     "Money": 0,
     "LossRate": 0.25,
-    "ModuleGearRates": null
+    "ModuleGearRates": [
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 1,
+        "Rate": 0.13,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 2,
+        "Rate": 0.08,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 3,
+        "Rate": 0.08,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 4,
+        "Rate": 0.08,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 5,
+        "Rate": 0.1,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 6,
+        "Rate": 0.1,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 7,
+        "Rate": 0.13,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 8,
+        "Rate": 0.3,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      }
+    ]
   },
   {
     "type": "ModuleGearItemMaster",
@@ -24,6 +234,184 @@
     "Quantity": 1,
     "Money": 0,
     "LossRate": 0,
-    "ModuleGearRates": null
+    "ModuleGearRates": [
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 1,
+        "Rate": 0.13,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 2,
+        "Rate": 0.08,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 3,
+        "Rate": 0.08,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 4,
+        "Rate": 0.08,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 5,
+        "Rate": 0.1,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 6,
+        "Rate": 0.1,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 7,
+        "Rate": 0.13,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 8,
+        "Rate": 0.3,
+        "PossibleRanks": [
+          "S",
+          "A",
+          "B",
+          "C",
+          "D",
+          "None"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ModuleGearItemMaster",
+    "Id": 4,
+    "ItemMasterId": 70004,
+    "Quantity": 1,
+    "Money": 0,
+    "LossRate": 0,
+    "ModuleGearRates": [
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 1,
+        "Rate": 0.18571429,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 2,
+        "Rate": 0.114285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 3,
+        "Rate": 0.114285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 4,
+        "Rate": 0.114285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 5,
+        "Rate": 0.14285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 6,
+        "Rate": 0.14285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 7,
+        "Rate": 0.18571429,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      }
+    ]
   }
 ]

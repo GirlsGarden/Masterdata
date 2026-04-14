@@ -529,6 +529,18 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 45,
+    "Name": "Stand on Top",
+    "Order": 45,
+    "LengthSeconds": 125,
+    "IsRequiredUnlock": false,
+    "AssetId": "20014",
+    "StartLoopPointSampleCounts": 243125,
+    "EndLoopPointSampleCounts": 3889643,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

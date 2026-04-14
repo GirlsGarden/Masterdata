@@ -1,20 +1,6 @@
 [
   {
     "type": "EnemySkillMaster",
-    "Id": 11,
-    "EnemyMasterId": 1,
-    "SkillMasterId": 220014,
-    "Level": 1
-  },
-  {
-    "type": "EnemySkillMaster",
-    "Id": 12,
-    "EnemyMasterId": 1,
-    "SkillMasterId": 1,
-    "Level": 1
-  },
-  {
-    "type": "EnemySkillMaster",
     "Id": 931011,
     "EnemyMasterId": 93101,
     "SkillMasterId": 210001,
@@ -1676,6 +1662,41 @@
     "type": "EnemySkillMaster",
     "Id": 1012315,
     "EnemyMasterId": 101231,
+    "SkillMasterId": 230010,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 1012321,
+    "EnemyMasterId": 101232,
+    "SkillMasterId": 210002,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 1012322,
+    "EnemyMasterId": 101232,
+    "SkillMasterId": 220016,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 1012323,
+    "EnemyMasterId": 101232,
+    "SkillMasterId": 220017,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 1012324,
+    "EnemyMasterId": 101232,
+    "SkillMasterId": 230009,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 1012325,
+    "EnemyMasterId": 101232,
     "SkillMasterId": 230010,
     "Level": 1
   },
@@ -7015,6 +7036,41 @@
   },
   {
     "type": "EnemySkillMaster",
+    "Id": 2323061,
+    "EnemyMasterId": 232306,
+    "SkillMasterId": 210016,
+    "Level": 10
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2323062,
+    "EnemyMasterId": 232306,
+    "SkillMasterId": 220105,
+    "Level": 10
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2323063,
+    "EnemyMasterId": 232306,
+    "SkillMasterId": 230086,
+    "Level": 10
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2323064,
+    "EnemyMasterId": 232306,
+    "SkillMasterId": 230087,
+    "Level": 10
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2323065,
+    "EnemyMasterId": 232306,
+    "SkillMasterId": 230088,
+    "Level": 10
+  },
+  {
+    "type": "EnemySkillMaster",
     "Id": 2434011,
     "EnemyMasterId": 243401,
     "SkillMasterId": 210017,
@@ -8135,6 +8191,41 @@
   },
   {
     "type": "EnemySkillMaster",
+    "Id": 2836071,
+    "EnemyMasterId": 283607,
+    "SkillMasterId": 210021,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2836072,
+    "EnemyMasterId": 283607,
+    "SkillMasterId": 220121,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2836073,
+    "EnemyMasterId": 283607,
+    "SkillMasterId": 220122,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2836074,
+    "EnemyMasterId": 283607,
+    "SkillMasterId": 230110,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2836075,
+    "EnemyMasterId": 283607,
+    "SkillMasterId": 230111,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
     "Id": 2931011,
     "EnemyMasterId": 293101,
     "SkillMasterId": 210022,
@@ -8410,6 +8501,41 @@
     "type": "EnemySkillMaster",
     "Id": 2931085,
     "EnemyMasterId": 293108,
+    "SkillMasterId": 230199,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2931091,
+    "EnemyMasterId": 293109,
+    "SkillMasterId": 210022,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2931092,
+    "EnemyMasterId": 293109,
+    "SkillMasterId": 220123,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2931093,
+    "EnemyMasterId": 293109,
+    "SkillMasterId": 220124,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2931094,
+    "EnemyMasterId": 293109,
+    "SkillMasterId": 230112,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 2931095,
+    "EnemyMasterId": 293109,
     "SkillMasterId": 230199,
     "Level": 1
   },
@@ -8900,6 +9026,41 @@
     "type": "EnemySkillMaster",
     "Id": 3124065,
     "EnemyMasterId": 312406,
+    "SkillMasterId": 230189,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 3124071,
+    "EnemyMasterId": 312407,
+    "SkillMasterId": 210041,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 3124072,
+    "EnemyMasterId": 312407,
+    "SkillMasterId": 220186,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 3124073,
+    "EnemyMasterId": 312407,
+    "SkillMasterId": 220187,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 3124074,
+    "EnemyMasterId": 312407,
+    "SkillMasterId": 230188,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 3124075,
+    "EnemyMasterId": 312407,
     "SkillMasterId": 230189,
     "Level": 11
   },
@@ -11313,6 +11474,41 @@
   },
   {
     "type": "EnemySkillMaster",
+    "Id": 4114101,
+    "EnemyMasterId": 411410,
+    "SkillMasterId": 210044,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 4114102,
+    "EnemyMasterId": 411410,
+    "SkillMasterId": 220179,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 4114103,
+    "EnemyMasterId": 411410,
+    "SkillMasterId": 230195,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 4114104,
+    "EnemyMasterId": 411410,
+    "SkillMasterId": 230196,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 4114105,
+    "EnemyMasterId": 411410,
+    "SkillMasterId": 230181,
+    "Level": 1
+  },
+  {
+    "type": "EnemySkillMaster",
     "Id": 4211011,
     "EnemyMasterId": 421101,
     "SkillMasterId": 210038,
@@ -11378,6 +11574,41 @@
     "type": "EnemySkillMaster",
     "Id": 4311015,
     "EnemyMasterId": 431101,
+    "SkillMasterId": 230185,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 4311021,
+    "EnemyMasterId": 431102,
+    "SkillMasterId": 210039,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 4311022,
+    "EnemyMasterId": 431102,
+    "SkillMasterId": 220182,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 4311023,
+    "EnemyMasterId": 431102,
+    "SkillMasterId": 220183,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 4311024,
+    "EnemyMasterId": 431102,
+    "SkillMasterId": 230184,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 4311025,
+    "EnemyMasterId": 431102,
     "SkillMasterId": 230185,
     "Level": 11
   },
@@ -13476,6 +13707,41 @@
   },
   {
     "type": "EnemySkillMaster",
+    "Id": 5332061,
+    "EnemyMasterId": 533206,
+    "SkillMasterId": 210082,
+    "Level": 15
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 5332062,
+    "EnemyMasterId": 533206,
+    "SkillMasterId": 220310,
+    "Level": 15
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 5332063,
+    "EnemyMasterId": 533206,
+    "SkillMasterId": 220311,
+    "Level": 15
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 5332064,
+    "EnemyMasterId": 533206,
+    "SkillMasterId": 230328,
+    "Level": 15
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 5332065,
+    "EnemyMasterId": 533206,
+    "SkillMasterId": 230329,
+    "Level": 15
+  },
+  {
+    "type": "EnemySkillMaster",
     "Id": 5434011,
     "EnemyMasterId": 543401,
     "SkillMasterId": 210058,
@@ -14705,6 +14971,76 @@
     "EnemyMasterId": 603305,
     "SkillMasterId": 230318,
     "Level": 10
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6163011,
+    "EnemyMasterId": 616301,
+    "SkillMasterId": 210081,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6163012,
+    "EnemyMasterId": 616301,
+    "SkillMasterId": 220308,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6163013,
+    "EnemyMasterId": 616301,
+    "SkillMasterId": 220309,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6163014,
+    "EnemyMasterId": 616301,
+    "SkillMasterId": 230326,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6163015,
+    "EnemyMasterId": 616301,
+    "SkillMasterId": 230327,
+    "Level": 11
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6223011,
+    "EnemyMasterId": 622301,
+    "SkillMasterId": 210083,
+    "Level": 15
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6223012,
+    "EnemyMasterId": 622301,
+    "SkillMasterId": 220312,
+    "Level": 15
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6223013,
+    "EnemyMasterId": 622301,
+    "SkillMasterId": 230330,
+    "Level": 15
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6223014,
+    "EnemyMasterId": 622301,
+    "SkillMasterId": 230340,
+    "Level": 15
+  },
+  {
+    "type": "EnemySkillMaster",
+    "Id": 6223015,
+    "EnemyMasterId": 622301,
+    "SkillMasterId": 230341,
+    "Level": 15
   },
   {
     "type": "EnemySkillMaster",

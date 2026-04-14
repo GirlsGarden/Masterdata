@@ -160,5 +160,14 @@
     "Location": "交換所",
     "JumpType": "Exchange",
     "JumpTargetId": null
+  },
+  {
+    "type": "ItemAcquisitionLocationMaster",
+    "Id": 141,
+    "ItemAcquisitionLocationGroupMasterId": 14,
+    "Order": 1,
+    "Location": "P-1グランプリ",
+    "JumpType": "GrandPrix",
+    "JumpTargetId": null
   }
 ]

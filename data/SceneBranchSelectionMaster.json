@@ -2017,6 +2017,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20110611,
+    "SceneBranchMasterId": 2011061,
+    "Answer": "協力すればライブのためになる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20110612,
+    "SceneBranchMasterId": 2011061,
+    "Answer": "真桜の言葉に俺も心動かされた",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -2945,6 +2961,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40006711,
+    "SceneBranchMasterId": 4000671,
+    "Answer": "お尻に目が行く。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006712,
+    "SceneBranchMasterId": 4000671,
+    "Answer": "手が柔らかい場所に当たる。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -3388,6 +3420,22 @@
     "Id": 50003012,
     "SceneBranchMasterId": 5000301,
     "Answer": "しがみ付く",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003111,
+    "SceneBranchMasterId": 5000311,
+    "Answer": "サー、イエッサー！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003112,
+    "SceneBranchMasterId": 5000311,
+    "Answer": "それより見えそうです",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -7614,6 +7662,70 @@
     "Answer": "可愛い反応だった",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1433011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61075011,
+    "SceneBranchMasterId": 6107501,
+    "Answer": "一緒に休んでもいいか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1443012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61075012,
+    "SceneBranchMasterId": 6107501,
+    "Answer": "それじゃあ、俺は帰るな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1443011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61076011,
+    "SceneBranchMasterId": 6107601,
+    "Answer": "むしろ張り合う",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1443012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61076012,
+    "SceneBranchMasterId": 6107601,
+    "Answer": "フォローする",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1443011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61077011,
+    "SceneBranchMasterId": 6107701,
+    "Answer": "少し休憩しないか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1443012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61077012,
+    "SceneBranchMasterId": 6107701,
+    "Answer": "冗談を言ってみる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1443011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61078011,
+    "SceneBranchMasterId": 6107801,
+    "Answer": "自分にできることを分かっている",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1443012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61078012,
+    "SceneBranchMasterId": 6107801,
+    "Answer": "なら、実践訓練がいい",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1443011
   },
   {
     "type": "SceneBranchSelectionMaster",

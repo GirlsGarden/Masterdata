@@ -74,7 +74,7 @@
   {
     "type": "ThumbnailFrameMaster",
     "Id": 9,
-    "Order": 9,
+    "Order": 100,
     "AssetId": "20002",
     "IsInitialOwnership": false,
     "Name": "霞光フレーム",
@@ -83,7 +83,7 @@
   {
     "type": "ThumbnailFrameMaster",
     "Id": 10,
-    "Order": 10,
+    "Order": 101,
     "AssetId": "20003",
     "IsInitialOwnership": false,
     "Name": "黎明フレーム",
@@ -92,7 +92,7 @@
   {
     "type": "ThumbnailFrameMaster",
     "Id": 11,
-    "Order": 11,
+    "Order": 102,
     "AssetId": "20004",
     "IsInitialOwnership": false,
     "Name": "エクスプローラーフレーム",
@@ -101,7 +101,7 @@
   {
     "type": "ThumbnailFrameMaster",
     "Id": 12,
-    "Order": 12,
+    "Order": 103,
     "AssetId": "20005",
     "IsInitialOwnership": false,
     "Name": "フロンティアフレーム",
@@ -110,7 +110,7 @@
   {
     "type": "ThumbnailFrameMaster",
     "Id": 13,
-    "Order": 13,
+    "Order": 104,
     "AssetId": "20006",
     "IsInitialOwnership": false,
     "Name": "キャバリエフレーム",
@@ -119,7 +119,7 @@
   {
     "type": "ThumbnailFrameMaster",
     "Id": 14,
-    "Order": 14,
+    "Order": 105,
     "AssetId": "20007",
     "IsInitialOwnership": false,
     "Name": "輝映フレーム",
@@ -128,7 +128,7 @@
   {
     "type": "ThumbnailFrameMaster",
     "Id": 15,
-    "Order": 15,
+    "Order": 106,
     "AssetId": "20008",
     "IsInitialOwnership": false,
     "Name": "明光フレーム",
@@ -137,10 +137,82 @@
   {
     "type": "ThumbnailFrameMaster",
     "Id": 16,
-    "Order": 16,
+    "Order": 107,
     "AssetId": "20009",
     "IsInitialOwnership": false,
     "Name": "エクスプローラーフレームⅡ",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 17,
+    "Order": 108,
+    "AssetId": "20010",
+    "IsInitialOwnership": false,
+    "Name": "パスファインダーフレーム",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 18,
+    "Order": 109,
+    "AssetId": "20011",
+    "IsInitialOwnership": false,
+    "Name": "天穹フレーム",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 19,
+    "Order": 110,
+    "AssetId": "20012",
+    "IsInitialOwnership": false,
+    "Name": "影具鎚フレーム",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 20,
+    "Order": 9,
+    "AssetId": "20013",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.01「参加フレーム」",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 21,
+    "Order": 10,
+    "AssetId": "20014",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.01「予選優勝」",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 22,
+    "Order": 11,
+    "AssetId": "20015",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.01「ベスト4フレーム」",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 23,
+    "Order": 12,
+    "AssetId": "20016",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.01「準優勝フレーム」",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 24,
+    "Order": 13,
+    "AssetId": "20017",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.01「優勝フレーム」",
     "Description": "プロフィールアイコンで使用できるフレーム"
   }
 ]

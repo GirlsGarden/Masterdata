@@ -2894,14 +2894,14 @@
     "BonusDefencePerLevel": 100,
     "BonusSpeedPerLevel": 2,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "138301",
+    "ModelAssetId": "142301",
     "CockpitAssetId": null,
     "MinCombatPower": 5212,
     "MaxCombatPower": 97890,
     "PositionType": "Back",
     "RoleType": "IntelligenceAttacker",
     "GachaBackgroundAssetId": "20022",
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "CharacterMaster",

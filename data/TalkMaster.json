@@ -781,6 +781,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1423011,
+    "CallCharacterMasterId": 142301,
+    "Order": 142001,
+    "Title": "まだまだ成長中。",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 142301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400067
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1543011,
     "CallCharacterMasterId": 154301,
     "Order": 154001,

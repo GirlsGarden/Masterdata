@@ -2157,6 +2157,17 @@
   },
   {
     "type": "MissionStageMaster",
+    "Id": 1400331,
+    "MissionMasterId": 140033,
+    "MissionStageOrder": 1,
+    "StageGoalValue": 36,
+    "StartDate": null,
+    "RewardPackageMasterId": 3030077,
+    "Description": null,
+    "IsDescriptionEnabled": false
+  },
+  {
+    "type": "MissionStageMaster",
     "Id": 1500011,
     "MissionMasterId": 150001,
     "MissionStageOrder": 1,

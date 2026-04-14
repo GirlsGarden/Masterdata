@@ -1,0 +1,66 @@
+[
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1001,
+    "GrandPrixPhaseRewardGroupMasterId": 100,
+    "TournamentPhase": "GroupStage1",
+    "VictoryRewardPackageMasterId": 50001,
+    "DefeatRewardPackageMasterId": 50002
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1002,
+    "GrandPrixPhaseRewardGroupMasterId": 100,
+    "TournamentPhase": "GroupStage2",
+    "VictoryRewardPackageMasterId": 50003,
+    "DefeatRewardPackageMasterId": 50004
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1003,
+    "GrandPrixPhaseRewardGroupMasterId": 100,
+    "TournamentPhase": "GroupStage3",
+    "VictoryRewardPackageMasterId": 50005,
+    "DefeatRewardPackageMasterId": 50006
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1004,
+    "GrandPrixPhaseRewardGroupMasterId": 100,
+    "TournamentPhase": "GroupStage4",
+    "VictoryRewardPackageMasterId": 50007,
+    "DefeatRewardPackageMasterId": 50008
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1005,
+    "GrandPrixPhaseRewardGroupMasterId": 100,
+    "TournamentPhase": "QuarterFinals",
+    "VictoryRewardPackageMasterId": 50009,
+    "DefeatRewardPackageMasterId": 50010
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1006,
+    "GrandPrixPhaseRewardGroupMasterId": 100,
+    "TournamentPhase": "SemiFinals",
+    "VictoryRewardPackageMasterId": 50011,
+    "DefeatRewardPackageMasterId": null
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1007,
+    "GrandPrixPhaseRewardGroupMasterId": 100,
+    "TournamentPhase": "Finals",
+    "VictoryRewardPackageMasterId": 50011,
+    "DefeatRewardPackageMasterId": 50012
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1008,
+    "GrandPrixPhaseRewardGroupMasterId": 100,
+    "TournamentPhase": "GrandFinal",
+    "VictoryRewardPackageMasterId": 50013,
+    "DefeatRewardPackageMasterId": 50014
+  }
+]
