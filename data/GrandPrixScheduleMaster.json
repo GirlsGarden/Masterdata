@@ -6,32 +6,32 @@
     "TournamentPhase": "GroupStage1",
     "StartDate": "2026-04-14T12:30:00+09:00",
     "PreparationEndDate": "2026-04-15T15:00:00+09:00",
-    "ResultAnnouncementDate": "2026-04-15T19:00:00+09:00"
+    "ResultAnnouncementDate": "2026-04-16T19:00:00+09:00"
   },
   {
     "type": "GrandPrixScheduleMaster",
     "Id": 1002,
     "GrandPrixScheduleGroupMasterId": 100,
     "TournamentPhase": "GroupStage2",
-    "StartDate": "2026-04-15T19:00:00+09:00",
-    "PreparationEndDate": "2026-04-16T15:00:00+09:00",
-    "ResultAnnouncementDate": "2026-04-16T19:00:00+09:00"
-  },
-  {
-    "type": "GrandPrixScheduleMaster",
-    "Id": 1003,
-    "GrandPrixScheduleGroupMasterId": 100,
-    "TournamentPhase": "GroupStage3",
     "StartDate": "2026-04-16T19:00:00+09:00",
     "PreparationEndDate": "2026-04-17T15:00:00+09:00",
     "ResultAnnouncementDate": "2026-04-17T19:00:00+09:00"
   },
   {
     "type": "GrandPrixScheduleMaster",
+    "Id": 1003,
+    "GrandPrixScheduleGroupMasterId": 100,
+    "TournamentPhase": "GroupStage3",
+    "StartDate": "2026-04-17T19:00:00+09:00",
+    "PreparationEndDate": "2026-04-18T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-04-18T19:00:00+09:00"
+  },
+  {
+    "type": "GrandPrixScheduleMaster",
     "Id": 1004,
     "GrandPrixScheduleGroupMasterId": 100,
     "TournamentPhase": "GroupStage4",
-    "StartDate": "2026-04-17T19:00:00+09:00",
+    "StartDate": "2026-04-18T19:00:00+09:00",
     "PreparationEndDate": "2026-04-19T15:00:00+09:00",
     "ResultAnnouncementDate": "2026-04-19T19:00:00+09:00"
   },
