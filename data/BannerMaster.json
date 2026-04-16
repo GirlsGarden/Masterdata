@@ -166,5 +166,26 @@
       "AppStore",
       "GooglePlay"
     ]
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 3013,
+    "Order": 1,
+    "ImageStaticPath": "1013",
+    "StartDate": "2026-04-16T12:00:00+09:00",
+    "EndDate": "2026-04-28T04:59:59+09:00",
+    "JumpType": "LimitedTimeShop",
+    "JumpTargetId": 196,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
   }
 ]
