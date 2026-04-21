@@ -630,5 +630,45 @@
     "Order": 574,
     "UnlockGemQuantity": 100,
     "AssetId": "30284"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 80,
+    "Name": "スカラ校区屋外円形闘技場_昼",
+    "Order": 582,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30292"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 81,
+    "Name": "スカラ校舎カジノ_その他",
+    "Order": 590,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30300"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 82,
+    "Name": "メイズ内カジノ内部_その他",
+    "Order": 600,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60090"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 83,
+    "Name": "メイズ内カジノ外観_その他",
+    "Order": 610,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60080"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 84,
+    "Name": "双頭の斧補給基地_地穴帯差分_その他",
+    "Order": 620,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60100"
   }
 ]

@@ -3263,6 +3263,62 @@
   },
   {
     "type": "EpisodeMaster",
+    "Id": 200405,
+    "ChapterMasterId": 200008,
+    "Title": "1話",
+    "SubTitle": "突破口",
+    "Order": 5,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "10140",
+    "RewardPackageMasterId": 2
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 200406,
+    "ChapterMasterId": 200008,
+    "Title": "2話",
+    "SubTitle": "策士策に溺れる",
+    "Order": 6,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "30072_002",
+    "RewardPackageMasterId": 2
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 200407,
+    "ChapterMasterId": 200008,
+    "Title": "3話",
+    "SubTitle": "決着のとき",
+    "Order": 7,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "30102_001",
+    "RewardPackageMasterId": 2
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 200408,
+    "ChapterMasterId": 200008,
+    "Title": "4話",
+    "SubTitle": "守りたいもの",
+    "Order": 8,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "m10010",
+    "RewardPackageMasterId": 2
+  },
+  {
+    "type": "EpisodeMaster",
     "Id": 200501,
     "ChapterMasterId": 200009,
     "Title": "1話",
@@ -4061,8 +4117,64 @@
   },
   {
     "type": "EpisodeMaster",
+    "Id": 201201,
+    "ChapterMasterId": 200024,
+    "Title": "1話",
+    "SubTitle": "またさらわれて",
+    "Order": 1,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "50012_005",
+    "RewardPackageMasterId": 2
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 201202,
+    "ChapterMasterId": 200024,
+    "Title": "2話",
+    "SubTitle": "欲望渦巻く違法カジノへ",
+    "Order": 2,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "10400",
+    "RewardPackageMasterId": 2
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 201203,
+    "ChapterMasterId": 200024,
+    "Title": "3話",
+    "SubTitle": "アザレア",
+    "Order": 3,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "60080_001",
+    "RewardPackageMasterId": 2
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 201204,
+    "ChapterMasterId": 200024,
+    "Title": "4話",
+    "SubTitle": "ダークドラッグ再び",
+    "Order": 4,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "60100_001",
+    "RewardPackageMasterId": 2
+  },
+  {
+    "type": "EpisodeMaster",
     "Id": 300101,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "メイズ探索",
     "SubTitle": "深淵への潜航",
     "Order": 1,
@@ -4076,7 +4188,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 300201,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "バトルシミュレート",
     "SubTitle": "バトルシミュレート",
     "Order": 1,
@@ -4090,7 +4202,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 300301,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "戦術演習",
     "SubTitle": "合同演習",
     "Order": 1,
@@ -4104,7 +4216,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 300401,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "サークル対抗戦",
     "SubTitle": "サークル対抗戦開催",
     "Order": 1,
@@ -4118,7 +4230,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 300501,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "？？？",
     "SubTitle": "緊急招集",
     "Order": 1,
@@ -4132,7 +4244,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 300601,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "公式MG競技",
     "SubTitle": "公式MG競技",
     "Order": 1,
@@ -4146,7 +4258,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 300701,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "カムバック",
     "SubTitle": "おかえりなさい",
     "Order": 1,
@@ -4160,7 +4272,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 300801,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "メイズ未開拓エリア",
     "SubTitle": "未開拓エリア",
     "Order": 1,
@@ -4174,7 +4286,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 300901,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "P-1グランプリ",
     "SubTitle": "P-1グランプリ",
     "Order": 1,
@@ -4188,7 +4300,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400001,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "桃園める[ドジで純粋な未来のエース]",
     "SubTitle": "めるの手料理",
     "Order": 1,
@@ -4202,7 +4314,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400002,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "桃園める[シリウスシュガーのエース]",
     "SubTitle": "ふたりきりの勉強会",
     "Order": 2,
@@ -4216,7 +4328,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400003,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "鳴滝七彩[器用貧乏なお嬢様リーダー]",
     "SubTitle": "七彩の頼み事",
     "Order": 3,
@@ -4230,7 +4342,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400004,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "鳴滝七彩[オールラウンダーな統率者]",
     "SubTitle": "まだ知らない世界",
     "Order": 4,
@@ -4244,7 +4356,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400005,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "月ヶ瀬ちゆる[紙一重なメイズオタク]",
     "SubTitle": "いつものあたし",
     "Order": 5,
@@ -4258,7 +4370,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400006,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "月ヶ瀬ちゆる[博識なメイズの探究者]",
     "SubTitle": "変わらない君で",
     "Order": 6,
@@ -4272,7 +4384,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400007,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "朽葉ラミ[お金大好きな生意気娘]",
     "SubTitle": "愚痴と仲間",
     "Order": 7,
@@ -4286,7 +4398,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400008,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "朽葉ラミ[負けず嫌いな不屈少女]",
     "SubTitle": "金儲けと罰",
     "Order": 8,
@@ -4300,7 +4412,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400009,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "一条白奈[ミステリアスガール]",
     "SubTitle": "普通の子みたいに",
     "Order": 9,
@@ -4314,7 +4426,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400010,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "一条白奈[純白のラッキーガール]",
     "SubTitle": "知って欲しい、わたし",
     "Order": 10,
@@ -4328,7 +4440,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400011,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "生駒葵[厳格な規律の守護者]",
     "SubTitle": "厳しさと優しさ",
     "Order": 11,
@@ -4342,7 +4454,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400012,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "波瀬うるう[臆病なほめられたがり少女]",
     "SubTitle": "褒められたい系女子",
     "Order": 12,
@@ -4356,7 +4468,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400013,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "姫川泉花[自称腹黒の深謀策士]",
     "SubTitle": "感謝は計画的に",
     "Order": 13,
@@ -4370,7 +4482,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400014,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "綺羅クララ[正々堂々なミス・ツンデレ]",
     "SubTitle": "見せたい最高の私",
     "Order": 14,
@@ -4384,7 +4496,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400015,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "夕凪舞亜[温厚篤実な面倒くさがり]",
     "SubTitle": "私なりのデートを",
     "Order": 15,
@@ -4398,7 +4510,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400016,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ユリア・バーンズ[享楽のワイルドカード]",
     "SubTitle": "デンジャラスな君の気持ち",
     "Order": 16,
@@ -4412,7 +4524,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400017,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "劉翠蘭[混沌の立役者]",
     "SubTitle": "カオスメイデンの支柱",
     "Order": 17,
@@ -4426,7 +4538,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400018,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "紫雲沙耶[渇望秘めし淑女]",
     "SubTitle": "向き合う私の本性",
     "Order": 18,
@@ -4440,7 +4552,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400019,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "フィー・ドレーゼ[空っぽのアクター]",
     "SubTitle": "感情はどこにある？",
     "Order": 19,
@@ -4454,7 +4566,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400020,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "アニス・ベネット[愛を求めるトラブルメーカー]",
     "SubTitle": "困らせたがりにはお灸を",
     "Order": 20,
@@ -4468,7 +4580,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400021,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "榊野ヒイロ[緋色の一匹狼]",
     "SubTitle": "限界を超えて",
     "Order": 21,
@@ -4482,7 +4594,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400022,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "フルート・メルヴィル[ギャルインフルエンサー]",
     "SubTitle": "Ｆｌ∞ｔｙの『ぽよ』",
     "Order": 22,
@@ -4496,7 +4608,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400023,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "エヴィ・レーナルト[省エネ主義の天才ハッカー]",
     "SubTitle": "省エネコスパ主義",
     "Order": 23,
@@ -4510,7 +4622,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400024,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "シエナ・クラーク[舞台を降りた元歌姫]",
     "SubTitle": "本当にやりたいこと",
     "Order": 24,
@@ -4524,7 +4636,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400025,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "レイラ・ジェンキンス[戦うアントレプレナー]",
     "SubTitle": "知りたいキミの秘密",
     "Order": 25,
@@ -4538,7 +4650,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400026,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ロージー・ヒューズ[空想造形アーティスト]",
     "SubTitle": "空想造形師ロージー",
     "Order": 26,
@@ -4552,7 +4664,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400027,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ドロテア・カークランド[ノーブル・グレイス]",
     "SubTitle": "ノブレス・オブリージュ",
     "Order": 27,
@@ -4566,7 +4678,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400028,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ミリアム・ヘイワード[腕白メイド娘]",
     "SubTitle": "メイドステップアップ！",
     "Order": 28,
@@ -4580,7 +4692,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400029,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ハリエット・ミルズ[毒舌メイド娘]",
     "SubTitle": "悪人とハリエット",
     "Order": 29,
@@ -4594,7 +4706,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400030,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ケイト・フルニエ[臆病メイド娘]",
     "SubTitle": "自信に満ちたわたしに",
     "Order": 30,
@@ -4608,7 +4720,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400031,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ジュリー・ステイシー[爆走お転婆少女]",
     "SubTitle": "リーダーとしてやれること！",
     "Order": 31,
@@ -4622,7 +4734,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400032,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "黒森ラウラ[プレ・クラス－Ａのお姉さん]",
     "SubTitle": "お姉さんとして",
     "Order": 32,
@@ -4636,7 +4748,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400033,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "樋向心香[ストイックな努力家]",
     "SubTitle": "まだ、やれる",
     "Order": 33,
@@ -4650,7 +4762,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400034,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ノエル・アルエ[制御不能の破壊者]",
     "SubTitle": "知られたくない私の秘密",
     "Order": 34,
@@ -4664,7 +4776,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400035,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "リュシー・ムーアクロフト[忠義の狂犬メイド]",
     "SubTitle": "あるべきメイドの姿",
     "Order": 35,
@@ -4678,7 +4790,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400036,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "リリー・ラヴォア[正義のヒーロー]",
     "SubTitle": "ヒーローに必要なもの！",
     "Order": 36,
@@ -4692,7 +4804,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400037,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "姜小花[風紀委員会の策謀家]",
     "SubTitle": "あるべき自分、ありたい自分",
     "Order": 37,
@@ -4706,7 +4818,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400038,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ノエル・アルエ[体育祭の暴れん坊]",
     "SubTitle": "みんなの為なら",
     "Order": 38,
@@ -4720,7 +4832,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400039,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "樋向心香[体育祭のサポート役]",
     "SubTitle": "今の自分",
     "Order": 39,
@@ -4734,7 +4846,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400040,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "フルート・メルヴィル[#激カワ吸血鬼配信者♪]",
     "SubTitle": "『ぽよ』満載♥吸血鬼ギャル",
     "Order": 40,
@@ -4748,7 +4860,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400041,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "エヴィ・レーナルト[キョンシーハッカー]",
     "SubTitle": "キョンシー少女は動かない",
     "Order": 41,
@@ -4762,7 +4874,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400042,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "鑑純夏[唯一無二の幼なじみ]",
     "SubTitle": "ふたりの日記",
     "Order": 42,
@@ -4776,7 +4888,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400043,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "御剣冥夜[天命を受けし剣術乙女]",
     "SubTitle": "共に探す思い出",
     "Order": 43,
@@ -4790,7 +4902,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400044,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "珠瀬壬姫[稀代の狙撃手]",
     "SubTitle": "一緒にできること",
     "Order": 44,
@@ -4804,7 +4916,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400045,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "レイヴェル・ブライトリーフ[気高きランウェイモデル]",
     "SubTitle": "レイヴェルの臨時マネージャー",
     "Order": 45,
@@ -4818,7 +4930,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400046,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ルナ・メロウ[博識なハングリーガール]",
     "SubTitle": "ふたりのダイエット大作戦！",
     "Order": 46,
@@ -4832,7 +4944,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400047,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "フィー・ドレーゼ[自己に揺れる白湯気]",
     "SubTitle": "特別な感情",
     "Order": 47,
@@ -4846,7 +4958,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400048,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ユリア・バーンズ[はだけるわんぱく浴衣]",
     "SubTitle": "まだ枕投げしてない！",
     "Order": 48,
@@ -4860,7 +4972,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400049,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "姫川泉花[クリスマスコーデの参謀]",
     "SubTitle": "雪灯りの夜を分け合って",
     "Order": 49,
@@ -4874,7 +4986,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400050,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "綺羅クララ[聖夜のサンタシンガー]",
     "SubTitle": "揺れる灯火のように",
     "Order": 50,
@@ -4888,7 +5000,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400051,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "リディア・エルドリッジ[純真無垢なるジーニアス]",
     "SubTitle": "『こい』",
     "Order": 51,
@@ -4902,7 +5014,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400052,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "朽葉ラミ[大吉ハッピーニューイヤー]",
     "SubTitle": "ラミ弟妹の学園訪問",
     "Order": 52,
@@ -4916,7 +5028,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400053,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "月ヶ瀬ちゆる[新春のメイズ研究者]",
     "SubTitle": "お正月っぽいこと→餅パしよう♪",
     "Order": 53,
@@ -4930,7 +5042,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400054,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ジュリー・ステイシー[雪山もこもこ少女]",
     "SubTitle": "雪山で大満喫！",
     "Order": 53,
@@ -4944,7 +5056,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400055,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "黒森ラウラ[みんなを見守る山ガール]",
     "SubTitle": "熱と湿度と介抱と",
     "Order": 54,
@@ -4958,7 +5070,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400056,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ドロテア・カークランド[新たなる時代の導き手]",
     "SubTitle": "束の間の息抜き",
     "Order": 55,
@@ -4972,7 +5084,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400057,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "リュシー・ムーアクロフト[連れ添い歩む傍らの友]",
     "SubTitle": "リュシーの着地",
     "Order": 56,
@@ -4986,7 +5098,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400058,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "榊千鶴[ドメスティックなリーダー]",
     "SubTitle": "追憶のストライド",
     "Order": 57,
@@ -5000,7 +5112,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400059,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "鎧衣美琴[ナチュラルボーンサバイバー]",
     "SubTitle": "コンティニューは二人で",
     "Order": 57,
@@ -5014,7 +5126,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400060,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "彩峰慧[無邪気なジャックナイフ]",
     "SubTitle": "焼きそばパン狂想曲",
     "Order": 58,
@@ -5028,7 +5140,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400061,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "桃園める[蒼き穹舞うフラットスピン]",
     "SubTitle": "ふたりの共同作業",
     "Order": 59,
@@ -5042,7 +5154,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400062,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "一条白奈[期待応える輝きの穹]",
     "SubTitle": "もう大丈夫",
     "Order": 60,
@@ -5056,7 +5168,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400063,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "コトハ[世界への反逆者]",
     "SubTitle": "不器用な優しさ",
     "Order": 61,
@@ -5070,7 +5182,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400064,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "シエナ・クラーク[旋律を紡ぐ静謐のディーヴァ]",
     "SubTitle": "初めてのワガママを",
     "Order": 61,
@@ -5084,7 +5196,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400065,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "リリー・ラヴォア[想い響かせるヒーローシンガー]",
     "SubTitle": "挑戦のハードル",
     "Order": 61,
@@ -5098,7 +5210,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400066,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "カリナ・ジェンティーレ[ダウナーギャルな副委員長]",
     "SubTitle": "副委員長の、ホントの姿？",
     "Order": 62,
@@ -5112,7 +5224,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 400067,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "大賀真桜[ポンコツいいんちょ]",
     "SubTitle": "忘れていたキッカケの言葉",
     "Order": 63,
@@ -5125,8 +5237,22 @@
   },
   {
     "type": "EpisodeMaster",
+    "Id": 400068,
+    "ChapterMasterId": null,
+    "Title": "劉翠蘭[恥じらうカジノラビット]",
+    "SubTitle": "想いを賭けて",
+    "Order": 64,
+    "CharacterMasterId": 111302,
+    "AffectionLevel": 10,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": 10056
+  },
+  {
+    "type": "EpisodeMaster",
     "Id": 500003,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "どこか欠けた星たちと",
     "SubTitle": "集合写真の思い出",
     "Order": 1,
@@ -5140,7 +5266,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500004,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "新たなる光と忍び寄る闇",
     "SubTitle": "猛特訓を止めるには？",
     "Order": 2,
@@ -5154,7 +5280,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500005,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "LET'S GO FOR IT!!",
     "SubTitle": "プレ・クラス－Ａの絆",
     "Order": 3,
@@ -5168,7 +5294,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500006,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "LET'S GO FOR IT!!",
     "SubTitle": "ハードな準備運動……？",
     "Order": 4,
@@ -5182,7 +5308,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500007,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "Halloween Carnival",
     "SubTitle": "勘違いの行方",
     "Order": 5,
@@ -5196,7 +5322,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500008,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "Halloween Carnival",
     "SubTitle": "お忍びシスターの冒険",
     "Order": 6,
@@ -5210,7 +5336,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500009,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "STRANGERS I",
     "SubTitle": "二人でお料理女子トーク",
     "Order": 7,
@@ -5224,7 +5350,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500010,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "STRANGERS I",
     "SubTitle": "気になる装備",
     "Order": 7,
@@ -5238,7 +5364,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500011,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ブランディング・オーバードライブ",
     "SubTitle": "おたすけさんぽ",
     "Order": 8,
@@ -5252,7 +5378,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500012,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ブランディング・オーバードライブ",
     "SubTitle": "エッ〇な罰ゲームやってみた",
     "Order": 9,
@@ -5266,7 +5392,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500013,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "アマツ混沌温泉物語",
     "SubTitle": "翠蘭はユリアの……",
     "Order": 10,
@@ -5280,7 +5406,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500014,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "アマツ混沌温泉物語",
     "SubTitle": "駆け落ちフルスロットル！",
     "Order": 11,
@@ -5294,7 +5420,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500015,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "Show in the Snow",
     "SubTitle": "年の瀬に想う",
     "Order": 12,
@@ -5308,7 +5434,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500016,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "Show in the Snow",
     "SubTitle": "臆病トナカイの聖夜",
     "Order": 13,
@@ -5322,7 +5448,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500017,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "混沌のパラディグマ",
     "SubTitle": "混沌へと至る過去",
     "Order": 14,
@@ -5336,7 +5462,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500018,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "初夢に昇るソレイユ",
     "SubTitle": "知らない君の景色を巡って",
     "Order": 15,
@@ -5350,7 +5476,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500019,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "初夢に昇るソレイユ",
     "SubTitle": "桃園家のお正月",
     "Order": 16,
@@ -5364,7 +5490,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500020,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ホワイトアウト・エスケープ",
     "SubTitle": "雪山のもうひとつの噂",
     "Order": 17,
@@ -5378,7 +5504,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500021,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "ホワイトアウト・エスケープ",
     "SubTitle": "密着！？　テントの中の珍騒動",
     "Order": 18,
@@ -5392,7 +5518,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500022,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "月下に咲くは白百合の旗",
     "SubTitle": "努力の証明",
     "Order": 19,
@@ -5406,7 +5532,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500023,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "月下に咲くは白百合の旗",
     "SubTitle": "メイド３人のおもてなし？",
     "Order": 20,
@@ -5420,7 +5546,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500024,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "STRANGERS Ⅱ",
     "SubTitle": "記憶に引っかかるもの",
     "Order": 21,
@@ -5434,7 +5560,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500025,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "STRANGERS Ⅱ",
     "SubTitle": "腐れ縁で犬猿の仲？",
     "Order": 22,
@@ -5448,7 +5574,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500026,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "刻まれしアナムネーシス",
     "SubTitle": "ポンコツいいんちょ",
     "Order": 23,
@@ -5462,7 +5588,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500027,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "刻まれしアナムネーシス",
     "SubTitle": "不満と不安",
     "Order": 24,
@@ -5476,7 +5602,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500028,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "Daybreak Frontier",
     "SubTitle": "ライブモード",
     "Order": 25,
@@ -5490,7 +5616,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500029,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "Daybreak Frontier",
     "SubTitle": "忙しい時のまどろみ",
     "Order": 26,
@@ -5504,7 +5630,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500030,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "巡回日和",
     "SubTitle": "メイド探偵団、学園の謎を追う",
     "Order": 27,
@@ -5518,7 +5644,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 500031,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "巡回日和",
     "SubTitle": "1日ユーロ・タワー体験",
     "Order": 28,
@@ -5531,8 +5657,36 @@
   },
   {
     "type": "EpisodeMaster",
+    "Id": 500032,
+    "ChapterMasterId": null,
+    "Title": "Chaos in Casino",
+    "SubTitle": "寂しさに嘘を重ねても",
+    "Order": 29,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": 10020,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 500033,
+    "ChapterMasterId": null,
+    "Title": "Chaos in Casino",
+    "SubTitle": "絶対命令行使権！",
+    "Order": 29,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": 30025,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
     "Id": 610000,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "ふたりの帰り道",
     "Order": 1,
@@ -5546,7 +5700,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610001,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "お気に入り",
     "Order": 2,
@@ -5560,7 +5714,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610002,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "空を眺めて",
     "Order": 3,
@@ -5574,7 +5728,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610003,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "桃色ヘアーのトレーニング",
     "Order": 4,
@@ -5588,7 +5742,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610004,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鳴滝七彩」",
     "SubTitle": "ちょっとした油断",
     "Order": 5,
@@ -5602,7 +5756,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610005,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鳴滝七彩」",
     "SubTitle": "身体にいいもの、悪いもの",
     "Order": 6,
@@ -5616,7 +5770,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610006,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鳴滝七彩」",
     "SubTitle": "風に乗って",
     "Order": 7,
@@ -5630,7 +5784,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610007,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鳴滝七彩」",
     "SubTitle": "努力を重ねて",
     "Order": 8,
@@ -5644,7 +5798,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610008,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "実験はいかが？",
     "Order": 9,
@@ -5658,7 +5812,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610009,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "料理への興味",
     "Order": 10,
@@ -5672,7 +5826,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610010,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "自然との戦い",
     "Order": 11,
@@ -5686,7 +5840,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610011,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "インドア派？",
     "Order": 12,
@@ -5700,7 +5854,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610012,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "がんばったご褒美",
     "Order": 13,
@@ -5714,7 +5868,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610013,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "節約中",
     "Order": 14,
@@ -5728,7 +5882,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610014,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "お昼寝",
     "Order": 15,
@@ -5742,7 +5896,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610015,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "舐められるのは嫌い！",
     "Order": 16,
@@ -5756,7 +5910,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610016,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "放課後の待ち合わせ",
     "Order": 17,
@@ -5770,7 +5924,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610017,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "結果オーライ",
     "Order": 18,
@@ -5784,7 +5938,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610018,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "ひとりになりたい",
     "Order": 19,
@@ -5798,7 +5952,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610019,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "適切な距離",
     "Order": 20,
@@ -5812,7 +5966,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610020,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「生駒葵」",
     "SubTitle": "まだ使える？",
     "Order": 21,
@@ -5826,7 +5980,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610021,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「生駒葵」",
     "SubTitle": "恵みへの感謝",
     "Order": 22,
@@ -5840,7 +5994,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610022,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「生駒葵」",
     "SubTitle": "広がる輪",
     "Order": 23,
@@ -5854,7 +6008,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610023,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「生駒葵」",
     "SubTitle": "不調の原因は？",
     "Order": 24,
@@ -5868,7 +6022,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610024,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「波瀬うるう」",
     "SubTitle": "メガネの在処",
     "Order": 25,
@@ -5882,7 +6036,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610025,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「波瀬うるう」",
     "SubTitle": "うるうの食事事情",
     "Order": 26,
@@ -5896,7 +6050,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610026,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「波瀬うるう」",
     "SubTitle": "屋上っていいですよね",
     "Order": 27,
@@ -5910,7 +6064,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610027,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「波瀬うるう」",
     "SubTitle": "ダメダメ少女",
     "Order": 28,
@@ -5924,7 +6078,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610028,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姫川泉花」",
     "SubTitle": "成績優秀",
     "Order": 29,
@@ -5938,7 +6092,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610029,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姫川泉花」",
     "SubTitle": "糖分は脳を活性化させる",
     "Order": 30,
@@ -5952,7 +6106,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610030,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姫川泉花」",
     "SubTitle": "優等生",
     "Order": 31,
@@ -5966,7 +6120,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610031,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姫川泉花」",
     "SubTitle": "トレーニングの参考",
     "Order": 32,
@@ -5980,7 +6134,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610032,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「綺羅クララ」",
     "SubTitle": "どうしてもというのなら",
     "Order": 33,
@@ -5994,7 +6148,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610033,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「綺羅クララ」",
     "SubTitle": "食事をするなら",
     "Order": 34,
@@ -6008,7 +6162,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610034,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「綺羅クララ」",
     "SubTitle": "屋上に呼び出して",
     "Order": 35,
@@ -6022,7 +6176,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610035,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「綺羅クララ」",
     "SubTitle": "ひとりで体力トレーニング",
     "Order": 36,
@@ -6036,7 +6190,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610036,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「夕凪舞亜」",
     "SubTitle": "サボり魔",
     "Order": 37,
@@ -6050,7 +6204,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610037,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「夕凪舞亜」",
     "SubTitle": "悩める今日のメニュー",
     "Order": 38,
@@ -6064,7 +6218,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610038,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「夕凪舞亜」",
     "SubTitle": "屋上で一息",
     "Order": 39,
@@ -6078,7 +6232,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610039,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「夕凪舞亜」",
     "SubTitle": "木陰にて",
     "Order": 40,
@@ -6092,7 +6246,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610040,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ユリア・バーンズ」",
     "SubTitle": "勉強ぎらい",
     "Order": 41,
@@ -6106,7 +6260,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610041,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ユリア・バーンズ」",
     "SubTitle": "どっちを食べたい？",
     "Order": 42,
@@ -6120,7 +6274,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610042,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ユリア・バーンズ」",
     "SubTitle": "結構なお点前？",
     "Order": 43,
@@ -6134,7 +6288,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610043,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ユリア・バーンズ」",
     "SubTitle": "ユリアの新技",
     "Order": 44,
@@ -6148,7 +6302,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610044,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「劉翠蘭」",
     "SubTitle": "プレゼン練習",
     "Order": 45,
@@ -6162,7 +6316,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610045,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「劉翠蘭」",
     "SubTitle": "好き嫌い",
     "Order": 46,
@@ -6176,7 +6330,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610046,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「劉翠蘭」",
     "SubTitle": "茶器集めが趣味",
     "Order": 47,
@@ -6190,7 +6344,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610047,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「劉翠蘭」",
     "SubTitle": "居残りトレーニング",
     "Order": 48,
@@ -6204,7 +6358,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610048,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「紫雲沙耶」",
     "SubTitle": "募金活動への協力",
     "Order": 49,
@@ -6218,7 +6372,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610049,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「紫雲沙耶」",
     "SubTitle": "誘惑を前に",
     "Order": 50,
@@ -6232,7 +6386,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610050,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「紫雲沙耶」",
     "SubTitle": "なんでもない時間",
     "Order": 51,
@@ -6246,7 +6400,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610051,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「紫雲沙耶」",
     "SubTitle": "ふたりきりのトレーニング",
     "Order": 52,
@@ -6260,7 +6414,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610052,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フィー・ドレーゼ」",
     "SubTitle": "苦手なもの",
     "Order": 53,
@@ -6274,7 +6428,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610053,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フィー・ドレーゼ」",
     "SubTitle": "オススメの食べもの",
     "Order": 54,
@@ -6288,7 +6442,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610054,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フィー・ドレーゼ」",
     "SubTitle": "道案内",
     "Order": 55,
@@ -6302,7 +6456,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610055,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フィー・ドレーゼ」",
     "SubTitle": "特訓指示",
     "Order": 56,
@@ -6316,7 +6470,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610056,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「アニス・ベネット」",
     "SubTitle": "どんなことでも気づいてほしい",
     "Order": 57,
@@ -6330,7 +6484,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610057,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「アニス・ベネット」",
     "SubTitle": "放課後ショッピング",
     "Order": 58,
@@ -6344,7 +6498,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610058,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「アニス・ベネット」",
     "SubTitle": "手相を見てあげる",
     "Order": 59,
@@ -6358,7 +6512,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610059,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「アニス・ベネット」",
     "SubTitle": "お試しアニス",
     "Order": 60,
@@ -6372,7 +6526,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610060,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「榊野 ヒイロ」",
     "SubTitle": "時間があるなら",
     "Order": 61,
@@ -6386,7 +6540,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610061,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「榊野 ヒイロ」",
     "SubTitle": "お目当ての物は？",
     "Order": 62,
@@ -6400,7 +6554,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610062,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「榊野 ヒイロ」",
     "SubTitle": "自由な狼",
     "Order": 63,
@@ -6414,7 +6568,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610063,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「榊野 ヒイロ」",
     "SubTitle": "ネイルガン",
     "Order": 64,
@@ -6428,7 +6582,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610064,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フルート・メルヴィル」",
     "SubTitle": "校舎案内",
     "Order": 65,
@@ -6442,7 +6596,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610065,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フルート・メルヴィル」",
     "SubTitle": "バエバエな撮影",
     "Order": 66,
@@ -6456,7 +6610,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610066,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フルート・メルヴィル」",
     "SubTitle": "リーダーの資質",
     "Order": 67,
@@ -6470,7 +6624,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610067,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フルート・メルヴィル」",
     "SubTitle": "フルートの苦手",
     "Order": 68,
@@ -6484,7 +6638,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610068,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「エヴィ・レーナルト」",
     "SubTitle": "時間の価値",
     "Order": 69,
@@ -6498,7 +6652,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610069,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「エヴィ・レーナルト」",
     "SubTitle": "お買い物のコスト計算",
     "Order": 70,
@@ -6512,7 +6666,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610070,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「エヴィ・レーナルト」",
     "SubTitle": "負けず嫌い",
     "Order": 71,
@@ -6526,7 +6680,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610071,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「エヴィ・レーナルト」",
     "SubTitle": "効率的なトレーニング",
     "Order": 72,
@@ -6540,7 +6694,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610072,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「シエナ・クラーク」",
     "SubTitle": "頑張るシエナ",
     "Order": 73,
@@ -6554,7 +6708,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610073,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「シエナ・クラーク」",
     "SubTitle": "ごまかす時",
     "Order": 74,
@@ -6568,7 +6722,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610074,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「シエナ・クラーク」",
     "SubTitle": "シエナの特技",
     "Order": 75,
@@ -6582,7 +6736,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610075,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「シエナ・クラーク」",
     "SubTitle": "パイロットの資質",
     "Order": 76,
@@ -6596,7 +6750,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610076,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「レイラ・ジェンキンス」",
     "SubTitle": "新しいビジネスは……",
     "Order": 77,
@@ -6610,7 +6764,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610077,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「レイラ・ジェンキンス」",
     "SubTitle": "もしもの話",
     "Order": 78,
@@ -6624,7 +6778,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610078,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「レイラ・ジェンキンス」",
     "SubTitle": "ハイスコア更新",
     "Order": 79,
@@ -6638,7 +6792,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610079,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「レイラ・ジェンキンス」",
     "SubTitle": "一緒にどう？",
     "Order": 80,
@@ -6652,7 +6806,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610080,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ロージー・ヒューズ」",
     "SubTitle": "子ども扱い",
     "Order": 81,
@@ -6666,7 +6820,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610081,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ロージー・ヒューズ」",
     "SubTitle": "インスピレーション",
     "Order": 82,
@@ -6680,7 +6834,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610082,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ロージー・ヒューズ」",
     "SubTitle": "偏食家のアーティスト",
     "Order": 83,
@@ -6694,7 +6848,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610083,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ロージー・ヒューズ」",
     "SubTitle": "ロージーの世界",
     "Order": 84,
@@ -6708,7 +6862,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610084,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ドロテア・カークランド」",
     "SubTitle": "お迎えに",
     "Order": 85,
@@ -6722,7 +6876,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610085,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ドロテア・カークランド」",
     "SubTitle": "落とし物を探して",
     "Order": 86,
@@ -6736,7 +6890,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610086,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ドロテア・カークランド」",
     "SubTitle": "ドロテアとふたりになって",
     "Order": 87,
@@ -6750,7 +6904,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610087,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ドロテア・カークランド」",
     "SubTitle": "努力のあと",
     "Order": 88,
@@ -6764,7 +6918,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610088,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ミリアム・ヘイワード」",
     "SubTitle": "読むべきはどっち？",
     "Order": 89,
@@ -6778,7 +6932,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610089,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ミリアム・ヘイワード」",
     "SubTitle": "間食はNG？",
     "Order": 90,
@@ -6792,7 +6946,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610090,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ミリアム・ヘイワード」",
     "SubTitle": "取れそうで取れない",
     "Order": 91,
@@ -6806,7 +6960,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610091,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ミリアム・ヘイワード」",
     "SubTitle": "必殺技に必要なのは？",
     "Order": 92,
@@ -6820,7 +6974,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610092,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ハリエット・ミルズ」",
     "SubTitle": "好かれる要素",
     "Order": 93,
@@ -6834,7 +6988,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610093,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ハリエット・ミルズ」",
     "SubTitle": "お買い物中",
     "Order": 94,
@@ -6848,7 +7002,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610094,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ハリエット・ミルズ」",
     "SubTitle": "一緒にゲーム",
     "Order": 95,
@@ -6862,7 +7016,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610095,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ハリエット・ミルズ」",
     "SubTitle": "ハリエットの画力",
     "Order": 96,
@@ -6876,7 +7030,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610096,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ケイト・フルニエ」",
     "SubTitle": "お掃除メイド",
     "Order": 97,
@@ -6890,7 +7044,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610097,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ケイト・フルニエ」",
     "SubTitle": "変な人に絡まれて",
     "Order": 98,
@@ -6904,7 +7058,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610098,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ケイト・フルニエ」",
     "SubTitle": "ゲーセンの隅っ娘",
     "Order": 99,
@@ -6918,7 +7072,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610099,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ケイト・フルニエ」",
     "SubTitle": "ケイトの訓練風景",
     "Order": 100,
@@ -6932,7 +7086,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610100,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ジュリー・ステイシー」",
     "SubTitle": "誰かに頼るのが正解！",
     "Order": 101,
@@ -6946,7 +7100,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610101,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ジュリー・ステイシー」",
     "SubTitle": "ラッキーアイテム",
     "Order": 102,
@@ -6960,7 +7114,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610102,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ジュリー・ステイシー」",
     "SubTitle": "操縦技術",
     "Order": 103,
@@ -6974,7 +7128,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610103,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ジュリー・ステイシー」",
     "SubTitle": "リーダーの基本",
     "Order": 104,
@@ -6988,7 +7142,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610104,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「黒森ラウラ」",
     "SubTitle": "一寸の虫にも",
     "Order": 105,
@@ -7002,7 +7156,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610105,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「黒森ラウラ」",
     "SubTitle": "ラウラのごちそう",
     "Order": 106,
@@ -7016,7 +7170,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610106,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「黒森ラウラ」",
     "SubTitle": "おばけに足はあるのか",
     "Order": 107,
@@ -7030,7 +7184,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610107,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「黒森ラウラ」",
     "SubTitle": "見守ってるよ",
     "Order": 108,
@@ -7044,7 +7198,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610108,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「樋向心香」",
     "SubTitle": "教え方",
     "Order": 109,
@@ -7058,7 +7212,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610109,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「樋向心香」",
     "SubTitle": "お店のチョイス",
     "Order": 110,
@@ -7072,7 +7226,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610110,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「樋向心香」",
     "SubTitle": "心香へのアドバイス",
     "Order": 111,
@@ -7086,7 +7240,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610111,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「樋向心香」",
     "SubTitle": "つまらない女",
     "Order": 112,
@@ -7100,7 +7254,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610112,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ノエル・アルエ」",
     "SubTitle": "ノエルはテスト大っ嫌い！",
     "Order": 113,
@@ -7114,7 +7268,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610113,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ノエル・アルエ」",
     "SubTitle": "ノエルはプレゼントしたい",
     "Order": 114,
@@ -7128,7 +7282,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610114,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ノエル・アルエ」",
     "SubTitle": "ノエルは戦いたい",
     "Order": 115,
@@ -7142,7 +7296,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610115,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ノエル・アルエ」",
     "SubTitle": "ノエルは体を動かしたい",
     "Order": 116,
@@ -7156,7 +7310,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610116,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リュシー・ムーアクロフト」",
     "SubTitle": "ターニングポイント",
     "Order": 117,
@@ -7170,7 +7324,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610117,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リュシー・ムーアクロフト」",
     "SubTitle": "一緒にお出かけ",
     "Order": 118,
@@ -7184,7 +7338,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610118,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リュシー・ムーアクロフト」",
     "SubTitle": "息抜きの時間に",
     "Order": 119,
@@ -7198,7 +7352,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610119,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リュシー・ムーアクロフト」",
     "SubTitle": "実力の秘密は？",
     "Order": 120,
@@ -7212,7 +7366,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610120,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "成長のために",
     "Order": 121,
@@ -7226,7 +7380,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610121,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "味の研究",
     "Order": 122,
@@ -7240,7 +7394,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610122,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "あんなふうになれたら",
     "Order": 123,
@@ -7254,7 +7408,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610123,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "久々のバドミントン",
     "Order": 124,
@@ -7268,7 +7422,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610124,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鳴滝七彩」",
     "SubTitle": "優秀な先生",
     "Order": 125,
@@ -7282,7 +7436,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610125,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鳴滝七彩」",
     "SubTitle": "食事のお作法",
     "Order": 126,
@@ -7296,7 +7450,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610126,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鳴滝七彩」",
     "SubTitle": "小さな花壇",
     "Order": 127,
@@ -7310,7 +7464,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610127,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鳴滝七彩」",
     "SubTitle": "怪我には注意を",
     "Order": 128,
@@ -7324,7 +7478,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610128,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "興味が持てなくて",
     "Order": 129,
@@ -7338,7 +7492,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610129,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "派手な食べ物好き",
     "Order": 130,
@@ -7352,7 +7506,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610130,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "読んでいるものは？",
     "Order": 131,
@@ -7366,7 +7520,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610131,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "指揮官の能力は",
     "Order": 132,
@@ -7380,7 +7534,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610132,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "ラミの趣味",
     "Order": 133,
@@ -7394,7 +7548,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610133,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "ラミのバイト先",
     "Order": 134,
@@ -7408,7 +7562,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610134,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "イタズラな風",
     "Order": 135,
@@ -7422,7 +7576,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610135,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "トレーニングのサポート",
     "Order": 136,
@@ -7436,7 +7590,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610136,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "わたしの学びたい事",
     "Order": 137,
@@ -7450,7 +7604,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610137,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "食事の時間",
     "Order": 138,
@@ -7464,7 +7618,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610138,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "お礼をしたい",
     "Order": 139,
@@ -7478,7 +7632,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610139,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "ふたりだけの作戦",
     "Order": 140,
@@ -7492,7 +7646,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610140,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リリー・ラヴォア」",
     "SubTitle": "ヒーローアニメ鑑賞会",
     "Order": 141,
@@ -7506,7 +7660,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610141,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リリー・ラヴォア」",
     "SubTitle": "ヒーローエネルギー",
     "Order": 142,
@@ -7520,7 +7674,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610142,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リリー・ラヴォア」",
     "SubTitle": "ヒーローには合体ロボ",
     "Order": 143,
@@ -7534,7 +7688,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610143,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リリー・ラヴォア」",
     "SubTitle": "ヒーローのお仕事",
     "Order": 144,
@@ -7548,7 +7702,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610144,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姜小花」",
     "SubTitle": "授業の後は？",
     "Order": 145,
@@ -7562,7 +7716,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610145,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姜小花」",
     "SubTitle": "休みなきパトロール",
     "Order": 146,
@@ -7576,7 +7730,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610146,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姜小花」",
     "SubTitle": "読書家",
     "Order": 147,
@@ -7590,7 +7744,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610147,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姜小花」",
     "SubTitle": "健康体操を嗜んで",
     "Order": 148,
@@ -7604,7 +7758,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610148,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ノエル・アルエ」",
     "SubTitle": "頭も動かそう！",
     "Order": 149,
@@ -7618,7 +7772,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610149,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ノエル・アルエ」",
     "SubTitle": "喉が渇いたので",
     "Order": 150,
@@ -7632,7 +7786,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610150,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ノエル・アルエ」",
     "SubTitle": "ＭＧの訓練も忘れずに",
     "Order": 151,
@@ -7646,7 +7800,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610151,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ノエル・アルエ」",
     "SubTitle": "夕方のグラウンドにて",
     "Order": 152,
@@ -7660,7 +7814,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610152,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「樋向心香」",
     "SubTitle": "スポーツ理論",
     "Order": 153,
@@ -7674,7 +7828,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610153,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「樋向心香」",
     "SubTitle": "一緒に買い出しに",
     "Order": 154,
@@ -7688,7 +7842,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610154,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「樋向心香」",
     "SubTitle": "こっちの特訓も大事",
     "Order": 155,
@@ -7702,7 +7856,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610155,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「樋向心香」",
     "SubTitle": "居残り特訓",
     "Order": 156,
@@ -7716,7 +7870,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610156,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フルート・メルヴィル」",
     "SubTitle": "激カワな一枚は？",
     "Order": 157,
@@ -7730,7 +7884,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610157,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フルート・メルヴィル」",
     "SubTitle": "大好きなのは……",
     "Order": 158,
@@ -7744,7 +7898,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610158,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フルート・メルヴィル」",
     "SubTitle": "吸血鬼なら強いはず",
     "Order": 159,
@@ -7758,7 +7912,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610159,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フルート・メルヴィル」",
     "SubTitle": "吸血鬼の苦手な物？",
     "Order": 160,
@@ -7772,7 +7926,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610160,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「エヴィ・レーナルト」",
     "SubTitle": "もっと見てみたい？",
     "Order": 161,
@@ -7786,7 +7940,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610161,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「エヴィ・レーナルト」",
     "SubTitle": "ホラーの趣味は？",
     "Order": 162,
@@ -7800,7 +7954,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610162,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「エヴィ・レーナルト」",
     "SubTitle": "ひとりの時間？",
     "Order": 163,
@@ -7814,7 +7968,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610163,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「エヴィ・レーナルト」",
     "SubTitle": "キョンシーへの命令？",
     "Order": 164,
@@ -7828,7 +7982,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610164,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鑑純夏」",
     "SubTitle": "部屋のインテリア",
     "Order": 165,
@@ -7842,7 +7996,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610165,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鑑純夏」",
     "SubTitle": "緊張を解く方法？",
     "Order": 166,
@@ -7856,7 +8010,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610166,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鑑純夏」",
     "SubTitle": "追いつくためには",
     "Order": 167,
@@ -7870,7 +8024,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610167,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鑑純夏」",
     "SubTitle": "街は怖いところ",
     "Order": 168,
@@ -7884,7 +8038,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610168,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「御剣冥夜」",
     "SubTitle": "住めば都？",
     "Order": 169,
@@ -7898,7 +8052,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610169,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「御剣冥夜」",
     "SubTitle": "降って湧いた時間に",
     "Order": 170,
@@ -7912,7 +8066,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610170,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「御剣冥夜」",
     "SubTitle": "グラウンドで鍛錬を",
     "Order": 171,
@@ -7926,7 +8080,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610171,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「御剣冥夜」",
     "SubTitle": "どんなお店に入る？",
     "Order": 172,
@@ -7940,7 +8094,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610172,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「珠瀬壬姫」",
     "SubTitle": "うっかり間違い？",
     "Order": 173,
@@ -7954,7 +8108,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610173,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「珠瀬壬姫」",
     "SubTitle": "偉い人との挨拶",
     "Order": 174,
@@ -7968,7 +8122,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610174,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「珠瀬壬姫」",
     "SubTitle": "狙撃の訓練",
     "Order": 175,
@@ -7982,7 +8136,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610175,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「珠瀬壬姫」",
     "SubTitle": "猫さんはどこ？",
     "Order": 176,
@@ -7996,7 +8150,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610176,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「レイヴェル・ブライトリーフ」",
     "SubTitle": "何事も万全に",
     "Order": 177,
@@ -8010,7 +8164,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610177,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「レイヴェル・ブライトリーフ」",
     "SubTitle": "思い出の味",
     "Order": 178,
@@ -8024,7 +8178,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610178,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「レイヴェル・ブライトリーフ」",
     "SubTitle": "妥協しないガール",
     "Order": 179,
@@ -8038,7 +8192,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610179,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「レイヴェル・ブライトリーフ」",
     "SubTitle": "頼られたいレイヴェル",
     "Order": 180,
@@ -8052,7 +8206,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610180,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ルナ・メロウ」",
     "SubTitle": "人付き合いは苦手",
     "Order": 181,
@@ -8066,7 +8220,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610181,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ルナ・メロウ」",
     "SubTitle": "食べすぎ注意？",
     "Order": 182,
@@ -8080,7 +8234,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610182,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ルナ・メロウ」",
     "SubTitle": "研究熱心な彼女",
     "Order": 183,
@@ -8094,7 +8248,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610183,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ルナ・メロウ」",
     "SubTitle": "身の丈に合った運動を",
     "Order": 184,
@@ -8108,7 +8262,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610184,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フィー・ドレーゼ」",
     "SubTitle": "ユリアと待ち合わせ",
     "Order": 185,
@@ -8122,7 +8276,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610185,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フィー・ドレーゼ」",
     "SubTitle": "食べ歩き",
     "Order": 186,
@@ -8136,7 +8290,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610186,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フィー・ドレーゼ」",
     "SubTitle": "瞑想してた",
     "Order": 187,
@@ -8150,7 +8304,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610187,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「フィー・ドレーゼ」",
     "SubTitle": "みんなと",
     "Order": 188,
@@ -8164,7 +8318,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610188,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ユリア・バーンズ」",
     "SubTitle": "フィーと待ち合わせ",
     "Order": 189,
@@ -8178,7 +8332,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610189,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ユリア・バーンズ」",
     "SubTitle": "焼き鳥は塩派タレ派？",
     "Order": 190,
@@ -8192,7 +8346,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610190,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ユリア・バーンズ」",
     "SubTitle": "畳の上で大の字になって",
     "Order": 191,
@@ -8206,7 +8360,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610191,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ユリア・バーンズ」",
     "SubTitle": "一緒に汗流そっ♪",
     "Order": 192,
@@ -8220,7 +8374,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610192,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姫川泉花」",
     "SubTitle": "どこ見てるの？",
     "Order": 193,
@@ -8234,7 +8388,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610193,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姫川泉花」",
     "SubTitle": "何を食べる？",
     "Order": 194,
@@ -8248,7 +8402,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610194,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姫川泉花」",
     "SubTitle": "曲作り",
     "Order": 195,
@@ -8262,7 +8416,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610195,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「姫川泉花」",
     "SubTitle": "泉花の振り付け",
     "Order": 196,
@@ -8276,7 +8430,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610196,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「綺羅クララ」",
     "SubTitle": "気分転換に場所替え",
     "Order": 197,
@@ -8290,7 +8444,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610197,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「綺羅クララ」",
     "SubTitle": "食後のお飲み物は？",
     "Order": 198,
@@ -8304,7 +8458,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610198,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「綺羅クララ」",
     "SubTitle": "のどのケア",
     "Order": 199,
@@ -8318,7 +8472,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610199,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「綺羅クララ」",
     "SubTitle": "ダンスの感想",
     "Order": 200,
@@ -8332,7 +8486,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610200,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リディア・エルドリッジ」",
     "SubTitle": "リディアＳＯＳ",
     "Order": 201,
@@ -8346,7 +8500,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610201,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リディア・エルドリッジ」",
     "SubTitle": "あーん",
     "Order": 202,
@@ -8360,7 +8514,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610202,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リディア・エルドリッジ」",
     "SubTitle": "訓練メニューに挑戦！",
     "Order": 203,
@@ -8374,7 +8528,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610203,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リディア・エルドリッジ」",
     "SubTitle": "おねんね",
     "Order": 204,
@@ -8388,7 +8542,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610204,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "誰もいない校舎で",
     "Order": 205,
@@ -8402,7 +8556,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610205,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "お正月限定メニュー",
     "Order": 206,
@@ -8416,7 +8570,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610206,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "よしよししよう",
     "Order": 207,
@@ -8430,7 +8584,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610207,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「朽葉ラミ」",
     "SubTitle": "羽根突きの罰ゲーム",
     "Order": 208,
@@ -8444,7 +8598,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610208,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "鍵はいずこ",
     "Order": 209,
@@ -8458,7 +8612,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610209,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "正月限定ドリンク",
     "Order": 210,
@@ -8472,7 +8626,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610210,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "換気をしよう",
     "Order": 211,
@@ -8486,7 +8640,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610211,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「月ヶ瀬ちゆる」",
     "SubTitle": "仲間として",
     "Order": 212,
@@ -8500,7 +8654,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610212,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ジュリー・ステイシー」",
     "SubTitle": "オシャレは我慢！",
     "Order": 213,
@@ -8514,7 +8668,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610213,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ジュリー・ステイシー」",
     "SubTitle": "登山グッズに興味アリ",
     "Order": 214,
@@ -8528,7 +8682,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610214,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ジュリー・ステイシー」",
     "SubTitle": "色んなシミュレーション？",
     "Order": 215,
@@ -8542,7 +8696,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610215,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ジュリー・ステイシー」",
     "SubTitle": "流石にこれは暑い？",
     "Order": 216,
@@ -8556,7 +8710,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610216,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「黒森ラウラ」",
     "SubTitle": "登山の不安",
     "Order": 217,
@@ -8570,7 +8724,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610217,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「黒森ラウラ」",
     "SubTitle": "山には何が必要？",
     "Order": 218,
@@ -8584,7 +8738,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610218,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「黒森ラウラ」",
     "SubTitle": "極限の状況？",
     "Order": 219,
@@ -8598,7 +8752,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610219,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「黒森ラウラ」",
     "SubTitle": "体力トレーニング",
     "Order": 220,
@@ -8612,7 +8766,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610220,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ドロテア・カークランド」",
     "SubTitle": "リーダーとして",
     "Order": 221,
@@ -8626,7 +8780,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610221,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ドロテア・カークランド」",
     "SubTitle": "ふたりの親睦",
     "Order": 222,
@@ -8640,7 +8794,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610222,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ドロテア・カークランド」",
     "SubTitle": "ハリネズミのぬいぐるみ",
     "Order": 223,
@@ -8654,7 +8808,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610223,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「ドロテア・カークランド」",
     "SubTitle": "差し入れの飲み物",
     "Order": 224,
@@ -8668,7 +8822,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610224,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リュシー・ムーアクロフト」",
     "SubTitle": "慣れない格好",
     "Order": 225,
@@ -8682,7 +8836,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610225,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リュシー・ムーアクロフト」",
     "SubTitle": "身が引き締まる思い",
     "Order": 226,
@@ -8696,7 +8850,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610226,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リュシー・ムーアクロフト」",
     "SubTitle": "ゲームは苦手？",
     "Order": 227,
@@ -8710,7 +8864,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610227,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リュシー・ムーアクロフト」",
     "SubTitle": "どっちの方がいい？",
     "Order": 228,
@@ -8724,7 +8878,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610228,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「榊千鶴」",
     "SubTitle": "どこまでやるべき？",
     "Order": 229,
@@ -8738,7 +8892,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610229,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「榊千鶴」",
     "SubTitle": "気に入った場所？",
     "Order": 230,
@@ -8752,7 +8906,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610230,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「榊千鶴」",
     "SubTitle": "運動でリフレッシュ",
     "Order": 231,
@@ -8766,7 +8920,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610231,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「榊千鶴」",
     "SubTitle": "抑えておくべき場所",
     "Order": 232,
@@ -8780,7 +8934,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610232,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鎧衣美琴」",
     "SubTitle": "片づけられない？",
     "Order": 233,
@@ -8794,7 +8948,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610233,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鎧衣美琴」",
     "SubTitle": "ボクのやりたい仕事",
     "Order": 234,
@@ -8808,7 +8962,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610234,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鎧衣美琴」",
     "SubTitle": "アクロバットは得意？",
     "Order": 235,
@@ -8822,7 +8976,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610235,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「鎧衣美琴」",
     "SubTitle": "謎の買い物？",
     "Order": 236,
@@ -8836,7 +8990,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610236,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「彩峰慧」",
     "SubTitle": "シンプルイズベスト",
     "Order": 237,
@@ -8850,7 +9004,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610237,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「彩峰慧」",
     "SubTitle": "息苦しい？",
     "Order": 238,
@@ -8864,7 +9018,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610238,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「彩峰慧」",
     "SubTitle": "たまには戦闘訓練",
     "Order": 239,
@@ -8878,7 +9032,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610239,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「彩峰慧」",
     "SubTitle": "探すは焼きそばパン",
     "Order": 240,
@@ -8892,7 +9046,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610240,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "思わず着たまま",
     "Order": 241,
@@ -8906,7 +9060,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610241,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "体型が出てしまう！",
     "Order": 242,
@@ -8920,7 +9074,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610242,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "風を浴びて",
     "Order": 243,
@@ -8934,7 +9088,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610243,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「桃園める」",
     "SubTitle": "トレーニングウェアとして",
     "Order": 244,
@@ -8948,7 +9102,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610244,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "ロッカーの鍵の行方",
     "Order": 245,
@@ -8962,7 +9116,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610245,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "特大ハンバーグとソフトクリーム",
     "Order": 246,
@@ -8976,7 +9130,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610246,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "手が冷たい",
     "Order": 247,
@@ -8990,7 +9144,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610247,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「一条白奈」",
     "SubTitle": "期待の目",
     "Order": 248,
@@ -9004,7 +9158,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610248,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「コトハ」",
     "SubTitle": "夜の見回り",
     "Order": 249,
@@ -9018,7 +9172,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610249,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「コトハ」",
     "SubTitle": "気まずい相手",
     "Order": 250,
@@ -9032,7 +9186,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610250,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「コトハ」",
     "SubTitle": "妄想話",
     "Order": 251,
@@ -9046,7 +9200,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610251,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「コトハ」",
     "SubTitle": "優しさ巡って",
     "Order": 252,
@@ -9060,7 +9214,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610252,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「シエナ・クラーク」",
     "SubTitle": "鼻歌は恥ずかしい？",
     "Order": 253,
@@ -9074,7 +9228,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610253,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「シエナ・クラーク」",
     "SubTitle": "ぴったりのカフェは",
     "Order": 254,
@@ -9088,7 +9242,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610254,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「シエナ・クラーク」",
     "SubTitle": "音響はバッチリ？",
     "Order": 255,
@@ -9102,7 +9256,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610255,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「シエナ・クラーク」",
     "SubTitle": "ライブは体力",
     "Order": 256,
@@ -9116,7 +9270,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610256,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リリー・ラヴォア」",
     "SubTitle": "気づかれない？",
     "Order": 257,
@@ -9130,7 +9284,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610257,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リリー・ラヴォア」",
     "SubTitle": "相反する存在？",
     "Order": 257,
@@ -9144,7 +9298,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610258,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リリー・ラヴォア」",
     "SubTitle": "リハーサルは入念に",
     "Order": 258,
@@ -9158,7 +9312,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610259,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「リリー・ラヴォア」",
     "SubTitle": "柔軟をする大切さ",
     "Order": 259,
@@ -9172,7 +9326,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610260,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「カリナ・ジェンティーレ」",
     "SubTitle": "ゆるーい風紀副委員長",
     "Order": 260,
@@ -9186,7 +9340,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610261,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「カリナ・ジェンティーレ」",
     "SubTitle": "お買い物大好き",
     "Order": 261,
@@ -9200,7 +9354,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610262,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「カリナ・ジェンティーレ」",
     "SubTitle": "好きなジャンルは？",
     "Order": 262,
@@ -9214,7 +9368,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610263,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「カリナ・ジェンティーレ」",
     "SubTitle": "差し入れの飲み物",
     "Order": 263,
@@ -9228,7 +9382,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610264,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「大賀真桜」",
     "SubTitle": "彼女の静かな時間",
     "Order": 264,
@@ -9242,7 +9396,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610265,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「大賀真桜」",
     "SubTitle": "いっぱい食べる君",
     "Order": 265,
@@ -9256,7 +9410,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610266,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「大賀真桜」",
     "SubTitle": "検挙に必要な場所",
     "Order": 266,
@@ -9270,7 +9424,7 @@
   {
     "type": "EpisodeMaster",
     "Id": 610267,
-    "ChapterMasterId": 0,
+    "ChapterMasterId": null,
     "Title": "スポット「大賀真桜」",
     "SubTitle": "風紀委員は足腰から",
     "Order": 267,
@@ -9278,6 +9432,62 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1453014,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610268,
+    "ChapterMasterId": null,
+    "Title": "スポット「劉翠蘭」",
+    "SubTitle": "バニーで授業？",
+    "Order": 268,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1113021,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610269,
+    "ChapterMasterId": null,
+    "Title": "スポット「劉翠蘭」",
+    "SubTitle": "どっちがお客さん？",
+    "Order": 269,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1113022,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610270,
+    "ChapterMasterId": null,
+    "Title": "スポット「劉翠蘭」",
+    "SubTitle": "茶室にバニー？",
+    "Order": 270,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1113023,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610271,
+    "ChapterMasterId": null,
+    "Title": "スポット「劉翠蘭」",
+    "SubTitle": "賭けをした代償",
+    "Order": 271,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1113024,
     "AssetId": "1",
     "RewardPackageMasterId": null
   },

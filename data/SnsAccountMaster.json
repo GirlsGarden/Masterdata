@@ -334,6 +334,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 110303,
+    "Type": "Character",
+    "DisplayName": "ユリア・バーンズ",
+    "Name": "@Julia_B",
+    "AssetId": "110001c",
+    "CharacterMasterId": 110301
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 111001,
     "Type": "Character",
     "DisplayName": "劉翠蘭",
@@ -349,6 +358,15 @@
     "Name": "@L_Cuilan",
     "AssetId": "111301",
     "CharacterMasterId": 111301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 111302,
+    "Type": "Character",
+    "DisplayName": "劉翠蘭「恥じらうカジノラビット」",
+    "Name": "@L_Cuilan",
+    "AssetId": "111302",
+    "CharacterMasterId": 111302
   },
   {
     "type": "SnsAccountMaster",
@@ -370,6 +388,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 112302,
+    "Type": "Character",
+    "DisplayName": "紫雲沙耶",
+    "Name": "@Saya_S",
+    "AssetId": "112302s",
+    "CharacterMasterId": 112302
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 113301,
     "Type": "Character",
     "DisplayName": "フィー・ドレーゼ「空っぽのアクター」",
@@ -388,6 +415,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 113303,
+    "Type": "Character",
+    "DisplayName": "フィー・ドレーゼ",
+    "Name": "@Fee_D",
+    "AssetId": "113001c",
+    "CharacterMasterId": 113302
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 114001,
     "Type": "Character",
     "DisplayName": "アニス・ベネット",
@@ -402,6 +438,15 @@
     "DisplayName": "アニス・ベネット「愛を求めるトラブルメーカー」",
     "Name": "@Anis_B",
     "AssetId": "114301",
+    "CharacterMasterId": 114301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 114302,
+    "Type": "Character",
+    "DisplayName": "アニス・ベネット",
+    "Name": "@Anis_B",
+    "AssetId": "114002c",
     "CharacterMasterId": 114301
   },
   {

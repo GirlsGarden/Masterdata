@@ -359,7 +359,7 @@
     "EventMasterId": 1000,
     "AssetId": "2000",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -372,7 +372,7 @@
     "EventMasterId": 1001,
     "AssetId": "2001",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -385,7 +385,7 @@
     "EventMasterId": 1002,
     "AssetId": "2002",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -398,7 +398,7 @@
     "EventMasterId": 1003,
     "AssetId": "2003",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -411,7 +411,7 @@
     "EventMasterId": 1004,
     "AssetId": "2004",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -424,7 +424,7 @@
     "EventMasterId": 1005,
     "AssetId": "2005",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -437,7 +437,20 @@
     "EventMasterId": 1006,
     "AssetId": "2006",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
+    "Interlude": null,
+    "LoggedInActivateMasterId": 1
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 200008,
+    "Title": "SECOND",
+    "SubTitle": "イベントストーリー",
+    "Order": 2,
+    "EventMasterId": 1007,
+    "AssetId": "2007",
+    "Overview": null,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": 1
   },
@@ -450,7 +463,7 @@
     "EventMasterId": 1008,
     "AssetId": "2008",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -463,7 +476,7 @@
     "EventMasterId": 1009,
     "AssetId": "2009",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -476,7 +489,7 @@
     "EventMasterId": 1010,
     "AssetId": "2010",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -489,7 +502,7 @@
     "EventMasterId": 1011,
     "AssetId": "2011",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -502,7 +515,7 @@
     "EventMasterId": 1012,
     "AssetId": "2012",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -515,7 +528,7 @@
     "EventMasterId": 1013,
     "AssetId": "2013",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -528,7 +541,7 @@
     "EventMasterId": 1014,
     "AssetId": "2014",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -541,7 +554,7 @@
     "EventMasterId": 1015,
     "AssetId": "2015",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -554,7 +567,7 @@
     "EventMasterId": 1016,
     "AssetId": "2016",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": 2
   },
@@ -567,7 +580,7 @@
     "EventMasterId": 1017,
     "AssetId": "2017",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": 2
   },
@@ -580,7 +593,7 @@
     "EventMasterId": 1018,
     "AssetId": "2018",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": 2
   },
@@ -593,7 +606,7 @@
     "EventMasterId": 1019,
     "AssetId": "2019",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -606,7 +619,7 @@
     "EventMasterId": 1020,
     "AssetId": "2020",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -619,7 +632,7 @@
     "EventMasterId": 1021,
     "AssetId": "2021",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -632,7 +645,20 @@
     "EventMasterId": 1022,
     "AssetId": "2022",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 200024,
+    "Title": "FIRST",
+    "SubTitle": "イベントストーリー",
+    "Order": 1,
+    "EventMasterId": 1023,
+    "AssetId": "2023",
+    "Overview": null,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -645,7 +671,7 @@
     "EventMasterId": 7001,
     "AssetId": "8000",
     "Overview": null,
-    "ChapterGroupMasterId": 0,
+    "ChapterGroupMasterId": null,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   }

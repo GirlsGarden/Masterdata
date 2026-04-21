@@ -532,11 +532,35 @@
     "Id": 45,
     "Name": "Stand on Top",
     "Order": 45,
-    "LengthSeconds": 125,
+    "LengthSeconds": 84,
     "IsRequiredUnlock": false,
     "AssetId": "20014",
     "StartLoopPointSampleCounts": 243125,
     "EndLoopPointSampleCounts": 3889643,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 46,
+    "Name": "Original Bet",
+    "Order": 46,
+    "LengthSeconds": 75,
+    "IsRequiredUnlock": true,
+    "AssetId": "10030",
+    "StartLoopPointSampleCounts": 1390859,
+    "EndLoopPointSampleCounts": 4434913,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 47,
+    "Name": "HIT A GAME!!",
+    "Order": 47,
+    "LengthSeconds": 90,
+    "IsRequiredUnlock": true,
+    "AssetId": "20013",
+    "StartLoopPointSampleCounts": 415948,
+    "EndLoopPointSampleCounts": 4083791,
     "IsDefault": false
   },
   {

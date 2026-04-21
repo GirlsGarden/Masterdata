@@ -892,6 +892,15 @@
   },
   {
     "type": "HomeIllustrationMaster",
+    "Id": 200038,
+    "Order": 38,
+    "GroupNumber": 35,
+    "Type": "Event",
+    "EpisodeMasterId": 201202,
+    "AssetId": "10400"
+  },
+  {
+    "type": "HomeIllustrationMaster",
     "Id": 300001,
     "Order": 1,
     "GroupNumber": 1,

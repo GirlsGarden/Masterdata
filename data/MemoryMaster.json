@@ -359,6 +359,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10020,
+    "Rarity": "Sr",
+    "Name": "寂しさに嘘を重ねても",
+    "Description": "もしあたしが勝ったら、あたしに心を込めて耳元で\n『愛してる』って囁くというのはどうかしら！",
+    "AssetId": "10021",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 16,
+        "CharacterType": null,
+        "SkillMasterId": 400165,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -2253,6 +2276,76 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20060,
+    "Rarity": "Ssr",
+    "Name": "想いを賭けて",
+    "Description": "さすがにあなたに迷惑を掛けるくらいなら、\nこの程度の勝負、私が受けて立ちますよ。",
+    "AssetId": "111302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 111,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400166,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Tank",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400133,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20061,
+    "Rarity": "Ssr",
+    "Name": "迷子のウサギちゃん",
+    "Description": "別にふたりして同じロッカーに\n入らなくてもよかったですよね……",
+    "AssetId": "112302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 112,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400167,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Aggressive",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400065,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -2878,6 +2971,64 @@
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400164,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30025,
+    "Rarity": "Ur",
+    "Name": "絶対命令行使権！",
+    "Description": "ほら、賭けて賭けてー！それそれ～！ 次もどんどん行こー！",
+    "AssetId": "30025",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "PhysicalAttacker",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400168,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": "Physical",
+        "SkillMasterId": 400169,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30026,
+    "Rarity": "Ur",
+    "Name": "カオスメイデンツインテ祭り♡",
+    "Description": "これで皆お揃いね♪　このまま指揮官にも見せに行きましょ♪\nきっと、あたしたちが感動するような褒め方をしてくれるわ♪",
+    "AssetId": "30030",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": "Energy",
+        "SkillMasterId": 400170,
         "IsTargetingFriendlyParty": true
       }
     ],

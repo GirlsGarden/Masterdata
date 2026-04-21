@@ -354,13 +354,27 @@
     "Id": 26,
     "Name": "P-1グランプリ",
     "ActivateType": "EventGroup",
-    "StartDate": "2026-04-14T12:30:00+09:00",
-    "QuestCloseDate": "2026-04-26T19:00:00+09:00",
-    "EndDate": "2026-05-03T04:59:59+09:00",
+    "StartDate": "2026-04-21T12:30:00+09:00",
+    "QuestCloseDate": "2026-05-03T15:00:00+09:00",
+    "EndDate": "2026-05-10T04:59:59+09:00",
     "Order": 26,
     "LogoAssetId": null,
     "LogoFrameAssetId": null,
     "MovieAssetId": null,
+    "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 27,
+    "Name": "Chaos in Casino",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-04-21T12:30:00+09:00",
+    "QuestCloseDate": "2026-05-05T04:59:59+09:00",
+    "EndDate": "2026-05-12T04:59:59+09:00",
+    "Order": 27,
+    "LogoAssetId": "17",
+    "LogoFrameAssetId": "100",
+    "MovieAssetId": "20017",
     "IntroductionEpisodeMasterId": null
   }
 ]

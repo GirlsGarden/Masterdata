@@ -2033,6 +2033,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20120211,
+    "SceneBranchMasterId": 2012021,
+    "Answer": "ド、ドスケベだぁー！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20120212,
+    "SceneBranchMasterId": 2012021,
+    "Answer": "友達に見せられない格好してる！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -2977,6 +2993,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40006811,
+    "SceneBranchMasterId": 4000681,
+    "Answer": "すまん、つい……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006812,
+    "SceneBranchMasterId": 4000681,
+    "Answer": "見てないぞ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006821,
+    "SceneBranchMasterId": 4000682,
+    "Answer": "い、言いがかりだ！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006822,
+    "SceneBranchMasterId": 4000682,
+    "Answer": "もう見てない！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -3436,6 +3484,38 @@
     "Id": 50003112,
     "SceneBranchMasterId": 5000311,
     "Answer": "それより見えそうです",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003211,
+    "SceneBranchMasterId": 5000321,
+    "Answer": "勝負だ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003212,
+    "SceneBranchMasterId": 5000321,
+    "Answer": "ここはフォールドで。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003311,
+    "SceneBranchMasterId": 5000331,
+    "Answer": "えっ、俺！？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003312,
+    "SceneBranchMasterId": 5000331,
+    "Answer": "じゃあ、ここは赤に。",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -7726,6 +7806,70 @@
     "Answer": "なら、実践訓練がいい",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1443011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61079011,
+    "SceneBranchMasterId": 6107901,
+    "Answer": "バニーを流行らせたらどうだ？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1113021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61079012,
+    "SceneBranchMasterId": 6107901,
+    "Answer": "似合ってるから大丈夫",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1113022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61080011,
+    "SceneBranchMasterId": 6108001,
+    "Answer": "頼りやすい証拠だな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1113021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61080012,
+    "SceneBranchMasterId": 6108001,
+    "Answer": "その見た目が原因だな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1113022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61081011,
+    "SceneBranchMasterId": 6108101,
+    "Answer": "変わらない美味しさ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1113021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61081012,
+    "SceneBranchMasterId": 6108101,
+    "Answer": "いつもより美味しい",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1113022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61082011,
+    "SceneBranchMasterId": 6108201,
+    "Answer": "賭けは得意じゃなさそうだしな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1113021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61082012,
+    "SceneBranchMasterId": 6108201,
+    "Answer": "俺とも勝負をしてみるか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1113022
   },
   {
     "type": "SceneBranchSelectionMaster",

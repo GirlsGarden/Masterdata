@@ -1083,6 +1083,38 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 1066,
+    "Names": {
+      "Ur": "コレクターズ"
+    },
+    "Descriptions": {
+      "Lr": "深層記憶体が解放される。リスキーバトルルートを選択するとレリックを\u003ccolor=#ff701a\u003e2つ\u003c/color\u003e獲得する。",
+      "Ur": "深層記憶体が解放される。リスキーバトルルートを選択するとレリックを\u003ccolor=#ff701a\u003e1つ\u003c/color\u003e獲得する。"
+    },
+    "AssetIds": {
+      "Ur": "1030"
+    },
+    "Rarity": "Ur",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 1067,
+    "Names": {
+      "R": "錆びた黒斧"
+    },
+    "Descriptions": {
+      "R": "古びた歴戦の斧、戦闘開始時、敵味方全体の物理型の会心率を\u003ccolor=#ff701a\u003e10%ダウン\u003c/color\u003eさせる。",
+      "Sr": "古びた歴戦の斧、戦闘開始時、敵味方全体の物理型の会心率を\u003ccolor=#ff701a\u003e35%ダウン\u003c/color\u003eさせる。"
+    },
+    "AssetIds": {
+      "R": "9005"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 2001,
     "Names": {
       "R": "オメガゲート"
@@ -1570,6 +1602,73 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 2031,
+    "Names": {
+      "Sr": "古い羊皮紙"
+    },
+    "Descriptions": {
+      "Sr": "何かか記された羊皮紙、イベントルートを選択するたびに、HPを\u003ccolor=#27D327\u003e10%回復\u003c/color\u003eする。",
+      "Ssr": "何かか記された羊皮紙、イベントルートを選択するたびに、HPを\u003ccolor=#27D327\u003e20%回復\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Sr": "2031"
+    },
+    "Rarity": "Sr",
+    "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2032,
+    "Names": {
+      "Ssr": "魂の契約書"
+    },
+    "Descriptions": {
+      "Lr": "心臓に鎖が絡む、戦闘開始時、味方全体のHP以外の基本ステータスが\u003ccolor=#ff701a\u003e40%アップ\u003c/color\u003eする。",
+      "Ssr": "心臓に鎖が絡む、戦闘開始時、味方全体の最大HPが\u003ccolor=#00aab9\u003e50％ダウン\u003c/color\u003eするが、HP以外の基本ステータスが\u003ccolor=#ff701a\u003e30%アップ\u003c/color\u003eする。",
+      "Ur": "心臓に鎖が絡む、戦闘開始時、味方全体の最大HPが\u003ccolor=#00aab9\u003e30％ダウン\u003c/color\u003eするが、HP以外の基本ステータスが\u003ccolor=#ff701a\u003e30%アップ\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Ssr": "2032"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2033,
+    "Names": {
+      "Ssr": "憤怒の契約書"
+    },
+    "Descriptions": {
+      "Lr": "怒りが収まらねぇ…、戦闘開始時、味方全体の有利属性攻撃力が\u003ccolor=#ff701a\u003e35%アップ\u003c/color\u003eする。",
+      "Ssr": "怒りが収まらねぇ…、戦闘開始時、味方全体の防御力が\u003ccolor=#00aab9\u003e20%ダウン\u003c/color\u003eするが、有利属性攻撃力が\u003ccolor=#ff701a\u003e25%アップ\u003c/color\u003eする。",
+      "Ur": "怒りが収まらねぇ…、戦闘開始時、味方全体の防御力が\u003ccolor=#00aab9\u003e10%ダウン\u003c/color\u003eするが、有利属性攻撃力が\u003ccolor=#ff701a\u003e30%アップ\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Ssr": "2033"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2034,
+    "Names": {
+      "Ssr": "怠惰の契約書"
+    },
+    "Descriptions": {
+      "Lr": "何もしたくないzzz、戦闘開始時、味方全体の有利属性防御力が\u003ccolor=#ff701a\u003e35%アップ\u003c/color\u003eする。",
+      "Ssr": "何もしたくないzzz、戦闘開始時、味方全体の攻撃力が\u003ccolor=#00aab9\u003e20%ダウン\u003c/color\u003eするが、有利属性防御力が\u003ccolor=#ff701a\u003e25%アップ\u003c/color\u003eする。",
+      "Ur": "何もしたくないzzz、戦闘開始時、味方全体の攻撃力が\u003ccolor=#00aab9\u003e10%ダウン\u003c/color\u003eするが、有利属性防御力が\u003ccolor=#ff701a\u003e30%アップ\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Ssr": "2034"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 3001,
     "Names": {
       "Sr": "デスコード"
@@ -2013,6 +2112,109 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 3028,
+    "Names": {
+      "Sr": "蒼草の鉢植え"
+    },
+    "Descriptions": {
+      "Lr": "不思議な香りで生物を惑わす、戦闘開始時、味方全体に3行動の間、HPを\u003ccolor=#27D327\u003e25%のHPを回復\u003c/color\u003eする効果を付与する。",
+      "Sr": "不思議な香りで生物を惑わす、戦闘開始時、味方全体が\u003ccolor=#00aab9\u003e2行動分の毒\u003c/color\u003eになるが、3行動の間、HPを\u003ccolor=#27D327\u003e10%のHPを回復\u003c/color\u003eする効果を付与する。",
+      "Ssr": "不思議な香りで生物を惑わす、戦闘開始時、味方全体が\u003ccolor=#00aab9\u003e1行動分の毒\u003c/color\u003eになるが、3行動の間、HPを\u003ccolor=#27D327\u003e12%のHPを回復\u003c/color\u003eする効果を付与する。",
+      "Ur": "不思議な香りで生物を惑わす、戦闘開始時、味方全体に3行動の間、HPを\u003ccolor=#27D327\u003e15%のHPを回復\u003c/color\u003eする効果を付与する。"
+    },
+    "AssetIds": {
+      "Sr": "3028"
+    },
+    "Rarity": "Sr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3029,
+    "Names": {
+      "R": "蒼草の種"
+    },
+    "Descriptions": {
+      "R": "刺々しい種、戦闘開始時、味方全体のHPを\u003ccolor=#27D327\u003e5%回復\u003c/color\u003eし、攻撃力を\u003ccolor=#ff701a\u003e2%アップ\u003c/color\u003eする。",
+      "Sr": "刺々しい種、戦闘開始時、味方全体のHPを\u003ccolor=#27D327\u003e10%回復\u003c/color\u003eし、攻撃力を\u003ccolor=#ff701a\u003e8%アップ\u003c/color\u003eする。",
+      "Ssr": "刺々しい種、戦闘開始時、味方全体のHPを\u003ccolor=#27D327\u003e10%回復\u003c/color\u003eし、攻撃力を\u003ccolor=#ff701a\u003e24%アップ\u003c/color\u003eする。",
+      "Ur": "刺々しい種、戦闘開始時、味方全体のHPを\u003ccolor=#27D327\u003e15%回復\u003c/color\u003eし、攻撃力を\u003ccolor=#ff701a\u003e35%アップ\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "R": "3029"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3030,
+    "Names": {
+      "R": "壊れた黄金像"
+    },
+    "Descriptions": {
+      "R": "今にも壊れそうな黄金像、リスキーバトルに出撃時、タツミヤ鉱を\u003ccolor=#ff701a\u003e300個\u003c/color\u003e獲得する。（ノーマルバトル戦闘後、消滅する）"
+    },
+    "AssetIds": {
+      "R": "3030"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3031,
+    "Names": {
+      "Ssr": "落涙する女神像"
+    },
+    "Descriptions": {
+      "Lr": "慈悲の祈りで辺りを守る、戦闘開始時、味方全体に\u003ccolor=#ff701a\u003e味方平均HP×20%のENシールド\u003c/color\u003eを付与する。",
+      "Ssr": "慈悲の祈りで辺りを守る、戦闘開始時、味方全体に\u003ccolor=#ff701a\u003e味方平均HP×5%のENシールド\u003c/color\u003eを付与する。",
+      "Ur": "慈悲の祈りで辺りを守る、戦闘開始時、味方全体に\u003ccolor=#ff701a\u003e味方平均HP×10%のENシールド\u003c/color\u003eを付与する。"
+    },
+    "AssetIds": {
+      "Ssr": "3031"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3032,
+    "Names": {
+      "Sr": "怪しい金床"
+    },
+    "Descriptions": {
+      "Sr": "怪しげなオーラを纏った金床、休憩時、ランダムに\u003ccolor=#ff701a\u003eレリックを1つ強化\u003c/color\u003eする。",
+      "Ssr": "怪しげなオーラを纏った金床、休憩時、ランダムに\u003ccolor=#ff701a\u003eレリックを2つ強化\u003c/color\u003eする。",
+      "Ur": "怪しげなオーラを纏った金床、休憩時、ランダムに\u003ccolor=#ff701a\u003eレリックを3つ強化\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Sr": "3032"
+    },
+    "Rarity": "Sr",
+    "MaxRarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3033,
+    "Names": {
+      "Sr": "怪しい金槌"
+    },
+    "Descriptions": {
+      "Lr": "古く使い込まれた金槌、戦闘開始時、味方全体に1行動分の\u003ccolor=#ff701a\u003eシールドを50％無視する\u003c/color\u003e効果を付与する。（重複不可）",
+      "Sr": "古く使い込まれた金槌、戦闘開始時、味方全体に1行動分の\u003ccolor=#ff701a\u003eシールドを10％無視する\u003c/color\u003e効果を付与する。（重複不可）",
+      "Ssr": "古く使い込まれた金槌、戦闘開始時、味方全体に1行動分の\u003ccolor=#ff701a\u003eシールドを20％無視する\u003c/color\u003e効果を付与する。（重複不可）",
+      "Ur": "古く使い込まれた金槌、戦闘開始時、味方全体に1行動分の\u003ccolor=#ff701a\u003eシールドを30％無視する\u003c/color\u003e効果を付与する。（重複不可）"
+    },
+    "AssetIds": {
+      "Sr": "3033"
+    },
+    "Rarity": "Sr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 4001,
     "Names": {
       "Sr": "アンチデバフ"
@@ -2369,6 +2571,111 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 7028,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7028"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7029,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7028"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7030,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7028"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7031,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7028"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7032,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7028"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7033,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7028"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7034,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7028"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 8000,
     "Names": {
       "R": "プチフォース（物理）"
@@ -2651,5 +2958,110 @@
     },
     "Rarity": "Lr",
     "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9005,
+    "Names": {
+      "R": "錆びた黒斧"
+    },
+    "Descriptions": {
+      "R": "古びた歴戦の斧、使用すると\u003ccolor=#ff701a\u003e「錆びた黒斧」\u003c/color\u003eを獲得する。錆びた黒斧：戦闘開始時、敵味方全体の物理型の会心率を30%ダウンさせる。"
+    },
+    "AssetIds": {
+      "Lr": "9006"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9006,
+    "Names": {
+      "R": "沈黙の鳩時計"
+    },
+    "Descriptions": {
+      "R": "鳩が鳴かない鳩時計、次のバトルで敵全体の攻撃力が1行動分\u003ccolor=#ff701a\u003e100%ダウン\u003c/color\u003eするが、味方全体の行動速度が\u003ccolor=#00aab9\u003e78%ダウン\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Lr": "9007"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9007,
+    "Names": {
+      "R": "ノーガードナックル"
+    },
+    "Descriptions": {
+      "R": "攻撃は最大の防御、次のバトルで敵味方全体の防御力が\u003ccolor=#ff701a\u003e100%減少\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Lr": "9008"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9008,
+    "Names": {
+      "R": "サドンデス・ホイッス"
+    },
+    "Descriptions": {
+      "R": "笛の音を聞いた者を破滅させる、次のバトルで敵味方全体のHPが\u003ccolor=#ff701a\u003e99%減少\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Lr": "9009"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9009,
+    "Names": {
+      "Sr": "ハニカムシールド"
+    },
+    "Descriptions": {
+      "Sr": "強固なバリアで身を守る、次のバトルで味方全体に\u003ccolor=#ff701a\u003e味方平均防御力×15%のシールド\u003c/color\u003eを付与する。"
+    },
+    "AssetIds": {
+      "Lr": "9010"
+    },
+    "Rarity": "Sr",
+    "MaxRarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9010,
+    "Names": {
+      "Sr": "ネクロサークル"
+    },
+    "Descriptions": {
+      "Sr": "代償を糧に禁忌を操る、次のバトルで敵全体の基本ステータスを\u003ccolor=#ff701a\u003e30%ダウン\u003c/color\u003eさせるが、バトル後の\u003ccolor=#00aab9\u003eレリック獲得ができなくなる\u003c/color\u003e。"
+    },
+    "AssetIds": {
+      "Lr": "9011"
+    },
+    "Rarity": "Sr",
+    "MaxRarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9012,
+    "Names": {
+      "Ssr": "8A3C660E305B3088"
+    },
+    "Descriptions": {
+      "Ssr": "何かのメイズシフターの一部…、次のバトルで味方全体の攻撃力を\u003ccolor=#ff701a\u003e20％アップ\u003c/color\u003eさせ、さらに\u003ccolor=#ff701a\u003e気絶無効\u003c/color\u003eを付与する。"
+    },
+    "AssetIds": {
+      "Lr": "9013"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Ssr"
   }
 ]

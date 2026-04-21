@@ -2941,6 +2941,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20120101,
+    "EpisodeMasterId": 201201,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "またさらわれて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20120201,
+    "EpisodeMasterId": 201202,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "欲望渦巻く違法カジノへ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20120301,
+    "EpisodeMasterId": 201203,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "アザレア",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20120401,
+    "EpisodeMasterId": 201204,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ダークドラッグ再び",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20120501,
+    "EpisodeMasterId": 201205,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "バニーイベント5",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20120601,
+    "EpisodeMasterId": 201206,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "バニーイベント6",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20120701,
+    "EpisodeMasterId": 201207,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "バニーイベント7",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20120801,
+    "EpisodeMasterId": 201208,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "バニーイベント8",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -4371,6 +4451,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40006801,
+    "EpisodeMasterId": 400068,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "想いを賭けて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006802,
+    "EpisodeMasterId": 400068,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "想いを賭けて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -4947,6 +5047,46 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "1日ユーロ・タワー体験",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003201,
+    "EpisodeMasterId": 500032,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "寂しさに嘘を重ねても",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003202,
+    "EpisodeMasterId": 500032,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "寂しさに嘘を重ねても",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003301,
+    "EpisodeMasterId": 500033,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "絶対命令行使権！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003302,
+    "EpisodeMasterId": 500033,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "絶対命令行使権！",
     "AssetId": null
   },
   {
@@ -7627,6 +7767,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "風紀委員は足腰から",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61043001,
+    "EpisodeMasterId": 610268,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "バニーで授業？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61043002,
+    "EpisodeMasterId": 610269,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どっちがお客さん？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61043003,
+    "EpisodeMasterId": 610270,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "茶室にバニー？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61043004,
+    "EpisodeMasterId": 610271,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "賭けをした代償",
     "AssetId": null
   },
   {

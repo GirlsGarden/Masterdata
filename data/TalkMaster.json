@@ -289,6 +289,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1113021,
+    "CallCharacterMasterId": 111302,
+    "Order": 111002,
+    "Title": "お世辞じゃない！！",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 111302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400068
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1123011,
     "CallCharacterMasterId": 112301,
     "Order": 112001,

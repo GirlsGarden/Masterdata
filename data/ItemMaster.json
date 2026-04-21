@@ -1801,6 +1801,24 @@
   },
   {
     "type": "ItemMaster",
+    "Id": 40068,
+    "Category": "CharacterLimitBreak",
+    "Rarity": "Ssr",
+    "Name": "劉翠蘭[恥じらうカジノラビット]のスタイルカード",
+    "Description": "生徒の限界突破に必要なアイテム。",
+    "MaxStock": 999999999,
+    "Consumable": false,
+    "ExpireDays": null,
+    "ConsumeType": "None",
+    "ConsumeRequiredQuantity": null,
+    "AssetId": "40068",
+    "ItemAcquisitionLocationGroupMasterId": null,
+    "Order": 1067,
+    "StartDate": null,
+    "EndDate": null
+  },
+  {
+    "type": "ItemMaster",
     "Id": 50001,
     "Category": "SkillLevelUp",
     "Rarity": "R",
@@ -3073,7 +3091,7 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "eventPoint_yellow",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 209,
+    "Order": 210,
     "StartDate": "2026-04-07T12:30:00+09:00",
     "EndDate": "2026-04-28T04:59:59+09:00"
   },
@@ -3094,6 +3112,24 @@
     "Order": 205,
     "StartDate": null,
     "EndDate": null
+  },
+  {
+    "type": "ItemMaster",
+    "Id": 110023,
+    "Category": "Exchange",
+    "Rarity": "R",
+    "Name": "イベントポイント",
+    "Description": "イベント「Chaos in Casino」で獲得できる交換アイテム。\\n何かが記録された媒体。",
+    "MaxStock": 999999999,
+    "Consumable": false,
+    "ExpireDays": null,
+    "ConsumeType": "None",
+    "ConsumeRequiredQuantity": null,
+    "AssetId": "eventPoint_orange",
+    "ItemAcquisitionLocationGroupMasterId": null,
+    "Order": 209,
+    "StartDate": "2026-04-21T12:30:00+09:00",
+    "EndDate": "2026-05-12T04:59:59+09:00"
   },
   {
     "type": "ItemMaster",
