@@ -232,6 +232,48 @@
   },
   {
     "type": "BannerMaster",
+    "Id": 3003,
+    "Order": 2,
+    "ImageStaticPath": "1003_01",
+    "StartDate": "2026-04-23T12:00:00+09:00",
+    "EndDate": "2026-05-05T04:59:59+09:00",
+    "JumpType": "LimitedTimeShop",
+    "JumpTargetId": 84,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 3005,
+    "Order": 2,
+    "ImageStaticPath": "1005_01",
+    "StartDate": "2026-04-23T12:00:00+09:00",
+    "EndDate": "2026-05-05T04:59:59+09:00",
+    "JumpType": "LimitedTimeShop",
+    "JumpTargetId": 106,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
+  },
+  {
+    "type": "BannerMaster",
     "Id": 3013,
     "Order": 1,
     "ImageStaticPath": "1013",
