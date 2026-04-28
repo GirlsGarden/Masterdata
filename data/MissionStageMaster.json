@@ -19097,6 +19097,39 @@
   },
   {
     "type": "MissionStageMaster",
+    "Id": 14002233,
+    "MissionMasterId": 140022,
+    "MissionStageOrder": 33,
+    "StageGoalValue": 310,
+    "StartDate": null,
+    "RewardPackageMasterId": 3030013,
+    "Description": null,
+    "IsDescriptionEnabled": false
+  },
+  {
+    "type": "MissionStageMaster",
+    "Id": 14002234,
+    "MissionMasterId": 140022,
+    "MissionStageOrder": 34,
+    "StageGoalValue": 320,
+    "StartDate": null,
+    "RewardPackageMasterId": 3030013,
+    "Description": null,
+    "IsDescriptionEnabled": false
+  },
+  {
+    "type": "MissionStageMaster",
+    "Id": 14002235,
+    "MissionMasterId": 140022,
+    "MissionStageOrder": 35,
+    "StageGoalValue": 330,
+    "StartDate": null,
+    "RewardPackageMasterId": 3030013,
+    "Description": null,
+    "IsDescriptionEnabled": false
+  },
+  {
+    "type": "MissionStageMaster",
     "Id": 14002310,
     "MissionMasterId": 140023,
     "MissionStageOrder": 10,

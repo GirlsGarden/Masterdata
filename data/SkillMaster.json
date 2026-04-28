@@ -6498,7 +6498,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "最も近い敵単体を対象として威力{威力}で攻撃し、さらに対象を除く敵全体に対し威力{威力2}で4ヒット追加攻撃する。追加攻撃は会心攻撃にならない。\nまた自身に対して1行動の「〇〇」を付与し、「アクティブスキル1」のクールタイムをリセットする"
+        "Template": "最も近い敵単体を対象として威力{威力}で攻撃し、さらに対象を除く敵全体に対し威力{威力2}で4ヒット追加攻撃する。追加攻撃は会心攻撃にならない。\nまた自身に対して1行動の「グッドラック」を付与し、「オッドイーブン」のクールタイムをリセットする"
       }
     ],
     "TemplateTags": [
@@ -6596,7 +6596,7 @@
     "DisplaySkillPowerTagName": "威力",
     "DisplayAttacksCountTagName": "1",
     "DisplayTargetType": "Enemies",
-    "DisplayTargetRange": "AllPawns",
+    "DisplayTargetRange": "OnePawn",
     "DisplayTargetPriority": null
   },
   {
@@ -20049,12 +20049,12 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "敵単体に威力{威力}で1ヒット、威力{威力2}でもう1ヒット攻撃する。自身に「〇〇」が付与されている場合、2ヒット目の威力は{威力3}になる"
+        "Template": "敵単体に威力{威力}で1ヒット、威力{威力2}でもう1ヒット攻撃する。自身に「グッドラック」が付与されている場合、2ヒット目の威力は{威力3}になる"
       },
       {
         "type": "SkillDescriptionTemplate",
         "Level": 11,
-        "Template": "敵単体に威力{威力}で1ヒット、威力{威力2}でもう1ヒット攻撃し、1行動の間与ダメージが{dmg}%減少するデバフを付与する（重複可）。自身に「〇〇」が付与されている場合、2ヒット目の威力は{威力3}になる"
+        "Template": "敵単体に威力{威力}で1ヒット、威力{威力2}でもう1ヒット攻撃し、1行動の間与ダメージが{dmg}%減少するデバフを付与する（重複可）。自身に「グッドラック」が付与されている場合、2ヒット目の威力は{威力3}になる"
       }
     ],
     "TemplateTags": [
@@ -20229,7 +20229,7 @@
           },
           {
             "type": "TagValue",
-            "Level": 15,
+            "Level": 14,
             "Value": 15
           }
         ]
@@ -63978,6 +63978,18 @@
             "Value": 7
           }
         ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力2",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 7
+          }
+        ]
       }
     ],
     "SkillLevelPatternMasterId": 11,
@@ -94495,7 +94507,12 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身が敵を攻撃した際に発動。自身のAPを1追加する"
+        "Template": "自身がアクティブスキルで攻撃した後に発動。自身のAPを1追加する"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 10,
+        "Template": "自身がアクティブスキルで攻撃した後に発動。自身のAPを2追加する"
       }
     ],
     "TemplateTags": null,
@@ -94503,7 +94520,7 @@
     "DisplaySkillPowerTagName": null,
     "DisplayAttacksCountTagName": null,
     "DisplayTargetType": "Self",
-    "DisplayTargetRange": null,
+    "DisplayTargetRange": "OnePawn",
     "DisplayTargetPriority": null
   },
   {
@@ -94530,7 +94547,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "全てのバフ・デバフを解除し、最大HP・攻撃力・防御力・行動速度・会心率を強化し、自身に攻撃を5ヒットだけ回避するバフを付与する。"
+        "Template": "全てのバフ・デバフを解除し、最大HP・攻撃力・防御力・行動速度・会心率を強化し、自身に攻撃を2ヒットだけ回避するバフを付与する。"
       }
     ],
     "TemplateTags": null,
@@ -94614,7 +94631,7 @@
   {
     "type": "SkillMaster",
     "Id": 300156,
-    "Name": "サドンデス・ホイッス",
+    "Name": "サドンデス・ホイッスル",
     "Type": "Passive",
     "Kind": "Interference",
     "AdditionalKinds": [
@@ -94635,7 +94652,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "笛の音を聞いた者を破滅させる、次のバトルで敵味方全体のHPが\u003ccolor=#ff701a\u003e99%減少\u003c/color\u003eする。"
+        "Template": "笛の音を聞いた者を破滅させる、次のバトルで敵味方全体のHPが\u003ccolor=#ff701a\u003e99.9%減少\u003c/color\u003eする。"
       }
     ],
     "TemplateTags": null,
@@ -95036,7 +95053,7 @@
     "Id": 300168,
     "Name": "怪しい金槌",
     "Type": "Passive",
-    "Kind": "Support",
+    "Kind": "Attack",
     "AdditionalKinds": [
       {
         "type": "AdditionalSkillKind",
@@ -95055,13 +95072,13 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "古く使い込まれた金槌、戦闘開始時、味方全体に1行動分の\u003ccolor=#ff701a\u003eシールドを10％無視する\u003c/color\u003e効果を付与する。（重複不可）"
+        "Template": "古く使い込まれた金槌、戦闘開始時、味方全体に\u003ccolor=#ff701a\u003eシールドを10％無視する\u003c/color\u003e効果を付与する。（重複不可）"
       }
     ],
     "TemplateTags": null,
     "SkillLevelPatternMasterId": 11,
     "DisplaySkillPowerTagName": null,
-    "DisplayAttacksCountTagName": null,
+    "DisplayAttacksCountTagName": "3",
     "DisplayTargetType": null,
     "DisplayTargetRange": null,
     "DisplayTargetPriority": null
@@ -95239,6 +95256,699 @@
     "DisplayAttacksCountTagName": null,
     "DisplayTargetType": null,
     "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300174,
+    "Name": "グルンドフライ",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 2,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵横一列に威力{威力}で攻撃し、「聖芽」を1つ付与する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 64.32
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 13,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "Line",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300175,
+    "Name": "フライスケラ",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵単体に威力{威力}で攻撃する。対象に「聖芽」が付与されていた場合、追加で威力{威力2}の攻撃を行い、対象に付与されている「聖芽」をすべて解除する。さらにこのスキル内で与えた全ダメージの65%分を、味方全体に均等に配分して回復する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 60
+          }
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力2",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 46.8
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300176,
+    "Name": "ヘイルヴァルド",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 1,
+    "Features": "HasExecutionRestriction",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "（同時発動制限）他の味方が攻撃される前に発動。攻撃される味方単体に対し、攻撃力×{shield}%のシールドを付与する。シールドは対象の1行動後に消滅する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "shield",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 50
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300177,
+    "Name": "グロアホルン",
+    "Type": "Passive",
+    "Kind": "Recovery",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support",
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 1,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身がアクティブスキルで攻撃した後に発動。最もHP割合が低い味方単体のHPを最大HP×15%分回復し、防御力を{def}%上昇させる（重複可）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "def",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 2.5
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300178,
+    "Name": "変異",
+    "Type": "Active",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 15,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "全てのバフ・デバフを解除し、最大HP・攻撃力・防御力・行動速度・会心率を強化し、敵全体に「聖芽」を1つ付与する。さらに自身に「変異」を付与する。"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300179,
+    "Name": "サンゲルプト",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": 1,
+    "Features": "SureHit",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵全体に威力{威力}でEN攻撃（回避不可）する。自身に「コスモル」が付与されていた場合、対象に「ネヴュリム」を1つ付与する。付与されている「コスモル」が3つ以上だった場合は「ネヴュリム」を2つ付与する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 59.32
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 13,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "AllPawns",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300180,
+    "Name": "リリアクプラブ",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "後列優先で敵横一列に威力{威力}でEN攻撃し、対象の「ネヴュリム」をすべて解除する。対象に付与されている「ネヴュリム」1つにつき、この攻撃でのダメージは20%増加する（最大5つまで）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 83.05
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "Line",
+    "DisplayTargetPriority": "BackLine"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300181,
+    "Name": "スクトノアプテ",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": 1,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身がアクティブスキルで攻撃する前に発動。自身に対し「コスモル」を2つと、1ヒットだけ攻撃を回避するバフを付与する。自身が付与されている「コスモル」が5つ以上だった場合、さらにもう1ヒット分の回避バフを付与する"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 6,
+        "Template": "自身がアクティブスキルで攻撃する前に発動。自身に対し「コスモル」を2つと、2ヒットだけ攻撃を回避するバフを付与する。自身が付与されている「コスモル」が5つ以上だった場合、さらにもう1ヒット分の回避バフを付与する"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300182,
+    "Name": "ヴァンピルマルカ",
+    "Type": "Passive",
+    "Kind": "Interference",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身が敵を倒した際に発動。敵2体に「ネヴュリム」を1つずつ付与する"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 16,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "TwoPawns",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300183,
+    "Name": "変異",
+    "Type": "Active",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 15,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "全てのバフ・デバフを解除し、最大HP・攻撃力・防御・行動速度・会心率を強化し、敵全体に「ネヴュリム」を2つ付与する。さらに自身に「変異」を付与する。"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300184,
+    "Name": "ミメーシスエクリプス",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": 1,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "敵全体に威力{威力}で3ヒット攻撃し、2行動の間与ダメージを{dmg}%減少させるデバフを付与する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 29.65
+          }
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 30
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 13,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "3",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "AllPawns",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300185,
+    "Name": "ノクスパースート",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身から最も遠い位置にいる敵単体に威力{威力}で2ヒット攻撃する。この攻撃によって対象のHPが40%以下になった場合、威力{威力}でもう1ヒット攻撃する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 45
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 47.48
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 52.45
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 54.93
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 59.9
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 62.38
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 70.2
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "2",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300186,
+    "Name": "クィントミラージュ",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 1,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身が攻撃される直前に発動。自身に攻撃を5ヒットだけ回避するバフを付与するが、次に自身が受ける物理攻撃1ヒットのダメージが30%増加するデバフも付与される"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 14,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300187,
+    "Name": "アニマチャージ",
+    "Type": "Passive",
+    "Kind": "Recovery",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身がアクティブスキルで攻撃した後に発動。自身のAPを1回復する"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 16,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300188,
+    "Name": "変異",
+    "Type": "Active",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 15,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "全てのバフ・デバフを解除し、最大HP・攻撃力・防御・行動速度・会心率を強化し、敵全体に「ネヴュリム」を2つ付与する。さらに自身に「変異」を付与する。"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": "OnePawn",
     "DisplayTargetPriority": null
   },
   {
@@ -98219,7 +98929,7 @@
   {
     "type": "SkillMaster",
     "Id": 400085,
-    "Name": "攻撃上昇【敏捷型】",
+    "Name": "攻撃上昇【敏捷タイプ】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -98240,7 +98950,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "戦闘開始時に発動。敏捷型の味方全員の攻撃力を175上昇させる"
+        "Template": "戦闘開始時に発動。敏捷タイプの味方全員の攻撃力を175上昇させる"
       }
     ],
     "TemplateTags": null,
@@ -99269,7 +99979,7 @@
   {
     "type": "SkillMaster",
     "Id": 400115,
-    "Name": "攻撃上昇【物理型】",
+    "Name": "攻撃上昇【物理タイプ】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -99290,7 +100000,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "戦闘開始時に発動。物理型の味方の攻撃力を1250上昇させる"
+        "Template": "戦闘開始時に発動。物理タイプの味方の攻撃力を1250上昇させる"
       }
     ],
     "TemplateTags": null,
@@ -99304,7 +100014,7 @@
   {
     "type": "SkillMaster",
     "Id": 400116,
-    "Name": "攻撃上昇【敏捷型】",
+    "Name": "攻撃上昇【敏捷タイプ】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -99325,7 +100035,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "戦闘開始時に発動。敏捷型の味方の攻撃力を1250上昇させる"
+        "Template": "戦闘開始時に発動。敏捷タイプの味方の攻撃力を1250上昇させる"
       }
     ],
     "TemplateTags": null,
@@ -101159,7 +101869,7 @@
   {
     "type": "SkillMaster",
     "Id": 400169,
-    "Name": "会心率上昇【物理型】",
+    "Name": "会心率上昇【物理タイプ】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -101180,7 +101890,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "戦闘開始時に発動。物理型の味方の会心率を5%上昇させる"
+        "Template": "戦闘開始時に発動。物理タイプの味方の会心率を5%上昇させる"
       }
     ],
     "TemplateTags": null,
@@ -101194,7 +101904,7 @@
   {
     "type": "SkillMaster",
     "Id": 400170,
-    "Name": "攻撃上昇【EN型】",
+    "Name": "攻撃上昇【ENタイプ】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -101215,7 +101925,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "戦闘開始時に発動。EN型の味方の攻撃力を750上昇させる"
+        "Template": "戦闘開始時に発動。ENタイプの味方の攻撃力を750上昇させる"
       }
     ],
     "TemplateTags": null,

@@ -664,6 +664,19 @@
   },
   {
     "type": "ChapterMaster",
+    "Id": 200025,
+    "Title": "SECOND",
+    "SubTitle": "イベントストーリー",
+    "Order": 2,
+    "EventMasterId": 1024,
+    "AssetId": "2024",
+    "Overview": null,
+    "ChapterGroupMasterId": null,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
     "Id": 300001,
     "Title": "1-6",
     "SubTitle": null,

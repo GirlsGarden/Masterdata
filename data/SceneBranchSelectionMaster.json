@@ -2049,6 +2049,54 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20120611,
+    "SceneBranchMasterId": 2012061,
+    "Answer": "火器一切なしとは……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20120612,
+    "SceneBranchMasterId": 2012061,
+    "Answer": "こりゃ思い切った機体だな。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20120711,
+    "SceneBranchMasterId": 2012071,
+    "Answer": "決めろ、沙耶！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20120712,
+    "SceneBranchMasterId": 2012071,
+    "Answer": "斬れ、沙耶！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20120811,
+    "SceneBranchMasterId": 2012081,
+    "Answer": "深呼吸をする",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20120812,
+    "SceneBranchMasterId": 2012081,
+    "Answer": "真っすぐに沙耶を見つめる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -3020,6 +3068,22 @@
     "Id": 40006822,
     "SceneBranchMasterId": 4000682,
     "Answer": "もう見てない！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006911,
+    "SceneBranchMasterId": 4000691,
+    "Answer": "欲望に抗う",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40006912,
+    "SceneBranchMasterId": 4000691,
+    "Answer": "欲望に従う",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -7870,6 +7934,70 @@
     "Answer": "俺とも勝負をしてみるか？",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1113022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61083011,
+    "SceneBranchMasterId": 6108301,
+    "Answer": "沙耶がいいならいい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1123021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61083012,
+    "SceneBranchMasterId": 6108301,
+    "Answer": "時と場所は選ぶほうがいい",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1123022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61084011,
+    "SceneBranchMasterId": 6108401,
+    "Answer": "一緒に探す",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1123021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61084012,
+    "SceneBranchMasterId": 6108401,
+    "Answer": "今が似合っている",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1123022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61085011,
+    "SceneBranchMasterId": 6108501,
+    "Answer": "もてなしの気持ち",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1123021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61085012,
+    "SceneBranchMasterId": 6108501,
+    "Answer": "お茶の作法",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1123022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61086011,
+    "SceneBranchMasterId": 6108601,
+    "Answer": "ちゃんと事実を伝える",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1123021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61086012,
+    "SceneBranchMasterId": 6108601,
+    "Answer": "他のトレーニングを提案する",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1123022
   },
   {
     "type": "SceneBranchSelectionMaster",

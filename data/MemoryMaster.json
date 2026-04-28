@@ -2342,7 +2342,7 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
@@ -2880,7 +2880,20 @@
     "Name": "これからも共に歩むあなたへ",
     "Description": "振り返れば指揮官さんがいてくれる……それが一番の勇気になるんです。\\nこれからもよろしくお願いします！",
     "AssetId": "30022",
-    "Highlights": null,
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 5,
+        "CharacterType": null,
+        "SkillMasterId": 400146,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
     "IsReleased": true
   },
   {

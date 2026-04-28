@@ -313,6 +313,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1123021,
+    "CallCharacterMasterId": 112302,
+    "Order": 112002,
+    "Title": "欲望を制御して",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 112302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400069
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1133011,
     "CallCharacterMasterId": 113301,
     "Order": 113001,
@@ -424,7 +436,7 @@
     "Id": 1183021,
     "CallCharacterMasterId": 118302,
     "Order": 118302,
-    "Title": "冷静になってみると……",
+    "Title": "一緒に歩む相棒",
     "IsVideoTalk": false,
     "CharacterMasterId": 118302,
     "AffectionLevel": null,

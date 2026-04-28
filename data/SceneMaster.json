@@ -2986,7 +2986,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "バニーイベント5",
+    "Title": "ちょっとした昔話",
     "AssetId": null
   },
   {
@@ -2996,7 +2996,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "バニーイベント6",
+    "Title": "漆黒のエクスプローラー",
     "AssetId": null
   },
   {
@@ -3006,7 +3006,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "バニーイベント7",
+    "Title": "激闘の末に",
     "AssetId": null
   },
   {
@@ -3016,7 +3016,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "バニーイベント8",
+    "Title": "夢",
     "AssetId": null
   },
   {
@@ -4467,6 +4467,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "想いを賭けて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006901,
+    "EpisodeMasterId": 400069,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "迷子のウサギちゃん",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40006902,
+    "EpisodeMasterId": 400069,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "迷子のウサギちゃん",
     "AssetId": null
   },
   {
@@ -7807,6 +7827,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "賭けをした代償",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61044001,
+    "EpisodeMasterId": 610272,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "やってはいけないことは楽しい？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61044002,
+    "EpisodeMasterId": 610273,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "拘りのウサミミ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61044003,
+    "EpisodeMasterId": 610274,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "和の心とウサギ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61044004,
+    "EpisodeMasterId": 610275,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ウサギの特訓方法",
     "AssetId": null
   },
   {

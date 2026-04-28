@@ -1178,14 +1178,14 @@
     "BonusDefensePerLevel": 153,
     "BonusSpeedPerLevel": 2,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "130301",
+    "ModelAssetId": "112302",
     "CockpitAssetId": null,
     "MinCombatPower": 5573,
     "MaxCombatPower": 102677,
     "PositionType": "FrontBack",
     "RoleType": "PhysicalAttacker",
     "GachaBackgroundAssetId": "30300",
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "CharacterMaster",
