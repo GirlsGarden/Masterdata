@@ -1537,6 +1537,198 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 10220211,
+    "SceneBranchMasterId": 1022021,
+    "Answer": "オルガに援護を頼む",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10220212,
+    "SceneBranchMasterId": 1022021,
+    "Answer": "ナージャに指示を出す",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10220221,
+    "SceneBranchMasterId": 1022022,
+    "Answer": "（苦しい……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10220222,
+    "SceneBranchMasterId": 1022022,
+    "Answer": "（息が……！）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10220511,
+    "SceneBranchMasterId": 1022051,
+    "Answer": "（なるほど……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10220512,
+    "SceneBranchMasterId": 1022051,
+    "Answer": "（よしよしか……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10220521,
+    "SceneBranchMasterId": 1022052,
+    "Answer": "イザナミ、だな？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10220522,
+    "SceneBranchMasterId": 1022052,
+    "Answer": "お前が、イザナミか……！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10220611,
+    "SceneBranchMasterId": 1022061,
+    "Answer": "（懐かしい）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10220612,
+    "SceneBranchMasterId": 1022061,
+    "Answer": "（安らぐ……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230111,
+    "SceneBranchMasterId": 1023011,
+    "Answer": "どうかしたか、ナージャ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230112,
+    "SceneBranchMasterId": 1023011,
+    "Answer": "負けられないな、オルガ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230211,
+    "SceneBranchMasterId": 1023021,
+    "Answer": "好きだ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230212,
+    "SceneBranchMasterId": 1023021,
+    "Answer": "大丈夫だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230221,
+    "SceneBranchMasterId": 1023022,
+    "Answer": "じっと食べたそうに見てたから",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230222,
+    "SceneBranchMasterId": 1023022,
+    "Answer": "ナージャと一緒に食べたい",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230231,
+    "SceneBranchMasterId": 1023023,
+    "Answer": "ああ……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230232,
+    "SceneBranchMasterId": 1023023,
+    "Answer": "いい言葉だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230511,
+    "SceneBranchMasterId": 1023051,
+    "Answer": "あの技は……！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230512,
+    "SceneBranchMasterId": 1023051,
+    "Answer": "フラットスピン……！？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230521,
+    "SceneBranchMasterId": 1023052,
+    "Answer": "さすがナージャだ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230522,
+    "SceneBranchMasterId": 1023052,
+    "Answer": "さすがオルガの娘だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230711,
+    "SceneBranchMasterId": 1023071,
+    "Answer": "ありがとう",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10230712,
+    "SceneBranchMasterId": 1023071,
+    "Answer": "当たり前だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 20020311,
     "SceneBranchMasterId": 2002031,
     "Answer": "倒していい障害物を決めるとかか？",
@@ -3084,6 +3276,22 @@
     "Id": 40006912,
     "SceneBranchMasterId": 4000691,
     "Answer": "欲望に従う",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007011,
+    "SceneBranchMasterId": 4000701,
+    "Answer": "ナージャか？　どうしたんだ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007012,
+    "SceneBranchMasterId": 4000701,
+    "Answer": "俺が何をしてるのか、気になるのか？",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -7998,6 +8206,70 @@
     "Answer": "他のトレーニングを提案する",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1123022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61087011,
+    "SceneBranchMasterId": 6108701,
+    "Answer": "彼女の母親について聞く。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1453012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61087012,
+    "SceneBranchMasterId": 6108701,
+    "Answer": "普段の彼女について聞く。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1453011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61088011,
+    "SceneBranchMasterId": 6108801,
+    "Answer": "おすすめはあるか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1453012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61088012,
+    "SceneBranchMasterId": 6108801,
+    "Answer": "街には詳しいのか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1453011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61089011,
+    "SceneBranchMasterId": 6108901,
+    "Answer": "きっと険しい道だな。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1453012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61089012,
+    "SceneBranchMasterId": 6108901,
+    "Answer": "ナージャならすぐだな。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1453011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61090011,
+    "SceneBranchMasterId": 6109001,
+    "Answer": "甘い飲み物を奢る。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1453012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61090012,
+    "SceneBranchMasterId": 6109001,
+    "Answer": "おすすめのトレーニングを教える",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1453011
   },
   {
     "type": "SceneBranchSelectionMaster",

@@ -1543,6 +1543,20 @@
   },
   {
     "type": "LocationMaster",
+    "Id": 17006,
+    "EventMasterId": 3005,
+    "Type": "EventQuestNormal",
+    "Name": "欺かれし星の記憶",
+    "Order": 1,
+    "AssetId": "960",
+    "DailyTryCount": null,
+    "DayOfWeekFlags": "None",
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
+  },
+  {
+    "type": "LocationMaster",
     "Id": 20001,
     "EventMasterId": 8000,
     "Type": "TotalWar",

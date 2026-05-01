@@ -86,5 +86,16 @@
     "BannerAssetId": "1007",
     "BackgroundAssetType": "Adventure",
     "BackgroundAssetId": "765"
+  },
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1008,
+    "Title": "8章",
+    "SubTitle": "欺かれし星の記憶",
+    "Description": "危機的な状況から、生還した指揮官たち。\nイザナミによって支配されたパイロットを\n救うため、彼らは地上へ反撃に出る――",
+    "Order": 9,
+    "BannerAssetId": "1008",
+    "BackgroundAssetType": "Adventure",
+    "BackgroundAssetId": "820"
   }
 ]

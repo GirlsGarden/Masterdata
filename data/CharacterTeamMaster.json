@@ -73,6 +73,15 @@
   },
   {
     "type": "CharacterTeamMaster",
+    "Id": 601,
+    "Name": "クラスナ",
+    "Description": "オルガをリーダーとするチーム。チームの連携力は、他チームを凌ぐと言われている。",
+    "LogoAssetId": "11100",
+    "BackgroundAssetId": "30322",
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "CharacterTeamMaster",
     "Id": 701,
     "Name": "風紀委員会",
     "Description": "生徒会直下の治安維持チーム。各校舎から集められた生徒達で構成されている。",

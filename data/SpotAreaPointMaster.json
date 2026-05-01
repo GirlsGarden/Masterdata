@@ -166,5 +166,33 @@
     "SpotAreaMasterId": 6,
     "Name": "シティ街中",
     "ImagePath": "40042"
+  },
+  {
+    "type": "SpotAreaPointMaster",
+    "Id": 700,
+    "SpotAreaMasterId": 7,
+    "Name": "ゾリャー校舎教室",
+    "ImagePath": "30322"
+  },
+  {
+    "type": "SpotAreaPointMaster",
+    "Id": 701,
+    "SpotAreaMasterId": 7,
+    "Name": "ゾリャー校区街中",
+    "ImagePath": "30312"
+  },
+  {
+    "type": "SpotAreaPointMaster",
+    "Id": 702,
+    "SpotAreaMasterId": 7,
+    "Name": "シミュレーション室",
+    "ImagePath": "30130"
+  },
+  {
+    "type": "SpotAreaPointMaster",
+    "Id": 703,
+    "SpotAreaMasterId": 7,
+    "Name": "運動場",
+    "ImagePath": "30142"
   }
 ]

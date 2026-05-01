@@ -28,5 +28,15 @@
     "Period": null,
     "StartDate": null,
     "EndDate": null
+  },
+  {
+    "type": "GradualMissionGroupMaster",
+    "Id": 4,
+    "Title": "GW7DAYSミッション",
+    "AssetId": "4",
+    "BackgroundAssetId": "1",
+    "Period": null,
+    "StartDate": "2026-05-02T05:00:00+09:00",
+    "EndDate": "2026-05-16T04:59:59+09:00"
   }
 ]

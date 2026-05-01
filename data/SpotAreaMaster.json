@@ -52,5 +52,14 @@
     "CharacterSchoolMasterId": 8,
     "AssetId": "6",
     "IsOwnedOnly": true
+  },
+  {
+    "type": "SpotAreaMaster",
+    "Id": 7,
+    "Name": "ゾリャー校区",
+    "Description": "レドフカ地区の文化を基盤とした校区に存在する。所属はレドフカ出身者しか認められておらず、厳しい教育や訓練と高い忠誠心で知られている。他校舎との交流はあまりない。",
+    "CharacterSchoolMasterId": 6,
+    "AssetId": "7",
+    "IsOwnedOnly": false
   }
 ]

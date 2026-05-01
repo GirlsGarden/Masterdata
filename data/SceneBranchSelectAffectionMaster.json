@@ -817,6 +817,18 @@
   },
   {
     "type": "SceneBranchSelectAffectionMaster",
+    "Id": 1453011,
+    "CharacterMasterId": 144301,
+    "AffectionLevelPoint": 5
+  },
+  {
+    "type": "SceneBranchSelectAffectionMaster",
+    "Id": 1453012,
+    "CharacterMasterId": 144301,
+    "AffectionLevelPoint": 10
+  },
+  {
+    "type": "SceneBranchSelectAffectionMaster",
     "Id": 1543011,
     "CharacterMasterId": 154301,
     "AffectionLevelPoint": 10

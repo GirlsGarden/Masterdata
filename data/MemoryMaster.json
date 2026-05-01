@@ -382,6 +382,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10021,
+    "Rarity": "Sr",
+    "Name": "甘えるのじゃ",
+    "Description": "皆そなたにいろいろ求めすぎなのじゃ。\nたまには休んでも誰も責めんよ。",
+    "AssetId": "10022",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 1,
+        "CharacterType": null,
+        "SkillMasterId": 400171,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -2346,6 +2369,64 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20062,
+    "Rarity": "Ssr",
+    "Name": "お父様と……",
+    "Description": "え……えっと、その……あの……\n……すみません。あまり話をできなくて。",
+    "AssetId": "144301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 144,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400172,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 16,
+        "CharacterType": null,
+        "SkillMasterId": 400173,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20063,
+    "Rarity": "Ssr",
+    "Name": "熊耳の母と愛娘",
+    "Description": "娘の希望で『グリズリームーン』に変身しています。\n――クマに代わって、オシオキよ。",
+    "AssetId": "143301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 143,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400174,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -3046,5 +3127,40 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30027,
+    "Rarity": "Ur",
+    "Name": "家族のかたちを象りながら",
+    "Description": "オルガ「対ＭＧ戦と対メイズシフター戦の違いを念頭にあなたの意見を述べてください。」\nナージャ「は、はい！」",
+    "AssetId": "30031",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 601,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400176,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Control",
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400177,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

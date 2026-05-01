@@ -1366,5 +1366,13 @@
     "EpisodeMasterId": 500033,
     "IsAnimation": false,
     "AssetId": "s300014"
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2045,
+    "Order": 1045,
+    "EpisodeMasterId": 500034,
+    "IsAnimation": true,
+    "AssetId": "s200020"
   }
 ]

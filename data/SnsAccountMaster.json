@@ -856,6 +856,51 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 143301,
+    "Type": "Character",
+    "DisplayName": "オルガ・ヴォルコワ",
+    "Name": "@Olga_V",
+    "AssetId": "143301s",
+    "CharacterMasterId": 143301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 144301,
+    "Type": "Character",
+    "DisplayName": "ナージャ・ヴォルコワ「輝ける次代の娘」",
+    "Name": "@Nadja_V",
+    "AssetId": "144301",
+    "CharacterMasterId": 144301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 145301,
+    "Type": "Character",
+    "DisplayName": "エレーナ・パステルコワ",
+    "Name": "@Elena_P",
+    "AssetId": "145301s",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 146301,
+    "Type": "Character",
+    "DisplayName": "タチアナ・ドロズドヴァ",
+    "Name": "@Tatyana_D",
+    "AssetId": "146301s",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 147301,
+    "Type": "Character",
+    "DisplayName": "ニーナ・ミーシナ",
+    "Name": "@Nina_M",
+    "AssetId": "147301s",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 154301,
     "Type": "Character",
     "DisplayName": "コトハ「世界への反逆者」",
