@@ -76,21 +76,6 @@
   },
   {
     "type": "LoginBonusMaster",
-    "Id": 3011,
-    "Name": "P-1グランプリ開催記念ログインボーナス",
-    "Type": "Anniversary",
-    "Order": 1,
-    "StartDate": "2026-04-21T12:30:00+09:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2026-05-03T19:00:00+09:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "3013",
-    "SpineAssetId": null,
-    "BackgroundAssetId": "3013"
-  },
-  {
-    "type": "LoginBonusMaster",
     "Id": 3012,
     "Name": "第1回マブガルアートコンテストログインボーナス",
     "Type": "Anniversary",
