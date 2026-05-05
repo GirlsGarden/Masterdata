@@ -817,6 +817,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1443011,
+    "CallCharacterMasterId": 144301,
+    "Order": 143001,
+    "Title": "積み上げるお父様との思い出",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 144301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400070
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1543011,
     "CallCharacterMasterId": 154301,
     "Order": 154001,

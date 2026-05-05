@@ -5699,6 +5699,20 @@
   },
   {
     "type": "EpisodeMaster",
+    "Id": 400070,
+    "ChapterMasterId": null,
+    "Title": "ナージャ・ヴォルコワ[輝ける次代の娘]",
+    "SubTitle": "お父様と……",
+    "Order": 66,
+    "CharacterMasterId": 144301,
+    "AffectionLevel": 10,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": 10058
+  },
+  {
+    "type": "EpisodeMaster",
     "Id": 500003,
     "ChapterMasterId": null,
     "Title": "どこか欠けた星たちと",

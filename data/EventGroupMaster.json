@@ -376,5 +376,33 @@
     "LogoFrameAssetId": "100",
     "MovieAssetId": "20017",
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 28,
+    "Name": "サークル対抗戦",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-05-05T12:30:00+09:00",
+    "QuestCloseDate": "2026-05-15T04:59:59+09:00",
+    "EndDate": "2026-05-22T04:59:59+09:00",
+    "Order": 28,
+    "LogoAssetId": null,
+    "LogoFrameAssetId": null,
+    "MovieAssetId": null,
+    "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 29,
+    "Name": "欺かれし星の記憶",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-05-05T12:30:00+09:00",
+    "QuestCloseDate": "2026-05-19T04:59:59+09:00",
+    "EndDate": "2026-05-26T04:59:59+09:00",
+    "Order": 29,
+    "LogoAssetId": "18",
+    "LogoFrameAssetId": "newstory_100",
+    "MovieAssetId": "20018",
+    "IntroductionEpisodeMasterId": null
   }
 ]
