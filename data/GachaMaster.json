@@ -1914,6 +1914,31 @@
   },
   {
     "type": "GachaMaster",
+    "Id": 70005,
+    "Type": "PickUp",
+    "Name": "スタンダードガチャ【スマート属性ピックアップ】",
+    "Description": "有償/無償ジェム・スタンダードガチャチケットを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \n本ガチャでは、ガチャ1回毎にスタンダードガチャポイントが1獲得できます。\n※スタンダードガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。",
+    "StartDate": "2026-05-08T12:00:00+09:00",
+    "EndDate": "2026-05-22T04:59:59+09:00",
+    "Order": 61,
+    "BannerAssetId": "70005",
+    "BackgroundAssetId": "70005",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Image",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
+  },
+  {
+    "type": "GachaMaster",
     "Id": 80001,
     "Type": "PaidPickup",
     "Name": "DMM POINT限定 LIMITED CHARACTERピックアップガチャ【鑑純夏】",

@@ -2191,6 +2191,102 @@
   },
   {
     "type": "GachaPickup",
+    "Id": 70005,
+    "GachaMasterId": 70005,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 110301,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 130301,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 116302,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 141301,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 129302,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 70005,
+    "GachaMasterId": 70005,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 110301,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 130301,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 116302,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 141301,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 129302,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 70005,
+    "GachaMasterId": 70005,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 110301,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 130301,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 116302,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 141301,
+        "Quantity": 1
+      },
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 129302,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
     "Id": 80001,
     "GachaMasterId": 80001,
     "Things": [
