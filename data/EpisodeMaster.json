@@ -3062,7 +3062,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "60020_012",
     "RewardPackageMasterId": 2
   },
   {
@@ -3076,7 +3076,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "1010",
     "RewardPackageMasterId": 2
   },
   {
@@ -3090,7 +3090,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "60160_001",
     "RewardPackageMasterId": 2
   },
   {
@@ -3104,7 +3104,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "60140_001",
     "RewardPackageMasterId": 2
   },
   {
@@ -3118,7 +3118,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "60140_002",
     "RewardPackageMasterId": 2
   },
   {
@@ -3132,7 +3132,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "1080",
     "RewardPackageMasterId": 2
   },
   {
@@ -3146,7 +3146,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "60020_012",
     "RewardPackageMasterId": 2
   },
   {
@@ -3160,7 +3160,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "1090",
     "RewardPackageMasterId": 2
   },
   {
@@ -3174,7 +3174,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "1020",
     "RewardPackageMasterId": 2
   },
   {
@@ -3188,7 +3188,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "1100",
     "RewardPackageMasterId": 2
   },
   {
@@ -3202,7 +3202,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "80012_011",
     "RewardPackageMasterId": 2
   },
   {
@@ -3216,7 +3216,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "999",
+    "AssetId": "30272_004",
     "RewardPackageMasterId": 2
   },
   {
@@ -5713,6 +5713,20 @@
   },
   {
     "type": "EpisodeMaster",
+    "Id": 400071,
+    "ChapterMasterId": null,
+    "Title": "オルガ・ヴォルコワ[歴戦の鉄母]",
+    "SubTitle": "熊耳の母と愛娘",
+    "Order": 67,
+    "CharacterMasterId": 143301,
+    "AffectionLevel": 10,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": 10059
+  },
+  {
+    "type": "EpisodeMaster",
     "Id": 500003,
     "ChapterMasterId": null,
     "Title": "どこか欠けた星たちと",
@@ -6155,6 +6169,20 @@
     "CharacterMasterId": null,
     "AffectionLevel": null,
     "MemoryMasterId": 10021,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 500035,
+    "ChapterMasterId": null,
+    "Title": "欺かれし星の記憶",
+    "SubTitle": "家族のかたちを象りながら",
+    "Order": 32,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": 30027,
     "SpotCharacterMasterId": null,
     "AssetId": "1",
     "RewardPackageMasterId": null
@@ -10076,6 +10104,62 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1463014,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610280,
+    "ChapterMasterId": null,
+    "Title": "スポット「オルガ・ヴォルコワ」",
+    "SubTitle": "どっちで授業を受けるの？",
+    "Order": 280,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1473011,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610281,
+    "ChapterMasterId": null,
+    "Title": "スポット「オルガ・ヴォルコワ」",
+    "SubTitle": "当然の責務",
+    "Order": 281,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1473012,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610282,
+    "ChapterMasterId": null,
+    "Title": "スポット「オルガ・ヴォルコワ」",
+    "SubTitle": "最高ではなく平均",
+    "Order": 282,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1473013,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610283,
+    "ChapterMasterId": null,
+    "Title": "スポット「オルガ・ヴォルコワ」",
+    "SubTitle": "より良い方法のために",
+    "Order": 283,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1473014,
     "AssetId": "1",
     "RewardPackageMasterId": null
   },

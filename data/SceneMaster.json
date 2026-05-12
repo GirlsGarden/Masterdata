@@ -4781,6 +4781,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40007101,
+    "EpisodeMasterId": 400071,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "熊耳の母と愛娘",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007102,
+    "EpisodeMasterId": 400071,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "熊耳の母と愛娘",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -5417,6 +5437,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "甘えるのじゃ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003501,
+    "EpisodeMasterId": 500035,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "家族のかたちを象りながら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003502,
+    "EpisodeMasterId": 500035,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "家族のかたちを象りながら",
     "AssetId": null
   },
   {
@@ -8217,6 +8257,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "疲れた体に欲しいもの。",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61046001,
+    "EpisodeMasterId": 610280,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どっちで授業を受けるの？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61046002,
+    "EpisodeMasterId": 610281,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "当然の責務",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61046003,
+    "EpisodeMasterId": 610282,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "最高ではなく平均",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61046004,
+    "EpisodeMasterId": 610283,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "より良い方法のために",
     "AssetId": null
   },
   {

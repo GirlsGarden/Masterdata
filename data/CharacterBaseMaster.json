@@ -782,7 +782,7 @@
     "type": "CharacterBaseMaster",
     "Id": 141,
     "Name": "カリナ・ジェンティーレ",
-    "NameRuby": "かりな・じぇんてぃーれ",
+    "NameRuby": "かりなじぇんてぃーれ",
     "Order": 3,
     "CharacterTeamMasterId": 701,
     "CharacterSchoolMasterId": 3,
@@ -820,7 +820,7 @@
     "type": "CharacterBaseMaster",
     "Id": 143,
     "Name": "オルガ・ヴォルコワ",
-    "NameRuby": "おるが・ゔぉるこわ",
+    "NameRuby": "おるがゔぉるこわ",
     "Order": 2,
     "CharacterTeamMasterId": 601,
     "CharacterSchoolMasterId": 6,
@@ -833,13 +833,13 @@
     "Favorite": "レドフカ・規律と秩序",
     "Height": "170",
     "DisplayType": "Always",
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "CharacterBaseMaster",
     "Id": 144,
     "Name": "ナージャ・ヴォルコワ",
-    "NameRuby": "なーじゃ・ゔぉるこわ",
+    "NameRuby": "なーじゃゔぉるこわ",
     "Order": 1,
     "CharacterTeamMasterId": 601,
     "CharacterSchoolMasterId": 6,

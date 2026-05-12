@@ -230,5 +230,13 @@
     "UnlockFunctionTriggerType": "ClearLocationNode",
     "Configuration": "{\"LocationId\":10001,\"Sequence\":209}",
     "Description": "メインクエスト2章3節6-37クリアで解放"
+  },
+  {
+    "type": "UnlockFunctionTriggerMaster",
+    "Id": 30,
+    "UnlockFunctionMasterId": 39,
+    "UnlockFunctionTriggerType": "TacticScoreOver",
+    "Configuration": "{\"Order\":5,\"Score\":8000000}",
+    "Description": "難易度ENDLESSのScore8,000,000以上達成で初回スキップ機能が解放されます"
   }
 ]

@@ -378,5 +378,15 @@
     "JumpType": null,
     "JumpTargetId": null,
     "EffectJson": null
+  },
+  {
+    "type": "UnlockFunctionMaster",
+    "Id": 39,
+    "Name": "戦術演習初回スキップ",
+    "Description": "【戦術演習の初回スキップ】が解放されました！",
+    "UnlockFunctionType": "TacticFirstSkip",
+    "JumpType": null,
+    "JumpTargetId": null,
+    "EffectJson": null
   }
 ]

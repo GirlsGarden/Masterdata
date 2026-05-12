@@ -670,5 +670,117 @@
     "Order": 610,
     "UnlockGemQuantity": 100,
     "AssetId": "60100"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 85,
+    "Name": "会議室_夜",
+    "Order": 384,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30214"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 86,
+    "Name": "会議室_特殊1",
+    "Order": 385,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30215"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 87,
+    "Name": "会議室_空き部屋_夜",
+    "Order": 394,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30224"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 88,
+    "Name": "ゾリャー校区街中_昼",
+    "Order": 622,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30312"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 89,
+    "Name": "LOC校区街中_昼",
+    "Order": 632,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30332"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 90,
+    "Name": "ゾリャー校舎教室_昼",
+    "Order": 642,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30322"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 91,
+    "Name": "ゾリャー校舎教室_夜",
+    "Order": 644,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30324"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 92,
+    "Name": "ゾリャー校舎教室_特殊1",
+    "Order": 645,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30325"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 93,
+    "Name": "LOC校区放送タワー地下通路_その他",
+    "Order": 650,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60110"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 94,
+    "Name": "Node-A_その他",
+    "Order": 660,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60120"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 95,
+    "Name": "Node-S_その他",
+    "Order": 670,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60130"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 96,
+    "Name": "Node-N_その他",
+    "Order": 680,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60140"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 97,
+    "Name": "Node-K_その他",
+    "Order": 690,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60150"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 98,
+    "Name": "メイズ地底湖_その他",
+    "Order": 700,
+    "UnlockGemQuantity": 100,
+    "AssetId": "60160"
   }
 ]

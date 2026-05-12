@@ -436,7 +436,7 @@
     "Id": 1183021,
     "CallCharacterMasterId": 118302,
     "Order": 118302,
-    "Title": "一緒に歩む相棒",
+    "Title": "私が進む道",
     "IsVideoTalk": false,
     "CharacterMasterId": 118302,
     "AffectionLevel": null,
@@ -814,6 +814,18 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400067
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1433011,
+    "CallCharacterMasterId": 143301,
+    "Order": 144001,
+    "Title": "信頼が作られるまで",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 143301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400071
   },
   {
     "type": "TalkMaster",
