@@ -2321,6 +2321,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20130111,
+    "SceneBranchMasterId": 2013011,
+    "Answer": "（なんでこんなに慌てて……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20130112,
+    "SceneBranchMasterId": 2013011,
+    "Answer": "（どうして動揺してるんだろう？）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20130211,
+    "SceneBranchMasterId": 2013021,
+    "Answer": "ハリエット？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20130212,
+    "SceneBranchMasterId": 2013021,
+    "Answer": "（何を言うつもりだ？）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -3345,6 +3377,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40007211,
+    "SceneBranchMasterId": 4000721,
+    "Answer": "ニヤニヤじゃない、ニコニコだ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007212,
+    "SceneBranchMasterId": 4000721,
+    "Answer": "ハリエットがカワイイのが悪い！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -3852,6 +3900,22 @@
     "Id": 50003512,
     "SceneBranchMasterId": 5000351,
     "Answer": "ナージャは充分実戦レベルだがな。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003611,
+    "SceneBranchMasterId": 5000361,
+    "Answer": "（あ、でも……）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003612,
+    "SceneBranchMasterId": 5000361,
+    "Answer": "（こういうのセクハラか）",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -8398,6 +8462,70 @@
     "Answer": "内容を聞いて一緒に考える",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1463011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61095011,
+    "SceneBranchMasterId": 6109501,
+    "Answer": "似合ってて可愛いな。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1233011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61095012,
+    "SceneBranchMasterId": 6109501,
+    "Answer": "ちょっとエッチじゃないか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1233012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61096011,
+    "SceneBranchMasterId": 6109601,
+    "Answer": "実力があってこそだな。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1233011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61096012,
+    "SceneBranchMasterId": 6109601,
+    "Answer": "俺もお揃いのコスプレするか……",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1233012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61097011,
+    "SceneBranchMasterId": 6109701,
+    "Answer": "このアクセが似合いそう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1233011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61097012,
+    "SceneBranchMasterId": 6109701,
+    "Answer": "原作愛が深いんだな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1233012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61098011,
+    "SceneBranchMasterId": 6109801,
+    "Answer": "店員さんに声をかけてみる",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1233011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61098012,
+    "SceneBranchMasterId": 6109801,
+    "Answer": "手分けをして探す",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1233012
   },
   {
     "type": "SceneBranchSelectionMaster",

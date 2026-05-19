@@ -3291,6 +3291,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20130101,
+    "EpisodeMasterId": 201301,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "過去との邂逅",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20130201,
+    "EpisodeMasterId": 201302,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "謝罪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20130301,
+    "EpisodeMasterId": 201303,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "３人の気持ち",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20130401,
+    "EpisodeMasterId": 201304,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "コンテスト当日",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20130501,
+    "EpisodeMasterId": 201305,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "伝淑会の価値観",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20130601,
+    "EpisodeMasterId": 201306,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "脱走決行！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20130701,
+    "EpisodeMasterId": 201307,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "気に食わないという感情",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20130801,
+    "EpisodeMasterId": 201308,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "導く側へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -4801,6 +4881,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40007201,
+    "EpisodeMasterId": 400072,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "緊張のパフォーマンス",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007202,
+    "EpisodeMasterId": 400072,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "緊張のパフォーマンス",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -5457,6 +5557,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "家族のかたちを象りながら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003601,
+    "EpisodeMasterId": 500036,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "あなたと分かち合うのなら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003602,
+    "EpisodeMasterId": 500036,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "あなたと分かち合うのなら",
     "AssetId": null
   },
   {
@@ -8297,6 +8417,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "より良い方法のために",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61047001,
+    "EpisodeMasterId": 610284,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "教室でコスプレ？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61047002,
+    "EpisodeMasterId": 610285,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "コスプレはバフ？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61047003,
+    "EpisodeMasterId": 610286,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "買うべき小物は……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61047004,
+    "EpisodeMasterId": 610287,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "私の使い魔？",
     "AssetId": null
   },
   {

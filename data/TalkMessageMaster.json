@@ -3785,6 +3785,105 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 12330111,
+    "TalkMasterId": 1233011,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし……まだ起きていたようですね。\nいよいよ明日、コンテストです。\nその……ひとつ聞きたいことがありまして……",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12330112,
+    "TalkMasterId": 1233011,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "…………",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12330113,
+    "TalkMasterId": 1233011,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "や、やっぱり、なんでもないです。おやすみなさ――\nえ？　気になるから話せって？",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12330114,
+    "TalkMasterId": 1233011,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "……なんの権利があって、私が伏せようとした話を\n聞き出そうとするんですか。やっぱり悪人です。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12330115,
+    "TalkMasterId": 1233011,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "まあ、どうしても聞きたいというのなら、\nするつもりだった質問を聞かせてあげてもいいですよ。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12330116,
+    "TalkMasterId": 1233011,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "そ、その……",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12330117,
+    "TalkMasterId": 1233011,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "たいした質問でもないんですが……\nえっと……あ、明日は……誰かを応援したりする予定は……ありますか？",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12330118,
+    "TalkMasterId": 1233011,
+    "Order": 8,
+    "Speaker": "Character",
+    "Message": "あぁ、やっぱりいいです！\n今のは聞かなかったことにしてくだ――え？\n全員平等に応援してる？",
+    "VoiceAssetId": "8.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12330119,
+    "TalkMasterId": 1233011,
+    "Order": 9,
+    "Speaker": "Character",
+    "Message": "はぁぁぁ……",
+    "VoiceAssetId": "9.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 12420111,
     "TalkMasterId": 1242011,
     "Order": 1,
@@ -6463,6 +6562,17 @@
     "Order": 10,
     "Speaker": "Character",
     "Message": "……わ、わかってますよね？",
+    "VoiceAssetId": "10.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 123301110,
+    "TalkMasterId": 1233011,
+    "Order": 10,
+    "Speaker": "Character",
+    "Message": "ほんと……！　そういうとこですよっ！！",
     "VoiceAssetId": "10.ogg",
     "VideoBackgroundAssetId": null,
     "VideoSpineAssetId": null

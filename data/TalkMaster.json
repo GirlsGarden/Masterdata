@@ -517,6 +517,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1233011,
+    "CallCharacterMasterId": 123301,
+    "Order": 123002,
+    "Title": "誰を応援してる？",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 123301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400072
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1242011,
     "CallCharacterMasterId": 124201,
     "Order": 124001,

@@ -601,6 +601,16 @@
   },
   {
     "type": "SnsTimelineMaster",
+    "Id": 100061,
+    "Type": "MainQuest",
+    "Order": 61,
+    "EventMasterId": null,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": 10001673
+  },
+  {
+    "type": "SnsTimelineMaster",
     "Id": 400001,
     "Type": "Character",
     "Order": 1,
@@ -3406,6 +3416,46 @@
     "Order": 278,
     "EventMasterId": null,
     "CharacterMasterId": 143301,
+    "AffectionLevel": 8,
+    "LocationNodeMasterId": null
+  },
+  {
+    "type": "SnsTimelineMaster",
+    "Id": 400282,
+    "Type": "Character",
+    "Order": 279,
+    "EventMasterId": null,
+    "CharacterMasterId": 123301,
+    "AffectionLevel": 2,
+    "LocationNodeMasterId": null
+  },
+  {
+    "type": "SnsTimelineMaster",
+    "Id": 400283,
+    "Type": "Character",
+    "Order": 280,
+    "EventMasterId": null,
+    "CharacterMasterId": 123301,
+    "AffectionLevel": 4,
+    "LocationNodeMasterId": null
+  },
+  {
+    "type": "SnsTimelineMaster",
+    "Id": 400284,
+    "Type": "Character",
+    "Order": 281,
+    "EventMasterId": null,
+    "CharacterMasterId": 123301,
+    "AffectionLevel": 6,
+    "LocationNodeMasterId": null
+  },
+  {
+    "type": "SnsTimelineMaster",
+    "Id": 400285,
+    "Type": "Character",
+    "Order": 282,
+    "EventMasterId": null,
+    "CharacterMasterId": 123301,
     "AffectionLevel": 8,
     "LocationNodeMasterId": null
   }

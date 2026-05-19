@@ -565,6 +565,30 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 48,
+    "Name": "Go All Out",
+    "Order": 48,
+    "LengthSeconds": 97,
+    "IsRequiredUnlock": true,
+    "AssetId": "10034",
+    "StartLoopPointSampleCounts": 609176,
+    "EndLoopPointSampleCounts": 4899986,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 49,
+    "Name": "Enemy Draws Near!",
+    "Order": 49,
+    "LengthSeconds": 92,
+    "IsRequiredUnlock": true,
+    "AssetId": "20015",
+    "StartLoopPointSampleCounts": 21140,
+    "EndLoopPointSampleCounts": 4089366,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

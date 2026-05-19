@@ -253,6 +253,27 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 122301,
+    "Name": "魔道の奥義",
+    "Description": "ミリアム・ヘイワード「元気印の大魔導士」の専用OSです。",
+    "AssetId": "122301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 123301,
+    "Name": "賢者の意志",
+    "Description": "ハリエット・ミルズ「憎まれ口の大賢者」の専用OSです。",
+    "AssetId": "123301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 124301,
+    "Name": "騎士の誓い",
+    "Description": "ケイト・フルニエ「人見知りの聖騎士」の専用OSです。",
+    "AssetId": "124301"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 125301,
     "Name": "白くま帽子",
     "Description": "ジュリー・ステイシー「雪山もこもこ少女」の専用OSです。",

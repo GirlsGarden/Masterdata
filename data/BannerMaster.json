@@ -65,7 +65,7 @@
   {
     "type": "BannerMaster",
     "Id": 1030,
-    "Order": 1,
+    "Order": 2,
     "ImageStaticPath": "1005",
     "StartDate": "2026-05-05T12:00:00+09:00",
     "EndDate": "2026-05-26T04:59:59+09:00",
@@ -85,13 +85,13 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 2040,
-    "Order": 51,
-    "ImageStaticPath": "20031",
-    "StartDate": "2026-05-05T12:30:00+09:00",
-    "EndDate": "2026-05-19T04:59:59+09:00",
-    "JumpType": "Gacha",
-    "JumpTargetId": 20031,
+    "Id": 1031,
+    "Order": 1,
+    "ImageStaticPath": "2025",
+    "StartDate": "2026-05-19T12:30:00+09:00",
+    "EndDate": "2026-05-26T12:29:59+09:00",
+    "JumpType": "EventTop",
+    "JumpTargetId": 30,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"
@@ -113,6 +113,27 @@
     "EndDate": "2026-05-26T04:59:59+09:00",
     "JumpType": "Gacha",
     "JumpTargetId": 20032,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "Sp",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 2042,
+    "Order": 49,
+    "ImageStaticPath": "20033",
+    "StartDate": "2026-05-19T12:30:00+09:00",
+    "EndDate": "2026-06-02T04:59:59+09:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20033,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"

@@ -2011,6 +2011,16 @@
   },
   {
     "type": "ShopProductThingMaster",
+    "Id": 771,
+    "ShopProductPackageMasterId": 77,
+    "Order": 1,
+    "IsBonus": false,
+    "ThingType": "Memory",
+    "ThingId": 30028,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "ShopProductThingMaster",
     "Id": 6110,
     "ShopProductPackageMasterId": 61,
     "Order": 10,

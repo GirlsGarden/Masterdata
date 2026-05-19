@@ -568,12 +568,30 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 121303,
+    "Type": "Character",
+    "DisplayName": "ドロテア・カークランド",
+    "Name": "@Dorothea_K",
+    "AssetId": "121001c",
+    "CharacterMasterId": 121302
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 122201,
     "Type": "Character",
     "DisplayName": "ミリアム・ヘイワード「腕白メイド娘」",
     "Name": "@Miriam_H",
     "AssetId": "122201",
     "CharacterMasterId": 122201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 122301,
+    "Type": "Character",
+    "DisplayName": "ミリアム・ヘイワード",
+    "Name": "@Miriam_H",
+    "AssetId": "122301s",
+    "CharacterMasterId": 122301
   },
   {
     "type": "SnsAccountMaster",
@@ -586,12 +604,30 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 123301,
+    "Type": "Character",
+    "DisplayName": "ハリエット・ミルズ「憎まれ口の大賢者」",
+    "Name": "@Harriet_M",
+    "AssetId": "123301",
+    "CharacterMasterId": 123301
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 124201,
     "Type": "Character",
     "DisplayName": "ケイト・フルニエ「臆病メイド娘」",
     "Name": "@Kate_F",
     "AssetId": "124201",
     "CharacterMasterId": 124201
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 124301,
+    "Type": "Character",
+    "DisplayName": "ケイト・フルニエ",
+    "Name": "@Kate_F",
+    "AssetId": "124301s",
+    "CharacterMasterId": 124301
   },
   {
     "type": "SnsAccountMaster",
@@ -717,6 +753,15 @@
     "DisplayName": "リュシー・ムーアクロフト「連れ添い歩む傍らの友」",
     "Name": "@Lucie_M",
     "AssetId": "129302",
+    "CharacterMasterId": 129302
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 129303,
+    "Type": "Character",
+    "DisplayName": "リュシー・ムーアクロフト",
+    "Name": "@Lucie_M",
+    "AssetId": "129001c",
     "CharacterMasterId": 129302
   },
   {
