@@ -16,21 +16,6 @@
   },
   {
     "type": "LoginBonusMaster",
-    "Id": 2038,
-    "Name": "PICKUP DAILY LOGIN",
-    "Type": "Campaign",
-    "Order": 1,
-    "StartDate": "2026-05-12T12:30:00+09:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2026-05-26T04:59:59+09:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "2032",
-    "SpineAssetId": "143301s",
-    "BackgroundAssetId": "2001"
-  },
-  {
-    "type": "LoginBonusMaster",
     "Id": 2039,
     "Name": "PICKUP DAILY LOGIN",
     "Type": "Campaign",
@@ -42,6 +27,36 @@
     "IsLoop": false,
     "AssetId": "2033",
     "SpineAssetId": "123301s",
+    "BackgroundAssetId": "2001"
+  },
+  {
+    "type": "LoginBonusMaster",
+    "Id": 2040,
+    "Name": "PICKUP DAILY LOGIN",
+    "Type": "Campaign",
+    "Order": 1,
+    "StartDate": "2026-05-26T12:30:00+09:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-06-09T04:59:59+09:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "2034",
+    "SpineAssetId": "122301s",
+    "BackgroundAssetId": "2001"
+  },
+  {
+    "type": "LoginBonusMaster",
+    "Id": 2041,
+    "Name": "PICKUP DAILY LOGIN",
+    "Type": "Campaign",
+    "Order": 1,
+    "StartDate": "2026-05-26T12:30:00+09:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-06-09T04:59:59+09:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "2035",
+    "SpineAssetId": "124301s",
     "BackgroundAssetId": "2001"
   },
   {

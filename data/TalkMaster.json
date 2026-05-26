@@ -505,6 +505,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1223011,
+    "CallCharacterMasterId": 122301,
+    "Order": 122002,
+    "Title": "これからも紡ぐ思い出",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 122301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400074
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1232011,
     "CallCharacterMasterId": 123201,
     "Order": 123001,
@@ -538,6 +550,18 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400030
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1243011,
+    "CallCharacterMasterId": 124301,
+    "Order": 124002,
+    "Title": "お弁当のメニューは何にしますか？",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 124301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400073
   },
   {
     "type": "TalkMaster",

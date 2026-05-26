@@ -4901,6 +4901,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40007301,
+    "EpisodeMasterId": 400073,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "いつか、あなたの剣に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007302,
+    "EpisodeMasterId": 400073,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "いつか、あなたの剣に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007401,
+    "EpisodeMasterId": 400074,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "後悔なんてしたくないから",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007402,
+    "EpisodeMasterId": 400074,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "後悔なんてしたくないから",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -5577,6 +5617,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "あなたと分かち合うのなら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003701,
+    "EpisodeMasterId": 500037,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "おパンツ咥えたドラネコ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003702,
+    "EpisodeMasterId": 500037,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "おパンツ咥えたドラネコ",
     "AssetId": null
   },
   {
@@ -8457,6 +8517,86 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "私の使い魔？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61048001,
+    "EpisodeMasterId": 610288,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "いつだって冒険気分",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61048002,
+    "EpisodeMasterId": 610289,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "魔法薬を買ってみる！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61048003,
+    "EpisodeMasterId": 610290,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ゲームでも火力主義！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61048004,
+    "EpisodeMasterId": 610291,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "いつか大魔法を！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61049001,
+    "EpisodeMasterId": 610292,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "この恰好は似合ってる？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61049002,
+    "EpisodeMasterId": 610293,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "聖騎士に必要なもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61049003,
+    "EpisodeMasterId": 610294,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "イベントはどこで？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61049004,
+    "EpisodeMasterId": 610295,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "聖騎士の戦い方",
     "AssetId": null
   },
   {

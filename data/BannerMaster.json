@@ -17,7 +17,8 @@
       "SpAndroid",
       "Client",
       "AppStore",
-      "GooglePlay"
+      "GooglePlay",
+      "SpIOS"
     ]
   },
   {
@@ -38,7 +39,8 @@
       "SpAndroid",
       "Client",
       "AppStore",
-      "GooglePlay"
+      "GooglePlay",
+      "SpIOS"
     ]
   },
   {
@@ -59,37 +61,17 @@
       "SpAndroid",
       "Client",
       "AppStore",
-      "GooglePlay"
+      "GooglePlay",
+      "SpIOS"
     ]
   },
   {
     "type": "BannerMaster",
-    "Id": 1030,
-    "Order": 2,
-    "ImageStaticPath": "1005",
-    "StartDate": "2026-05-05T12:00:00+09:00",
-    "EndDate": "2026-05-26T04:59:59+09:00",
-    "JumpType": "EventTop",
-    "JumpTargetId": 29,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay"
-    ]
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 1031,
+    "Id": 1032,
     "Order": 1,
-    "ImageStaticPath": "2025",
-    "StartDate": "2026-05-19T12:30:00+09:00",
-    "EndDate": "2026-05-26T12:29:59+09:00",
+    "ImageStaticPath": "2026",
+    "StartDate": "2026-05-26T12:30:00+09:00",
+    "EndDate": "2026-06-09T04:59:59+09:00",
     "JumpType": "EventTop",
     "JumpTargetId": 30,
     "VisibleRatingFlags": [
@@ -101,28 +83,8 @@
       "SpAndroid",
       "Client",
       "AppStore",
-      "GooglePlay"
-    ]
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 2041,
-    "Order": 50,
-    "ImageStaticPath": "20032",
-    "StartDate": "2026-05-12T12:30:00+09:00",
-    "EndDate": "2026-05-26T04:59:59+09:00",
-    "JumpType": "Gacha",
-    "JumpTargetId": 20032,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay"
+      "GooglePlay",
+      "SpIOS"
     ]
   },
   {
@@ -143,7 +105,52 @@
       "SpAndroid",
       "Client",
       "AppStore",
-      "GooglePlay"
+      "GooglePlay",
+      "SpIOS"
+    ]
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 2043,
+    "Order": 48,
+    "ImageStaticPath": "20034",
+    "StartDate": "2026-05-26T12:30:00+09:00",
+    "EndDate": "2026-06-09T04:59:59+09:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20034,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS"
+    ]
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 2044,
+    "Order": 47,
+    "ImageStaticPath": "20035",
+    "StartDate": "2026-05-26T12:30:00+09:00",
+    "EndDate": "2026-06-09T04:59:59+09:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20035,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS"
     ]
   },
   {
@@ -164,28 +171,8 @@
       "SpAndroid",
       "Client",
       "AppStore",
-      "GooglePlay"
-    ]
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 3015,
-    "Order": 1,
-    "ImageStaticPath": "1015",
-    "StartDate": "2026-05-14T12:00:00+09:00",
-    "EndDate": "2026-05-26T04:59:59+09:00",
-    "JumpType": "LimitedTimeShop",
-    "JumpTargetId": 214,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay"
+      "GooglePlay",
+      "SpIOS"
     ]
   }
 ]

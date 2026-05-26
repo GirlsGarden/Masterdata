@@ -2353,6 +2353,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20130711,
+    "SceneBranchMasterId": 2013071,
+    "Answer": "ミリアムに敵の気を引かせる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20130712,
+    "SceneBranchMasterId": 2013071,
+    "Answer": "ケイトにまずは指示役を倒させる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20130811,
+    "SceneBranchMasterId": 2013081,
+    "Answer": "改めておめでとう！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20130812,
+    "SceneBranchMasterId": 2013081,
+    "Answer": "最高のパフォーマンスだ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -3393,6 +3425,54 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40007311,
+    "SceneBranchMasterId": 4000731,
+    "Answer": "どこに行くんだ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007312,
+    "SceneBranchMasterId": 4000731,
+    "Answer": "何をしに行くんだ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007321,
+    "SceneBranchMasterId": 4000732,
+    "Answer": "俺が相手で良かったのか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007322,
+    "SceneBranchMasterId": 4000732,
+    "Answer": "俺もコスプレしたほうがよかったか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007411,
+    "SceneBranchMasterId": 4000741,
+    "Answer": "すまん、わからん",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007412,
+    "SceneBranchMasterId": 4000741,
+    "Answer": "歩き疲れて腰が痛くなったのか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -3916,6 +3996,22 @@
     "Id": 50003612,
     "SceneBranchMasterId": 5000361,
     "Answer": "（こういうのセクハラか）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003711,
+    "SceneBranchMasterId": 5000371,
+    "Answer": "悪かったって",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50003712,
+    "SceneBranchMasterId": 5000371,
+    "Answer": "もしシメるならその格好で……",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -8526,6 +8622,134 @@
     "Answer": "手分けをして探す",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1233012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61099011,
+    "SceneBranchMasterId": 6109901,
+    "Answer": "クエストを与えてみる",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1223011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61099012,
+    "SceneBranchMasterId": 6109901,
+    "Answer": "一緒に探検してみる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1223012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61100011,
+    "SceneBranchMasterId": 6110001,
+    "Answer": "……多分、男性専用だ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1223011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61100012,
+    "SceneBranchMasterId": 6110001,
+    "Answer": "……ある意味魔法かもな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1223012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61101011,
+    "SceneBranchMasterId": 6110101,
+    "Answer": "ミリアムの長所だ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1223011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61101012,
+    "SceneBranchMasterId": 6110101,
+    "Answer": "ゲームだけにしとくんだぞ？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1223012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61102011,
+    "SceneBranchMasterId": 6110201,
+    "Answer": "曲芸飛行がそれっぽい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1223011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61102012,
+    "SceneBranchMasterId": 6110201,
+    "Answer": "鍛えた基礎は魔法みたいだぞ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1223012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61103011,
+    "SceneBranchMasterId": 6110301,
+    "Answer": "カッコいいな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1243011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61103012,
+    "SceneBranchMasterId": 6110301,
+    "Answer": "可愛いな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1243012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61104011,
+    "SceneBranchMasterId": 6110401,
+    "Answer": "勇気を持つんだ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1243011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61104012,
+    "SceneBranchMasterId": 6110401,
+    "Answer": "……普段と変わらなくないか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1243012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61105011,
+    "SceneBranchMasterId": 6110501,
+    "Answer": "信頼して見送る",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1243011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61105012,
+    "SceneBranchMasterId": 6110501,
+    "Answer": "助けてあげる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1243012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61106011,
+    "SceneBranchMasterId": 6110601,
+    "Answer": "ケイトに向いている",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1243011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61106012,
+    "SceneBranchMasterId": 6110601,
+    "Answer": "ケイトに向いていない",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1243012
   },
   {
     "type": "SceneBranchSelectionMaster",

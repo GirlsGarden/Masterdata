@@ -1201,6 +1201,22 @@
   },
   {
     "type": "EventMaster",
+    "Id": 6005,
+    "EventGroupMasterId": 31,
+    "Name": "公式MG競技",
+    "Type": "MgBattle",
+    "StartDate": "2026-05-26T12:30:00+09:00",
+    "QuestCloseDate": "2026-06-09T04:59:59+09:00",
+    "EndDate": "2026-06-16T04:59:59+09:00",
+    "Order": 1,
+    "LogoAssetId": null,
+    "BackgroundAssetId": "MG_battle_001",
+    "SpoilerAlertMasterId": null,
+    "BackgroundAssetType": "Adventure",
+    "BgmAssetId": null
+  },
+  {
+    "type": "EventMaster",
     "Id": 7001,
     "EventGroupMasterId": null,
     "Name": "1章～6章あらすじ",

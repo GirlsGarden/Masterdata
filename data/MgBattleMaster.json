@@ -38,5 +38,15 @@
     "DailyTryCount": 5,
     "Name": "SEASON 003",
     "MgBattleType": "GrandPrix"
+  },
+  {
+    "type": "MgBattleMaster",
+    "Id": 5,
+    "EventMasterId": 6005,
+    "MgBattleRankGroupMasterId": 1004,
+    "EpisodeMasterId": 300601,
+    "DailyTryCount": 5,
+    "Name": "SEASON 004",
+    "MgBattleType": "GrandPrix"
   }
 ]
