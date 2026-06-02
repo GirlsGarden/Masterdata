@@ -755,6 +755,19 @@
   },
   {
     "type": "ChapterMaster",
+    "Id": 200028,
+    "Title": "FIRST",
+    "SubTitle": "イベントストーリー",
+    "Order": 1,
+    "EventMasterId": 1027,
+    "AssetId": "2027",
+    "Overview": null,
+    "ChapterGroupMasterId": null,
+    "Interlude": null,
+    "LoggedInActivateMasterId": 3
+  },
+  {
+    "type": "ChapterMaster",
     "Id": 300001,
     "Title": "1-7",
     "SubTitle": null,

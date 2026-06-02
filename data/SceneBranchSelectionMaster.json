@@ -2385,6 +2385,54 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20140111,
+    "SceneBranchMasterId": 2014011,
+    "Answer": "全員の顔を見る。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20140112,
+    "SceneBranchMasterId": 2014011,
+    "Answer": "反応を待つ。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20140411,
+    "SceneBranchMasterId": 2014041,
+    "Answer": "呆気にとられる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20140412,
+    "SceneBranchMasterId": 2014041,
+    "Answer": "見惚れてしまう",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20140611,
+    "SceneBranchMasterId": 2014061,
+    "Answer": "俺には縁遠い世界だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20140612,
+    "SceneBranchMasterId": 2014061,
+    "Answer": "貴族の戦場ってわけか",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -3468,6 +3516,22 @@
     "Id": 40007412,
     "SceneBranchMasterId": 4000741,
     "Answer": "歩き疲れて腰が痛くなったのか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007511,
+    "SceneBranchMasterId": 4000751,
+    "Answer": "ミリアムに手を引かれる。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007512,
+    "SceneBranchMasterId": 4000751,
+    "Answer": "周囲の風景を見渡す。",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -8750,6 +8814,70 @@
     "Answer": "ケイトに向いていない",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1243012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61107011,
+    "SceneBranchMasterId": 6110701,
+    "Answer": "良いと思う",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1483012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61107012,
+    "SceneBranchMasterId": 6110701,
+    "Answer": "立ち話もなんだし",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1483011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61108011,
+    "SceneBranchMasterId": 6110801,
+    "Answer": "甘いものを勧める",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1483012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61108012,
+    "SceneBranchMasterId": 6110801,
+    "Answer": "栄養ドリンクをすすめる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1483011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61109011,
+    "SceneBranchMasterId": 6110901,
+    "Answer": "一緒に走る",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1483012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61109012,
+    "SceneBranchMasterId": 6110901,
+    "Answer": "夕食に誘う",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1483011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61110011,
+    "SceneBranchMasterId": 6111001,
+    "Answer": "アマツ料理の店はどうだ？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1483012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61110012,
+    "SceneBranchMasterId": 6111001,
+    "Answer": "ノヴァセレス料理のお店はどうだ？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1483011
   },
   {
     "type": "SceneBranchSelectionMaster",

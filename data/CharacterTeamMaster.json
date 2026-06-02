@@ -109,6 +109,15 @@
   },
   {
     "type": "CharacterTeamMaster",
+    "Id": 803,
+    "Name": "The Manor's Favor",
+    "Description": "コラボ「The Manor's Favor」",
+    "LogoAssetId": "9003",
+    "BackgroundAssetId": "50022",
+    "LoggedInActivateMasterId": 3
+  },
+  {
+    "type": "CharacterTeamMaster",
     "Id": 1100,
     "Name": "双頭の斧",
     "Description": "双頭の斧",

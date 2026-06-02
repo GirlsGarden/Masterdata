@@ -3371,6 +3371,126 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20140101,
+    "EpisodeMasterId": 201401,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "別世界よりの使者",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20140201,
+    "EpisodeMasterId": 201402,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "興味津々",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20140301,
+    "EpisodeMasterId": 201403,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "これも貴族体験？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20140401,
+    "EpisodeMasterId": 201404,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイドのお仕事：唯依の場合",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20140501,
+    "EpisodeMasterId": 201405,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイドのお仕事：タリサの場合",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20140601,
+    "EpisodeMasterId": 201406,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイドのお仕事：ステラの場合",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20140701,
+    "EpisodeMasterId": 201407,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイドのお仕事：唯依おかわり",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20140801,
+    "EpisodeMasterId": 201408,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "なぜか宝探し",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20140901,
+    "EpisodeMasterId": 201409,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "まさかの結末",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20141001,
+    "EpisodeMasterId": 201410,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ユウヤの頼みとは？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20141101,
+    "EpisodeMasterId": 201411,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "食事で異文化交流",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20141201,
+    "EpisodeMasterId": 201412,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "結局そうなるのか……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -4941,6 +5061,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40007501,
+    "EpisodeMasterId": 400075,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "思い出と重ねて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007502,
+    "EpisodeMasterId": 400075,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "思い出と重ねて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -5637,6 +5777,46 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "おパンツ咥えたドラネコ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003801,
+    "EpisodeMasterId": 500038,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "学園対抗麻雀大会",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003802,
+    "EpisodeMasterId": 500038,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "学園対抗麻雀大会",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003901,
+    "EpisodeMasterId": 500039,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "心の色",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50003902,
+    "EpisodeMasterId": 500039,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "心の色",
     "AssetId": null
   },
   {
@@ -8597,6 +8777,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "聖騎士の戦い方",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61050001,
+    "EpisodeMasterId": 610296,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "穏やかな休日",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61050002,
+    "EpisodeMasterId": 610297,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "何を飲みたい？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61050003,
+    "EpisodeMasterId": 610298,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "夕暮れの鍛錬",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61050004,
+    "EpisodeMasterId": 610299,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一緒にランチ",
     "AssetId": null
   },
   {

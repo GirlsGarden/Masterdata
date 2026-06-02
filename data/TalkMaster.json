@@ -877,6 +877,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1483011,
+    "CallCharacterMasterId": 148301,
+    "Order": 145001,
+    "Title": "君といつか帰る約束を",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 148301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400075
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1543011,
     "CallCharacterMasterId": 154301,
     "Order": 154001,

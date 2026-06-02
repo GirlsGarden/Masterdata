@@ -46,6 +46,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 6,
+    "Type": "Character",
+    "DisplayName": "ユウヤ・ブリッジス",
+    "Name": "@Yuya_B",
+    "AssetId": "n10061",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 100001,
     "Type": "Character",
     "DisplayName": "桃園める",
@@ -943,6 +952,33 @@
     "Name": "@Nina_M",
     "AssetId": "147301s",
     "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 148301,
+    "Type": "Character",
+    "DisplayName": "篁唯依「譜代武家・篁家次期当主」",
+    "Name": "@Yui_T",
+    "AssetId": "148301",
+    "CharacterMasterId": 148301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 149301,
+    "Type": "Character",
+    "DisplayName": "タリサ・マナンダル",
+    "Name": "@Tarisa_T",
+    "AssetId": "149301s",
+    "CharacterMasterId": 149301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 150301,
+    "Type": "Character",
+    "DisplayName": "ステラ・ブレーメル",
+    "Name": "@Stella_B",
+    "AssetId": "150301s",
+    "CharacterMasterId": 150301
   },
   {
     "type": "SnsAccountMaster",

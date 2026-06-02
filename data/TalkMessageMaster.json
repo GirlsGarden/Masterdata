@@ -368,7 +368,7 @@
     "TalkMasterId": 1013011,
     "Order": 6,
     "Speaker": "Character",
-    "Message": "どうしてナデシコのしたのかって？\n……その、それは……秘密、ですわ。",
+    "Message": "どうしてナデシコにしたのかって？\n……その、それは……秘密、ですわ。",
     "VoiceAssetId": "6.ogg",
     "VideoBackgroundAssetId": null,
     "VideoSpineAssetId": null
@@ -6530,6 +6530,83 @@
     "Speaker": "Character",
     "Message": "それでは、失礼します……頑張りましょうね、お父様。",
     "VoiceAssetId": "8.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14830111,
+    "TalkMasterId": 1483011,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "……ブリッジス少尉か？\n今、少しいいだろうか。",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14830112,
+    "TalkMasterId": 1483011,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "今日は各々街を案内してもらっていたわけだが、\n少尉の方はどうだったろうか？",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14830113,
+    "TalkMasterId": 1483011,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "私は正直、かなり驚かされた。\nこんな穏やかな光景を見ていると、不思議な気分になる。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14830114,
+    "TalkMasterId": 1483011,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "それと……洋菓子のようなものをご馳走になったのだが、実に美味しかった。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14830115,
+    "TalkMasterId": 1483011,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "……な、なんだその反応は。\n少しくらいそういう話をしてもいいだろう。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14830116,
+    "TalkMasterId": 1483011,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "……私たちはいずれ元の世界へ帰らなければならない。",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14830117,
+    "TalkMasterId": 1483011,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "だからこそ、引き続き力を貸して欲しい。\n……よろしくな、ブリッジス少尉。",
+    "VoiceAssetId": "7.ogg",
     "VideoBackgroundAssetId": null,
     "VideoSpineAssetId": null
   },

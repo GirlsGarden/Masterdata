@@ -428,6 +428,39 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10023,
+    "Rarity": "Sr",
+    "Name": "学園対抗麻雀大会",
+    "Description": "大会がペア戦なのよ！ 私が勝つから、あんたはただ座ってればいいわ！",
+    "AssetId": "10026",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400187,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 10024,
+    "Rarity": "Sr",
+    "Name": "重要指名手配書「ダークドラッグ」",
+    "Description": "大賀「私が描いた絵で意味があるのでしょうか？」 カリナ「まあいいっしょ！特徴は捉えてるし」",
+    "AssetId": "10032",
+    "Highlights": null,
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -2555,6 +2588,191 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20067,
+    "Rarity": "Ssr",
+    "Name": "思い出と重ねて",
+    "Description": "あ、ああ、いえ……申し訳ありません、この世界の…… その、商品名に不慣れなもので。",
+    "AssetId": "148301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 148,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400188,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 4,
+        "CharacterType": null,
+        "SkillMasterId": 400094,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20068,
+    "Rarity": "Ssr",
+    "Name": "一日お嬢様体験記",
+    "Description": "うるさいって何だうるさいって！ あたしは……ちょっと考えが変わっただけだ！",
+    "AssetId": "149301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 149,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400189,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400190,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20069,
+    "Rarity": "Ssr",
+    "Name": "夢のような結末を",
+    "Description": "大人しくして。 ……これ以上、乱暴なことはしたくないわ。",
+    "AssetId": "150301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 150,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400191,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400192,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20070,
+    "Rarity": "Ssr",
+    "Name": "この体なら、いくらで買っちゃう？",
+    "Description": "私の魅力が満載でしょ♡ じ・つ・は……私っていい肉付きなんだよ？",
+    "AssetId": "20044",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20071,
+    "Rarity": "Ssr",
+    "Name": "マル秘写真②「風紀委員長が筋トレ中♡」",
+    "Description": "自分の胸に引っかけて持ち上がらないって… 完全に狙ってるでしょ？偶然見つけて、撮影しちゃったよ♡",
+    "AssetId": "20045",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400086,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Cute",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 4000198,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20072,
+    "Rarity": "Ssr",
+    "Name": "アマネさんの魅力をたーっぷりどうぞ！",
+    "Description": "ボクがイメージしたアマネさんだったらできることを絵にしてみました！ きっとアマネさんならできますよ！",
+    "AssetId": "20046",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Aggressive",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400182,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400027,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -3325,5 +3543,50 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30029,
+    "Rarity": "Ur",
+    "Name": "心の色",
+    "Description": "……イーニァの隣にいられない夜が、 こんなにも寒いとは知らなかった……",
+    "AssetId": "30028",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400193,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400194,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30030,
+    "Rarity": "Ur",
+    "Name": "マル秘写真①「爆発寸前♡アマネのお乳」",
+    "Description": "見てみてーー！！あのアマネの破裂しそうなお乳だよ！？ 私が隙を見て撮っちゃった！",
+    "AssetId": "30038",
+    "Highlights": null,
+    "IsReleased": false
   }
 ]

@@ -448,5 +448,14 @@
     "MEpisodeId": 200909,
     "IllustType": "ADV",
     "AssetId": "10330"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 9021,
+    "Order": 1,
+    "MMazeGuarderId": 902,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "2301"
   }
 ]

@@ -432,5 +432,19 @@
     "LogoFrameAssetId": null,
     "MovieAssetId": null,
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 33,
+    "Name": "The Manor's Favor",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-06-02T12:30:00+09:00",
+    "QuestCloseDate": "2026-06-16T04:59:59+09:00",
+    "EndDate": "2026-06-23T04:59:59+09:00",
+    "Order": 33,
+    "LogoAssetId": "20",
+    "LogoFrameAssetId": "100",
+    "MovieAssetId": "20020",
+    "IntroductionEpisodeMasterId": 300501
   }
 ]
