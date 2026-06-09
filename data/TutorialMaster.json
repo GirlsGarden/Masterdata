@@ -1005,6 +1005,24 @@
     "GachaMasterId": null,
     "GradualMissionGroupMasterId": null,
     "DetailClearCondition": null,
-    "EffectJson": "{\"Performances\":[{\"PerformAt\":\"GrandprixProfile\",\"Frames\":[{\"Text\":\"プロフィールから編成内容を確認することができますよ！\\n編成内容はBET期間になると、どんな生徒が編成されているか分かるようになります！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guidePartyHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"マスターは観戦者ですので、BETについて説明しますね！\\nBETを押してみてください！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideBetButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideBetButtonHole\"}}]},{\"PerformAt\":\"GrandprixBet\",\"Frames\":[{\"Text\":\"BETにはP-1メダルを使用します。\\n試合の勝者を予想してBETしていきましょう！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"PositionType\":2,\"Hole1\":{\"Name\":\"guideBetInfoHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"BETは試合開始前ならいつでもできますが、「編成準備期間」と「BET期間」で違いがありますよ！\\n編成準備期間の方がRATEが高くなっています！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideRateInfoHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"獲得したP-1メダルは交換所からアイテムと交換できますよ！\",\"Character\":\"n10001\",\"OrderInLayer\":21},{\"Hole1\":{\"Name\":\"guideCloseButtonHole\"}}]}],\"Conditions\":[17],\"ProgressTutorials\":[67]}"
+    "EffectJson": "{\"Performances\":[{\"PerformAt\":\"GrandprixProfile\",\"Frames\":[{\"Text\":\"プロフィールから編成内容を確認することができますよ！\\n編成内容はBET期間になると、どんな生徒が編成されているか分かるようになります！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guidePartyHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"マスターは観戦者ですので、BETについて説明しますね！\\nBETを押してみてください！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideBetButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideBetButtonHole\"}}]},{\"PerformAt\":\"GrandprixBet\",\"Frames\":[{\"Text\":\"BETにはP-1メダルを使用します。\\n試合の勝者を予想してBETしていきましょう！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"PositionType\":2,\"Hole1\":{\"Name\":\"guideBetInfoHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"BETは試合開始前ならいつでもできますが、「編成準備期間」と「BET期間」で違いがありますよ！\\n編成準備期間の方がRATEが高くなっています！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideRateInfoHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"獲得したP-1メダルは交換所からアイテムと交換できますよ！\",\"Character\":\"n10001\",\"OrderInLayer\":21},{\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideCloseButtonHole\"}}]}],\"Conditions\":[17],\"ProgressTutorials\":[67]}"
+  },
+  {
+    "type": "TutorialMaster",
+    "Id": 20041,
+    "Category": "FreeTutorial",
+    "StageType": "GrandPrixParticipantV2",
+    "UnlockFunctionMasterId": null,
+    "EpisodeMasterId": null,
+    "SceneFrameOrder": null,
+    "QuestMasterId": null,
+    "CharacterMasterId": null,
+    "SnsTimelineMasterId": null,
+    "TalkMasterId": null,
+    "ShopProductMasterId": null,
+    "GachaMasterId": null,
+    "GradualMissionGroupMasterId": null,
+    "DetailClearCondition": null,
+    "EffectJson": "{\"Performances\":[{\"PerformAt\":\"GrandprixTopParticipantV2\",\"Frames\":[{\"Text\":\"ピコピコピーン！\\nマスタぁ！最強の指揮官を決めるP-1グランプリが始まりましたよ！\",\"Character\":\"n10001\",\"VoiceAssetId\":\"0/81\"},{\"Text\":\"P-1グランプリはトーナメント形式で行われますよ！\\nトーナメントは「予選トーナメント」と「決勝トーナメント」の2種類になります！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideTournamentHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"予選トーナメントに優勝して決勝トーナメントを目指しましょう！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideTournamentHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"トーナメントの進行について説明しますね！\\nトーナメントは、出場者が編成を決定する「編成準備期間」と観戦者が勝敗を当てる「BET期間」が終了したら試合が開始されます！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePeriodTextHole\",\"Block\":1}},{\"Text\":\"トーナメント表の「VSボタン」から試合内容の確認や過去の試合結果を確認することができますよ！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideVsPanelHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"マスターは、出場者ですので編成準備期間までに編成を決定してくださいね♪\\n編成してない場合は不戦敗となってしまいますのでご注意下さい！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePeriodTextHole\",\"Block\":1}},{\"Text\":\"トーナメントを進めると貰える報酬を確認してみましょう！\",\"Character\":\"n10001\"},{\"Hole1\":{\"Name\":\"guideRewardButtonHole\"}}]},{\"PerformAt\":\"GrandprixRewardV2\",\"Frames\":[{\"Text\":\"試合の勝敗に応じて、P-1メダルやフレームを獲得できますよ！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"PositionType\":2,\"Hole1\":{\"Name\":\"guideRewardPanelHole\",\"Block\":1,\"ArrowDirection\":0}},{\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideCloseButtonHole\"}}],\"OnTheWay\":1},{\"PerformAt\":\"GrandprixTopParticipantEndV2\",\"Frames\":[{\"Text\":\"交換所はこちらからも移動できるので、\\nP-1メダルが溜まったら交換しにいきましょう！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideExchangeButtonHole\",\"Block\":1,\"ArrowDirection\":0}}]}],\"Conditions\":[17],\"ProgressTutorials\":[68]}"
   }
 ]

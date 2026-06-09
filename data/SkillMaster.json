@@ -7420,6 +7420,11 @@
             "type": "TagValue",
             "Level": 10,
             "Value": 17.16
+          },
+          {
+            "type": "TagValue",
+            "Level": 15,
+            "Value": 23.32
           }
         ]
       }
@@ -21435,7 +21440,7 @@
         ]
       }
     ],
-    "SkillLevelPatternMasterId": 24,
+    "SkillLevelPatternMasterId": 14,
     "DisplaySkillPowerTagName": "威力",
     "DisplayAttacksCountTagName": "1",
     "DisplayTargetType": "Enemies",
@@ -37633,7 +37638,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身が攻撃を受けた直後に発動。攻撃してきた敵単体に受けたダメージの{dmg}%を与える反撃を行い、自身の不足しているHPの{cure}%を回復する"
+        "Template": "自身が攻撃を受けた直後に発動。攻撃してきた敵単体に受けたダメージの{dmg}%を与える反撃を行い、自身の不足しているHPの{cure}%を回復する。\nこのスキルは「氷結のシンフォニー」と同タイミングでは発動しない"
       }
     ],
     "TemplateTags": [
@@ -54667,12 +54672,42 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "威力",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
-            "Value": 60
+            "Value": 50
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 53.1
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 59.32
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 62.42
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 68.64
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 71.74
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 78
           }
         ]
       }
@@ -112532,7 +112567,7 @@
   {
     "type": "SkillMaster",
     "Id": 400193,
-    "Name": "会心ダメージ上昇【前衛】",
+    "Name": "会心ダメージ上昇【ALL】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -112553,7 +112588,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "戦闘開始時に発動。味方前衛の会心ダメージを15%上昇させる"
+        "Template": "戦闘開始時に発動。味方全体の会心ダメージを10%上昇させる"
       }
     ],
     "TemplateTags": null,

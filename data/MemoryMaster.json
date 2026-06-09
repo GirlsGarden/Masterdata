@@ -453,8 +453,8 @@
     "type": "MemoryMaster",
     "Id": 10024,
     "Rarity": "Sr",
-    "Name": "重要指名手配書「ダークドラッグ」",
-    "Description": "大賀「私が描いた絵で意味があるのでしょうか？」 カリナ「まあいいっしょ！特徴は捉えてるし」",
+    "Name": "重要指名手配犯「ダークドラッグ」",
+    "Description": "大賀「カリナ！こちらが似顔絵です！」 カリナ「...さすがいいんちょ～！」",
     "AssetId": "10032",
     "Highlights": null,
     "IsReleased": false
@@ -2654,7 +2654,7 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
@@ -2689,24 +2689,24 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
     "Id": 20070,
     "Rarity": "Ssr",
-    "Name": "この体なら、いくらで買っちゃう？",
-    "Description": "私の魅力が満載でしょ♡ じ・つ・は……私っていい肉付きなんだよ？",
+    "Name": "裏アカ男子とツナガリタイ♡ver1",
+    "Description": "#着てる？ #着てない？",
     "AssetId": "20044",
     "Highlights": null,
-    "IsReleased": true
+    "IsReleased": false
   },
   {
     "type": "MemoryMaster",
     "Id": 20071,
     "Rarity": "Ssr",
-    "Name": "マル秘写真②「風紀委員長が筋トレ中♡」",
-    "Description": "自分の胸に引っかけて持ち上がらないって… 完全に狙ってるでしょ？偶然見つけて、撮影しちゃったよ♡",
+    "Name": "裏アカ男子とツナガリタイ♡ver3",
+    "Description": "#大きい？ #大きくない？",
     "AssetId": "20045",
     "Highlights": [
       {
@@ -2740,8 +2740,8 @@
     "type": "MemoryMaster",
     "Id": 20072,
     "Rarity": "Ssr",
-    "Name": "アマネさんの魅力をたーっぷりどうぞ！",
-    "Description": "ボクがイメージしたアマネさんだったらできることを絵にしてみました！ きっとアマネさんならできますよ！",
+    "Name": "さすがボクですね！マスター！",
+    "Description": "もうすぐ夏なのでスイカ割りなんていかがでしょうか！ 夏らしいアマネさん素敵ですね！",
     "AssetId": "20046",
     "Highlights": [
       {
@@ -3550,20 +3550,8 @@
     "Rarity": "Ur",
     "Name": "心の色",
     "Description": "……イーニァの隣にいられない夜が、 こんなにも寒いとは知らなかった……",
-    "AssetId": "30028",
+    "AssetId": "30031",
     "Highlights": [
-      {
-        "type": "MemoryHighlight",
-        "CharacterMasterId": null,
-        "CharacterBaseMasterId": null,
-        "CharacterTeamMasterId": null,
-        "CharacterRole": null,
-        "CharacterAttribute": null,
-        "PartyPosition": 7,
-        "CharacterType": null,
-        "SkillMasterId": 400193,
-        "IsTargetingFriendlyParty": true
-      },
       {
         "type": "MemoryHighlight",
         "CharacterMasterId": null,
@@ -3583,8 +3571,8 @@
     "type": "MemoryMaster",
     "Id": 30030,
     "Rarity": "Ur",
-    "Name": "マル秘写真①「爆発寸前♡アマネのお乳」",
-    "Description": "見てみてーー！！あのアマネの破裂しそうなお乳だよ！？ 私が隙を見て撮っちゃった！",
+    "Name": "裏アカ男子とツナガリタイ♡ver2",
+    "Description": "#破けてる？ #破けてない？",
     "AssetId": "30038",
     "Highlights": null,
     "IsReleased": false

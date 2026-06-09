@@ -214,5 +214,50 @@
     "IsInitialOwnership": false,
     "Name": "P-1グランプリ：Vol.01「優勝フレーム」",
     "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 25,
+    "Order": 14,
+    "AssetId": "20018",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.02「参加フレーム」",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 26,
+    "Order": 15,
+    "AssetId": "20019",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.02「予選優勝」",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 27,
+    "Order": 16,
+    "AssetId": "20020",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.02「ベスト4フレーム」",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 28,
+    "Order": 17,
+    "AssetId": "20021",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.02「準優勝フレーム」",
+    "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 29,
+    "Order": 18,
+    "AssetId": "20022",
+    "IsInitialOwnership": false,
+    "Name": "P-1グランプリ：Vol.02「優勝フレーム」",
+    "Description": "プロフィールアイコンで使用できるフレーム"
   }
 ]

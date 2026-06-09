@@ -62,5 +62,69 @@
     "TournamentPhase": "GrandFinal",
     "VictoryRewardPackageMasterId": 50013,
     "DefeatRewardPackageMasterId": 50014
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1011,
+    "GrandPrixPhaseRewardGroupMasterId": 101,
+    "TournamentPhase": "GroupStage1",
+    "VictoryRewardPackageMasterId": 50018,
+    "DefeatRewardPackageMasterId": 50019
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1012,
+    "GrandPrixPhaseRewardGroupMasterId": 101,
+    "TournamentPhase": "GroupStage2",
+    "VictoryRewardPackageMasterId": 50003,
+    "DefeatRewardPackageMasterId": 50004
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1013,
+    "GrandPrixPhaseRewardGroupMasterId": 101,
+    "TournamentPhase": "GroupStage3",
+    "VictoryRewardPackageMasterId": 50005,
+    "DefeatRewardPackageMasterId": 50006
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1014,
+    "GrandPrixPhaseRewardGroupMasterId": 101,
+    "TournamentPhase": "GroupStage4",
+    "VictoryRewardPackageMasterId": 50020,
+    "DefeatRewardPackageMasterId": 50008
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1015,
+    "GrandPrixPhaseRewardGroupMasterId": 101,
+    "TournamentPhase": "QuarterFinals",
+    "VictoryRewardPackageMasterId": 50009,
+    "DefeatRewardPackageMasterId": 50010
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1016,
+    "GrandPrixPhaseRewardGroupMasterId": 101,
+    "TournamentPhase": "SemiFinals",
+    "VictoryRewardPackageMasterId": 50011,
+    "DefeatRewardPackageMasterId": null
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1017,
+    "GrandPrixPhaseRewardGroupMasterId": 101,
+    "TournamentPhase": "Finals",
+    "VictoryRewardPackageMasterId": 50011,
+    "DefeatRewardPackageMasterId": 50021
+  },
+  {
+    "type": "GrandPrixPhaseRewardMaster",
+    "Id": 1018,
+    "GrandPrixPhaseRewardGroupMasterId": 101,
+    "TournamentPhase": "GrandFinal",
+    "VictoryRewardPackageMasterId": 50022,
+    "DefeatRewardPackageMasterId": 50023
   }
 ]

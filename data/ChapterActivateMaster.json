@@ -138,5 +138,19 @@
     "ChapterMasterId": 200025,
     "ItemMasterId": 130001,
     "RequiredItemQuantity": 1
+  },
+  {
+    "type": "ChapterActivateMaster",
+    "Id": 21,
+    "ChapterMasterId": 200026,
+    "ItemMasterId": 130001,
+    "RequiredItemQuantity": 1
+  },
+  {
+    "type": "ChapterActivateMaster",
+    "Id": 22,
+    "ChapterMasterId": 200027,
+    "ItemMasterId": 130001,
+    "RequiredItemQuantity": 1
   }
 ]

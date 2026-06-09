@@ -3537,6 +3537,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40007611,
+    "SceneBranchMasterId": 4000761,
+    "Answer": "タリサを見て笑みを浮かべる。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007612,
+    "SceneBranchMasterId": 4000761,
+    "Answer": "タリサを見て面白がる。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007711,
+    "SceneBranchMasterId": 4000771,
+    "Answer": "更に強く押さえつける",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007712,
+    "SceneBranchMasterId": 4000771,
+    "Answer": "強く腕をねじりあげる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -8878,6 +8910,134 @@
     "Answer": "ノヴァセレス料理のお店はどうだ？",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1483011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61111011,
+    "SceneBranchMasterId": 6111101,
+    "Answer": "寂しかったのか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1493012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61111012,
+    "SceneBranchMasterId": 6111101,
+    "Answer": "ちょっと度が強いか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1493011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61112011,
+    "SceneBranchMasterId": 6111201,
+    "Answer": "俺からも言っといてやるよ。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1493012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61112012,
+    "SceneBranchMasterId": 6111201,
+    "Answer": "中尉が正しい。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1493011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61113011,
+    "SceneBranchMasterId": 6111301,
+    "Answer": "組み手でもするか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1493012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61113012,
+    "SceneBranchMasterId": 6111301,
+    "Answer": "紅茶をもらおうか。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1493011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61114011,
+    "SceneBranchMasterId": 6111401,
+    "Answer": "似合っている。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1493012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61114012,
+    "SceneBranchMasterId": 6111401,
+    "Answer": "サマになってるんじゃないか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1493011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61115011,
+    "SceneBranchMasterId": 6111501,
+    "Answer": "教えてもらう。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1503012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61115012,
+    "SceneBranchMasterId": 6111501,
+    "Answer": "お願いをする。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1503011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61116011,
+    "SceneBranchMasterId": 6111601,
+    "Answer": "違和感はない。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1503012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61116012,
+    "SceneBranchMasterId": 6111601,
+    "Answer": "違和感がある。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1503011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61117011,
+    "SceneBranchMasterId": 6111701,
+    "Answer": "護衛任務もある。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1503012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61117012,
+    "SceneBranchMasterId": 6111701,
+    "Answer": "いつ帰るかわからない。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1503011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61118011,
+    "SceneBranchMasterId": 6111801,
+    "Answer": "寄ってみるか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1503012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61118012,
+    "SceneBranchMasterId": 6111801,
+    "Answer": "必要ないだろ。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1503011
   },
   {
     "type": "SceneBranchSelectionMaster",

@@ -457,5 +457,23 @@
     "MEpisodeId": null,
     "IllustType": "ThreeViewDiagram",
     "AssetId": "2301"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 9031,
+    "Order": 1,
+    "MMazeGuarderId": 903,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "2401"
+  },
+  {
+    "type": "MazeGuarderIllustrationMaster",
+    "Id": 9041,
+    "Order": 1,
+    "MMazeGuarderId": 904,
+    "MEpisodeId": null,
+    "IllustType": "ThreeViewDiagram",
+    "AssetId": "2501"
   }
 ]

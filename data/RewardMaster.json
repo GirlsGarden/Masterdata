@@ -847,6 +847,96 @@
   },
   {
     "type": "RewardMaster",
+    "Id": 4241,
+    "RewardPackageMasterId": 424,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 50,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4242,
+    "RewardPackageMasterId": 424,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 201210,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4251,
+    "RewardPackageMasterId": 425,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 50,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4252,
+    "RewardPackageMasterId": 425,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 201211,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4261,
+    "RewardPackageMasterId": 426,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 50,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4262,
+    "RewardPackageMasterId": 426,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 201212,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4271,
+    "RewardPackageMasterId": 427,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 50,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4272,
+    "RewardPackageMasterId": 427,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 201213,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4281,
+    "RewardPackageMasterId": 428,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 50,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 4282,
+    "RewardPackageMasterId": 428,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 201214,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
     "Id": 8001,
     "RewardPackageMasterId": 800,
     "Order": 0,
@@ -5641,6 +5731,105 @@
     "ThingType": "Item",
     "ThingId": 110022,
     "ThingQuantity": 1500
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500171,
+    "RewardPackageMasterId": 50017,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 110022,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500181,
+    "RewardPackageMasterId": 50018,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 110022,
+    "ThingQuantity": 2250
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500182,
+    "RewardPackageMasterId": 50018,
+    "Order": 0,
+    "ThingType": "ThumbnailFrame",
+    "ThingId": 25,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500191,
+    "RewardPackageMasterId": 50019,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 110022,
+    "ThingQuantity": 1500
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500192,
+    "RewardPackageMasterId": 50019,
+    "Order": 0,
+    "ThingType": "ThumbnailFrame",
+    "ThingId": 25,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500201,
+    "RewardPackageMasterId": 50020,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 110022,
+    "ThingQuantity": 4800
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500202,
+    "RewardPackageMasterId": 50020,
+    "Order": 0,
+    "ThingType": "ThumbnailFrame",
+    "ThingId": 26,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500211,
+    "RewardPackageMasterId": 50021,
+    "Order": 0,
+    "ThingType": "ThumbnailFrame",
+    "ThingId": 27,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500221,
+    "RewardPackageMasterId": 50022,
+    "Order": 0,
+    "ThingType": "Item",
+    "ThingId": 110022,
+    "ThingQuantity": 1000
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500222,
+    "RewardPackageMasterId": 50022,
+    "Order": 0,
+    "ThingType": "ThumbnailFrame",
+    "ThingId": 29,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 500231,
+    "RewardPackageMasterId": 50023,
+    "Order": 0,
+    "ThingType": "ThumbnailFrame",
+    "ThingId": 28,
+    "ThingQuantity": 1
   },
   {
     "type": "RewardMaster",

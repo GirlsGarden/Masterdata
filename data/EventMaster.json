@@ -1297,6 +1297,22 @@
   },
   {
     "type": "EventMaster",
+    "Id": 6006,
+    "EventGroupMasterId": 32,
+    "Name": "P-1グランプリ",
+    "Type": "GrandPrix",
+    "StartDate": "2026-06-09T12:30:00+09:00",
+    "QuestCloseDate": "2026-06-21T19:00:00+09:00",
+    "EndDate": "2026-06-29T04:59:59+09:00",
+    "Order": 1,
+    "LogoAssetId": null,
+    "BackgroundAssetId": "30292",
+    "SpoilerAlertMasterId": null,
+    "BackgroundAssetType": "Adventure",
+    "BgmAssetId": "20014"
+  },
+  {
+    "type": "EventMaster",
     "Id": 7001,
     "EventGroupMasterId": null,
     "Name": "1章～6章あらすじ",

@@ -5081,6 +5081,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40007601,
+    "EpisodeMasterId": 400076,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一日お嬢様体験記",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007602,
+    "EpisodeMasterId": 400076,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "一日お嬢様体験記",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007701,
+    "EpisodeMasterId": 400077,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "夢のような結末を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007702,
+    "EpisodeMasterId": 400077,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "夢のような結末を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -8817,6 +8857,86 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "一緒にランチ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61051001,
+    "EpisodeMasterId": 610300,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "盃を交わす",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61051002,
+    "EpisodeMasterId": 610301,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "経費にできる？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61051003,
+    "EpisodeMasterId": 610302,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "二人で訓練",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61051004,
+    "EpisodeMasterId": 610303,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "タリサとメイド服",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61052001,
+    "EpisodeMasterId": 610304,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "出張メイドサービス",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61052002,
+    "EpisodeMasterId": 610305,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "メイド服はお似合い？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61052003,
+    "EpisodeMasterId": 610306,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "日頃から鍛錬を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61052004,
+    "EpisodeMasterId": 610307,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "女心は難しい？",
     "AssetId": null
   },
   {

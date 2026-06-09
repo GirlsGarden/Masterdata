@@ -806,5 +806,29 @@
     "Order": 722,
     "UnlockGemQuantity": 100,
     "AssetId": "40062"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 102,
+    "Name": "ノヴァセレス_貴族屋敷客室_その他",
+    "Order": 730,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80150"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 103,
+    "Name": "ノヴァセレス_貴族屋敷廊下_その他",
+    "Order": 740,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80160"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 104,
+    "Name": "ノヴァセレス_貴族屋敷執務室_その他",
+    "Order": 750,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80170"
   }
 ]

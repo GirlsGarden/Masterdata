@@ -889,6 +889,30 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1493011,
+    "CallCharacterMasterId": 149301,
+    "Order": 146001,
+    "Title": "楽な道はない？",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 149301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400076
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1503011,
+    "CallCharacterMasterId": 150301,
+    "Order": 146001,
+    "Title": "この世界で学んだこと",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 150301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400077
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1543011,
     "CallCharacterMasterId": 154301,
     "Order": 154001,

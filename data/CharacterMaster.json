@@ -3290,14 +3290,14 @@
     "BonusDefensePerLevel": 106,
     "BonusSpeedPerLevel": 3,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "143301",
+    "ModelAssetId": "149301",
     "CockpitAssetId": null,
     "MinCombatPower": 5605,
     "MaxCombatPower": 93037,
     "PositionType": "Front",
     "RoleType": "PhysicalAttacker",
     "GachaBackgroundAssetId": "50012",
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "CharacterMaster",
@@ -3334,14 +3334,14 @@
     "BonusDefensePerLevel": 100,
     "BonusSpeedPerLevel": 2,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "144301",
+    "ModelAssetId": "150301",
     "CockpitAssetId": null,
     "MinCombatPower": 4844,
     "MaxCombatPower": 90325,
     "PositionType": "Back",
     "RoleType": "Control",
     "GachaBackgroundAssetId": "50012",
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "CharacterMaster",
