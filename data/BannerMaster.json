@@ -151,5 +151,27 @@
       "GooglePlay",
       "SpIOS"
     ]
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 3017,
+    "Order": 1,
+    "ImageStaticPath": "1017",
+    "StartDate": "2026-06-11T12:00:00+09:00",
+    "EndDate": "2026-06-23T04:59:59+09:00",
+    "JumpType": "LimitedTimeShop",
+    "JumpTargetId": 232,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS"
+    ]
   }
 ]
