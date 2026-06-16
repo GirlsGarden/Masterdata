@@ -71,6 +71,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 105302,
+    "Name": "大人っぽいドレス",
+    "Description": "生駒葵「優雅なる規律の花」の専用OSです。",
+    "AssetId": "105302"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 106301,
     "Name": "夢羊",
     "Description": "波瀬うるう「臆病な褒められたがり少女」の専用OSです。",
@@ -110,6 +117,13 @@
     "Name": "執行者",
     "Description": "夕凪舞亜「温厚篤実な面倒くさがり」の専用OSです。",
     "AssetId": "109301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 109302,
+    "Name": "shall we dance",
+    "Description": "夕凪舞亜「眠れる社交界の淑女」の専用OSです。",
+    "AssetId": "109302"
   },
   {
     "type": "OperatingSystemMaster",

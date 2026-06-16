@@ -589,6 +589,30 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 50,
+    "Name": "NOBLE COURTESIES",
+    "Order": 50,
+    "LengthSeconds": 92,
+    "IsRequiredUnlock": true,
+    "AssetId": "10036",
+    "StartLoopPointSampleCounts": 113639,
+    "EndLoopPointSampleCounts": 3969236,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 51,
+    "Name": "Majestic Hectic",
+    "Order": 51,
+    "LengthSeconds": 92,
+    "IsRequiredUnlock": true,
+    "AssetId": "20016",
+    "StartLoopPointSampleCounts": 140,
+    "EndLoopPointSampleCounts": 4119323,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

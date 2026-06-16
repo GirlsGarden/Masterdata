@@ -3491,6 +3491,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20150101,
+    "EpisodeMasterId": 201501,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "いざ、煌びやかな戦場へ！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20150201,
+    "EpisodeMasterId": 201502,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "消えぬ過去との再会",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20150301,
+    "EpisodeMasterId": 201503,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "信頼が意味するもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20150401,
+    "EpisodeMasterId": 201504,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "苦い後悔の記憶",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20150501,
+    "EpisodeMasterId": 201505,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "社交界5話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20150601,
+    "EpisodeMasterId": 201506,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "社交界6話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20150701,
+    "EpisodeMasterId": 201507,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "社交界7話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20150801,
+    "EpisodeMasterId": 201508,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "社交界8話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -5121,6 +5201,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40007801,
+    "EpisodeMasterId": 400078,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "知らない姿に目を奪われて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007802,
+    "EpisodeMasterId": 400078,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "知らない姿に目を奪われて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007901,
+    "EpisodeMasterId": 400079,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "隣で踊る貴方となら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40007902,
+    "EpisodeMasterId": 400079,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "隣で踊る貴方となら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -5857,6 +5977,46 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "心の色",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004001,
+    "EpisodeMasterId": 500040,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "知らない世界の知らない彼女",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004002,
+    "EpisodeMasterId": 500040,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "知らない世界の知らない彼女",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004003,
+    "EpisodeMasterId": 500041,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お嬢様直伝マナー講座",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004004,
+    "EpisodeMasterId": 500041,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "お嬢様直伝マナー講座",
     "AssetId": null
   },
   {
@@ -8937,6 +9097,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "女心は難しい？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61053001,
+    "EpisodeMasterId": 610308,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ゴージャスでエレガント",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61053002,
+    "EpisodeMasterId": 610309,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "学食のドレスコード？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61053003,
+    "EpisodeMasterId": 610310,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "シャル・ウィ・ダンス？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61053004,
+    "EpisodeMasterId": 610311,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "常在戦場",
     "AssetId": null
   },
   {

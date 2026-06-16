@@ -1339,6 +1339,18 @@
   },
   {
     "type": "SceneBranchMaster",
+    "Id": 4000781,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 4000791,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
     "Id": 5000031,
     "Type": "Normal",
     "IsRequireSelection": false
@@ -1538,6 +1550,12 @@
   {
     "type": "SceneBranchMaster",
     "Id": 5000371,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 5000401,
     "Type": "Normal",
     "IsRequireSelection": false
   },
@@ -3386,6 +3404,30 @@
   {
     "type": "SceneBranchMaster",
     "Id": 6111801,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6111901,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6112001,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6112101,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6112201,
     "Type": "Spot",
     "IsRequireSelection": false
   },

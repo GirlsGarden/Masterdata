@@ -1669,6 +1669,91 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 2035,
+    "Names": {
+      "Ssr": "強欲の契約書"
+    },
+    "Descriptions": {
+      "Lr": "全ては俺の所有物だ、バトル後、タツミヤ鉱を\u003ccolor=#ff701a\u003e666個\u003c/color\u003e獲得する。",
+      "Ssr": "全ては俺の所有物だ、バトル後、味方全体のHPが\u003ccolor=#00aab9\u003e10%ダウン\u003c/color\u003eするが、タツミヤ鉱を\u003ccolor=#ff701a\u003e444個\u003c/color\u003e獲得する。",
+      "Ur": "全ては俺の所有物だ、バトル後、味方全体のHPが\u003ccolor=#00aab9\u003e5%ダウン\u003c/color\u003eするが、タツミヤ鉱を\u003ccolor=#ff701a\u003e555個\u003c/color\u003e獲得する。"
+    },
+    "AssetIds": {
+      "Ssr": "2035"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2036,
+    "Names": {
+      "Ssr": "暴食の契約書"
+    },
+    "Descriptions": {
+      "Lr": "強者は喰らう全部だ…、戦闘開始時、\u003ccolor=#ff701a\u003eAP・PPを+2\u003c/color\u003eする。",
+      "Ssr": "強者は喰らう全部だ…、戦闘開始時、味方全体の行動速度が\u003ccolor=#00aab9\u003e30%ダウン\u003c/color\u003eするが、\u003ccolor=#ff701a\u003eAPを+1\u003c/color\u003eする。",
+      "Ur": "強者は喰らう全部だ…、戦闘開始時、味方全体の行動速度が\u003ccolor=#00aab9\u003e15%ダウン\u003c/color\u003eするが、\u003ccolor=#ff701a\u003eAP・PPを+1\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Ssr": "2036"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2037,
+    "Names": {
+      "Ssr": "色欲の契約書"
+    },
+    "Descriptions": {
+      "Lr": "愛して…愛して…私を、バトル出撃時、味方全員のHPを\u003ccolor=#27D327\u003e75%回復\u003c/color\u003eする。",
+      "Ssr": "愛して…愛して…私を、バトル出撃時、味方全員のHPを\u003ccolor=#27D327\u003e50%回復\u003c/color\u003eするが、バトル後、味方全体のHPが\u003ccolor=#00aab9\u003e20%ダウン\u003c/color\u003eする。",
+      "Ur": "愛して…愛して…私を、バトル出撃時、味方全員のHPを\u003ccolor=#27D327\u003e60%回復\u003c/color\u003eするが、バトル後、味方全体のHPが\u003ccolor=#00aab9\u003e10%ダウン\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Ssr": "2037"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2038,
+    "Names": {
+      "Ssr": "傲慢の契約書"
+    },
+    "Descriptions": {
+      "Lr": "",
+      "Ssr": "敗北を味わいたい…、",
+      "Ur": ""
+    },
+    "AssetIds": {
+      "Ssr": "2038"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2039,
+    "Names": {
+      "Ssr": "嫉妬の契約書"
+    },
+    "Descriptions": {
+      "Lr": "",
+      "Ssr": "憎い憎い憎ぃ憎ぃ",
+      "Ur": ""
+    },
+    "AssetIds": {
+      "Ssr": "2039"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 3001,
     "Names": {
       "Sr": "デスコード"

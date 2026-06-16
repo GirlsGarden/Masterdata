@@ -461,6 +461,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10025,
+    "Rarity": "Sr",
+    "Name": "知らない世界の知らない彼女",
+    "Description": "あたしはこんなの滅多に着ないから、 今のうちにその目に焼き付けといたほうがいいよ～？",
+    "AssetId": "10027",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": "Agility",
+        "SkillMasterId": 400199,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -2730,7 +2753,7 @@
         "CharacterAttribute": "Cute",
         "PartyPosition": null,
         "CharacterType": null,
-        "SkillMasterId": 4000198,
+        "SkillMasterId": 400198,
         "IsTargetingFriendlyParty": true
       }
     ],
@@ -2766,6 +2789,76 @@
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400027,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20073,
+    "Rarity": "Ssr",
+    "Name": "知らない姿に目を奪われて",
+    "Description": "や、やめてください！ 私の記憶にもないような昔の話など恥ずかしいことを言うのは！",
+    "AssetId": "105302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 105,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400200,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 1,
+        "CharacterType": null,
+        "SkillMasterId": 400149,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20074,
+    "Rarity": "Ssr",
+    "Name": "隣で踊る貴方となら",
+    "Description": "ふふ……ダンスは勝負じゃないから、勝ち負けはないわよ？",
+    "AssetId": "109302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 109,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400201,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Aggressive",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400202,
         "IsTargetingFriendlyParty": true
       }
     ],
@@ -3575,6 +3668,29 @@
     "Description": "#破けてる？ #破けてない？",
     "AssetId": "30038",
     "Highlights": null,
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30031,
+    "Rarity": "Ur",
+    "Name": "お嬢様直伝マナー講座",
+    "Description": "誰がママですか…… ほら、ちゆるさん。もっと手を上げてくださる？",
+    "AssetId": "30032",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 7,
+        "CharacterType": null,
+        "SkillMasterId": 400204,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
     "IsReleased": false
   }
 ]

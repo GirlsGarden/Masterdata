@@ -460,5 +460,19 @@
     "LogoFrameAssetId": "100",
     "MovieAssetId": "20020",
     "IntroductionEpisodeMasterId": 300501
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 34,
+    "Name": "花束と喜遊曲",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-06-16T12:30:00+09:00",
+    "QuestCloseDate": "2026-06-30T04:59:59+09:00",
+    "EndDate": "2026-07-07T04:59:59+09:00",
+    "Order": 34,
+    "LogoAssetId": "21",
+    "LogoFrameAssetId": "100",
+    "MovieAssetId": "20021",
+    "IntroductionEpisodeMasterId": null
   }
 ]

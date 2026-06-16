@@ -298,6 +298,15 @@
   },
   {
     "type": "MazeMissionStageMaster",
+    "Id": 300161,
+    "MazeMissionMasterId": 30016,
+    "Order": 1,
+    "StageGoalValue": 1,
+    "Name": "【新レリック解放】暴食の契約書",
+    "Description": "エリア340以上でタツミヤ鉱を6000以上集めてクリアでレリック【暴食の契約書】がメイズ探索中に発見される事がある。"
+  },
+  {
+    "type": "MazeMissionStageMaster",
     "Id": 400011,
     "MazeMissionMasterId": 40001,
     "Order": 1,
@@ -619,5 +628,23 @@
     "StageGoalValue": 320,
     "Name": "【新レリック解放】魂の契約書",
     "Description": "メイズ探索第320エリアをクリアでレリック【魂の契約書】がメイズ探索中に発見される事がある。\t"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000117,
+    "MazeMissionMasterId": 20001,
+    "Order": 18,
+    "StageGoalValue": 340,
+    "Name": "【新レリック解放】強欲の契約書",
+    "Description": "メイズ探索第340エリアをクリアでレリック【強欲の契約書】がメイズ探索中に発見される事がある。\t"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000118,
+    "MazeMissionMasterId": 20001,
+    "Order": 19,
+    "StageGoalValue": 350,
+    "Name": "【新レリック解放】色欲の契約書",
+    "Description": "メイズ探索第350エリアをクリアでレリック【色欲の契約書】がメイズ探索中に発見される事がある。\t"
   }
 ]

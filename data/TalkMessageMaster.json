@@ -1299,6 +1299,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 10530211,
+    "TalkMasterId": 1053021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし、%usernameusernameuserna%だろうか？\n生駒葵だ……先日は家族が失礼をした。",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10530212,
+    "TalkMasterId": 1053021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "あの後、一回実家に顔を出したのだが……父上も兄上も、\n%usernameusernameuserna%の話ばかりでな……",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10530213,
+    "TalkMasterId": 1053021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "それを聞いた母上まで、興味を持って質問攻めをしてきて……\nと、すまない、愚痴になってしまった。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10530214,
+    "TalkMasterId": 1053021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "%usernameusernameuserna%のおかげで、父上も兄上も\n楽しそうだった……それに、あの時とっさに庇ってくれたろう？",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10530215,
+    "TalkMasterId": 1053021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "それが嬉しくて……感謝したいと思ってな。\nありがとう、%usernameusernameuserna%。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10530216,
+    "TalkMasterId": 1053021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "……それと、もしかしたら母上が会いたいというかもしれなくてな。\nその時には……なんだ、その……よろしく頼んでもいいだろうか？",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10530217,
+    "TalkMasterId": 1053021,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "……考えてくれるだけでいい。それでは、今度は学園でな。\n失礼する。",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 10630111,
     "TalkMasterId": 1063011,
     "Order": 1,

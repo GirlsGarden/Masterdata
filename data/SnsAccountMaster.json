@@ -253,6 +253,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 105302,
+    "Type": "Character",
+    "DisplayName": "生駒葵「優雅なる規律の花」",
+    "Name": "@Aoi_I",
+    "AssetId": "105302",
+    "CharacterMasterId": 105302
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 106001,
     "Type": "Character",
     "DisplayName": "波瀬うるう",
@@ -322,6 +331,15 @@
     "Name": "@Maia_Y",
     "AssetId": "109301",
     "CharacterMasterId": 109301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 109302,
+    "Type": "Character",
+    "DisplayName": "夕凪舞亜",
+    "Name": "@Maia_Y",
+    "AssetId": "109302s",
+    "CharacterMasterId": 109302
   },
   {
     "type": "SnsAccountMaster",

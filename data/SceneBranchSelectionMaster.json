@@ -3569,6 +3569,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40007811,
+    "SceneBranchMasterId": 4000781,
+    "Answer": "下らなくはないだろう",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007812,
+    "SceneBranchMasterId": 4000781,
+    "Answer": "ぜひ続きを聞きたいな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007911,
+    "SceneBranchMasterId": 4000791,
+    "Answer": "できるのか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40007912,
+    "SceneBranchMasterId": 4000791,
+    "Answer": "どうやればいい？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -4108,6 +4140,22 @@
     "Id": 50003712,
     "SceneBranchMasterId": 5000371,
     "Answer": "もしシメるならその格好で……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004011,
+    "SceneBranchMasterId": 5000401,
+    "Answer": "しっかり見ておこう",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004012,
+    "SceneBranchMasterId": 5000401,
+    "Answer": "すでに焼き付けてある",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -9038,6 +9086,70 @@
     "Answer": "必要ないだろ。",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1503011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61119011,
+    "SceneBranchMasterId": 6111901,
+    "Answer": "そのドレスは魅力的すぎる",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1053021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61119012,
+    "SceneBranchMasterId": 6111901,
+    "Answer": "いつも通りが一番だ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1053022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61120011,
+    "SceneBranchMasterId": 6112001,
+    "Answer": "パーティーだと思えばいい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1053021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61120012,
+    "SceneBranchMasterId": 6112001,
+    "Answer": "人目なんか気にするな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1053022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61121011,
+    "SceneBranchMasterId": 6112101,
+    "Answer": "相手が葵だから張り切ってるんだ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1053021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61121012,
+    "SceneBranchMasterId": 6112101,
+    "Answer": "先生がいいからな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1053022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61122011,
+    "SceneBranchMasterId": 6112201,
+    "Answer": "不意打ちをしかける。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1053021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61122012,
+    "SceneBranchMasterId": 6112201,
+    "Answer": "まずは腕立て伏せ五十回！！",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1053022
   },
   {
     "type": "SceneBranchSelectionMaster",

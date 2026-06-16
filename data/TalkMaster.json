@@ -181,6 +181,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1053021,
+    "CallCharacterMasterId": 105302,
+    "Order": 105002,
+    "Title": "私の好きな家族",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 105302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400078
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1063011,
     "CallCharacterMasterId": 106301,
     "Order": 106001,
