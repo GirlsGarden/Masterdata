@@ -265,6 +265,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1093021,
+    "CallCharacterMasterId": 109302,
+    "Order": 109002,
+    "Title": "受け入れてくれた私。",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 109302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400079
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1103011,
     "CallCharacterMasterId": 110301,
     "Order": 110001,

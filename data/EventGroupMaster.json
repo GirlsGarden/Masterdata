@@ -474,5 +474,19 @@
     "LogoFrameAssetId": "100",
     "MovieAssetId": "20021",
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 35,
+    "Name": "複合戦術演習",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-06-23T12:30:00+09:00",
+    "QuestCloseDate": "2026-07-04T04:59:59+09:00",
+    "EndDate": "2026-07-11T04:59:59+09:00",
+    "Order": 99,
+    "LogoAssetId": null,
+    "LogoFrameAssetId": null,
+    "MovieAssetId": null,
+    "IntroductionEpisodeMasterId": null
   }
 ]

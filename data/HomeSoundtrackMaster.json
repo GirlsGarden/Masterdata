@@ -613,6 +613,30 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 52,
+    "Name": "Splash Strike!",
+    "Order": 52,
+    "LengthSeconds": 98,
+    "IsRequiredUnlock": true,
+    "AssetId": "10037",
+    "StartLoopPointSampleCounts": 64025,
+    "EndLoopPointSampleCounts": 4425916,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 53,
+    "Name": "Shiny Beachside",
+    "Order": 53,
+    "LengthSeconds": 103,
+    "IsRequiredUnlock": true,
+    "AssetId": "20017",
+    "StartLoopPointSampleCounts": 531741,
+    "EndLoopPointSampleCounts": 5091003,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

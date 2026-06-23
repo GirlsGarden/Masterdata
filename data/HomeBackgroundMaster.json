@@ -830,5 +830,21 @@
     "Order": 750,
     "UnlockGemQuantity": 100,
     "AssetId": "80170"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 105,
+    "Name": "アマツ_パーティー会場_昼",
+    "Order": 762,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80182"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 106,
+    "Name": "シミュレーション室_特殊1",
+    "Order": 215,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30135"
   }
 ]

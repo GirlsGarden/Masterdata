@@ -2862,7 +2862,7 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
@@ -3689,6 +3689,29 @@
         "CharacterType": null,
         "SkillMasterId": 400204,
         "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30032,
+    "Rarity": "Ur",
+    "Name": "お傍にいるのはいつでもピコですよ♪",
+    "Description": "マスタぁ！とてもおめでたいことですよね！ こういった嬉しいことはずーーっとつづいてほしいですね！",
+    "AssetId": "30037",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 16,
+        "CharacterType": null,
+        "SkillMasterId": 400205,
+        "IsTargetingFriendlyParty": true
       }
     ],
     "IsReleased": false

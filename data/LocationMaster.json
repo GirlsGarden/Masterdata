@@ -1904,5 +1904,19 @@
     "BackgroundAssetType": "Adventure",
     "MovieAssetId": null,
     "MovieBgmAssetId": null
+  },
+  {
+    "type": "LocationMaster",
+    "Id": 30001,
+    "EventMasterId": 9001,
+    "Type": "CompositeTactic",
+    "Name": "複合戦術演習",
+    "Order": 1,
+    "AssetId": "30135",
+    "DailyTryCount": 5,
+    "DayOfWeekFlags": "None",
+    "BackgroundAssetType": "Adventure",
+    "MovieAssetId": null,
+    "MovieBgmAssetId": null
   }
 ]

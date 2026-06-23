@@ -4161,6 +4161,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 50004111,
+    "SceneBranchMasterId": 5000411,
+    "Answer": "何事かと思ったぞ……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004112,
+    "SceneBranchMasterId": 5000411,
+    "Answer": "危うく勘違いするところだったぞ。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 61000011,
     "SceneBranchMasterId": 6100001,
     "Answer": "一緒に帰ろう",
@@ -9150,6 +9166,70 @@
     "Answer": "まずは腕立て伏せ五十回！！",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1053022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61123011,
+    "SceneBranchMasterId": 6112301,
+    "Answer": "一緒にダラダラするか。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1093021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61123012,
+    "SceneBranchMasterId": 6112301,
+    "Answer": "我慢が必要な時もある",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1093022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61124011,
+    "SceneBranchMasterId": 6112401,
+    "Answer": "欲望に任せたメニュー",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1093021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61124012,
+    "SceneBranchMasterId": 6112401,
+    "Answer": "ドレスに気遣ったメニュー",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1093022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61125011,
+    "SceneBranchMasterId": 6112501,
+    "Answer": "目が離せない",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1093021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61125012,
+    "SceneBranchMasterId": 6112501,
+    "Answer": "大人っぽく見える",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1093022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61126011,
+    "SceneBranchMasterId": 6112601,
+    "Answer": "多分カッコいい舞亜が映ってる",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1093021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61126012,
+    "SceneBranchMasterId": 6112601,
+    "Answer": "セクシーな舞亜が映ってる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1093022
   },
   {
     "type": "SceneBranchSelectionMaster",

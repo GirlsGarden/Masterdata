@@ -38834,17 +38834,17 @@
           {
             "type": "TagValue",
             "Level": 1,
-            "Value": 3
+            "Value": 4.5
           },
           {
             "type": "TagValue",
             "Level": 10,
-            "Value": 3
+            "Value": 4.5
           },
           {
             "type": "TagValue",
             "Level": 15,
-            "Value": 5.5
+            "Value": 5.85
           }
         ]
       },
@@ -38856,37 +38856,37 @@
           {
             "type": "TagValue",
             "Level": 1,
-            "Value": 0.75
+            "Value": 2
           },
           {
             "type": "TagValue",
             "Level": 3,
-            "Value": 0.81
+            "Value": 2.12
           },
           {
             "type": "TagValue",
             "Level": 4,
-            "Value": 0.93
+            "Value": 2.36
           },
           {
             "type": "TagValue",
             "Level": 6,
-            "Value": 0.99
+            "Value": 2.48
           },
           {
             "type": "TagValue",
             "Level": 7,
-            "Value": 1.11
+            "Value": 2.72
           },
           {
             "type": "TagValue",
             "Level": 9,
-            "Value": 1.17
+            "Value": 2.84
           },
           {
             "type": "TagValue",
             "Level": 10,
-            "Value": 1.35
+            "Value": 3.15
           }
         ]
       }
@@ -48158,6 +48158,97 @@
   },
   {
     "type": "SkillMaster",
+    "Id": 210097,
+    "Name": "リフホーシルト",
+    "Type": "Extra",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 7,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "最も残りHPが多い敵単体に威力{威力}で攻撃し、1行動の間自身の防御力を{def}%上昇させる（重複可）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 100
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 106.22
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 118.66
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 124.88
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 137.32
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 143.54
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 156
+          }
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "def",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 15
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
     "Id": 220001,
     "Name": "単射撃",
     "Type": "Active",
@@ -49454,12 +49545,42 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "威力",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
             "Value": 100
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 106.22
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 118.66
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 124.88
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 137.32
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 143.54
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 156
           }
         ]
       }
@@ -50155,12 +50276,17 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "shield",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
             "Value": 50
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 75
           }
         ]
       }
@@ -50821,12 +50947,42 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "威力",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
             "Value": 80
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 84.96
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 94.91
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 99.87
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 109.82
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 114.78
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 124.8
           }
         ]
       },
@@ -52115,12 +52271,42 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "威力",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
             "Value": 40
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 42.48
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 47.45
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 49.93
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 54.9
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 57.38
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 62.4
           }
         ]
       }
@@ -52164,12 +52350,42 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "威力",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
             "Value": 90
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 95.6
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 106.8
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 112.4
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 123.6
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 129.2
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 140.4
           }
         ]
       },
@@ -55934,12 +56150,42 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "威力",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
-            "Value": 100
+            "Value": 80
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 84.96
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 94.91
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 99.87
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 109.82
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 114.78
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 124.8
           }
         ]
       }
@@ -75772,12 +76018,17 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "value",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
             "Value": 10
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 25
           }
         ]
       }
@@ -75855,12 +76106,17 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "value",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
             "Value": 10
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 25
           }
         ]
       }
@@ -81669,12 +81925,42 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "威力",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
             "Value": 85
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 90.28
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 100.85
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 106.13
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 116.7
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 121.98
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 132.6
           }
         ]
       }
@@ -81717,12 +82003,17 @@
       {
         "type": "SkillTemplateTag",
         "TagName": "威力",
-        "InterpolationMode": "Fixed",
+        "InterpolationMode": "Linear",
         "Values": [
           {
             "type": "TagValue",
             "Level": 1,
             "Value": 20
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 31.2
           }
         ]
       }
@@ -100185,6 +100476,112 @@
   },
   {
     "type": "SkillMaster",
+    "Id": 230376,
+    "Name": "マイクロリペア",
+    "Type": "Passive",
+    "Kind": "Recovery",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン終了時に発動。最もHP割合の低い味方単体のHPを威力{威力}で回復する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 40
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 62.4
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 230377,
+    "Name": "秘儀の癒し",
+    "Type": "Passive",
+    "Kind": "Recovery",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン終了時に発動。自身以外を優先し、味方単体のHPを威力{威力}で回復する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 35
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 54.6
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
     "Id": 300001,
     "Name": "バイタルコア",
     "Type": "Passive",
@@ -112512,7 +112909,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "戦闘開始時に発動。「どすこい」を獲得する"
+        "Template": "戦闘開始時に発動。「どすこい」を付与する"
       }
     ],
     "TemplateTags": null,
@@ -112806,7 +113203,7 @@
   {
     "type": "SkillMaster",
     "Id": 400165,
-    "Name": "攻撃上昇【中央列後衛】",
+    "Name": "攻撃1行動上昇【中央列後衛】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -113877,7 +114274,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "戦闘開始時に発動。「指名手配」「えっちな魅力」を獲得する"
+        "Template": "戦闘開始時に発動。「指名手配」「えっちな魅力」を付与する"
       }
     ],
     "TemplateTags": null,
@@ -114136,7 +114533,7 @@
   {
     "type": "SkillMaster",
     "Id": 400203,
-    "Name": "速度上昇【ALL】",
+    "Name": "速度1行動上昇【ALL】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -114192,7 +114589,77 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "戦闘開始時に発動。敵前衛の受けるダメージを5%上昇させる"
+        "Template": "戦闘開始時に発動。敵前衛の受けるダメージを7.5%上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400205,
+    "Name": "三ツ星【中央列後衛】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。中央列後衛の味方の攻撃力を1行動の間3000上昇させる。さらに「三ツ星」を付与する"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400206,
+    "Name": "HP・防御上昇【ALL】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。味方のHPと防御力を300上昇させる"
       }
     ],
     "TemplateTags": null,

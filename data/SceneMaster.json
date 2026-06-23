@@ -3536,7 +3536,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "社交界5話",
+    "Title": "混乱の最中で",
     "AssetId": null
   },
   {
@@ -3546,7 +3546,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "社交界6話",
+    "Title": "気付きを得たその先に……",
     "AssetId": null
   },
   {
@@ -3556,7 +3556,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "社交界7話",
+    "Title": "隠された才能",
     "AssetId": null
   },
   {
@@ -3566,7 +3566,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "社交界8話",
+    "Title": "いつか成長の果てで",
     "AssetId": null
   },
   {
@@ -3657,6 +3657,16 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "P-1 グランプリ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30100101,
+    "EpisodeMasterId": 301001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "複合戦術演習",
     "AssetId": null
   },
   {
@@ -9137,6 +9147,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "常在戦場",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61054001,
+    "EpisodeMasterId": 610312,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "少しの休憩時間",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61054002,
+    "EpisodeMasterId": 610313,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ドレスで食べるもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61054003,
+    "EpisodeMasterId": 610314,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "見せびらかしたい気持ち",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61054004,
+    "EpisodeMasterId": 610315,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "大女優爆誕？",
     "AssetId": null
   },
   {

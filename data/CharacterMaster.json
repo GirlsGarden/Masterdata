@@ -1002,14 +1002,14 @@
     "BonusDefensePerLevel": 153,
     "BonusSpeedPerLevel": 2,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "108301",
+    "ModelAssetId": "109302",
     "CockpitAssetId": null,
     "MinCombatPower": 5056,
     "MaxCombatPower": 103264,
     "PositionType": "Front",
     "RoleType": "Tank",
     "GachaBackgroundAssetId": "80182",
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "CharacterMaster",

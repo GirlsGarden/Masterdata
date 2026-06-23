@@ -388,5 +388,15 @@
     "JumpType": null,
     "JumpTargetId": null,
     "EffectJson": null
+  },
+  {
+    "type": "UnlockFunctionMaster",
+    "Id": 40,
+    "Name": "複合戦術演習",
+    "Description": "【複合戦術演習】が解放されました！",
+    "UnlockFunctionType": "CompositeTactic",
+    "JumpType": null,
+    "JumpTargetId": null,
+    "EffectJson": null
   }
 ]

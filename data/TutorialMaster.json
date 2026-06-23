@@ -1024,5 +1024,23 @@
     "GradualMissionGroupMasterId": null,
     "DetailClearCondition": null,
     "EffectJson": "{\"Performances\":[{\"PerformAt\":\"GrandprixTopParticipantV2\",\"Frames\":[{\"Text\":\"ピコピコピーン！\\nマスタぁ！最強の指揮官を決めるP-1グランプリが始まりましたよ！\",\"Character\":\"n10001\",\"VoiceAssetId\":\"0/81\"},{\"Text\":\"P-1グランプリはトーナメント形式で行われますよ！\\nトーナメントは「予選トーナメント」と「決勝トーナメント」の2種類になります！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideTournamentHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"予選トーナメントに優勝して決勝トーナメントを目指しましょう！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideTournamentHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"トーナメントの進行について説明しますね！\\nトーナメントは、出場者が編成を決定する「編成準備期間」と観戦者が勝敗を当てる「BET期間」が終了したら試合が開始されます！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePeriodTextHole\",\"Block\":1}},{\"Text\":\"トーナメント表の「VSボタン」から試合内容の確認や過去の試合結果を確認することができますよ！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideVsPanelHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"マスターは、出場者ですので編成準備期間までに編成を決定してくださいね♪\\n編成してない場合は不戦敗となってしまいますのでご注意下さい！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePeriodTextHole\",\"Block\":1}},{\"Text\":\"トーナメントを進めると貰える報酬を確認してみましょう！\",\"Character\":\"n10001\"},{\"Hole1\":{\"Name\":\"guideRewardButtonHole\"}}]},{\"PerformAt\":\"GrandprixRewardV2\",\"Frames\":[{\"Text\":\"試合の勝敗に応じて、P-1メダルやフレームを獲得できますよ！\",\"Character\":\"n10001\",\"OrderInLayer\":21,\"PositionType\":2,\"Hole1\":{\"Name\":\"guideRewardPanelHole\",\"Block\":1,\"ArrowDirection\":0}},{\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideCloseButtonHole\"}}],\"OnTheWay\":1},{\"PerformAt\":\"GrandprixTopParticipantEndV2\",\"Frames\":[{\"Text\":\"交換所はこちらからも移動できるので、\\nP-1メダルが溜まったら交換しにいきましょう！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideExchangeButtonHole\",\"Block\":1,\"ArrowDirection\":0}}]}],\"Conditions\":[17],\"ProgressTutorials\":[68]}"
+  },
+  {
+    "type": "TutorialMaster",
+    "Id": 20042,
+    "Category": "FreeTutorial",
+    "StageType": "CompositeTactic",
+    "UnlockFunctionMasterId": null,
+    "EpisodeMasterId": null,
+    "SceneFrameOrder": null,
+    "QuestMasterId": null,
+    "CharacterMasterId": null,
+    "SnsTimelineMasterId": null,
+    "TalkMasterId": null,
+    "ShopProductMasterId": null,
+    "GachaMasterId": null,
+    "GradualMissionGroupMasterId": null,
+    "DetailClearCondition": null,
+    "EffectJson": "{\"Performances\":[{\"PerformAt\":\"JointTacticTop\",\"Frames\":[{\"Text\":\"ピコピコピーン！\\nマスタぁ！複合戦術演習にチャレンジする時が来ましたね！\",\"Character\":\"n10001\",\"VoiceAssetId\":\"0/81\"},{\"Text\":\"複合戦術演習は、戦術演習とは異なり複数の敵が出現します！\\nただ、ダメージをどれだけ出すことができるか挑戦するスコアアタック形式なのは同じですよ！\",\"Character\":\"n10001\"},{\"Text\":\"複合戦術演習では各レベルに対して\\n最大3編成を用いて出撃することができます！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePartyHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"２部隊目以降で同じ生徒を編成する事はできますが、\\n連戦すると基礎ステータスが低下しちゃうので気を付けて下さいね！\",\"Character\":\"n10001\"},{\"Text\":\"もしも討伐に失敗してしまったとしても、\\nボクが前回の詳細情報をしっかりと記録しているので、その時は確認してくださいね！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePreviousPartyButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"さらに便利な機能をご紹介！\\n各編成の横に小さなボタンがありますね！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePartyHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"呼び出しボタンから保存してある編成を呼び出すことができたり、上下の矢印ボタンで編成をまるっと移動することもできます！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePartyHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"現在の挑戦可能なレベルがこちらに表示されています！\",\"Character\":\"n10001\",\"Position\":-192000,\"Hole1\":{\"Name\":\"guideEnemyLevelHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"こちらでは討伐したボスのレベルに応じた討伐報酬が確認できます！\",\"Character\":\"n10001\",\"Position\":-192000,\"Hole1\":{\"Name\":\"guideBattleRewardButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"一日の出撃回数は5回までです！\\n戦術演習と基本は同じですよ！\\n慎重に相手の属性を見て編成を組んでみるのがおすすめですよ！\",\"Character\":\"n10001\"},{\"Text\":\"ランキングに入ると討伐報酬とは別に、ランキング報酬も用意されちゃっています！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideRankingButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"さっそく、どんなものが貰えるか報酬を見てみましょう！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideRankingRewardButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Hole1\":{\"Name\":\"guideRankingRewardButtonHole\"}}]},{\"PerformAt\":\"JointTacticRewardWindow\",\"Frames\":[{\"Text\":\"デイリーランキングで上位になればなるほど、報酬が豪華になりますよ！\\n上位を目指して頑張っていきましょー！\",\"Character\":\"n10001\",\"OrderInLayer\":21},{\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideCloseButtonHole\"}}],\"OnTheWay\":1},{\"PerformAt\":\"JointTacticTopEnd\",\"Frames\":[{\"Text\":\"それでは、マスター！\\n学園１位を目指して、頑張ってくださいね！\",\"Character\":\"n10001\"}]}],\"Conditions\":[17],\"ProgressTutorials\":[69]}"
   }
 ]

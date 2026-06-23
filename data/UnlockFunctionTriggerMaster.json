@@ -238,5 +238,13 @@
     "UnlockFunctionTriggerType": "TacticScoreOver",
     "Configuration": "{\"Order\":5,\"Score\":8000000}",
     "Description": "難易度ENDLESSのScore8,000,000以上達成で初回スキップ機能が解放されます"
+  },
+  {
+    "type": "UnlockFunctionTriggerMaster",
+    "Id": 31,
+    "UnlockFunctionMasterId": 40,
+    "UnlockFunctionTriggerType": "TacticDifficultyOver",
+    "Configuration": "{\"Order\":4}",
+    "Description": "戦術演習の「LEGEND」クリアで解放"
   }
 ]

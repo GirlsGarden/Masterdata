@@ -1948,6 +1948,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 10930211,
+    "TalkMasterId": 1093021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし、%usernameusernameuserna%？\n……今日はありがとう。情けないところを見せちゃった。",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10930212,
+    "TalkMasterId": 1093021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "……途中で気分が変になって休んでたけど……\nあの時、ちょっと恥ずかしい恰好でソファに座ってたわよね？",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10930213,
+    "TalkMasterId": 1093021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "その、変なところは見てないかしら？\n……見てないのなら、いいんだけど。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10930214,
+    "TalkMasterId": 1093021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "……不思議ね。%usernameusernameuserna%には、\n私の情けないところをいっぱい見られちゃったのに……",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10930215,
+    "TalkMasterId": 1093021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "気づいたら、%usernameusernameuserna%に知ってもらえて、\n嬉しいって思っている私もいるの。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10930216,
+    "TalkMasterId": 1093021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "……今は貴方と葵だけが知ってる私。\nでも、いつか……カラフルブーケの皆にも知ってほしいわ。",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 10930217,
+    "TalkMasterId": 1093021,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "……だから、そのときは……手伝ってくれたら嬉しいわ。\nそれだけ……じゃあ、またね？",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 11030111,
     "TalkMasterId": 1103011,
     "Order": 1,
