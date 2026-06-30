@@ -488,5 +488,33 @@
     "LogoFrameAssetId": null,
     "MovieAssetId": null,
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 36,
+    "Name": "天鎖封祀",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-06-30T12:30:00+09:00",
+    "QuestCloseDate": "2026-07-14T04:59:59+09:00",
+    "EndDate": "2026-07-21T04:59:59+09:00",
+    "Order": 36,
+    "LogoAssetId": "22",
+    "LogoFrameAssetId": "newstory_100",
+    "MovieAssetId": "20022",
+    "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 37,
+    "Name": "サークル対抗戦",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-06-30T12:30:00+09:00",
+    "QuestCloseDate": "2026-07-10T04:59:59+09:00",
+    "EndDate": "2026-07-17T04:59:59+09:00",
+    "Order": 37,
+    "LogoAssetId": null,
+    "LogoFrameAssetId": null,
+    "MovieAssetId": null,
+    "IntroductionEpisodeMasterId": null
   }
 ]

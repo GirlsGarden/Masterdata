@@ -2321,6 +2321,306 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 10250101,
+    "EpisodeMasterId": 102501,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "迫る八咫烏",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10250201,
+    "EpisodeMasterId": 102502,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ただいま",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10250301,
+    "EpisodeMasterId": 102503,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "枷破る想い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10250401,
+    "EpisodeMasterId": 102504,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "目指すべき道は",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10250501,
+    "EpisodeMasterId": 102505,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "八雷",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10250601,
+    "EpisodeMasterId": 102506,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "火雷",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10250701,
+    "EpisodeMasterId": 102507,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "想いを訴えて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10260101,
+    "EpisodeMasterId": 102601,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "少女達の帰還",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10260201,
+    "EpisodeMasterId": 102602,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "スノーボール作戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10260301,
+    "EpisodeMasterId": 102603,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "勇気の一刀両断",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10260401,
+    "EpisodeMasterId": 102604,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "偽物と本物",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10260501,
+    "EpisodeMasterId": 102605,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "オンリーワンでナンバーワン",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10260601,
+    "EpisodeMasterId": 102606,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "巨視的量子摂動",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10260701,
+    "EpisodeMasterId": 102607,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "姉妹二人、再び",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10260801,
+    "EpisodeMasterId": 102608,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "榊野ヒイロ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10260901,
+    "EpisodeMasterId": 102609,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "自由のために",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10270101,
+    "EpisodeMasterId": 102701,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "勝利のロジック",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10270201,
+    "EpisodeMasterId": 102702,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "イワフネ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10270301,
+    "EpisodeMasterId": 102703,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "未踏の航路",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10270401,
+    "EpisodeMasterId": 102704,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "身を削って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10270501,
+    "EpisodeMasterId": 102705,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ウェーブライダー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10270601,
+    "EpisodeMasterId": 102706,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＭＶＰとヒーロー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10270701,
+    "EpisodeMasterId": 102707,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "エレーナの心の色",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10270801,
+    "EpisodeMasterId": 102708,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "イワフネ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10270901,
+    "EpisodeMasterId": 102709,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "未踏の航路",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10271001,
+    "EpisodeMasterId": 102710,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "シークラッターを駆けて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10271101,
+    "EpisodeMasterId": 102711,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "色男",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10271201,
+    "EpisodeMasterId": 102712,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "乙女心",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10271301,
+    "EpisodeMasterId": 102713,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "アマツカゼ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10271401,
+    "EpisodeMasterId": 102714,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "アマツカゼ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 20010101,
     "EpisodeMasterId": 200101,
     "Types": "Adventure",
@@ -3603,6 +3903,16 @@
     "type": "SceneMaster",
     "Id": 30040101,
     "EpisodeMasterId": 300401,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "サークル対抗戦開催",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30040201,
+    "EpisodeMasterId": 300402,
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
@@ -5251,6 +5561,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40008001,
+    "EpisodeMasterId": 400080,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "甘えあうのじゃ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008002,
+    "EpisodeMasterId": 400080,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "甘えあうのじゃ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -6027,6 +6357,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "お嬢様直伝マナー講座",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004101,
+    "EpisodeMasterId": 500042,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ジーナには内緒で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004102,
+    "EpisodeMasterId": 500042,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ジーナには内緒で",
     "AssetId": null
   },
   {
@@ -9191,6 +9541,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 61055001,
+    "EpisodeMasterId": 610316,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "タチアナの戦術",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61055002,
+    "EpisodeMasterId": 610317,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "一手先を読む",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61055003,
+    "EpisodeMasterId": 610318,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "タチアナの指揮",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61055004,
+    "EpisodeMasterId": 610319,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "実践あるのみ？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 71000001,
     "EpisodeMasterId": 710001,
     "Types": "Adventure",
@@ -9257,6 +9647,16 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "刻まれしアナムネーシス",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 71000008,
+    "EpisodeMasterId": 710008,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "欺かれし星の記憶",
     "AssetId": null
   }
 ]

@@ -846,5 +846,53 @@
     "Order": 215,
     "UnlockGemQuantity": 100,
     "AssetId": "30135"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 107,
+    "Name": "保健室_夜",
+    "Order": 774,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30274"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 108,
+    "Name": "保健室_特殊1",
+    "Order": 775,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30275"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 109,
+    "Name": "海上_特殊1",
+    "Order": 785,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80125"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 110,
+    "Name": "セレノシア島内部_昼",
+    "Order": 792,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80192"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 111,
+    "Name": "荒廃した空差分_昼",
+    "Order": 802,
+    "UnlockGemQuantity": 100,
+    "AssetId": "20102"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 112,
+    "Name": "ユーロ校区街中_昼",
+    "Order": 812,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30342"
   }
 ]

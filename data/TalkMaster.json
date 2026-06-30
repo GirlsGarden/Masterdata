@@ -901,6 +901,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1463011,
+    "CallCharacterMasterId": 146301,
+    "Order": 146001,
+    "Title": "甘え合いの予約",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 146301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400080
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1483011,
     "CallCharacterMasterId": 148301,
     "Order": 145001,

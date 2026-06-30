@@ -97,5 +97,16 @@
     "BannerAssetId": "1008",
     "BackgroundAssetType": "Adventure",
     "BackgroundAssetId": "820"
+  },
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1009,
+    "Title": "9章",
+    "SubTitle": "天鎖封祀",
+    "Description": "ゾリャー校区に現れたのは、イザナミが操る\n戦略機動要塞『八咫烏』。指揮官達は校区を守る\nため戦いに向かう。そこに５機の天穹が現れ――",
+    "Order": 10,
+    "BannerAssetId": "1009",
+    "BackgroundAssetType": "Memory",
+    "BackgroundAssetId": "10028"
   }
 ]

@@ -3738,5 +3738,45 @@
     "CharacterMasterId": 109302,
     "AffectionLevel": 8,
     "LocationNodeMasterId": null
+  },
+  {
+    "type": "SnsTimelineMaster",
+    "Id": 400314,
+    "Type": "Character",
+    "Order": 311,
+    "EventMasterId": null,
+    "CharacterMasterId": 146301,
+    "AffectionLevel": 2,
+    "LocationNodeMasterId": null
+  },
+  {
+    "type": "SnsTimelineMaster",
+    "Id": 400315,
+    "Type": "Character",
+    "Order": 312,
+    "EventMasterId": null,
+    "CharacterMasterId": 146301,
+    "AffectionLevel": 4,
+    "LocationNodeMasterId": null
+  },
+  {
+    "type": "SnsTimelineMaster",
+    "Id": 400316,
+    "Type": "Character",
+    "Order": 313,
+    "EventMasterId": null,
+    "CharacterMasterId": 146301,
+    "AffectionLevel": 6,
+    "LocationNodeMasterId": null
+  },
+  {
+    "type": "SnsTimelineMaster",
+    "Id": 400317,
+    "Type": "Character",
+    "Order": 314,
+    "EventMasterId": null,
+    "CharacterMasterId": 146301,
+    "AffectionLevel": 8,
+    "LocationNodeMasterId": null
   }
 ]

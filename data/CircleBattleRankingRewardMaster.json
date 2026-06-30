@@ -493,5 +493,104 @@
     "MinRankingPercent": 0.81,
     "MaxRankingPercent": 1,
     "RewardPackageMasterId": 2080009
+  },
+  {
+    "type": "CircleBattleRankingRewardMaster",
+    "Id": 46,
+    "CircleBattleMasterId": 6,
+    "Order": 1,
+    "MinRanking": 1,
+    "MaxRanking": 10,
+    "MinRankingPercent": null,
+    "MaxRankingPercent": null,
+    "RewardPackageMasterId": 2080022
+  },
+  {
+    "type": "CircleBattleRankingRewardMaster",
+    "Id": 47,
+    "CircleBattleMasterId": 6,
+    "Order": 2,
+    "MinRanking": 11,
+    "MaxRanking": 50,
+    "MinRankingPercent": null,
+    "MaxRankingPercent": null,
+    "RewardPackageMasterId": 2080023
+  },
+  {
+    "type": "CircleBattleRankingRewardMaster",
+    "Id": 48,
+    "CircleBattleMasterId": 6,
+    "Order": 3,
+    "MinRanking": 51,
+    "MaxRanking": 100,
+    "MinRankingPercent": null,
+    "MaxRankingPercent": null,
+    "RewardPackageMasterId": 2080024
+  },
+  {
+    "type": "CircleBattleRankingRewardMaster",
+    "Id": 49,
+    "CircleBattleMasterId": 6,
+    "Order": 4,
+    "MinRanking": null,
+    "MaxRanking": null,
+    "MinRankingPercent": 0,
+    "MaxRankingPercent": 0.1,
+    "RewardPackageMasterId": 2080004
+  },
+  {
+    "type": "CircleBattleRankingRewardMaster",
+    "Id": 50,
+    "CircleBattleMasterId": 6,
+    "Order": 5,
+    "MinRanking": null,
+    "MaxRanking": null,
+    "MinRankingPercent": 0.11,
+    "MaxRankingPercent": 0.2,
+    "RewardPackageMasterId": 2080005
+  },
+  {
+    "type": "CircleBattleRankingRewardMaster",
+    "Id": 51,
+    "CircleBattleMasterId": 6,
+    "Order": 6,
+    "MinRanking": null,
+    "MaxRanking": null,
+    "MinRankingPercent": 0.21,
+    "MaxRankingPercent": 0.3,
+    "RewardPackageMasterId": 2080006
+  },
+  {
+    "type": "CircleBattleRankingRewardMaster",
+    "Id": 52,
+    "CircleBattleMasterId": 6,
+    "Order": 7,
+    "MinRanking": null,
+    "MaxRanking": null,
+    "MinRankingPercent": 0.31,
+    "MaxRankingPercent": 0.5,
+    "RewardPackageMasterId": 2080007
+  },
+  {
+    "type": "CircleBattleRankingRewardMaster",
+    "Id": 53,
+    "CircleBattleMasterId": 6,
+    "Order": 8,
+    "MinRanking": null,
+    "MaxRanking": null,
+    "MinRankingPercent": 0.51,
+    "MaxRankingPercent": 0.8,
+    "RewardPackageMasterId": 2080008
+  },
+  {
+    "type": "CircleBattleRankingRewardMaster",
+    "Id": 54,
+    "CircleBattleMasterId": 6,
+    "Order": 9,
+    "MinRanking": null,
+    "MaxRanking": null,
+    "MinRankingPercent": 0.81,
+    "MaxRankingPercent": 1,
+    "RewardPackageMasterId": 2080009
   }
 ]
