@@ -162,6 +162,13 @@
   },
   {
     "type": "FlashMaster",
+    "Id": 1048,
+    "Type": "FlashTierSale",
+    "ActiveHours": 24,
+    "EffectType": "Normal"
+  },
+  {
+    "type": "FlashMaster",
     "Id": 1090,
     "Type": "FlashRelay",
     "ActiveHours": 24,
