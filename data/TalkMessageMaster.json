@@ -6689,6 +6689,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 14530111,
+    "TalkMasterId": 1453011,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし、%usernameusernameuserna%さん？\n私だよ！　エレーナ！",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14530112,
+    "TalkMasterId": 1453011,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "色々とありがとうね！　クラスナの皆とお話をして……ちょっとだけ\n%usernameusernameuserna%さんの言ってたことが分かったかも。",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14530113,
+    "TalkMasterId": 1453011,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "私が自分に対して、それだけしか価値がない……なんて思ったら、\n私を大切にしてくれる皆に失礼なんだなって。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14530114,
+    "TalkMasterId": 1453011,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "きっと、皆の感情に気づいて、何かをするのが私の出来ることだけど、\nそれだけしか価値がないって思うのは違うんだよね。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14530115,
+    "TalkMasterId": 1453011,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "……えへへ、大きな作戦の前で%usernameusernameuserna%さんも\n不安な時に、ありがとうね？",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14530116,
+    "TalkMasterId": 1453011,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "%usernameusernameuserna%さんも何かあったら電話してね？\n絶対だからね？　これは気遣いじゃなくて……私のワガママだから！",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14530117,
+    "TalkMasterId": 1453011,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "だから、校庭１００周は勘弁してね！\n……なんちゃって♪　それじゃ、また連絡するね！　バイバーイ♪",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 14630111,
     "TalkMasterId": 1463011,
     "Order": 1,

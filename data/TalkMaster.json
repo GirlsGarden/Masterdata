@@ -901,6 +901,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1453011,
+    "CallCharacterMasterId": 145301,
+    "Order": 143001,
+    "Title": "大切にするための第一歩",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 145301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400081
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1463011,
     "CallCharacterMasterId": 146301,
     "Order": 146001,

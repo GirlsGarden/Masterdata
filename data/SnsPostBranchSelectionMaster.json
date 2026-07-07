@@ -1810,5 +1810,29 @@
     "Id": 4003172,
     "SnsPostBranchMasterId": 400317,
     "Message": "皆Ｔｗｅｅｔｙが好きなんだ"
+  },
+  {
+    "type": "SnsPostBranchSelectionMaster",
+    "Id": 4003191,
+    "SnsPostBranchMasterId": 400319,
+    "Message": "どんな質問が来るんだ？"
+  },
+  {
+    "type": "SnsPostBranchSelectionMaster",
+    "Id": 4003192,
+    "SnsPostBranchMasterId": 400319,
+    "Message": "答えにくいものはないか？"
+  },
+  {
+    "type": "SnsPostBranchSelectionMaster",
+    "Id": 4003201,
+    "SnsPostBranchMasterId": 400320,
+    "Message": "本当に大丈夫か？"
+  },
+  {
+    "type": "SnsPostBranchSelectionMaster",
+    "Id": 4003202,
+    "SnsPostBranchMasterId": 400320,
+    "Message": "困ったら頼ってほしい"
   }
 ]

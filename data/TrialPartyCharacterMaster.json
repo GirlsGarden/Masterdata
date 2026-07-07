@@ -5713,6 +5713,20 @@
   },
   {
     "type": "TrialPartyCharacterMaster",
+    "Id": 2007201,
+    "TrialPartyMasterId": 200720,
+    "Position": 5,
+    "CharacterMasterId": 145301,
+    "Level": 30,
+    "AffectionLevel": 1,
+    "SkillLevel": 10,
+    "EquipmentLevel": 0,
+    "CombatPower": 10417,
+    "Order": 1,
+    "CharacterRarity": "Ssr"
+  },
+  {
+    "type": "TrialPartyCharacterMaster",
     "Id": 2007211,
     "TrialPartyMasterId": 200721,
     "Position": 2,

@@ -5581,6 +5581,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40008101,
+    "EpisodeMasterId": 400081,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "私を見てくれるキミ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008102,
+    "EpisodeMasterId": 400081,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "私を見てくれるキミ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -6377,6 +6397,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "ジーナには内緒で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004201,
+    "EpisodeMasterId": 500043,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "安心する香り",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004202,
+    "EpisodeMasterId": 500043,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "安心する香り",
     "AssetId": null
   },
   {
@@ -9577,6 +9617,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "実践あるのみ？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61056001,
+    "EpisodeMasterId": 610320,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "もしも同じ教室で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61056002,
+    "EpisodeMasterId": 610321,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "買い出し担当",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61056003,
+    "EpisodeMasterId": 610322,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "高みを目指して",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61056004,
+    "EpisodeMasterId": 610323,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "エレーナを褒めよう",
     "AssetId": null
   },
   {
