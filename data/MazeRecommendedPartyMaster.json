@@ -1,27 +1,6 @@
 [
   {
     "type": "MazeRecommendedPartyMaster",
-    "Id": 1044,
-    "MazeMasterId": 1,
-    "StartDate": "2026-07-07T12:30:00+09:00",
-    "EndDate": "2026-07-14T12:30:00+09:00",
-    "CharacterMasterIds": [
-      145301,
-      146301,
-      142301,
-      114301,
-      111302
-    ],
-    "Buffs": [
-      "タツミヤ鉱の獲得量が5%UP",
-      "編成しているキャラクターのAP+1",
-      "タツミヤ鉱の獲得量が10%UP",
-      "編成しているキャラクターのPP+1",
-      "タツミヤ鉱の獲得量が20%UP"
-    ]
-  },
-  {
-    "type": "MazeRecommendedPartyMaster",
     "Id": 1045,
     "MazeMasterId": 1,
     "StartDate": "2026-07-14T12:30:00+09:00",
