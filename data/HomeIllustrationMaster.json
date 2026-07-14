@@ -1153,6 +1153,15 @@
   },
   {
     "type": "HomeIllustrationMaster",
+    "Id": 200052,
+    "Order": 52,
+    "GroupNumber": 48,
+    "Type": "Event",
+    "EpisodeMasterId": 201602,
+    "AssetId": "10590"
+  },
+  {
+    "type": "HomeIllustrationMaster",
     "Id": 300001,
     "Order": 1,
     "GroupNumber": 1,
@@ -1769,14 +1778,23 @@
     "Order": 68,
     "GroupNumber": 69,
     "Type": "Mg",
-    "EpisodeMasterId": 102713,
-    "AssetId": "1210"
+    "EpisodeMasterId": 102705,
+    "AssetId": "1220"
   },
   {
     "type": "HomeIllustrationMaster",
     "Id": 300070,
     "Order": 69,
     "GroupNumber": 70,
+    "Type": "Mg",
+    "EpisodeMasterId": 102713,
+    "AssetId": "1210"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 300071,
+    "Order": 70,
+    "GroupNumber": 71,
     "Type": "Mg",
     "EpisodeMasterId": 102714,
     "AssetId": "1210"

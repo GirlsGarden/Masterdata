@@ -2545,6 +2545,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20160211,
+    "SceneBranchMasterId": 2016021,
+    "Answer": "拍手をする。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20160212,
+    "SceneBranchMasterId": 2016021,
+    "Answer": "歓声を上げる。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20160311,
+    "SceneBranchMasterId": 2016031,
+    "Answer": "……何が起きてるんだ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20160312,
+    "SceneBranchMasterId": 2016031,
+    "Answer": "凄いことになってないか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -3761,6 +3793,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40008211,
+    "SceneBranchMasterId": 4000821,
+    "Answer": "首を傾げる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40008212,
+    "SceneBranchMasterId": 4000821,
+    "Answer": "意味を聞く",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -4380,6 +4428,38 @@
     "Id": 50004322,
     "SceneBranchMasterId": 5000432,
     "Answer": "思いっきり入れる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004331,
+    "SceneBranchMasterId": 5000433,
+    "Answer": "この辺でやめておく",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004332,
+    "SceneBranchMasterId": 5000433,
+    "Answer": "まだまだ食べたい",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004411,
+    "SceneBranchMasterId": 5000441,
+    "Answer": "ああ、そうだな。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004412,
+    "SceneBranchMasterId": 5000441,
+    "Answer": "着比べてみないと……",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -9566,6 +9646,70 @@
     "Answer": "褒めつつ一緒に訓練する",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1553011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61135011,
+    "SceneBranchMasterId": 6113501,
+    "Answer": "競争してみたい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1443022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61135012,
+    "SceneBranchMasterId": 6113501,
+    "Answer": "泳ぎを見てほしい",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1443021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61136011,
+    "SceneBranchMasterId": 6113601,
+    "Answer": "応援する",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1443022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61136012,
+    "SceneBranchMasterId": 6113601,
+    "Answer": "一緒に食べる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1443021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61137011,
+    "SceneBranchMasterId": 6113701,
+    "Answer": "隣で風景を見る",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1443022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61137012,
+    "SceneBranchMasterId": 6113701,
+    "Answer": "干してある制服を観察する",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1443021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61138011,
+    "SceneBranchMasterId": 6113801,
+    "Answer": "探すのを手伝おう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1443022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61138012,
+    "SceneBranchMasterId": 6113801,
+    "Answer": "真桜らしいな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1443021
   },
   {
     "type": "SceneBranchSelectionMaster",

@@ -507,6 +507,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10027,
+    "Rarity": "Sr",
+    "Name": "誰かのためのダイエット",
+    "Description": "焼きイカも、味が濃くて美味しいです……！ この歯ごたえ、たまらな……ああ、もうなくなっちゃいました……！？",
+    "AssetId": "10029",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 4,
+        "CharacterType": null,
+        "SkillMasterId": 400213,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -2959,6 +2982,76 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20077,
+    "Rarity": "Ssr",
+    "Name": "優しさを目に映しながら",
+    "Description": "……ということでカリナ、あとはお願いします。 もうサボっちゃダメですからね？",
+    "AssetId": "142302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 142,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400214,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Aggressive",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400215,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20078,
+    "Rarity": "Ssr",
+    "Name": "眩しさに手を伸ばして",
+    "Description": "わたくしは…… 皆さんと一緒にいる資格など、あるのでしょうか。",
+    "AssetId": "131302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 131,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400216,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 2,
+        "CharacterType": null,
+        "SkillMasterId": 400026,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -3843,5 +3936,40 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30034,
+    "Rarity": "Ur",
+    "Name": "浮かれた事情",
+    "Description": "あはは、ぱっと見ただのヒモっぽいよね。 でもこれもちゃんとした水着だよ～",
+    "AssetId": "30034",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Aggressive",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400217,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Smart",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400218,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

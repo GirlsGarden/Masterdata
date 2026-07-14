@@ -877,6 +877,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1423021,
+    "CallCharacterMasterId": 142302,
+    "Order": 142002,
+    "Title": "見守ってほしい人",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 142302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400082
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1433011,
     "CallCharacterMasterId": 143301,
     "Order": 144001,

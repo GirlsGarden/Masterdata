@@ -155,6 +155,20 @@
   },
   {
     "type": "ExchangeMaster",
+    "Id": 1032,
+    "Name": "新イベント",
+    "Type": "Event",
+    "EventGroupMasterId": 38,
+    "Order": 1,
+    "StartDate": "2026-07-14T12:30:00+09:00",
+    "EndDate": "2026-08-04T04:59:59+09:00",
+    "CanManualReset": false,
+    "ManualResetGem": null,
+    "AssetId": null,
+    "ResetTiming": "None"
+  },
+  {
+    "type": "ExchangeMaster",
     "Id": 5001,
     "Name": "どこか欠けた星たちと",
     "Type": "Episode",

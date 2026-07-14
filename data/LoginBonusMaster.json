@@ -16,21 +16,6 @@
   },
   {
     "type": "LoginBonusMaster",
-    "Id": 2047,
-    "Name": "PICKUP DAILY LOGIN",
-    "Type": "Campaign",
-    "Order": 1,
-    "StartDate": "2026-06-30T12:30:00+09:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2026-07-14T04:59:59+09:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "2038",
-    "SpineAssetId": "146301s",
-    "BackgroundAssetId": "2001"
-  },
-  {
-    "type": "LoginBonusMaster",
     "Id": 2048,
     "Name": "PICKUP DAILY LOGIN",
     "Type": "Campaign",
@@ -42,6 +27,21 @@
     "IsLoop": false,
     "AssetId": "2039",
     "SpineAssetId": "145301s",
+    "BackgroundAssetId": "2001"
+  },
+  {
+    "type": "LoginBonusMaster",
+    "Id": 2049,
+    "Name": "PICKUP DAILY LOGIN",
+    "Type": "Campaign",
+    "Order": 1,
+    "StartDate": "2026-07-14T12:30:00+09:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-07-28T04:59:59+09:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "2040",
+    "SpineAssetId": "142302s",
     "BackgroundAssetId": "2001"
   },
   {
@@ -76,18 +76,18 @@
   },
   {
     "type": "LoginBonusMaster",
-    "Id": 3013,
-    "Name": "リリース300日記念ログインボーナス",
+    "Id": 3014,
+    "Name": "水着ジャック！ログインボーナス",
     "Type": "Anniversary",
     "Order": 1,
-    "StartDate": "2026-06-29T12:00:00+09:00",
+    "StartDate": "2026-07-14T12:00:00+09:00",
     "StartDeadlineDate": null,
-    "EndDate": "2026-07-14T04:59:59+09:00",
+    "EndDate": "2026-08-12T04:59:59+09:00",
     "ExtraLoginBonusMasterId": null,
     "IsLoop": false,
-    "AssetId": "3015",
+    "AssetId": "3016",
     "SpineAssetId": null,
-    "BackgroundAssetId": "3015"
+    "BackgroundAssetId": "3016"
   },
   {
     "type": "LoginBonusMaster",

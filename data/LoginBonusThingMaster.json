@@ -1069,5 +1069,68 @@
     "ThingType": "Memory",
     "ThingId": 30032,
     "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200481,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20048,
+    "ThingType": "Item",
+    "ThingId": 100007,
+    "ThingQuantity": 4
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200491,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20049,
+    "ThingType": "Item",
+    "ThingId": 100017,
+    "ThingQuantity": 6
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200501,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20050,
+    "ThingType": "Item",
+    "ThingId": 60001,
+    "ThingQuantity": 750
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200511,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20051,
+    "ThingType": "Item",
+    "ThingId": 20000,
+    "ThingQuantity": 15
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200521,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20052,
+    "ThingType": "Item",
+    "ThingId": 60002,
+    "ThingQuantity": 100
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200531,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20053,
+    "ThingType": "Item",
+    "ThingId": 100018,
+    "ThingQuantity": 4
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200541,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20054,
+    "ThingType": "Item",
+    "ThingId": 90001,
+    "ThingQuantity": 10
   }
 ]

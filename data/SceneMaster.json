@@ -3871,6 +3871,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20160101,
+    "EpisodeMasterId": 201601,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ビーチの出会いは偶然に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20160201,
+    "EpisodeMasterId": 201602,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "賑やかに羽を伸ばして",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20160301,
+    "EpisodeMasterId": 201603,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "陽射し差す場所の影で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20160401,
+    "EpisodeMasterId": 201604,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "知られざるまま",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20160501,
+    "EpisodeMasterId": 201605,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "足取りを追って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20160601,
+    "EpisodeMasterId": 201606,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "見つけ出した犯人とは……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20160701,
+    "EpisodeMasterId": 201607,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "小花と因縁",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20160801,
+    "EpisodeMasterId": 201608,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "秘め事があるとしても",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -5601,6 +5681,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40008201,
+    "EpisodeMasterId": 400082,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "優しさを目に映しながら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008202,
+    "EpisodeMasterId": 400082,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "優しさを目に映しながら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -6417,6 +6517,46 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "安心する香り",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004301,
+    "EpisodeMasterId": 500044,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "誰かのためのダイエット",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004302,
+    "EpisodeMasterId": 500044,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "誰かのためのダイエット",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004401,
+    "EpisodeMasterId": 500045,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "浮かれた事情",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004402,
+    "EpisodeMasterId": 500045,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "浮かれた事情",
     "AssetId": null
   },
   {
@@ -9657,6 +9797,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "エレーナを褒めよう",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61057001,
+    "EpisodeMasterId": 610324,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "このあとプールで",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61057002,
+    "EpisodeMasterId": 610325,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＶＳ巨大かき氷！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61057003,
+    "EpisodeMasterId": 610326,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ビショビショ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61057004,
+    "EpisodeMasterId": 610327,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "腕章を探して",
     "AssetId": null
   },
   {

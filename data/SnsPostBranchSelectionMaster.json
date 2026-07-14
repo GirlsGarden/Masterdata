@@ -1834,5 +1834,29 @@
     "Id": 4003202,
     "SnsPostBranchMasterId": 400320,
     "Message": "困ったら頼ってほしい"
+  },
+  {
+    "type": "SnsPostBranchSelectionMaster",
+    "Id": 4003231,
+    "SnsPostBranchMasterId": 400323,
+    "Message": "詳しく聞かせてくれ"
+  },
+  {
+    "type": "SnsPostBranchSelectionMaster",
+    "Id": 4003232,
+    "SnsPostBranchMasterId": 400323,
+    "Message": "ヒントはないのか？"
+  },
+  {
+    "type": "SnsPostBranchSelectionMaster",
+    "Id": 4003251,
+    "SnsPostBranchMasterId": 400325,
+    "Message": "夜に花火やりたい！"
+  },
+  {
+    "type": "SnsPostBranchSelectionMaster",
+    "Id": 4003252,
+    "SnsPostBranchMasterId": 400325,
+    "Message": "磯釣りしよう！"
   }
 ]

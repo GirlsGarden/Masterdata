@@ -55,6 +55,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 7,
+    "Type": "Character",
+    "DisplayName": "クラウディア・ヴァーグナー",
+    "Name": "@Claudia_W",
+    "AssetId": "n10009",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 100001,
     "Type": "Character",
     "DisplayName": "桃園める",
@@ -811,12 +820,30 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 130303,
+    "Type": "Character",
+    "DisplayName": "リリー・ラヴォア",
+    "Name": "@Lilly_L",
+    "AssetId": "130002c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 131301,
     "Type": "Character",
     "DisplayName": "姜小花「風紀委員会の策謀家」",
     "Name": "@J_Xiaohua",
     "AssetId": "131301",
     "CharacterMasterId": 131301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 131302,
+    "Type": "Character",
+    "DisplayName": "姜小花",
+    "Name": "@J_Xiaohua",
+    "AssetId": "131302s",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",
@@ -919,12 +946,30 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 141302,
+    "Type": "Character",
+    "DisplayName": "カリナ・ジェンティーレ",
+    "Name": "@Carina_G",
+    "AssetId": "141001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 142301,
     "Type": "Character",
     "DisplayName": "大賀真桜「ポンコツいいんちょ」",
     "Name": "@Mao_T",
     "AssetId": "142301",
     "CharacterMasterId": 142301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 142302,
+    "Type": "Character",
+    "DisplayName": "大賀真桜「真夏の風紀委員長」",
+    "Name": "@Mao_T",
+    "AssetId": "142302",
+    "CharacterMasterId": 142302
   },
   {
     "type": "SnsAccountMaster",
