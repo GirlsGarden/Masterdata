@@ -700,7 +700,7 @@
     "Id": 1293021,
     "CallCharacterMasterId": 129302,
     "Order": 129002,
-    "Title": "あたしのやるべきこと",
+    "Title": "頼れる人",
     "IsVideoTalk": false,
     "CharacterMasterId": 129302,
     "AffectionLevel": null,
@@ -742,6 +742,18 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400037
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1313021,
+    "CallCharacterMasterId": 131302,
+    "Order": 131002,
+    "Title": "少しだけ、晴れた心",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 131302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400083
   },
   {
     "type": "TalkMaster",

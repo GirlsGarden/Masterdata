@@ -1162,6 +1162,24 @@
   },
   {
     "type": "HomeIllustrationMaster",
+    "Id": 200053,
+    "Order": 53,
+    "GroupNumber": 49,
+    "Type": "Event",
+    "EpisodeMasterId": 201606,
+    "AssetId": "10600"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 200054,
+    "Order": 54,
+    "GroupNumber": 50,
+    "Type": "Event",
+    "EpisodeMasterId": 201608,
+    "AssetId": "10610"
+  },
+  {
+    "type": "HomeIllustrationMaster",
     "Id": 300001,
     "Order": 1,
     "GroupNumber": 1,

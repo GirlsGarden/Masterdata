@@ -2577,6 +2577,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20160611,
+    "SceneBranchMasterId": 2016061,
+    "Answer": "もご……もごご……！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20160612,
+    "SceneBranchMasterId": 2016061,
+    "Answer": "むぐ、むぐぐぐ……っ！！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20160811,
+    "SceneBranchMasterId": 2016081,
+    "Answer": "小花に助けを求める",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20160812,
+    "SceneBranchMasterId": 2016081,
+    "Answer": "言い訳を考える。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -3804,6 +3836,22 @@
     "Id": 40008212,
     "SceneBranchMasterId": 4000821,
     "Answer": "意味を聞く",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40008311,
+    "SceneBranchMasterId": 4000831,
+    "Answer": "小花……？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40008312,
+    "SceneBranchMasterId": 4000831,
+    "Answer": "どうかしたか？",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -9710,6 +9758,70 @@
     "Answer": "真桜らしいな",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1443021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61139011,
+    "SceneBranchMasterId": 6113901,
+    "Answer": "降参する",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1313021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61139012,
+    "SceneBranchMasterId": 6113901,
+    "Answer": "あえて見つめる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1313022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61140011,
+    "SceneBranchMasterId": 6114001,
+    "Answer": "少しからかう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1313021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61140012,
+    "SceneBranchMasterId": 6114001,
+    "Answer": "パフェを奢る",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1313022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61141011,
+    "SceneBranchMasterId": 6114101,
+    "Answer": "素直にいただく",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1313021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61141012,
+    "SceneBranchMasterId": 6114101,
+    "Answer": "一緒に飲む",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1313022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61142011,
+    "SceneBranchMasterId": 6114201,
+    "Answer": "一緒に審判をする",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1313021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61142012,
+    "SceneBranchMasterId": 6114201,
+    "Answer": "水鉄砲を借りる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1313022
   },
   {
     "type": "SceneBranchSelectionMaster",

@@ -5701,6 +5701,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40008301,
+    "EpisodeMasterId": 400083,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "眩しさに手を伸ばして",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008302,
+    "EpisodeMasterId": 400083,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "眩しさに手を伸ばして",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -9837,6 +9857,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "腕章を探して",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61058001,
+    "EpisodeMasterId": 610328,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "高度な心理戦？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61058002,
+    "EpisodeMasterId": 610329,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "期間限定パフェ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61058003,
+    "EpisodeMasterId": 610330,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "風流の味わい方",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61058004,
+    "EpisodeMasterId": 610331,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "審判もお手の物",
     "AssetId": null
   },
   {

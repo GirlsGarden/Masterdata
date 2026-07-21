@@ -3048,7 +3048,30 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20079,
+    "Rarity": "Ssr",
+    "Name": "夢を見るのは自由",
+    "Description": "次のダイエットでは必ず激痩せして……！ いえ、いきなりは難しいですから、その次とかに……",
+    "AssetId": "20047",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 1,
+        "CharacterType": null,
+        "SkillMasterId": 400219,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
