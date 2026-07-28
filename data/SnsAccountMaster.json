@@ -379,6 +379,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 110304,
+    "Type": "Character",
+    "DisplayName": "ユリア・バーンズ",
+    "Name": "@Julia_B",
+    "AssetId": "110003c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 111001,
     "Type": "Character",
     "DisplayName": "劉翠蘭",
@@ -484,6 +493,15 @@
     "Name": "@Anis_B",
     "AssetId": "114002c",
     "CharacterMasterId": 114301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 114303,
+    "Type": "Character",
+    "DisplayName": "アニス・ベネット「渚のスイートデビル」",
+    "Name": "@Anis_B",
+    "AssetId": "114302",
+    "CharacterMasterId": 114302
   },
   {
     "type": "SnsAccountMaster",

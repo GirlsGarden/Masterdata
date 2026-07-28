@@ -385,6 +385,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1143021,
+    "CallCharacterMasterId": 114302,
+    "Order": 114002,
+    "Title": "耳元で囁いて",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 114302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400084
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1153011,
     "CallCharacterMasterId": 115301,
     "Order": 115001,

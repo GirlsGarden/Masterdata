@@ -2609,6 +2609,54 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20170111,
+    "SceneBranchMasterId": 2017011,
+    "Answer": "親指を立てる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20170112,
+    "SceneBranchMasterId": 2017011,
+    "Answer": "手を振る",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20170211,
+    "SceneBranchMasterId": 2017021,
+    "Answer": "うるう、危ない！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20170212,
+    "SceneBranchMasterId": 2017021,
+    "Answer": "アニス、後ろだ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20170311,
+    "SceneBranchMasterId": 2017031,
+    "Answer": "アニスの顔もよく見える",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20170312,
+    "SceneBranchMasterId": 2017031,
+    "Answer": "幻想的な雰囲気だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -3852,6 +3900,22 @@
     "Id": 40008312,
     "SceneBranchMasterId": 4000831,
     "Answer": "どうかしたか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40008411,
+    "SceneBranchMasterId": 4000841,
+    "Answer": "本当にどこでもいいんだな？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40008412,
+    "SceneBranchMasterId": 4000841,
+    "Answer": "背中からでいいか？",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -9822,6 +9886,70 @@
     "Answer": "水鉄砲を借りる",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1313022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61143011,
+    "SceneBranchMasterId": 6114301,
+    "Answer": "露出が多くてハラハラする",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1143021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61143012,
+    "SceneBranchMasterId": 6114301,
+    "Answer": "モデルみたいで綺麗だ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1143022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61144011,
+    "SceneBranchMasterId": 6114401,
+    "Answer": "フリフリの水着",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1143021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61144012,
+    "SceneBranchMasterId": 6114401,
+    "Answer": "スポーティーな水着",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1143022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61145011,
+    "SceneBranchMasterId": 6114501,
+    "Answer": "打ち水がいいぞ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1143021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61145012,
+    "SceneBranchMasterId": 6114501,
+    "Answer": "風鈴が風情ある",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1143022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61146011,
+    "SceneBranchMasterId": 6114601,
+    "Answer": "日焼け止めは塗ったか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1143021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61146012,
+    "SceneBranchMasterId": 6114601,
+    "Answer": "一緒に休むか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1143022
   },
   {
     "type": "SceneBranchSelectionMaster",

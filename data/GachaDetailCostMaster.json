@@ -2545,6 +2545,66 @@
   },
   {
     "type": "GachaDetailCostMaster",
+    "Id": 2004211,
+    "GachaDetailMasterId": 200421,
+    "Cost": 1,
+    "GemType": "Paid",
+    "Gem": 150,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 2004221,
+    "GachaDetailMasterId": 200422,
+    "Cost": 1,
+    "GemType": "All",
+    "Gem": 300,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 2004222,
+    "GachaDetailMasterId": 200422,
+    "Cost": 1,
+    "GemType": "Unknown",
+    "Gem": null,
+    "ItemPriority": 1,
+    "ItemMasterId": 90002,
+    "ItemQuantity": 1,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 2004231,
+    "GachaDetailMasterId": 200423,
+    "Cost": 1,
+    "GemType": "All",
+    "Gem": 300,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 2004232,
+    "GachaDetailMasterId": 200423,
+    "Cost": 1,
+    "GemType": "Unknown",
+    "Gem": null,
+    "ItemPriority": 1,
+    "ItemMasterId": 90002,
+    "ItemQuantity": 1,
+    "PlatformProductMasterId": null
+  },
+  {
+    "type": "GachaDetailCostMaster",
     "Id": 3000111,
     "GachaDetailMasterId": 300011,
     "Cost": 1,
@@ -3574,6 +3634,18 @@
     "ItemMasterId": null,
     "ItemQuantity": null,
     "PlatformProductMasterId": 503
+  },
+  {
+    "type": "GachaDetailCostMaster",
+    "Id": 4004211,
+    "GachaDetailMasterId": 400421,
+    "Cost": 1,
+    "GemType": "Unknown",
+    "Gem": null,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": 507
   },
   {
     "type": "GachaDetailCostMaster",

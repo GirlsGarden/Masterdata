@@ -974,5 +974,29 @@
     "Order": 845,
     "UnlockGemQuantity": 100,
     "AssetId": "30355"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 123,
+    "Name": "森の中_夜",
+    "Order": 854,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80234"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 124,
+    "Name": "地上の洞窟_その他",
+    "Order": 860,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80240"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 125,
+    "Name": "野外フェスステージ_特殊1",
+    "Order": 565,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30285"
   }
 ]

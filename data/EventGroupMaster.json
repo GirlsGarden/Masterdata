@@ -530,5 +530,19 @@
     "LogoFrameAssetId": "100",
     "MovieAssetId": "20023",
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 39,
+    "Name": "ポロリ！水上スポーツ大会",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-07-28T12:30:00+09:00",
+    "QuestCloseDate": "2026-08-10T04:59:59+09:00",
+    "EndDate": "2026-08-17T04:59:59+09:00",
+    "Order": 39,
+    "LogoAssetId": "24",
+    "LogoFrameAssetId": "100",
+    "MovieAssetId": "20024",
+    "IntroductionEpisodeMasterId": null
   }
 ]

@@ -530,6 +530,16 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10028,
+    "Rarity": "Sr",
+    "Name": "海水浴場でデートしてみた♪",
+    "Description": "水上スポーツ大会に来てるんだけど、ちょ～っと待ち時間があるから、 海の家を回ってイチオシメニュー紹介しちゃうね～！",
+    "AssetId": "10030",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -3075,6 +3085,76 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20080,
+    "Rarity": "Ssr",
+    "Name": "あたしの１番大切なもの",
+    "Description": "あら、一体全体どこを触るつもりなのかしら？ コワ～イ……ふふ♪",
+    "AssetId": "114302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 114,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400222,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400223,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20081,
+    "Rarity": "Ssr",
+    "Name": "トラブル続きの一日でも",
+    "Description": "わわわ、わたし……どうすれば……！？ あっあっ……えっ！？　あああぁぁ～～～！？",
+    "AssetId": "106302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 106,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400224,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Comical",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400225,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -3994,5 +4074,40 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30035,
+    "Rarity": "Ur",
+    "Name": "友達みたいなこと",
+    "Description": "「ほらこっちだよめるちゃん！　行こ行こー！」\\n「わわっ！　ユリアさん、落ち着いて……！」",
+    "AssetId": "30035",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": "Comical",
+        "PartyPosition": null,
+        "CharacterType": null,
+        "SkillMasterId": 400226,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": null,
+        "CharacterAttribute": null,
+        "PartyPosition": 56,
+        "CharacterType": null,
+        "SkillMasterId": 400227,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

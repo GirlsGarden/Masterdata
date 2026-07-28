@@ -2806,6 +2806,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 11430211,
+    "TalkMasterId": 1143021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし、%usernameusernameuserna%？\nあたしよ……あなたと相思相愛のアニスよ、ふふっ♪",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11430212,
+    "TalkMasterId": 1143021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "さっきはありがとう。色々と聞いてもらっちゃったわね。\nでも、おかげで色々と楽になったわ。",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11430213,
+    "TalkMasterId": 1143021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "あなたには不思議と何でも話せてしまう……話したいと思える。\nきっとあたし達の関係が、とっても深まってる証拠ね。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11430214,
+    "TalkMasterId": 1143021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "……あたしにとって一番大切なもの、\nそれはカオスメイデンの皆とあなた。考えてみれば当然の話よね。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11430215,
+    "TalkMasterId": 1143021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "だって今のあたしを形作っているもの、支えているものって、\n間違いなくあなたたちだもの。",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11430216,
+    "TalkMasterId": 1143021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "今だってあなたの声を聴いて、とっても安心してるわ。\nでも次は電話越しじゃなくて……抱きしめて、耳元で囁いてちょうだい。\nあたしへの、愛の言葉をね♪",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 11430217,
+    "TalkMasterId": 1143021,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "それじゃあね。\nまたふたりで、ビーチでイイコトをしましょ♪",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 11530111,
     "TalkMasterId": 1153011,
     "Order": 1,

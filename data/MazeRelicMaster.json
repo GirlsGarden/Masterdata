@@ -1935,13 +1935,14 @@
       "Ur": "スロウス"
     },
     "Descriptions": {
+      "Lr": "「あぁ、めんどくせぇ…」戦闘開始時、攻撃力が\u003ccolor=#ff701a\u003e75%アップ\u003c/color\u003eする。",
       "Ur": "「あぁ、めんどくせぇ…」戦闘開始時、速度が\u003ccolor=#00aab9\u003e50%ダウン\u003c/color\u003eする代わりに攻撃力が\u003ccolor=#ff701a\u003e50%アップ\u003c/color\u003eする。"
     },
     "AssetIds": {
       "Ur": "3012"
     },
     "Rarity": "Ur",
-    "MaxRarity": "Ur"
+    "MaxRarity": "Lr"
   },
   {
     "type": "MazeRelicMaster",
@@ -1950,13 +1951,14 @@
       "Ur": "ラスト"
     },
     "Descriptions": {
+      "Lr": "「……あなたに喜んでほしかった…」戦闘開始時、EXゲージが\u003ccolor=#ff701a\u003e最大\u003c/color\u003eになる。",
       "Ur": "「……あなたに喜んでほしかった…」戦闘開始時、現在HPの\u003ccolor=#00aab9\u003e50%\u003c/color\u003eを失う代わりにEXゲージが\u003ccolor=#ff701a\u003e最大\u003c/color\u003eになる。"
     },
     "AssetIds": {
       "Ur": "3013"
     },
     "Rarity": "Ur",
-    "MaxRarity": "Ur"
+    "MaxRarity": "Lr"
   },
   {
     "type": "MazeRelicMaster",
@@ -1965,13 +1967,14 @@
       "Ur": "ラース"
     },
     "Descriptions": {
+      "Lr": "「まったくこの世の全てが腹立たしい…」戦闘開始時、攻撃力が\u003ccolor=#ff701a\u003e45%アップ\u003c/color\u003eする。",
       "Ur": "「まったくこの世の全てが腹立たしい…」戦闘開始時、防御力が\u003ccolor=#00aab9\u003e25%ダウン\u003c/color\u003eする代わりに攻撃力が\u003ccolor=#ff701a\u003e25%アップ\u003c/color\u003eする。"
     },
     "AssetIds": {
       "Ur": "3014"
     },
     "Rarity": "Ur",
-    "MaxRarity": "Ur"
+    "MaxRarity": "Lr"
   },
   {
     "type": "MazeRelicMaster",
@@ -1980,13 +1983,14 @@
       "Ur": "グラトニー"
     },
     "Descriptions": {
+      "Lr": "「食べていい？」戦闘開始時、\u003ccolor=#ff701a\u003eAPが+1\u003c/color\u003eされる。",
       "Ur": "「食べていい？」戦闘開始時、\u003ccolor=#ff701a\u003eAPが+1\u003c/color\u003eされるが\u003ccolor=#00aab9\u003ePPが-1\u003c/color\u003eされる。"
     },
     "AssetIds": {
       "Ur": "3015"
     },
     "Rarity": "Ur",
-    "MaxRarity": "Ur"
+    "MaxRarity": "Lr"
   },
   {
     "type": "MazeRelicMaster",
@@ -1995,13 +1999,14 @@
       "Ur": "プライド"
     },
     "Descriptions": {
+      "Lr": "「今ならなんだって出来る気がするよ…」戦闘開始時、基本ステータスが\u003ccolor=#ff701a\u003e40%\u003c/color\u003eアップする。",
       "Ur": "「今ならなんだって出来る気がするよ…」戦闘開始時、基本ステータスが\u003ccolor=#ff701a\u003e10%\u003c/color\u003eアップする。"
     },
     "AssetIds": {
       "Ur": "3016"
     },
     "Rarity": "Ur",
-    "MaxRarity": "Ur"
+    "MaxRarity": "Lr"
   },
   {
     "type": "MazeRelicMaster",
@@ -2010,13 +2015,14 @@
       "Ur": "グリード"
     },
     "Descriptions": {
+      "Lr": "「すべてオレの所有物だ」戦闘開始時、防御力が\u003ccolor=#ff701a\u003e40%\u003c/color\u003eアップし、HPが\u003ccolor=#27D327\u003e30%\u003c/color\u003e回復する。",
       "Ur": "「すべてオレの所有物だ」戦闘開始時、防御力が\u003ccolor=#ff701a\u003e20%\u003c/color\u003eアップし、HPが\u003ccolor=#27D327\u003e10%\u003c/color\u003e回復する。"
     },
     "AssetIds": {
       "Ur": "3017"
     },
     "Rarity": "Ur",
-    "MaxRarity": "Ur"
+    "MaxRarity": "Lr"
   },
   {
     "type": "MazeRelicMaster",
@@ -2025,13 +2031,14 @@
       "Ur": "エンヴィー"
     },
     "Descriptions": {
+      "Lr": "「…妬む？仲間に？まさかな…」戦闘開始時、\u003ccolor=#ff701a\u003ePPが+1\u003c/color\u003eされる。",
       "Ur": "「…妬む？仲間に？まさかな…」戦闘開始時、\u003ccolor=#00aab9\u003eAPが-1\u003c/color\u003eされるが\u003ccolor=#ff701a\u003ePPが+1\u003c/color\u003eされる。"
     },
     "AssetIds": {
       "Ur": "3018"
     },
     "Rarity": "Ur",
-    "MaxRarity": "Ur"
+    "MaxRarity": "Lr"
   },
   {
     "type": "MazeRelicMaster",
@@ -2295,6 +2302,59 @@
     },
     "Rarity": "Sr",
     "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3034,
+    "Names": {
+      "Ssr": "金の長刀"
+    },
+    "Descriptions": {
+      "Lr": "神々しい金の刃、戦闘開始時、敵全体に2行動分の\u003ccolor=#ff701a\u003e暗闇\u003c/color\u003eを付与する。暗闇状態は50%の確率でスキルが命中しなくなる",
+      "Ssr": "神々しい金の刃、戦闘開始時、敵全体に1行動分の\u003ccolor=#ff701a\u003e暗闇\u003c/color\u003eを付与する。暗闇状態は30%の確率でスキルが命中しなくなる",
+      "Ur": "神々しい金の刃、戦闘開始時、敵全体に1行動分の\u003ccolor=#ff701a\u003e暗闇\u003c/color\u003eを付与する。暗闇状態は40%の確率でスキルが命中しなくなる"
+    },
+    "AssetIds": {
+      "Ssr": "3034"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3035,
+    "Names": {
+      "R": "銀の長刀"
+    },
+    "Descriptions": {
+      "R": "研ぎ澄まされた銀の刃、戦闘開始時、敵全体の回復効果が\u003ccolor=#ff701a\u003e10%\u003c/color\u003eダウンする。",
+      "Sr": "研ぎ澄まされた銀の刃、戦闘開始時、敵全体の防御力と回復効果が\u003ccolor=#ff701a\u003e20%\u003c/color\u003eダウンする。",
+      "Ssr": "研ぎ澄まされた銀の刃、戦闘開始時、敵全体の防御力と回復効果が\u003ccolor=#ff701a\u003e35%\u003c/color\u003eダウンする。"
+    },
+    "AssetIds": {
+      "R": "3035"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3036,
+    "Names": {
+      "R": "澄んだ水",
+      "Sr": "澄んだ水",
+      "Ssr": "精製された純水"
+    },
+    "Descriptions": {
+      "R": "飲み水ではない澄んだ水、戦闘開始時、味方全体の最大HPが\u003ccolor=#00aab9\u003e5％ダウン\u003c/color\u003eする。",
+      "Sr": "飲用に適した水、戦闘開始時、味方全体の最大HPが\u003ccolor=#ff701a\u003e5％アップ\u003c/color\u003eし、防御力\u003ccolor=#ff701a\u003e10%アップ\u003c/color\u003eする。",
+      "Ssr": "極めて綺麗な純水、戦闘開始時、味方全体の最大HPが\u003ccolor=#ff701a\u003e30％アップ\u003c/color\u003eし、防御力\u003ccolor=#ff701a\u003e30%アップ\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "R": "3036"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Ssr"
   },
   {
     "type": "MazeRelicMaster",
@@ -2759,6 +2819,111 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 7035,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7035"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7036,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7035"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7037,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7035"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7038,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7035"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7039,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7035"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7040,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7035"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 7041,
+    "Names": {
+      "R": "クリスタル"
+    },
+    "Descriptions": {
+      "R": "レリック強化・生成の素材。何の効果もない。"
+    },
+    "AssetIds": {
+      "R": "7035"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 8000,
     "Names": {
       "R": "プチフォース（物理）"
@@ -3128,6 +3293,36 @@
     },
     "AssetIds": {
       "Ssr": "9013"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9014,
+    "Names": {
+      "Ssr": "カラフルマカローン"
+    },
+    "Descriptions": {
+      "Ssr": "シティ街中で人気の新作お菓子、次のバトルで敵全体が1行動の\u003ccolor=#ff701a\u003e気絶\u003c/color\u003eになるが、ランダムに\u003ccolor=#00aab9\u003eレリックが2つ消滅\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Ssr": "9015"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9015,
+    "Names": {
+      "Ssr": "謎の液体X"
+    },
+    "Descriptions": {
+      "Ssr": "誰かの髪留めが埋もれた謎の赤い液体、次のバトルで味方の\u003ccolor=#ff701a\u003eEXゲージが満タン\u003c/color\u003eでバトルがスタートするが、攻撃力が\u003ccolor=#00aab9\u003e30%ダウン\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Ssr": "9016"
     },
     "Rarity": "Ssr",
     "MaxRarity": "Ssr"

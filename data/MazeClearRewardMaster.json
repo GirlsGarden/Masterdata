@@ -1,0 +1,272 @@
+[
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 71,
+    "MazeMasterId": 7,
+    "ThreatLevel": 1,
+    "PersonalRewardPackageMasterId": 2025001,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 72,
+    "MazeMasterId": 7,
+    "ThreatLevel": 3,
+    "PersonalRewardPackageMasterId": 2025002,
+    "DailyLimitBonuses": [
+      {
+        "type": "ClearRewardDailyLimitBonus",
+        "MazeTuneupDailyLimitGroupMasterId": 10,
+        "BonusAmount": 1,
+        "Name": "スキルレポートⅠ（購入回数+1）",
+        "Description": "未開拓エリア開催期間中、メイズ探索のチューンナップ「スキルレポートⅠ」の購入回数上限が+1",
+        "AssetId": "skills_report_1"
+      }
+    ],
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 73,
+    "MazeMasterId": 7,
+    "ThreatLevel": 5,
+    "PersonalRewardPackageMasterId": null,
+    "DailyLimitBonuses": [
+      {
+        "type": "ClearRewardDailyLimitBonus",
+        "MazeTuneupDailyLimitGroupMasterId": 11,
+        "BonusAmount": 1,
+        "Name": "スキルレポートⅡ（購入回数+1）",
+        "Description": "未開拓エリア開催期間中、メイズ探索のチューンナップ「スキルレポートⅡ」の購入回数上限が+1",
+        "AssetId": "skills_report_2"
+      }
+    ],
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 74,
+    "MazeMasterId": 7,
+    "ThreatLevel": 6,
+    "PersonalRewardPackageMasterId": 2025003,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 75,
+    "MazeMasterId": 7,
+    "ThreatLevel": 10,
+    "PersonalRewardPackageMasterId": 2025033,
+    "DailyLimitBonuses": [
+      {
+        "type": "ClearRewardDailyLimitBonus",
+        "MazeTuneupDailyLimitGroupMasterId": 10,
+        "BonusAmount": 1,
+        "Name": "スキルレポートⅠ（購入回数+1）",
+        "Description": "未開拓エリア開催期間中、メイズ探索のチューンナップ「スキルレポートⅠ」の購入回数上限が+1",
+        "AssetId": "skills_report_1"
+      }
+    ],
+    "MiningBonuses": [
+      {
+        "type": "ClearRewardMiningBonus",
+        "Type": "Item",
+        "ItemMasterId": 30001,
+        "BonusAmount": 1,
+        "Name": "採掘効率（トレーニングレポート）",
+        "Description": "未開拓エリア開催期間中、採掘で得られるトレーニングレポートの獲得量+1％",
+        "AssetId": "training_report"
+      },
+      {
+        "type": "ClearRewardMiningBonus",
+        "Type": "Item",
+        "ItemMasterId": 30002,
+        "BonusAmount": 1,
+        "Name": "採掘効率（テクニカルレポート）",
+        "Description": "未開拓エリア開催期間中、採掘で得られるテクニカルレポートの獲得量+1％",
+        "AssetId": "technical_report"
+      },
+      {
+        "type": "ClearRewardMiningBonus",
+        "Type": "Money",
+        "ItemMasterId": null,
+        "BonusAmount": 1,
+        "Name": "採掘効率（資金）",
+        "Description": "未開拓エリア開催期間中、採掘で得られる資金の獲得量+1％",
+        "AssetId": "money"
+      }
+    ]
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 76,
+    "MazeMasterId": 7,
+    "ThreatLevel": 13,
+    "PersonalRewardPackageMasterId": 2025005,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 77,
+    "MazeMasterId": 7,
+    "ThreatLevel": 15,
+    "PersonalRewardPackageMasterId": null,
+    "DailyLimitBonuses": [
+      {
+        "type": "ClearRewardDailyLimitBonus",
+        "MazeTuneupDailyLimitGroupMasterId": 11,
+        "BonusAmount": 1,
+        "Name": "スキルレポートⅡ（購入回数+1）",
+        "Description": "未開拓エリア開催期間中、メイズ探索のチューンナップ「スキルレポートⅡ」の購入回数上限が+1",
+        "AssetId": "skills_report_2"
+      },
+      {
+        "type": "ClearRewardDailyLimitBonus",
+        "MazeTuneupDailyLimitGroupMasterId": 12,
+        "BonusAmount": 1,
+        "Name": "アップデートディスク（購入回数+1）",
+        "Description": "未開拓エリア開催期間中、メイズ探索のチューンナップ「アップデートディスク」の購入回数上限が+1",
+        "AssetId": "disk"
+      }
+    ],
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 78,
+    "MazeMasterId": 7,
+    "ThreatLevel": 17,
+    "PersonalRewardPackageMasterId": 2025006,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 79,
+    "MazeMasterId": 7,
+    "ThreatLevel": 20,
+    "PersonalRewardPackageMasterId": 2025034,
+    "DailyLimitBonuses": [
+      {
+        "type": "ClearRewardDailyLimitBonus",
+        "MazeTuneupDailyLimitGroupMasterId": 10,
+        "BonusAmount": 1,
+        "Name": "スキルレポートⅠ（購入回数+1）",
+        "Description": "未開拓エリア開催期間中、メイズ探索のチューンナップ「スキルレポートⅠ」の購入回数上限が+1",
+        "AssetId": "skills_report_1"
+      },
+      {
+        "type": "ClearRewardDailyLimitBonus",
+        "MazeTuneupDailyLimitGroupMasterId": 13,
+        "BonusAmount": 1,
+        "Name": "アップデートユニット（購入回数+1）",
+        "Description": "未開拓エリア開催期間中、メイズ探索のチューンナップ「アップデートユニット」の購入回数上限が+1",
+        "AssetId": "unit"
+      }
+    ],
+    "MiningBonuses": [
+      {
+        "type": "ClearRewardMiningBonus",
+        "Type": "Item",
+        "ItemMasterId": 30001,
+        "BonusAmount": 1,
+        "Name": "採掘効率（トレーニングレポート）",
+        "Description": "未開拓エリア開催期間中、採掘で得られるトレーニングレポートの獲得量+1％",
+        "AssetId": "training_report"
+      },
+      {
+        "type": "ClearRewardMiningBonus",
+        "Type": "Item",
+        "ItemMasterId": 30002,
+        "BonusAmount": 1,
+        "Name": "採掘効率（テクニカルレポート）",
+        "Description": "未開拓エリア開催期間中、採掘で得られるテクニカルレポートの獲得量+1％",
+        "AssetId": "technical_report"
+      },
+      {
+        "type": "ClearRewardMiningBonus",
+        "Type": "Money",
+        "ItemMasterId": null,
+        "BonusAmount": 1,
+        "Name": "採掘効率（資金）",
+        "Description": "未開拓エリア開催期間中、採掘で得られる資金の獲得量+1％",
+        "AssetId": "money"
+      }
+    ]
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 710,
+    "MazeMasterId": 7,
+    "ThreatLevel": 23,
+    "PersonalRewardPackageMasterId": 2025035,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 711,
+    "MazeMasterId": 7,
+    "ThreatLevel": 25,
+    "PersonalRewardPackageMasterId": 2025036,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 712,
+    "MazeMasterId": 7,
+    "ThreatLevel": 27,
+    "PersonalRewardPackageMasterId": 2025037,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 713,
+    "MazeMasterId": 7,
+    "ThreatLevel": 29,
+    "PersonalRewardPackageMasterId": 2025038,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 714,
+    "MazeMasterId": 7,
+    "ThreatLevel": 31,
+    "PersonalRewardPackageMasterId": 2025039,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 715,
+    "MazeMasterId": 7,
+    "ThreatLevel": 33,
+    "PersonalRewardPackageMasterId": 2025040,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 716,
+    "MazeMasterId": 7,
+    "ThreatLevel": 35,
+    "PersonalRewardPackageMasterId": 2025041,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  },
+  {
+    "type": "MazeClearRewardMaster",
+    "Id": 717,
+    "MazeMasterId": 7,
+    "ThreatLevel": 40,
+    "PersonalRewardPackageMasterId": 303,
+    "DailyLimitBonuses": null,
+    "MiningBonuses": null
+  }
+]

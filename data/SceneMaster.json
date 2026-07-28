@@ -3951,6 +3951,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20170101,
+    "EpisodeMasterId": 201701,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "スカラ水上スポーツ大会開幕！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20170201,
+    "EpisodeMasterId": 201702,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "激闘を制するのは？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20170301,
+    "EpisodeMasterId": 201703,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "仄暗い洞窟の中で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20170401,
+    "EpisodeMasterId": 201704,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "遭難の結末、そして……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20170501,
+    "EpisodeMasterId": 201705,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "水着スポーツ5話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20170601,
+    "EpisodeMasterId": 201706,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "水着スポーツ6話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20170701,
+    "EpisodeMasterId": 201707,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "水着スポーツ7話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20170801,
+    "EpisodeMasterId": 201708,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "水着スポーツ8話",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -5721,6 +5801,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40008401,
+    "EpisodeMasterId": 400084,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "あたしの１番大切なもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008402,
+    "EpisodeMasterId": 400084,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "あたしの１番大切なもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -6577,6 +6677,46 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "浮かれた事情",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004501,
+    "EpisodeMasterId": 500046,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "海水浴場でデートしてみた♪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004502,
+    "EpisodeMasterId": 500046,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "海水浴場でデートしてみた♪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004601,
+    "EpisodeMasterId": 500047,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "友達みたいなこと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004602,
+    "EpisodeMasterId": 500047,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "友達みたいなこと",
     "AssetId": null
   },
   {
@@ -9897,6 +10037,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "審判もお手の物",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61059001,
+    "EpisodeMasterId": 610332,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "教室で秘密のファッションショー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61059002,
+    "EpisodeMasterId": 610333,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "夏先取りのショッピング",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61059003,
+    "EpisodeMasterId": 610334,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "畳の上で涼を取りながら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61059004,
+    "EpisodeMasterId": 610335,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "グラウンドでの暑さ対策",
     "AssetId": null
   },
   {
