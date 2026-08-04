@@ -2657,6 +2657,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20170611,
+    "SceneBranchMasterId": 2017061,
+    "Answer": "ラミの家族を思い出す。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20170612,
+    "SceneBranchMasterId": 2017061,
+    "Answer": "ちゆるの家族を思い出す。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20170811,
+    "SceneBranchMasterId": 2017081,
+    "Answer": "冗談を飛ばす",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20170812,
+    "SceneBranchMasterId": 2017081,
+    "Answer": "うるうをからかう",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -3921,6 +3953,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40008511,
+    "SceneBranchMasterId": 4000851,
+    "Answer": "俺で隠さなきゃ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40008512,
+    "SceneBranchMasterId": 4000851,
+    "Answer": "動くな！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -4572,6 +4620,22 @@
     "Id": 50004412,
     "SceneBranchMasterId": 5000441,
     "Answer": "着比べてみないと……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004611,
+    "SceneBranchMasterId": 5000461,
+    "Answer": "信頼してるんだな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004612,
+    "SceneBranchMasterId": 5000461,
+    "Answer": "めるは無理してないか？",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -9950,6 +10014,70 @@
     "Answer": "一緒に休むか？",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1143022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61147011,
+    "SceneBranchMasterId": 6114701,
+    "Answer": "素直に彼女を褒める",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1063021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61147012,
+    "SceneBranchMasterId": 6114701,
+    "Answer": "ちょっと意地悪をする",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1063022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61148011,
+    "SceneBranchMasterId": 6114801,
+    "Answer": "一緒に食べようと誘う",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1063021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61148012,
+    "SceneBranchMasterId": 6114801,
+    "Answer": "自分も奢ってあげる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1063022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61149011,
+    "SceneBranchMasterId": 6114901,
+    "Answer": "日除けを作る",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1063021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61149012,
+    "SceneBranchMasterId": 6114901,
+    "Answer": "冷たい飲み物を買ってくる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1063022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61150011,
+    "SceneBranchMasterId": 6115001,
+    "Answer": "危機予想が出来て偉いな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1063021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61150012,
+    "SceneBranchMasterId": 6115001,
+    "Answer": "でも、恥ずかしくないか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1063022
   },
   {
     "type": "SceneBranchSelectionMaster",

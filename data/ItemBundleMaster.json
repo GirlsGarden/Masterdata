@@ -1065,6 +1065,16 @@
         "ThingType": "Item",
         "ThingId": 40082,
         "ThingQuantity": 50
+      },
+      {
+        "type": "ItemBundleItemMaster",
+        "Id": 2055,
+        "Order": 56,
+        "OpenDate": null,
+        "CloseDate": null,
+        "ThingType": "Item",
+        "ThingId": 40083,
+        "ThingQuantity": 50
       }
     ]
   },

@@ -3996,7 +3996,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "水着スポーツ5話",
+    "Title": "サバイバル宝探しゲーム",
     "AssetId": null
   },
   {
@@ -4006,7 +4006,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "水着スポーツ6話",
+    "Title": "勝ちたい理由",
     "AssetId": null
   },
   {
@@ -4016,7 +4016,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "水着スポーツ7話",
+    "Title": "あなたを信じさせて",
     "AssetId": null
   },
   {
@@ -4026,7 +4026,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "水着スポーツ8話",
+    "Title": "ここからはじまる",
     "AssetId": null
   },
   {
@@ -5817,6 +5817,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "あたしの１番大切なもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008501,
+    "EpisodeMasterId": 400085,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "トラブル続きの一日でも",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008502,
+    "EpisodeMasterId": 400085,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "トラブル続きの一日でも",
     "AssetId": null
   },
   {
@@ -10077,6 +10097,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "グラウンドでの暑さ対策",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61060001,
+    "EpisodeMasterId": 610336,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "教室で予期せぬお披露目",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61060002,
+    "EpisodeMasterId": 610337,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お手伝いの対価？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61060003,
+    "EpisodeMasterId": 610338,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "屋上でふたりだけの避暑",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61060004,
+    "EpisodeMasterId": 610339,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "放課後のお片付け",
     "AssetId": null
   },
   {

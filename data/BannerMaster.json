@@ -67,32 +67,11 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 1039,
-    "Order": 2,
-    "ImageStaticPath": "2032",
-    "StartDate": "2026-07-21T12:30:00+09:00",
-    "EndDate": "2026-08-04T04:59:59+09:00",
-    "JumpType": "EventTop",
-    "JumpTargetId": 38,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay"
-    ]
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 1040,
+    "Id": 1041,
     "Order": 1,
-    "ImageStaticPath": "2033",
-    "StartDate": "2026-07-28T12:30:00+09:00",
-    "EndDate": "2026-08-04T12:29:59+09:00",
+    "ImageStaticPath": "2034",
+    "StartDate": "2026-08-04T12:30:00+09:00",
+    "EndDate": "2026-08-17T04:59:59+09:00",
     "JumpType": "EventTop",
     "JumpTargetId": 39,
     "VisibleRatingFlags": [
@@ -105,28 +84,6 @@
       "Client",
       "AppStore",
       "GooglePlay"
-    ]
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 2053,
-    "Order": 42,
-    "ImageStaticPath": "20041",
-    "StartDate": "2026-07-21T12:30:00+09:00",
-    "EndDate": "2026-08-04T04:59:59+09:00",
-    "JumpType": "Gacha",
-    "JumpTargetId": 20041,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay",
-      "SpIOS"
     ]
   },
   {
@@ -153,13 +110,13 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 3014,
-    "Order": 1,
-    "ImageStaticPath": "1014_01",
-    "StartDate": "2026-07-30T12:00:00+09:00",
-    "EndDate": "2026-08-10T04:59:59+09:00",
-    "JumpType": "LimitedTimeShop",
-    "JumpTargetId": 205,
+    "Id": 2055,
+    "Order": 40,
+    "ImageStaticPath": "20043",
+    "StartDate": "2026-08-04T12:30:00+09:00",
+    "EndDate": "2026-08-18T04:59:59+09:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20043,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"
@@ -175,13 +132,13 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 3020,
+    "Id": 3014,
     "Order": 1,
-    "ImageStaticPath": "1020",
-    "StartDate": "2026-07-23T12:00:00+09:00",
-    "EndDate": "2026-08-04T04:59:59+09:00",
+    "ImageStaticPath": "1014_01",
+    "StartDate": "2026-07-30T12:00:00+09:00",
+    "EndDate": "2026-08-10T04:59:59+09:00",
     "JumpType": "LimitedTimeShop",
-    "JumpTargetId": 265,
+    "JumpTargetId": 205,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"

@@ -3299,21 +3299,6 @@
   },
   {
     "type": "MazeRelicMaster",
-    "Id": 9014,
-    "Names": {
-      "Ssr": "カラフルマカローン"
-    },
-    "Descriptions": {
-      "Ssr": "シティ街中で人気の新作お菓子、次のバトルで敵全体が1行動の\u003ccolor=#ff701a\u003e気絶\u003c/color\u003eになるが、ランダムに\u003ccolor=#00aab9\u003eレリックが2つ消滅\u003c/color\u003eする。"
-    },
-    "AssetIds": {
-      "Ssr": "9015"
-    },
-    "Rarity": "Ssr",
-    "MaxRarity": "Ssr"
-  },
-  {
-    "type": "MazeRelicMaster",
     "Id": 9015,
     "Names": {
       "Ssr": "謎の液体X"
@@ -3323,6 +3308,21 @@
     },
     "AssetIds": {
       "Ssr": "9016"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9017,
+    "Names": {
+      "Ssr": "カラフルマカローン"
+    },
+    "Descriptions": {
+      "Ssr": "シティ街中で人気の新作お菓子、次のバトルで敵全体が1行動の\u003ccolor=#ff701a\u003e気絶\u003c/color\u003eになるが、ランダムに\u003ccolor=#00aab9\u003eレリックが2つ消滅\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Ssr": "9015"
     },
     "Rarity": "Ssr",
     "MaxRarity": "Ssr"

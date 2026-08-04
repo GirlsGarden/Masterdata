@@ -205,6 +205,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1063021,
+    "CallCharacterMasterId": 106302,
+    "Order": 106002,
+    "Title": "次は自分自身で",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 106302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400085
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1073011,
     "CallCharacterMasterId": 107301,
     "Order": 107001,
