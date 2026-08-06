@@ -1298,5 +1298,31 @@
     "QuestPassMasterId": null,
     "LoginBonusMasterId": null,
     "BeforeShopProductMasterId": null
+  },
+  {
+    "type": "ShopProductMaster",
+    "Id": 274,
+    "Category": "Limitation",
+    "Order": 1,
+    "Flags": "None",
+    "Name": "期間限定メモリー「友達みたいなこと」",
+    "Description": "特別シナリオ付き！期間限定メモリー「友達みたいなこと」×1\n※本商品は販売期間終了後に再販売される可能性があります。",
+    "AssetId": "memory_20",
+    "EventMasterId": null,
+    "StartDate": "2026-08-06T12:00:00+09:00",
+    "EndDate": "2026-08-18T04:59:59+09:00",
+    "DailyLimit": null,
+    "WeeklyLimit": null,
+    "MonthlyLimit": null,
+    "OverallLimit": 1,
+    "IsFree": false,
+    "PriceMoney": null,
+    "AcceptableGemType": "Paid",
+    "PriceGem": 5000,
+    "PlatformProductMasterId": null,
+    "ShopProductPackageMasterId": 84,
+    "QuestPassMasterId": null,
+    "LoginBonusMasterId": null,
+    "BeforeShopProductMasterId": null
   }
 ]
