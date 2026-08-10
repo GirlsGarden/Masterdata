@@ -6579,6 +6579,105 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 14030211,
+    "TalkMasterId": 1403021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "おにいちゃん、こんばんは。\nこの前のかいすいよく、たのしかった。",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14030212,
+    "TalkMasterId": 1403021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "いっぱいいっぱい、えにっきかいたよ。\nおたすけさんぽも、かき氷も、おたからさんぽも……ミアも。\n思い出が、たくさんできた。",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14030213,
+    "TalkMasterId": 1403021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "これもおにいちゃんとレイヴェルとルナのおかげ。",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14030214,
+    "TalkMasterId": 1403021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "だからリディアも、おにいちゃんたちにお礼がしたい。\nなにかほしいもの、してほしいことある？　おたすけするよ。",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14030215,
+    "TalkMasterId": 1403021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "んー？　リディアがわらっていてくれたら、それでいい？",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14030216,
+    "TalkMasterId": 1403021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "でもそれじゃ、お礼にならないよ……？",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14030217,
+    "TalkMasterId": 1403021,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "んー？　いっぱいなってる……？\nレイヴェルやルナも、そう思ってる……？",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14030218,
+    "TalkMasterId": 1403021,
+    "Order": 8,
+    "Speaker": "Character",
+    "Message": "よくわかんない。",
+    "VoiceAssetId": "8.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 14030219,
+    "TalkMasterId": 1403021,
+    "Order": 9,
+    "Speaker": "Character",
+    "Message": "……でもでも、おにいちゃんのおねがいなら、\nリディア、いっぱいぽかぽかえがおになる。",
+    "VoiceAssetId": "9.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 14130111,
     "TalkMasterId": 1413011,
     "Order": 1,
@@ -7839,6 +7938,28 @@
     "Speaker": "Character",
     "Message": "そ、それだけです！\nでは、また明日！",
     "VoiceAssetId": "10.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 140302110,
+    "TalkMasterId": 1403021,
+    "Order": 10,
+    "Speaker": "Character",
+    "Message": "だけど、リディアがぽかぽかえがおなのは、\nおにいちゃんたちといっしょだから。",
+    "VoiceAssetId": "10.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 140302111,
+    "TalkMasterId": 1403021,
+    "Order": 11,
+    "Speaker": "Character",
+    "Message": "だからね、ずっとみんないっしょがいい。\nこれからも、いっしょだよ、おにいちゃん。",
+    "VoiceAssetId": "11.ogg",
     "VideoBackgroundAssetId": null,
     "VideoSpineAssetId": null
   }

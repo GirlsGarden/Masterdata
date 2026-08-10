@@ -8410,6 +8410,111 @@
   },
   {
     "type": "SkillMaster",
+    "Id": 110074,
+    "Name": "リディアのおしろだいさくせん",
+    "Type": "Extra",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 7,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身に対しサブユニット「うみのともだちⅡ」を3つ付与する。\n「うみのともだちⅡ」は自身の最大HP×50%のHPを持ち、攻撃時に攻撃力×{atk}%のダメージを追加するが、同時に付与された対象の攻撃力を7.5%低下させ（重複可）、被ダメージを{dmg}%増加させる（重複可）"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 15,
+        "Template": "自身に対しサブユニット「うみのともだちⅡ」を3つ付与する。\n「うみのともだちⅡ」は自身の最大HP×50%のHPを持ち、攻撃時に攻撃力×{atk}%のダメージを追加するが、同時に付与された対象の攻撃力を7.5%低下させる（重複可）"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "atk",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 15
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 16.1
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 18.3
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 19.4
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 21.6
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 22.7
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 25
+          }
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 5
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 5
+          },
+          {
+            "type": "TagValue",
+            "Level": 15,
+            "Value": 0
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 23,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
     "Id": 120001,
     "Name": "リペアバレル",
     "Type": "Active",
@@ -25642,6 +25747,214 @@
   },
   {
     "type": "SkillMaster",
+    "Id": 120162,
+    "Name": "にげちゃ、めっ……だよ？",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 1,
+    "Features": "SureHit",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "最も最大HPが高い敵単体、および対象に隣接する2体に対し、威力{威力}で攻撃する（回避不可）。\n攻撃対象が後列に編成されていた場合、追加で対象の現在HP×7.5%のダメージを与える。追加ダメージは自身の攻撃力×15%を上限とする。"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 40
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 42.49
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 47.47
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 49.96
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 54.93
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 57.42
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 62.4
+          },
+          {
+            "type": "TagValue",
+            "Level": 15,
+            "Value": 84.8
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 13,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 120163,
+    "Name": "いっぱいおしおき",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "後列中央の敵単体に威力{威力}、その他の全ての敵に威力{威力2}で攻撃する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 80
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 84.98
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 94.93
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 99.91
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 109.87
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 114.84
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 124.8
+          },
+          {
+            "type": "TagValue",
+            "Level": 15,
+            "Value": 169.6
+          }
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力2",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 10
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 10.62
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 11.87
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 12.49
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 13.73
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 14.36
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 15.6
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 13,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
     "Id": 130001,
     "Name": "メディックショット",
     "Type": "Passive",
@@ -42099,6 +42412,205 @@
       }
     ],
     "SkillLevelPatternMasterId": 15,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 130164,
+    "Name": "おたすけもとむ",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support",
+          "Recovery"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 1,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身に敵からデバフが付与された際に発動。付与されているデバフを1つ解除し、自身にサブユニット「うみのともだちⅠ」を1つ付与する。\n「うみのともだちⅠ」は自身の最大HP×50%のHPを持ち、攻撃時に攻撃力×{atk}%のダメージを追加するが、同時に付与された対象の攻撃力を7.5%低下させ（重複可）、被ダメージを{dmg}%増加させる（重複可）。\nこのスキルは戦闘開始時・ターン開始時・ターン終了時には発動しない"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 15,
+        "Template": "自身に敵からデバフが付与された際に発動。付与されているデバフを1つ解除し、自身にサブユニット「うみのともだちⅠ」を1つ付与する。\n「うみのともだちⅠ」は自身の最大HP×50%のHPを持ち、攻撃時に攻撃力×{atk}%のダメージを追加するが、同時に付与された対象の攻撃力を7.5%低下させる（重複可）。\nこのスキルは戦闘開始時・ターン開始時・ターン終了時には発動しない"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "atk",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 15
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 16.1
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 18.3
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 19.4
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 21.6
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 22.7
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 25
+          }
+        ]
+      },
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 5
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 5
+          },
+          {
+            "type": "TagValue",
+            "Level": 15,
+            "Value": 0
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 13,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 130165,
+    "Name": "いっしょにがんばる",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "ExecutedOncePerBattle",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン開始時に発動。自身にサブユニット「うみのともだちⅢ」を1つ付与する。\n「うみのともだちⅢ」は自身の最大HP×15%のHPを持ち、攻撃時に攻撃力×{atk}%のダメージを追加するが、同時に付与された対象の攻撃力を2.5%低下させる（重複可）。このスキルは戦闘中に一度しか発動しない"
+      },
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 11,
+        "Template": "ターン開始時に発動。自身および自身と同じ横一列にいる他の味方にサブユニット「うみのともだちⅢ」を1つ付与する。\n「うみのともだちⅢ」は自身の最大HP×15%のHPを持ち、攻撃時に攻撃力×{atk}%のダメージを追加するが、同時に付与された対象の攻撃力を2.5%低下させる（重複可）。\nこのスキルは戦闘中に一度しか発動しない"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "atk",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 5
+          },
+          {
+            "type": "TagValue",
+            "Level": 3,
+            "Value": 5.26
+          },
+          {
+            "type": "TagValue",
+            "Level": 4,
+            "Value": 5.78
+          },
+          {
+            "type": "TagValue",
+            "Level": 6,
+            "Value": 6.04
+          },
+          {
+            "type": "TagValue",
+            "Level": 7,
+            "Value": 6.56
+          },
+          {
+            "type": "TagValue",
+            "Level": 9,
+            "Value": 6.82
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 7.5
+          },
+          {
+            "type": "TagValue",
+            "Level": 11,
+            "Value": 7.5
+          },
+          {
+            "type": "TagValue",
+            "Level": 15,
+            "Value": 8.5
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 13,
     "DisplaySkillPowerTagName": null,
     "DisplayAttacksCountTagName": null,
     "DisplayTargetType": "Self",
@@ -92164,10 +92676,23 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身のHPが50%以下になった際に発動。自身の攻撃力を{atk}%上昇させる。また、自身に気絶無効を付与する。このスキルは戦闘中に1度しか発動しない"
+        "Template": "自身のHPが50%以下になった際に発動。自身の攻撃力を{value}%上昇させる。また、自身に気絶無効を付与する。このスキルは戦闘中に1度しか発動しない"
       }
     ],
-    "TemplateTags": null,
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "value",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 30
+          }
+        ]
+      }
+    ],
     "SkillLevelPatternMasterId": 11,
     "DisplaySkillPowerTagName": null,
     "DisplayAttacksCountTagName": null,
@@ -123903,7 +124428,7 @@
   {
     "type": "SkillMaster",
     "Id": 400030,
-    "Name": "防御減少【最低HP】",
+    "Name": "防御減少【最低最大HP】",
     "Type": "Passive",
     "Kind": "Interference",
     "AdditionalKinds": [
@@ -130588,7 +131113,7 @@
   {
     "type": "SkillMaster",
     "Id": 400221,
-    "Name": "回復毎T終了【最低HP】",
+    "Name": "回復毎T終了【最低最大HP】",
     "Type": "Passive",
     "Kind": "Recovery",
     "AdditionalKinds": [
@@ -130820,6 +131345,76 @@
         "type": "SkillDescriptionTemplate",
         "Level": 1,
         "Template": "戦闘開始時に発動。味方後衛の与えるダメージを1.25%上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400228,
+    "Name": "攻撃上昇【リディア】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。リディア・エルドリッジの攻撃力を1000上昇させる"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400229,
+    "Name": "物理ダメージ上昇【シャイ】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。シャイ属性の味方全員に対し、物理攻撃で与えるダメージを2.1%上昇させる"
       }
     ],
     "TemplateTags": null,

@@ -67,8 +67,30 @@
   },
   {
     "type": "BannerMaster",
+    "Id": 1020,
+    "Order": 2,
+    "ImageStaticPath": "2016_01",
+    "StartDate": "2026-08-10T12:30:00+09:00",
+    "EndDate": "2026-08-18T12:30:00+09:00",
+    "JumpType": "EventTop",
+    "JumpTargetId": 20,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS"
+    ]
+  },
+  {
+    "type": "BannerMaster",
     "Id": 1041,
-    "Order": 1,
+    "Order": 2,
     "ImageStaticPath": "2034",
     "StartDate": "2026-08-04T12:30:00+09:00",
     "EndDate": "2026-08-17T04:59:59+09:00",
@@ -88,13 +110,34 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 2054,
-    "Order": 41,
-    "ImageStaticPath": "20042",
-    "StartDate": "2026-07-28T12:30:00+09:00",
-    "EndDate": "2026-08-10T04:59:59+09:00",
+    "Id": 1042,
+    "Order": 1,
+    "ImageStaticPath": "2035",
+    "StartDate": "2026-08-10T12:30:00+09:00",
+    "EndDate": "2026-09-01T04:59:59+09:00",
+    "JumpType": "EventTop",
+    "JumpTargetId": 40,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay"
+    ]
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 2027,
+    "Order": 63,
+    "ImageStaticPath": "30004_01",
+    "StartDate": "2026-08-10T12:30:00+09:00",
+    "EndDate": "2026-08-25T04:59:59+09:00",
     "JumpType": "Gacha",
-    "JumpTargetId": 20042,
+    "JumpTargetId": 30004,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"
@@ -132,13 +175,13 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 3014,
-    "Order": 1,
-    "ImageStaticPath": "1014_01",
-    "StartDate": "2026-07-30T12:00:00+09:00",
-    "EndDate": "2026-08-10T04:59:59+09:00",
-    "JumpType": "LimitedTimeShop",
-    "JumpTargetId": 205,
+    "Id": 2056,
+    "Order": 39,
+    "ImageStaticPath": "20044",
+    "StartDate": "2026-08-10T12:30:00+09:00",
+    "EndDate": "2026-08-25T04:59:59+09:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20044,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"

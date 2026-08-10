@@ -2125,6 +2125,24 @@
   },
   {
     "type": "ItemMaster",
+    "Id": 40086,
+    "Category": "CharacterLimitBreak",
+    "Rarity": "Ssr",
+    "Name": "リディア・エルドリッジ[おたすけさんぽ・イン・サマー]のスタイルカード",
+    "Description": "生徒の限界突破に必要なアイテム。",
+    "MaxStock": 999999999,
+    "Consumable": false,
+    "ExpireDays": null,
+    "ConsumeType": "None",
+    "ConsumeRequiredQuantity": null,
+    "AssetId": "40086",
+    "ItemAcquisitionLocationGroupMasterId": null,
+    "Order": 1085,
+    "StartDate": null,
+    "EndDate": null
+  },
+  {
+    "type": "ItemMaster",
     "Id": 50001,
     "Category": "SkillLevelUp",
     "Rarity": "R",
@@ -3380,8 +3398,8 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-02-10T12:30:00+09:00",
-    "EndDate": "2026-03-10T04:59:59+09:00"
+    "StartDate": "2026-08-10T12:30:00+09:00",
+    "EndDate": "2026-09-08T04:59:59+09:00"
   },
   {
     "type": "ItemMaster",
@@ -3595,9 +3613,27 @@
     "ConsumeRequiredQuantity": null,
     "AssetId": "eventPoint_yellow",
     "ItemAcquisitionLocationGroupMasterId": null,
-    "Order": 209,
+    "Order": 210,
     "StartDate": "2026-07-28T12:30:00+09:00",
     "EndDate": "2026-08-17T04:59:59+09:00"
+  },
+  {
+    "type": "ItemMaster",
+    "Id": 110031,
+    "Category": "Exchange",
+    "Rarity": "R",
+    "Name": "イベントポイント",
+    "Description": "イベント「ひとりでおよげるもん」で獲得できる交換アイテム。\\n何かが記録された媒体。",
+    "MaxStock": 999999999,
+    "Consumable": false,
+    "ExpireDays": null,
+    "ConsumeType": "None",
+    "ConsumeRequiredQuantity": null,
+    "AssetId": "eventPoint_orange",
+    "ItemAcquisitionLocationGroupMasterId": null,
+    "Order": 209,
+    "StartDate": "2026-08-10T12:30:00+09:00",
+    "EndDate": "2026-09-01T04:59:59+09:00"
   },
   {
     "type": "ItemMaster",

@@ -889,6 +889,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1403021,
+    "CallCharacterMasterId": 140302,
+    "Order": 140002,
+    "Title": "これからもいっしょ",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 140302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400086
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1413011,
     "CallCharacterMasterId": 141301,
     "Order": 141001,
