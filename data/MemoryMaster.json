@@ -121,7 +121,10 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Tank",
+        "CharacterRole": [
+          "PhysicalAttacker",
+          "IntelligenceAttacker"
+        ],
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -133,7 +136,10 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Control",
+        "CharacterRole": [
+          "PhysicalAttacker",
+          "Tank"
+        ],
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -475,7 +481,10 @@
         "CharacterRole": null,
         "CharacterAttribute": null,
         "PartyPosition": null,
-        "CharacterType": "Agility",
+        "CharacterType": [
+          "Physical",
+          "Energy"
+        ],
         "SkillMasterId": 400199,
         "IsTargetingFriendlyParty": true
       }
@@ -947,7 +956,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Shy",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Smart"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400036,
@@ -1005,7 +1017,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Clever",
+        "CharacterAttribute": [
+          "Smart",
+          "Shy"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400038,
@@ -1040,7 +1055,7 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Cute",
+        "CharacterAttribute": "Shy",
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400039,
@@ -1215,7 +1230,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Comical",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Shy"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400044,
@@ -1250,7 +1268,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Shy",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Smart"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400045,
@@ -1390,7 +1411,7 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Cute",
+        "CharacterAttribute": "Shy",
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400067,
@@ -1470,7 +1491,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Shy",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Smart"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400045,
@@ -1540,7 +1564,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Shy",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Smart"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400086,
@@ -1577,7 +1604,10 @@
         "CharacterRole": null,
         "CharacterAttribute": null,
         "PartyPosition": null,
-        "CharacterType": "Agility",
+        "CharacterType": [
+          "Physical",
+          "Energy"
+        ],
         "SkillMasterId": 400085,
         "IsTargetingFriendlyParty": true
       }
@@ -1645,7 +1675,7 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Cute",
+        "CharacterAttribute": "Shy",
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400090,
@@ -1715,7 +1745,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Shy",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Smart"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400086,
@@ -1865,7 +1898,7 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Cute",
+        "CharacterAttribute": "Shy",
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400111,
@@ -1969,7 +2002,10 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Control",
+        "CharacterRole": [
+          "PhysicalAttacker",
+          "Tank"
+        ],
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -2074,7 +2110,10 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Tank",
+        "CharacterRole": [
+          "PhysicalAttacker",
+          "IntelligenceAttacker"
+        ],
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -2203,7 +2242,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Shy",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Smart"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400086,
@@ -2238,7 +2280,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Clever",
+        "CharacterAttribute": [
+          "Smart",
+          "Shy"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400141,
@@ -2307,7 +2352,7 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Support",
+        "CharacterRole": "Tank",
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -2423,7 +2468,7 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Cute",
+        "CharacterAttribute": "Shy",
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400161,
@@ -2457,7 +2502,10 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Tank",
+        "CharacterRole": [
+          "PhysicalAttacker",
+          "IntelligenceAttacker"
+        ],
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -2656,7 +2704,7 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Cute",
+        "CharacterAttribute": "Shy",
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400184,
@@ -2761,7 +2809,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Shy",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Smart"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400192,
@@ -2794,7 +2845,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Shy",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Smart"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400086,
@@ -2806,7 +2860,7 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Cute",
+        "CharacterAttribute": "Shy",
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400198,
@@ -3109,7 +3163,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Shy",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Smart"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400223,
@@ -3144,7 +3201,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Comical",
+        "CharacterAttribute": [
+          "Aggressive",
+          "Shy"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400225,
@@ -3394,7 +3454,10 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Control",
+        "CharacterRole": [
+          "PhysicalAttacker",
+          "Tank"
+        ],
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -3406,7 +3469,10 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Tank",
+        "CharacterRole": [
+          "PhysicalAttacker",
+          "IntelligenceAttacker"
+        ],
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -3525,7 +3591,10 @@
         "CharacterRole": null,
         "CharacterAttribute": null,
         "PartyPosition": null,
-        "CharacterType": "Agility",
+        "CharacterType": [
+          "Physical",
+          "Energy"
+        ],
         "SkillMasterId": 400116,
         "IsTargetingFriendlyParty": true
       }
@@ -3591,7 +3660,7 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Cute",
+        "CharacterAttribute": "Shy",
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400128,
@@ -3753,7 +3822,7 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Support",
+        "CharacterRole": "Tank",
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -3881,7 +3950,10 @@
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
-        "CharacterRole": "Control",
+        "CharacterRole": [
+          "PhysicalAttacker",
+          "Tank"
+        ],
         "CharacterAttribute": null,
         "PartyPosition": null,
         "CharacterType": null,
@@ -4089,7 +4161,10 @@
         "CharacterBaseMasterId": null,
         "CharacterTeamMasterId": null,
         "CharacterRole": null,
-        "CharacterAttribute": "Clever",
+        "CharacterAttribute": [
+          "Smart",
+          "Shy"
+        ],
         "PartyPosition": null,
         "CharacterType": null,
         "SkillMasterId": 400226,
