@@ -197,6 +197,28 @@
   },
   {
     "type": "BannerMaster",
+    "Id": 3010,
+    "Order": 1,
+    "ImageStaticPath": "1010_01",
+    "StartDate": "2026-08-13T12:00:00+09:00",
+    "EndDate": "2026-08-25T04:59:59+09:00",
+    "JumpType": "LimitedTimeShop",
+    "JumpTargetId": 157,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS"
+    ]
+  },
+  {
+    "type": "BannerMaster",
     "Id": 3021,
     "Order": 1,
     "ImageStaticPath": "1021",
