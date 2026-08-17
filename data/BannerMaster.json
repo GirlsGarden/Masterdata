@@ -89,27 +89,6 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 1041,
-    "Order": 2,
-    "ImageStaticPath": "2034",
-    "StartDate": "2026-08-04T12:30:00+09:00",
-    "EndDate": "2026-08-17T04:59:59+09:00",
-    "JumpType": "EventTop",
-    "JumpTargetId": 39,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay"
-    ]
-  },
-  {
-    "type": "BannerMaster",
     "Id": 1042,
     "Order": 1,
     "ImageStaticPath": "2035",
