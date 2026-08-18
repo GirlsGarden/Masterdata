@@ -637,6 +637,30 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 54,
+    "Name": "Glamour \u0026 Grind",
+    "Order": 54,
+    "LengthSeconds": 121,
+    "IsRequiredUnlock": true,
+    "AssetId": "10038",
+    "StartLoopPointSampleCounts": 769785,
+    "EndLoopPointSampleCounts": 5003296,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 55,
+    "Name": "Break Time Chatter",
+    "Order": 55,
+    "LengthSeconds": 100,
+    "IsRequiredUnlock": true,
+    "AssetId": "20018",
+    "StartLoopPointSampleCounts": 201718,
+    "EndLoopPointSampleCounts": 4132919,
+    "IsDefault": false
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

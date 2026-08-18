@@ -3741,6 +3741,83 @@
   },
   {
     "type": "TalkMessageMaster",
+    "Id": 12030211,
+    "TalkMasterId": 1203021,
+    "Order": 1,
+    "Speaker": "Character",
+    "Message": "もしもし、後輩クン？　さっきはありがとう♪\n色んな場所に付き合わせちゃってゴメンナサイね？",
+    "VoiceAssetId": "1.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12030212,
+    "TalkMasterId": 1203021,
+    "Order": 2,
+    "Speaker": "Character",
+    "Message": "ふふ、あたしにちゃんと付いてきてくれるから、\nついつい楽しくなっちゃって、やりすぎちゃったわ♪",
+    "VoiceAssetId": "2.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12030213,
+    "TalkMasterId": 1203021,
+    "Order": 3,
+    "Speaker": "Character",
+    "Message": "後輩クンって、文句を言わずに手伝ってくれるし、\n親身になってくれるから本当に助かるわ♪",
+    "VoiceAssetId": "3.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12030214,
+    "TalkMasterId": 1203021,
+    "Order": 4,
+    "Speaker": "Character",
+    "Message": "でも、してもらってばかりじゃ申し訳ないから、\nあたしに頼みたいことがあったら何でも言ってね？",
+    "VoiceAssetId": "4.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12030215,
+    "TalkMasterId": 1203021,
+    "Order": 5,
+    "Speaker": "Character",
+    "Message": "後輩クンのためなら、何だってしてあげるから。\nあ、エッチなお願いでもいいわよ……なーんてね♪",
+    "VoiceAssetId": "5.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12030216,
+    "TalkMasterId": 1203021,
+    "Order": 6,
+    "Speaker": "Character",
+    "Message": "ふふ、これも後輩クンだけに言うのよ？\nだって、信頼してるから♪",
+    "VoiceAssetId": "6.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
+    "Id": 12030217,
+    "TalkMasterId": 1203021,
+    "Order": 7,
+    "Speaker": "Character",
+    "Message": "それじゃあ、一緒に商店街を盛り上げるために頑張りましょうね♪\nバイバーイ♪",
+    "VoiceAssetId": "7.ogg",
+    "VideoBackgroundAssetId": null,
+    "VideoSpineAssetId": null
+  },
+  {
+    "type": "TalkMessageMaster",
     "Id": 12130111,
     "TalkMasterId": 1213011,
     "Order": 1,

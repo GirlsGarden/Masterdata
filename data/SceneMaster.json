@@ -4071,6 +4071,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20190101,
+    "EpisodeMasterId": 201901,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "寂れた商店街",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20190201,
+    "EpisodeMasterId": 201902,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "堂々巡りのアイデア",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20190301,
+    "EpisodeMasterId": 201903,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "キャンペーンガールにお任せ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20190401,
+    "EpisodeMasterId": 201904,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "意外な訪問者",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20190501,
+    "EpisodeMasterId": 201905,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "玲玲再襲来！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20190601,
+    "EpisodeMasterId": 201906,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "商店街の現在",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20190701,
+    "EpisodeMasterId": 201907,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "商店街の選択",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20190801,
+    "EpisodeMasterId": 201908,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "終わらない大切な場所",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -5901,6 +5981,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40008701,
+    "EpisodeMasterId": 400087,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "コーヒーと、思い出と……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008702,
+    "EpisodeMasterId": 400087,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "コーヒーと、思い出と……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -6797,6 +6897,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "友達みたいなこと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004701,
+    "EpisodeMasterId": 500048,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "かつて子どもだった私から",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004702,
+    "EpisodeMasterId": 500048,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "かつて子どもだった私から",
     "AssetId": null
   },
   {
@@ -10237,6 +10357,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "暑い日の小さな友達",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61062001,
+    "EpisodeMasterId": 610344,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "先輩への褒め方",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61062002,
+    "EpisodeMasterId": 610345,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "期待を背負って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61062003,
+    "EpisodeMasterId": 610346,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "先輩のプロな一面",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61062004,
+    "EpisodeMasterId": 610347,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "青空プロモーション",
     "AssetId": null
   },
   {

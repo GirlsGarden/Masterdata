@@ -1725,9 +1725,9 @@
       "Ssr": "傲慢の契約書"
     },
     "Descriptions": {
-      "Lr": "",
-      "Ssr": "敗北を味わいたい…、",
-      "Ur": ""
+      "Lr": "敗北を味わいたい…、戦闘開始時、味方全体の基本ステータスを\u003ccolor=#ff701a\u003e60%\u003c/color\u003eアップする。",
+      "Ssr": "敗北を味わいたい…、戦闘開始時、味方全体の\u003ccolor=#00aab9\u003eAP・PPを-1\u003c/color\u003eするが、基本ステータスを\u003ccolor=#ff701a\u003e20%\u003c/color\u003eアップする。",
+      "Ur": "敗北を味わいたい…、戦闘開始時、味方全体の\u003ccolor=#00aab9\u003ePPを-1\u003c/color\u003eするが、基本ステータスを\u003ccolor=#ff701a\u003e40%\u003c/color\u003eアップする。"
     },
     "AssetIds": {
       "Ssr": "2038"
@@ -1742,12 +1742,29 @@
       "Ssr": "嫉妬の契約書"
     },
     "Descriptions": {
-      "Lr": "",
-      "Ssr": "憎い憎い憎ぃ憎ぃ",
-      "Ur": ""
+      "Lr": "憎憎憎ぃ、戦闘開始時、敵全体に3行動分の\u003ccolor=#ff701a\u003e暗闇\u003c/color\u003eを付与する。暗闇中のスキル命中率20%",
+      "Ssr": "憎憎憎ぃ、戦闘開始時、EXゲージが\u003ccolor=#00aab9\u003e2減少\u003c/color\u003eするが、敵全体に1行動分の\u003ccolor=#ff701a\u003e暗闇\u003c/color\u003eを付与する。暗闇中のスキル命中率50%",
+      "Ur": "憎憎憎ぃ、戦闘開始時、EXゲージが\u003ccolor=#00aab9\u003e1減少\u003c/color\u003eするが、敵全体に2行動分の\u003ccolor=#ff701a\u003e暗闇\u003c/color\u003eを付与する。暗闇中のスキル命中率40%"
     },
     "AssetIds": {
       "Ssr": "2039"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2040,
+    "Names": {
+      "Ssr": "ネクロアルケミー"
+    },
+    "Descriptions": {
+      "Lr": "代償は力を得る、バトル後、タツミヤ鉱が\u003ccolor=#00aab9\u003e10%減少\u003c/color\u003eするが、戦闘開始時、敵全体の基本ステータスを\u003ccolor=#ff701a\u003e30%\u003c/color\u003eダウンさせる。",
+      "Ssr": "代償は力を得る、バトル後、タツミヤ鉱が\u003ccolor=#00aab9\u003e30%減少\u003c/color\u003eするが、戦闘開始時、敵全体の基本ステータスを\u003ccolor=#ff701a\u003e10%\u003c/color\u003eダウンさせる。",
+      "Ur": "代償は力を得る、バトル後、タツミヤ鉱が\u003ccolor=#00aab9\u003e20%減少\u003c/color\u003eするが、戦闘開始時、敵全体の基本ステータスを\u003ccolor=#ff701a\u003e20%\u003c/color\u003eダウンさせる。"
+    },
+    "AssetIds": {
+      "Ssr": "2040"
     },
     "Rarity": "Ssr",
     "MaxRarity": "Lr"

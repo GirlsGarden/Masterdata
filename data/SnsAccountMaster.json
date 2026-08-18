@@ -559,6 +559,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 117303,
+    "Type": "Character",
+    "DisplayName": "エヴィ・レーナルト",
+    "Name": "@Evi_L",
+    "AssetId": "117001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 118301,
     "Type": "Character",
     "DisplayName": "シエナ・クラーク「舞台を降りた元歌姫」",
@@ -574,6 +583,15 @@
     "Name": "@Sienna_C",
     "AssetId": "118302",
     "CharacterMasterId": 118302
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 118303,
+    "Type": "Character",
+    "DisplayName": "シエナ・クラーク",
+    "Name": "@Sienna_C",
+    "AssetId": "118002c",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",
@@ -595,6 +613,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 119303,
+    "Type": "Character",
+    "DisplayName": "レイラ・ジェンキンス",
+    "Name": "@Layla_J",
+    "AssetId": "119302s",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 120001,
     "Type": "Character",
     "DisplayName": "ロージー・ヒューズ",
@@ -610,6 +637,24 @@
     "Name": "@Rosie_H",
     "AssetId": "120301",
     "CharacterMasterId": 120301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 120302,
+    "Type": "Character",
+    "DisplayName": "ロージー・ヒューズ「蠱惑のキャンペーンガール」",
+    "Name": "@Rosie_H",
+    "AssetId": "120302",
+    "CharacterMasterId": 120302
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 120303,
+    "Type": "Character",
+    "DisplayName": "ロージー・ヒューズ「蠱惑のキャンペーンガール」",
+    "Name": "@Rosie_H",
+    "AssetId": "120301s",
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",
@@ -969,7 +1014,7 @@
     "DisplayName": "リディア・エルドリッジ「おたすけさんぽ・イン・サマー」",
     "Name": "@Lydia_E",
     "AssetId": "140301s",
-    "CharacterMasterId": 140302
+    "CharacterMasterId": null
   },
   {
     "type": "SnsAccountMaster",

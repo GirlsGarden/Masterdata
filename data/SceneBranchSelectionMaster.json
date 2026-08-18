@@ -2721,6 +2721,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20190311,
+    "SceneBranchMasterId": 2019031,
+    "Answer": "（先輩、上手いな）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20190312,
+    "SceneBranchMasterId": 2019031,
+    "Answer": "（フルート、安定感があるな）",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20190411,
+    "SceneBranchMasterId": 2019041,
+    "Answer": "エヴィにカメラを向ける。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20190412,
+    "SceneBranchMasterId": 2019041,
+    "Answer": "子どもにカメラを向ける。",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -4017,6 +4049,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40008711,
+    "SceneBranchMasterId": 4000871,
+    "Answer": "コクと苦みが強いのだな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40008712,
+    "SceneBranchMasterId": 4000871,
+    "Answer": "すっきりした浅煎りかな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -4684,6 +4732,22 @@
     "Id": 50004612,
     "SceneBranchMasterId": 5000461,
     "Answer": "めるは無理してないか？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004711,
+    "SceneBranchMasterId": 5000471,
+    "Answer": "大変そうだな？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004712,
+    "SceneBranchMasterId": 5000471,
+    "Answer": "エヴィ、大丈夫か？",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -10190,6 +10254,70 @@
     "Answer": "可愛いってことだ",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1403021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61155011,
+    "SceneBranchMasterId": 6115501,
+    "Answer": "ほどほどにしておく。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1203021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61155012,
+    "SceneBranchMasterId": 6115501,
+    "Answer": "もっと褒めてみる。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1203022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61156011,
+    "SceneBranchMasterId": 6115601,
+    "Answer": "大人しすぎる。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1203021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61156012,
+    "SceneBranchMasterId": 6115601,
+    "Answer": "平常心だな。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1203022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61157011,
+    "SceneBranchMasterId": 6115701,
+    "Answer": "プロっぽいな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1203021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61157012,
+    "SceneBranchMasterId": 6115701,
+    "Answer": "綺麗だな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1203022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61158011,
+    "SceneBranchMasterId": 6115801,
+    "Answer": "別のトレーニングを提案する",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1203021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61158012,
+    "SceneBranchMasterId": 6115801,
+    "Answer": "素直に伝える。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1203022
   },
   {
     "type": "SceneBranchSelectionMaster",

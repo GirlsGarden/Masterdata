@@ -307,6 +307,15 @@
   },
   {
     "type": "MazeMissionStageMaster",
+    "Id": 300171,
+    "MazeMissionMasterId": 30017,
+    "Order": 1,
+    "StageGoalValue": 1,
+    "Name": "【新レリック解放】ネクロアルケミー",
+    "Description": "エリア370以上でタツミヤ鉱を6666以上集めてクリアでレリック【ネクロアルケミー】がメイズ探索中に発見される事がある。"
+  },
+  {
+    "type": "MazeMissionStageMaster",
     "Id": 400011,
     "MazeMissionMasterId": 40001,
     "Order": 1,
@@ -646,5 +655,23 @@
     "StageGoalValue": 350,
     "Name": "【新レリック解放】色欲の契約書",
     "Description": "メイズ探索第350エリアをクリアでレリック【色欲の契約書】がメイズ探索中に発見される事がある。\t"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000119,
+    "MazeMissionMasterId": 20001,
+    "Order": 20,
+    "StageGoalValue": 370,
+    "Name": "【新レリック解放】傲慢の契約書",
+    "Description": "メイズ探索第370エリアをクリアでレリック【傲慢の契約書】がメイズ探索中に発見される事がある。\t"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000120,
+    "MazeMissionMasterId": 20001,
+    "Order": 21,
+    "StageGoalValue": 390,
+    "Name": "【新レリック解放】嫉妬の契約書",
+    "Description": "メイズ探索第390エリアをクリアでレリック【嫉妬の契約書】がメイズ探索中に発見される事がある。\t"
   }
 ]

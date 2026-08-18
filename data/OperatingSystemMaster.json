@@ -260,10 +260,24 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 119302,
+    "Name": "聴診器と救急セット",
+    "Description": "レイラ・ジェンキンス「商売上手のエンジェルナース」の専用OSです。",
+    "AssetId": "119302"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 120301,
     "Name": "万年機巧",
     "Description": "ロージー・ヒューズ「空想造形アーティスト」の専用OSです。",
     "AssetId": "120301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 120302,
+    "Name": "コーヒーとドーナッツ",
+    "Description": "ロージー・ヒューズ「蠱惑のキャンペーンガール」の専用OSです。",
+    "AssetId": "120302"
   },
   {
     "type": "OperatingSystemMaster",

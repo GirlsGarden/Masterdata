@@ -540,6 +540,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10029,
+    "Rarity": "Sr",
+    "Name": "かつて子どもだった私から",
+    "Description": "わっ、わあっ！？　ちょっと、同時に引っ張っちゃダメだよ！？\n先生、千切れちゃうから！",
+    "AssetId": "10031",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 4,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400230,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -3190,6 +3213,64 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20083,
+    "Rarity": "Ssr",
+    "Name": "コーヒーと、思い出と……",
+    "Description": "ここが盛り上がって続いてほしいっていうのは、\nあたしにとっては恩返しの意味もあるのよ♪",
+    "AssetId": "120302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 120,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400231,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": 120302,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400232,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20084,
+    "Rarity": "Ssr",
+    "Name": "私の望むビジネスの輪",
+    "Description": "その輪が広がっていく中で、最後に皆が笑顔になる……\nそんなビジネスの形が、私の夢なんだよね。",
+    "AssetId": "119302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 119,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400233,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -4147,5 +4228,15 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30036,
+    "Rarity": "Ur",
+    "Name": "世界は今、新たな道を描いて",
+    "Description": "終わった後に笑顔で、気持ちよかったって言ってもらえると、\nそれだけですごく嬉しいの。",
+    "AssetId": "30036",
+    "Highlights": null,
+    "IsReleased": false
   }
 ]

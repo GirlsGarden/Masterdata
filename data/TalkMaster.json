@@ -517,6 +517,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1203021,
+    "CallCharacterMasterId": 120302,
+    "Order": 120002,
+    "Title": "一緒にいてくれるから",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 120302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400087
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1213011,
     "CallCharacterMasterId": 121301,
     "Order": 121001,
