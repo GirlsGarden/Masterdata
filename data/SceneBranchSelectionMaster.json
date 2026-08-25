@@ -2753,6 +2753,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20190811,
+    "SceneBranchMasterId": 2019081,
+    "Answer": "和菓子の店",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20190812,
+    "SceneBranchMasterId": 2019081,
+    "Answer": "スイーツの屋台",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -4065,6 +4081,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40008811,
+    "SceneBranchMasterId": 4000881,
+    "Answer": "調子に乗る",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40008812,
+    "SceneBranchMasterId": 4000881,
+    "Answer": "褒めすぎだ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -4748,6 +4780,22 @@
     "Id": 50004712,
     "SceneBranchMasterId": 5000471,
     "Answer": "エヴィ、大丈夫か？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004811,
+    "SceneBranchMasterId": 5000481,
+    "Answer": "ずいぶん上達したみたいだな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50004812,
+    "SceneBranchMasterId": 5000481,
+    "Answer": "……隣からすごい寝言が聞こえないか？",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -10318,6 +10366,70 @@
     "Answer": "素直に伝える。",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1203022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61159011,
+    "SceneBranchMasterId": 6115901,
+    "Answer": "チャンスでは？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1193021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61159012,
+    "SceneBranchMasterId": 6115901,
+    "Answer": "安心感はある。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1193022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61160011,
+    "SceneBranchMasterId": 6116001,
+    "Answer": "熱すぎて飲めない",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1193021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61160012,
+    "SceneBranchMasterId": 6116001,
+    "Answer": "言われた通り飲む",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1193022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61161011,
+    "SceneBranchMasterId": 6116101,
+    "Answer": "辞めたほうがいい。",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1193021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61161012,
+    "SceneBranchMasterId": 6116101,
+    "Answer": "続けたほうがいい。",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1193022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61162011,
+    "SceneBranchMasterId": 6116201,
+    "Answer": "悪くはないが……",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1193021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61162012,
+    "SceneBranchMasterId": 6116201,
+    "Answer": "いいアイデアだという",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1193022
   },
   {
     "type": "SceneBranchSelectionMaster",

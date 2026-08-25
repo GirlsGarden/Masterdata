@@ -505,6 +505,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1193021,
+    "CallCharacterMasterId": 119302,
+    "Order": 119002,
+    "Title": "繋げていく形",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 119302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400088
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1203011,
     "CallCharacterMasterId": 120301,
     "Order": 120001,

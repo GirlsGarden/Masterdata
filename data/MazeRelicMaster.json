@@ -3343,5 +3343,35 @@
     },
     "Rarity": "Ssr",
     "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9018,
+    "Names": {
+      "Ssr": "パーティーフレート"
+    },
+    "Descriptions": {
+      "Ssr": "飲んで食らい祝う、次のバトルで味方全体の基本ステータスが\u003ccolor=#ff701a\u003e15%\u003c/color\u003eアップし、\u003ccolor=#ff701a\u003eAPとPPを+1\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "Ssr": "9017"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9019,
+    "Names": {
+      "Ssr": "カウントダウンホイッスル"
+    },
+    "Descriptions": {
+      "Ssr": "何かの始まりを知らせる笛、次のバトルで毎ターン、敵全体の攻撃力と防御力を\u003ccolor=#ff701a\u003e20%ダウン\u003c/color\u003eさせる。"
+    },
+    "AssetIds": {
+      "Ssr": "9018"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Ssr"
   }
 ]

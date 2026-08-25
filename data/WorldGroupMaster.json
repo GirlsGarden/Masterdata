@@ -29,6 +29,13 @@
   },
   {
     "type": "WorldGroupMaster",
+    "Id": 5,
+    "Name": "ワールド05",
+    "Order": 5,
+    "LogoAssetId": null
+  },
+  {
+    "type": "WorldGroupMaster",
     "Id": 999,
     "Name": "ワールド999",
     "Order": 999,

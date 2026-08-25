@@ -246,5 +246,13 @@
     "UnlockFunctionTriggerType": "TacticDifficultyOver",
     "Configuration": "{\"Order\":4}",
     "Description": "戦術演習の「LEGEND」クリアで解放"
+  },
+  {
+    "type": "UnlockFunctionTriggerMaster",
+    "Id": 32,
+    "UnlockFunctionMasterId": 41,
+    "UnlockFunctionTriggerType": "ClearMazeFloorAndDate",
+    "Configuration": "{\"Floor\":20,\"StartDate\":\"2026-08-25T12:30:00\",\"EndDate\":\"2026-09-08T04:59:59\"}",
+    "Description": "メイズ探索エリア20以上クリアで解放"
   }
 ]

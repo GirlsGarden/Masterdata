@@ -1042,5 +1042,23 @@
     "GradualMissionGroupMasterId": null,
     "DetailClearCondition": null,
     "EffectJson": "{\"Performances\":[{\"PerformAt\":\"JointTacticTop\",\"Frames\":[{\"Text\":\"ピコピコピーン！\\nマスタぁ！複合戦術演習にチャレンジする時が来ましたね！\",\"Character\":\"n10001\",\"VoiceAssetId\":\"0/81\"},{\"Text\":\"複合戦術演習は、戦術演習とは異なり複数の敵が出現します！\\nただ、ダメージをどれだけ出すことができるか挑戦するスコアアタック形式なのは同じですよ！\",\"Character\":\"n10001\"},{\"Text\":\"複合戦術演習では各レベルに対して\\n最大3編成を用いて出撃することができます！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePartyHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"２部隊目以降で同じ生徒を編成する事はできますが、\\n連戦すると基礎ステータスが低下しちゃうので気を付けて下さいね！\",\"Character\":\"n10001\"},{\"Text\":\"もしも討伐に失敗してしまったとしても、\\nボクが前回の詳細情報をしっかりと記録しているので、その時は確認してくださいね！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePreviousPartyButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"さらに便利な機能をご紹介！\\n各編成の横に小さなボタンがありますね！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePartyHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"呼び出しボタンから保存してある編成を呼び出すことができたり、上下の矢印ボタンで編成をまるっと移動することもできます！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePartyHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"現在の挑戦可能なレベルがこちらに表示されています！\",\"Character\":\"n10001\",\"Position\":-192000,\"Hole1\":{\"Name\":\"guideEnemyLevelHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"こちらでは討伐したボスのレベルに応じた討伐報酬が確認できます！\",\"Character\":\"n10001\",\"Position\":-192000,\"Hole1\":{\"Name\":\"guideBattleRewardButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"一日の出撃回数は5回までです！\\n戦術演習と基本は同じですよ！\\n慎重に相手の属性を見て編成を組んでみるのがおすすめですよ！\",\"Character\":\"n10001\"},{\"Text\":\"ランキングに入ると討伐報酬とは別に、ランキング報酬も用意されちゃっています！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideRankingButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"さっそく、どんなものが貰えるか報酬を見てみましょう！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideRankingRewardButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Hole1\":{\"Name\":\"guideRankingRewardButtonHole\"}}]},{\"PerformAt\":\"JointTacticRewardWindow\",\"Frames\":[{\"Text\":\"デイリーランキングで上位になればなるほど、報酬が豪華になりますよ！\\n上位を目指して頑張っていきましょー！\",\"Character\":\"n10001\",\"OrderInLayer\":21},{\"OrderInLayer\":21,\"Hole1\":{\"Name\":\"guideCloseButtonHole\"}}],\"OnTheWay\":1},{\"PerformAt\":\"JointTacticTopEnd\",\"Frames\":[{\"Text\":\"それでは、マスター！\\n学園１位を目指して、頑張ってくださいね！\",\"Character\":\"n10001\"}]}],\"Conditions\":[17],\"ProgressTutorials\":[69]}"
+  },
+  {
+    "type": "TutorialMaster",
+    "Id": 20043,
+    "Category": "FreeTutorial",
+    "StageType": "PreFestivalMaze",
+    "UnlockFunctionMasterId": null,
+    "EpisodeMasterId": null,
+    "SceneFrameOrder": null,
+    "QuestMasterId": null,
+    "CharacterMasterId": null,
+    "SnsTimelineMasterId": null,
+    "TalkMasterId": null,
+    "ShopProductMasterId": null,
+    "GachaMasterId": null,
+    "GradualMissionGroupMasterId": null,
+    "DetailClearCondition": null,
+    "EffectJson": "{\"Performances\":[{\"PerformAt\":\"AnniversaryUnexploredTop\",\"Frames\":[{\"Text\":\"ピコピコピーン！\\nマスタぁ！　1周年の前夜祭が始まりましたよ！\",\"Character\":\"n10001\",\"VoiceAssetId\":\"0/81\"},{\"Text\":\"マスターのために色々準備してきました！\\n今回の前夜祭イベントについてボクが説明しますね！\",\"Character\":\"n10001\"},{\"Text\":\"黒板に書いてある内容を達成することで豪華報酬を獲得できますよ！\\nボクが皆さんのために準備したので、褒めてくださいね！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideBlackboardHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"続いて、探索の選択設定をしていきましょう！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideAfflicationButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Hole1\":{\"Name\":\"guideAfflicationButtonHole\"}}]},{\"PerformAt\":\"AnniversaryAffliction\",\"Frames\":[{\"Text\":\"シミュレーターを使用して擬似的にメイズ内部で起こる\\n重力異常やメイズシンドロームなどを再現しています。\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideSettingInfoViewHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"高い影響レベルに挑戦するほど、リスクが高まります。\\nまずは影響レベルの低いエリアから攻略を進めていってください！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideSettingInfoViewHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"特定の影響レベルを攻略する事で、\\nより強い影響を受けるエリアの探索が可能となります！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideLockedLevelViewHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"攻略するレベルに応じて報酬も準備していますが、\\n最奥は正直言って非推奨です！　無理して攻略しなくても大丈夫ですからね！\",\"Character\":\"n10001\"},{\"Text\":\"報酬内容はここから確認する事が出来るので、\\nマスターの行けるところを少しずつ確かめて進めるようにして下さい！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guideRewardDetailButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"設定が終わったら、探索準備画面で準備をしてから出撃して下さいね！\",\"Character\":\"n10001\",\"Hole1\":{\"Name\":\"guidePreparationButtonHole\",\"Block\":1,\"ArrowDirection\":0}},{\"Text\":\"それではマスタぁ！\\n気を付けて臨んで下さい！！\",\"Character\":\"n10001\"}],\"OnTheWay\":1}],\"Conditions\":[17],\"ProgressTutorials\":[70]}"
   }
 ]

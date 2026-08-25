@@ -181,6 +181,18 @@
   },
   {
     "type": "MgBattleRankSegmentMaster",
+    "Id": 1121,
+    "MgBattleRankSegmentGroupMasterId": 112,
+    "WorldMasterId": 41
+  },
+  {
+    "type": "MgBattleRankSegmentMaster",
+    "Id": 1122,
+    "MgBattleRankSegmentGroupMasterId": 112,
+    "WorldMasterId": 42
+  },
+  {
+    "type": "MgBattleRankSegmentMaster",
     "Id": 10110,
     "MgBattleRankSegmentGroupMasterId": 101,
     "WorldMasterId": 13

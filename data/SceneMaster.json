@@ -6001,6 +6001,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40008801,
+    "EpisodeMasterId": 400088,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "私の望むビジネスの輪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008802,
+    "EpisodeMasterId": 400088,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "私の望むビジネスの輪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -6917,6 +6937,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "かつて子どもだった私から",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004801,
+    "EpisodeMasterId": 500049,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "世界は今、新たな道を描いて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50004802,
+    "EpisodeMasterId": 500049,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "世界は今、新たな道を描いて",
     "AssetId": null
   },
   {
@@ -10397,6 +10437,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "青空プロモーション",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61063001,
+    "EpisodeMasterId": 610348,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "このあとプールで",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61063002,
+    "EpisodeMasterId": 610349,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "カフェでコスプレ？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61063003,
+    "EpisodeMasterId": 610350,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "救護訓練のシミュレート",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61063004,
+    "EpisodeMasterId": 610351,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "訓練場でのファーストエイド体験",
     "AssetId": null
   },
   {

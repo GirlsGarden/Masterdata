@@ -398,5 +398,15 @@
     "JumpType": null,
     "JumpTargetId": null,
     "EffectJson": null
+  },
+  {
+    "type": "UnlockFunctionMaster",
+    "Id": 41,
+    "Name": "前夜祭MGゼンヤサイダー",
+    "Description": "【前夜祭イベント】が解放されました！",
+    "UnlockFunctionType": "PreFestivalMaze",
+    "JumpType": null,
+    "JumpTargetId": null,
+    "EffectJson": null
   }
 ]
