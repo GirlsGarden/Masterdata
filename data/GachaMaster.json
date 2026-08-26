@@ -3210,5 +3210,31 @@
       "GooglePlay",
       "SpIOS"
     ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 90005,
+    "Type": "Campaign",
+    "Name": "1st Anniv.前夜祭限定！最大100連無料！1日1回無料10連ガチャ！",
+    "Description": "期間中無料で利用できるガチャです。\n\n【ガチャポイントについて】 \n本ガチャでは、ガチャポイントが獲得できません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、2026年8月25日時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。",
+    "StartDate": "2026-08-26T12:00:00+09:00",
+    "EndDate": "2026-09-05T04:59:59+09:00",
+    "Order": 1,
+    "BannerAssetId": "90005",
+    "BackgroundAssetId": "90005",
+    "ExchangeMasterId": null,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS"
+    ]
   }
 ]

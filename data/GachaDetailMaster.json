@@ -4046,5 +4046,21 @@
     "BonusRewardPackageMasterId": null,
     "PickupText": null,
     "PlatformLogoAssetId": null
+  },
+  {
+    "type": "GachaDetailMaster",
+    "Id": 900051,
+    "GachaMasterId": 90005,
+    "Step": null,
+    "Order": 1,
+    "DisplayPrizeCount": 10,
+    "DailyRollLimit": 1,
+    "OverallRollLimit": null,
+    "IsFree": true,
+    "IsPaidOnly": false,
+    "PointRewardPackageMasterId": null,
+    "BonusRewardPackageMasterId": null,
+    "PickupText": null,
+    "PlatformLogoAssetId": null
   }
 ]
