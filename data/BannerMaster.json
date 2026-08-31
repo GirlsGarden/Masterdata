@@ -89,27 +89,6 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 1042,
-    "Order": 2,
-    "ImageStaticPath": "2035",
-    "StartDate": "2026-08-10T12:30:00+09:00",
-    "EndDate": "2026-09-01T04:59:59+09:00",
-    "JumpType": "EventTop",
-    "JumpTargetId": 40,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay"
-    ]
-  },
-  {
-    "type": "BannerMaster",
     "Id": 1044,
     "Order": 1,
     "ImageStaticPath": "2037",
@@ -127,28 +106,6 @@
       "Client",
       "AppStore",
       "GooglePlay"
-    ]
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 2028,
-    "Order": 62,
-    "ImageStaticPath": "30005_01",
-    "StartDate": "2026-08-18T12:30:00+09:00",
-    "EndDate": "2026-09-01T04:59:59+09:00",
-    "JumpType": "Gacha",
-    "JumpTargetId": 30005,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay",
-      "SpIOS"
     ]
   },
   {
@@ -175,28 +132,6 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 2057,
-    "Order": 38,
-    "ImageStaticPath": "20045",
-    "StartDate": "2026-08-18T12:30:00+09:00",
-    "EndDate": "2026-09-01T04:59:59+09:00",
-    "JumpType": "Gacha",
-    "JumpTargetId": 20045,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay",
-      "SpIOS"
-    ]
-  },
-  {
-    "type": "BannerMaster",
     "Id": 2058,
     "Order": 37,
     "ImageStaticPath": "20046",
@@ -204,28 +139,6 @@
     "EndDate": "2026-09-08T04:59:59+09:00",
     "JumpType": "Gacha",
     "JumpTargetId": 20046,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay",
-      "SpIOS"
-    ]
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 3004,
-    "Order": 2,
-    "ImageStaticPath": "1004_01",
-    "StartDate": "2026-08-20T12:00:00+09:00",
-    "EndDate": "2026-09-01T04:59:59+09:00",
-    "JumpType": "LimitedTimeShop",
-    "JumpTargetId": 97,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"
