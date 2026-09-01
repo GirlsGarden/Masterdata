@@ -3,6 +3,12 @@
     "type": "TotalWarMaster",
     "Id": 1,
     "EventGroupMasterId": 21,
-    "Type": null
+    "Type": "School"
+  },
+  {
+    "type": "TotalWarMaster",
+    "Id": 2,
+    "EventGroupMasterId": 44,
+    "Type": "Zartum"
   }
 ]

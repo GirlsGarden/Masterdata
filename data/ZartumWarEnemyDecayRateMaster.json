@@ -1,0 +1,233 @@
+[
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 1,
+    "TotalWarMasterId": 2,
+    "ClearCount": 0,
+    "DebuffLevel": 1,
+    "AttackDecayRate": null,
+    "DefenseDecayRate": null,
+    "CriticalDecayRate": null,
+    "SpeedDecayRate": null
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 2,
+    "TotalWarMasterId": 2,
+    "ClearCount": 1500,
+    "DebuffLevel": 2,
+    "AttackDecayRate": 0.05,
+    "DefenseDecayRate": null,
+    "CriticalDecayRate": null,
+    "SpeedDecayRate": null
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 3,
+    "TotalWarMasterId": 2,
+    "ClearCount": 3000,
+    "DebuffLevel": 3,
+    "AttackDecayRate": 0.05,
+    "DefenseDecayRate": 0.05,
+    "CriticalDecayRate": null,
+    "SpeedDecayRate": null
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 4,
+    "TotalWarMasterId": 2,
+    "ClearCount": 4500,
+    "DebuffLevel": 4,
+    "AttackDecayRate": 0.05,
+    "DefenseDecayRate": 0.05,
+    "CriticalDecayRate": 0.05,
+    "SpeedDecayRate": null
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 5,
+    "TotalWarMasterId": 2,
+    "ClearCount": 6000,
+    "DebuffLevel": 5,
+    "AttackDecayRate": 0.1,
+    "DefenseDecayRate": 0.05,
+    "CriticalDecayRate": 0.05,
+    "SpeedDecayRate": 0.05
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 6,
+    "TotalWarMasterId": 2,
+    "ClearCount": 7500,
+    "DebuffLevel": 6,
+    "AttackDecayRate": 0.1,
+    "DefenseDecayRate": 0.1,
+    "CriticalDecayRate": 0.05,
+    "SpeedDecayRate": 0.05
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 7,
+    "TotalWarMasterId": 2,
+    "ClearCount": 9000,
+    "DebuffLevel": 7,
+    "AttackDecayRate": 0.1,
+    "DefenseDecayRate": 0.1,
+    "CriticalDecayRate": 0.05,
+    "SpeedDecayRate": 0.05
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 8,
+    "TotalWarMasterId": 2,
+    "ClearCount": 10500,
+    "DebuffLevel": 8,
+    "AttackDecayRate": 0.15,
+    "DefenseDecayRate": 0.1,
+    "CriticalDecayRate": 0.1,
+    "SpeedDecayRate": 0.05
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 9,
+    "TotalWarMasterId": 2,
+    "ClearCount": 12000,
+    "DebuffLevel": 9,
+    "AttackDecayRate": 0.15,
+    "DefenseDecayRate": 0.15,
+    "CriticalDecayRate": 0.1,
+    "SpeedDecayRate": 0.1
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 10,
+    "TotalWarMasterId": 2,
+    "ClearCount": 13500,
+    "DebuffLevel": 10,
+    "AttackDecayRate": 0.15,
+    "DefenseDecayRate": 0.15,
+    "CriticalDecayRate": 0.1,
+    "SpeedDecayRate": 0.1
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 11,
+    "TotalWarMasterId": 2,
+    "ClearCount": 15000,
+    "DebuffLevel": 11,
+    "AttackDecayRate": 0.2,
+    "DefenseDecayRate": 0.15,
+    "CriticalDecayRate": 0.1,
+    "SpeedDecayRate": 0.1
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 12,
+    "TotalWarMasterId": 2,
+    "ClearCount": 16500,
+    "DebuffLevel": 12,
+    "AttackDecayRate": 0.2,
+    "DefenseDecayRate": 0.2,
+    "CriticalDecayRate": 0.15,
+    "SpeedDecayRate": 0.1
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 13,
+    "TotalWarMasterId": 2,
+    "ClearCount": 18000,
+    "DebuffLevel": 13,
+    "AttackDecayRate": 0.2,
+    "DefenseDecayRate": 0.2,
+    "CriticalDecayRate": 0.15,
+    "SpeedDecayRate": 0.15
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 14,
+    "TotalWarMasterId": 2,
+    "ClearCount": 19500,
+    "DebuffLevel": 14,
+    "AttackDecayRate": 0.25,
+    "DefenseDecayRate": 0.2,
+    "CriticalDecayRate": 0.15,
+    "SpeedDecayRate": 0.15
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 15,
+    "TotalWarMasterId": 2,
+    "ClearCount": 21000,
+    "DebuffLevel": 15,
+    "AttackDecayRate": 0.25,
+    "DefenseDecayRate": 0.25,
+    "CriticalDecayRate": 0.15,
+    "SpeedDecayRate": 0.15
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 16,
+    "TotalWarMasterId": 2,
+    "ClearCount": 22500,
+    "DebuffLevel": 16,
+    "AttackDecayRate": 0.25,
+    "DefenseDecayRate": 0.25,
+    "CriticalDecayRate": 0.2,
+    "SpeedDecayRate": 0.15
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 17,
+    "TotalWarMasterId": 2,
+    "ClearCount": 24000,
+    "DebuffLevel": 17,
+    "AttackDecayRate": 0.3,
+    "DefenseDecayRate": 0.25,
+    "CriticalDecayRate": 0.2,
+    "SpeedDecayRate": 0.2
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 18,
+    "TotalWarMasterId": 2,
+    "ClearCount": 25500,
+    "DebuffLevel": 18,
+    "AttackDecayRate": 0.3,
+    "DefenseDecayRate": 0.3,
+    "CriticalDecayRate": 0.2,
+    "SpeedDecayRate": 0.2
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 19,
+    "TotalWarMasterId": 2,
+    "ClearCount": 27000,
+    "DebuffLevel": 19,
+    "AttackDecayRate": 0.3,
+    "DefenseDecayRate": 0.3,
+    "CriticalDecayRate": 0.2,
+    "SpeedDecayRate": 0.2
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 20,
+    "TotalWarMasterId": 2,
+    "ClearCount": 28500,
+    "DebuffLevel": 20,
+    "AttackDecayRate": 0.35,
+    "DefenseDecayRate": 0.3,
+    "CriticalDecayRate": 0.25,
+    "SpeedDecayRate": 0.2
+  },
+  {
+    "type": "ZartumWarEnemyDecayRateMaster",
+    "Id": 21,
+    "TotalWarMasterId": 2,
+    "ClearCount": 30000,
+    "DebuffLevel": 21,
+    "AttackDecayRate": 0.35,
+    "DefenseDecayRate": 0.35,
+    "CriticalDecayRate": 0.25,
+    "SpeedDecayRate": 0.25
+  }
+]

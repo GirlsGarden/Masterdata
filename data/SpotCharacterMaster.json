@@ -97,6 +97,30 @@
   },
   {
     "type": "SpotCharacterMaster",
+    "Id": 1013021,
+    "SpotAreaPointMasterId": 100,
+    "CharacterMasterId": 101302
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1013022,
+    "SpotAreaPointMasterId": 101,
+    "CharacterMasterId": 101302
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1013023,
+    "SpotAreaPointMasterId": 102,
+    "CharacterMasterId": 101302
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1013024,
+    "SpotAreaPointMasterId": 103,
+    "CharacterMasterId": 101302
+  },
+  {
+    "type": "SpotCharacterMaster",
     "Id": 1022011,
     "SpotAreaPointMasterId": 100,
     "CharacterMasterId": 102201
@@ -166,6 +190,30 @@
     "Id": 1023024,
     "SpotAreaPointMasterId": 103,
     "CharacterMasterId": 102302
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1023031,
+    "SpotAreaPointMasterId": 100,
+    "CharacterMasterId": 102303
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1023032,
+    "SpotAreaPointMasterId": 101,
+    "CharacterMasterId": 102303
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1023033,
+    "SpotAreaPointMasterId": 102,
+    "CharacterMasterId": 102303
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1023034,
+    "SpotAreaPointMasterId": 103,
+    "CharacterMasterId": 102303
   },
   {
     "type": "SpotCharacterMaster",
@@ -598,6 +646,30 @@
     "Id": 1103024,
     "SpotAreaPointMasterId": 203,
     "CharacterMasterId": 110302
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1103031,
+    "SpotAreaPointMasterId": 200,
+    "CharacterMasterId": 110303
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1103032,
+    "SpotAreaPointMasterId": 201,
+    "CharacterMasterId": 110303
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1103033,
+    "SpotAreaPointMasterId": 202,
+    "CharacterMasterId": 110303
+  },
+  {
+    "type": "SpotCharacterMaster",
+    "Id": 1103034,
+    "SpotAreaPointMasterId": 203,
+    "CharacterMasterId": 110303
   },
   {
     "type": "SpotCharacterMaster",

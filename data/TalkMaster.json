@@ -61,6 +61,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1013021,
+    "CallCharacterMasterId": 101302,
+    "Order": 101003,
+    "Title": "未来への歩み",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 101302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400089
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1022011,
     "CallCharacterMasterId": 102201,
     "Order": 102001,
@@ -94,6 +106,18 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400053
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1023031,
+    "CallCharacterMasterId": 102303,
+    "Order": 102004,
+    "Title": "希望を持つということ",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 102303,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400091
   },
   {
     "type": "TalkMaster",
@@ -310,6 +334,18 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400048
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1103031,
+    "CallCharacterMasterId": 110303,
+    "Order": 110003,
+    "Title": "これからは本気！",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 110303,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400090
   },
   {
     "type": "TalkMaster",

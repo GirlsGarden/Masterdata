@@ -277,6 +277,12 @@
   },
   {
     "type": "MazeGuarderPilotMaster",
+    "Id": 1111,
+    "MazeGuarderMasterId": 111,
+    "CharacterBaseMasterId": 110
+  },
+  {
+    "type": "MazeGuarderPilotMaster",
     "Id": 9001,
     "MazeGuarderMasterId": 900,
     "CharacterBaseMasterId": 132

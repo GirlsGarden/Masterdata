@@ -22,6 +22,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 101302,
+    "Name": "一葉の写真",
+    "Description": "鳴滝七彩「穹を統べる虹色の号令」の専用OSです。",
+    "AssetId": "101302"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 102301,
     "Name": "フィールドワーク",
     "Description": "月ヶ瀬ちゆる「博識なメイズの探求者」の専用OSです。",
@@ -36,6 +43,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 102303,
+    "Name": "データバンク",
+    "Description": "月ヶ瀬ちゆる「穹に閃く探求の学識」の専用OSです。",
+    "AssetId": "102303"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 103301,
     "Name": "BLACK GOLD",
     "Description": "朽葉ラミ「負けず嫌いな不屈少女」の専用OSです。",
@@ -47,6 +61,13 @@
     "Name": "大吉のおみくじ",
     "Description": "朽葉ラミ「大吉ハッピーニューイヤー」の専用OSです。",
     "AssetId": "103302"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 103303,
+    "Name": "お守りの髪飾り",
+    "Description": "朽葉ラミ「穹を駆ける不屈の翼」の専用OSです。",
+    "AssetId": "103303"
   },
   {
     "type": "OperatingSystemMaster",
@@ -148,6 +169,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 110303,
+    "Name": "Joker",
+    "Description": "ユリア・バーンズ「自由に煌めくジョーカーカード」の専用OSです。",
+    "AssetId": "110303"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 111301,
     "Name": "ChaosShock",
     "Description": "劉翠蘭「混沌の立役者」の専用OSです。",
@@ -208,6 +236,13 @@
     "Name": "猩紅の狼",
     "Description": "榊野ヒイロ「緋色の一匹狼」の専用OSです。",
     "AssetId": "115301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 115302,
+    "Name": "父さんの願い",
+    "Description": "榊野ヒイロ「疾走する自由の孤狼」の専用OSです。",
+    "AssetId": "115302"
   },
   {
     "type": "OperatingSystemMaster",

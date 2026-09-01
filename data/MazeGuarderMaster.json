@@ -133,6 +133,18 @@
   },
   {
     "type": "MazeGuarderMaster",
+    "Id": 111,
+    "Order": 12,
+    "Affiliation": "スカラ",
+    "Identification": "メイズガーダー",
+    "Name": "エクスプローラー・バスター",
+    "Type": "Explorer Buster",
+    "Height": "26.5m（ENキャノン起立時）",
+    "AssetId": "26",
+    "Description": "エクスプローラーに試作兵装を搭載した対イザナミ決戦機Ⅰ型。機体バランスは最悪で、ユリア以外にはまともに動かせない。肩部リアに装着されたENキャノンは本来ロングレンジライフルだが、「手にはENショットガン（ENサーベル装備）を持ちたいし背中にあるとカッコイイ！」というユリアの強い要望で現在の形になった。いずれもスカラの技術の粋が詰まった兵装だが、説明もあまり聞いて貰えず技術者の心中は複雑らしい。"
+  },
+  {
+    "type": "MazeGuarderMaster",
     "Id": 900,
     "Order": 1,
     "Affiliation": "STRANGERS Ⅰ＆Ⅱ",

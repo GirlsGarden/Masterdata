@@ -2621,6 +2621,206 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 10280101,
+    "EpisodeMasterId": 102801,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "蘇る記憶",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10280201,
+    "EpisodeMasterId": 102802,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "作戦変更",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10280301,
+    "EpisodeMasterId": 102803,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "制圧と防衛",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10280401,
+    "EpisodeMasterId": 102804,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ジーナ、吠える",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10280501,
+    "EpisodeMasterId": 102805,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "自分で勝ち取る自由な未来を",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10280601,
+    "EpisodeMasterId": 102806,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "天津甕星",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10280701,
+    "EpisodeMasterId": 102807,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "本命のプラン",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10280801,
+    "EpisodeMasterId": 102808,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＶＳ天津甕星",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10280901,
+    "EpisodeMasterId": 102809,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＶＳ天津甕星",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10290101,
+    "EpisodeMasterId": 102901,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "長い長い『コウカイ』の始まり",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10290201,
+    "EpisodeMasterId": 102902,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "宇宙の隣人",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10290301,
+    "EpisodeMasterId": 102903,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "受け売りの憎悪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10290401,
+    "EpisodeMasterId": 102904,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "取り返しのつかない決断",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10290501,
+    "EpisodeMasterId": 102905,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "人間であるために",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10290601,
+    "EpisodeMasterId": 102906,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "１万年後",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10300101,
+    "EpisodeMasterId": 103001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "守りたいもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10300201,
+    "EpisodeMasterId": 103002,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "１万年の問い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10300301,
+    "EpisodeMasterId": 103003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "女神の矛盾",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10300401,
+    "EpisodeMasterId": 103004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "人間をなめるな",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10300501,
+    "EpisodeMasterId": 103005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "教導指揮官として",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 20010101,
     "EpisodeMasterId": 200101,
     "Types": "Adventure",
@@ -4257,6 +4457,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "複合戦術演習",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30110101,
+    "EpisodeMasterId": 301101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＶＳ天津甕星・宵星",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30110102,
+    "EpisodeMasterId": 301102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＶＳ天津甕星・暁星",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30110103,
+    "EpisodeMasterId": 301103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＶＳ天津甕星・流星",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 30110104,
+    "EpisodeMasterId": 301104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ＶＳ天津甕星・彗星",
     "AssetId": null
   },
   {
@@ -6017,6 +6257,66 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "私の望むビジネスの輪",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008901,
+    "EpisodeMasterId": 400089,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "皆で勝つために",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40008902,
+    "EpisodeMasterId": 400089,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "皆で勝つために",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009001,
+    "EpisodeMasterId": 400090,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "はじめてのきもち",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009002,
+    "EpisodeMasterId": 400090,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "はじめてのきもち",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009101,
+    "EpisodeMasterId": 400091,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "未来の光景",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009102,
+    "EpisodeMasterId": 400091,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "未来の光景",
     "AssetId": null
   },
   {
@@ -10481,6 +10781,126 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 61064001,
+    "EpisodeMasterId": 610352,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ただ実直に",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61064002,
+    "EpisodeMasterId": 610353,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "パイロットスーツの流儀",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61064003,
+    "EpisodeMasterId": 610354,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "心安らげるひととき",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61064004,
+    "EpisodeMasterId": 610355,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "リーダーの責務",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61065001,
+    "EpisodeMasterId": 610356,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お揃い希望？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61065002,
+    "EpisodeMasterId": 610357,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "美味しいチキンと……",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61065003,
+    "EpisodeMasterId": 610358,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "涼しい部室で飲むお茶は？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61065004,
+    "EpisodeMasterId": 610359,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "今ならできること！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61066001,
+    "EpisodeMasterId": 610360,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "スーツの秘密？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61066002,
+    "EpisodeMasterId": 610361,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "パフェの日",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61066003,
+    "EpisodeMasterId": 610362,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "アイデアが降りてくる時",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61066004,
+    "EpisodeMasterId": 610363,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "限界への挑戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 71000001,
     "EpisodeMasterId": 710001,
     "Types": "Adventure",
@@ -10557,6 +10977,16 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "欺かれし星の記憶",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 71000009,
+    "EpisodeMasterId": 710009,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "天鎖封祀",
     "AssetId": null
   }
 ]

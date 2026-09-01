@@ -1693,6 +1693,78 @@
   },
   {
     "type": "GachaPickup",
+    "Id": 20047,
+    "GachaMasterId": 20047,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 101302,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 20047,
+    "GachaMasterId": 20047,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 101302,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 20047,
+    "GachaMasterId": 20047,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 101302,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 20048,
+    "GachaMasterId": 20048,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 110303,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 20048,
+    "GachaMasterId": 20048,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 110303,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 20048,
+    "GachaMasterId": 20048,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 110303,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
     "Id": 30001,
     "GachaMasterId": 30001,
     "Things": [
@@ -2569,6 +2641,30 @@
   },
   {
     "type": "GachaPickup",
+    "Id": 40047,
+    "GachaMasterId": 40047,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 101302,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 40048,
+    "GachaMasterId": 40048,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 110303,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
     "Id": 60001,
     "GachaMasterId": 60001,
     "Things": null
@@ -2624,6 +2720,12 @@
     "type": "GachaPickup",
     "Id": 60006,
     "GachaMasterId": 60006,
+    "Things": null
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 60007,
+    "GachaMasterId": 60007,
     "Things": null
   },
   {

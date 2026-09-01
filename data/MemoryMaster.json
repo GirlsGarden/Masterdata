@@ -3271,6 +3271,166 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20085,
+    "Rarity": "Ssr",
+    "Name": "皆で勝つために",
+    "Description": "え、ええと……多分、使用中の札をかけていたはずですが……",
+    "AssetId": "101302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 101,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400237,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Tank",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400238,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20086,
+    "Rarity": "Ssr",
+    "Name": "はじめてのきもち",
+    "Description": "あははっ♪　ここからは、私も本気出すってこと！\n皆、ライバルとしてよろしくねっ！",
+    "AssetId": "110303",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 110,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400239,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 2,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400240,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20087,
+    "Rarity": "Ssr",
+    "Name": "未来の光景",
+    "Description": "任せて。こっちが今まで頼りにしてきた分、\nこっちも頑張らせてもらうよ。",
+    "AssetId": "102303",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 102,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400241,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 32,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400242,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20088,
+    "Rarity": "Ssr",
+    "Name": "マブガルコラボカフェ開催記念！",
+    "Description": "める「いらっしゃいませ、指揮官さん！　たくさん食べてくださいね！」\nラミ「ラミ達に接客してもらえるとか超ラッキーじゃん。泣いて喜べよ～？」",
+    "AssetId": "20076",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 7,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400243,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400244,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20089,
+    "Rarity": "Ssr",
+    "Name": "父さんの、そして私の願い",
+    "Description": "……さっき、父さんの話をしたでしょ。\nそうしたら、なんだか人恋しくなっちゃって。",
+    "AssetId": "115302",
+    "Highlights": null,
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20090,
+    "Rarity": "Ssr",
+    "Name": "お守り",
+    "Description": "わ、わわわっ！？\nおい！　急に何すんの、髪ぐっちゃぐちゃになるじゃんか！",
+    "AssetId": "103303",
+    "Highlights": null,
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -4069,11 +4229,11 @@
     "type": "MemoryMaster",
     "Id": 30030,
     "Rarity": "Ur",
-    "Name": "裏アカ男子とツナガリタイ♡ver2",
-    "Description": "#破けてる？ #破けてない？",
+    "Name": "仮",
+    "Description": "仮",
     "AssetId": "30038",
     "Highlights": null,
-    "IsReleased": true
+    "IsReleased": false
   },
   {
     "type": "MemoryMaster",
@@ -4238,5 +4398,25 @@
     "AssetId": "30036",
     "Highlights": null,
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30037,
+    "Rarity": "Ur",
+    "Name": "未来を勝ち取るために",
+    "Description": "紡いだ絆が、決戦の地に集う。\\n定められた運命を覆し、『箱庭』を壊す時が来た。",
+    "AssetId": "30052",
+    "Highlights": null,
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30038,
+    "Rarity": "Ur",
+    "Name": "最大の幸運は",
+    "Description": "うん……湯船に浸かってるだけで、\n身体がぽかぽかして、気持ちいい……",
+    "AssetId": "30040",
+    "Highlights": null,
+    "IsReleased": false
   }
 ]

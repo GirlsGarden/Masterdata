@@ -36,6 +36,13 @@
   },
   {
     "type": "CharacterEpisodeUnlockConditionMaster",
+    "Id": 101302,
+    "CharacterMasterId": 101302,
+    "EpisodeMasterId": 400089,
+    "AffectionLevel": 10
+  },
+  {
+    "type": "CharacterEpisodeUnlockConditionMaster",
     "Id": 102201,
     "CharacterMasterId": 102201,
     "EpisodeMasterId": 400005,
@@ -53,6 +60,13 @@
     "Id": 102302,
     "CharacterMasterId": 102302,
     "EpisodeMasterId": 400053,
+    "AffectionLevel": 10
+  },
+  {
+    "type": "CharacterEpisodeUnlockConditionMaster",
+    "Id": 102303,
+    "CharacterMasterId": 102303,
+    "EpisodeMasterId": 400091,
     "AffectionLevel": 10
   },
   {
@@ -179,6 +193,13 @@
     "Id": 110302,
     "CharacterMasterId": 110302,
     "EpisodeMasterId": 400048,
+    "AffectionLevel": 10
+  },
+  {
+    "type": "CharacterEpisodeUnlockConditionMaster",
+    "Id": 110303,
+    "CharacterMasterId": 110303,
+    "EpisodeMasterId": 400090,
     "AffectionLevel": 10
   },
   {

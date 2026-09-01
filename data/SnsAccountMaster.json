@@ -129,10 +129,10 @@
     "type": "SnsAccountMaster",
     "Id": 101302,
     "Type": "Character",
-    "DisplayName": "鳴滝七彩",
+    "DisplayName": "鳴滝七彩「穹を統べる虹色の号令」",
     "Name": "@Nanairo_N",
-    "AssetId": "101302s",
-    "CharacterMasterId": null
+    "AssetId": "101302",
+    "CharacterMasterId": 101302
   },
   {
     "type": "SnsAccountMaster",
@@ -165,10 +165,10 @@
     "type": "SnsAccountMaster",
     "Id": 102303,
     "Type": "Character",
-    "DisplayName": "月ヶ瀬ちゆる",
+    "DisplayName": "月ヶ瀬ちゆる「穹に閃く探求の学識」",
     "Name": "@Chiyuru_T",
-    "AssetId": "102303s",
-    "CharacterMasterId": null
+    "AssetId": "102303",
+    "CharacterMasterId": 102303
   },
   {
     "type": "SnsAccountMaster",
@@ -394,6 +394,15 @@
     "Name": "@Julia_B",
     "AssetId": "110003c",
     "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 110305,
+    "Type": "Character",
+    "DisplayName": "ユリア・バーンズ「自由に煌めくジョーカーカード」",
+    "Name": "@Julia_B",
+    "AssetId": "110303",
+    "CharacterMasterId": 110303
   },
   {
     "type": "SnsAccountMaster",

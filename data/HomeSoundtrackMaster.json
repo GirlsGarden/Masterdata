@@ -735,7 +735,7 @@
     "LengthSeconds": 234,
     "IsRequiredUnlock": false,
     "AssetId": "50005",
-    "StartLoopPointSampleCounts": 551718,
+    "StartLoopPointSampleCounts": 522982,
     "EndLoopPointSampleCounts": 9918165,
     "IsDefault": false,
     "Vocal": "夢乃ゆき"
@@ -852,8 +852,8 @@
     "LengthSeconds": 228,
     "IsRequiredUnlock": false,
     "AssetId": "50014",
-    "StartLoopPointSampleCounts": 19781600,
-    "EndLoopPointSampleCounts": 19248800,
+    "StartLoopPointSampleCounts": 9890800,
+    "EndLoopPointSampleCounts": 19204122,
     "IsDefault": false,
     "Vocal": "shin"
   },
@@ -867,6 +867,32 @@
     "AssetId": "10035",
     "StartLoopPointSampleCounts": 498644,
     "EndLoopPointSampleCounts": 4426915,
+    "IsDefault": false,
+    "Vocal": null
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 68,
+    "Name": "Ignition of Conflict",
+    "Order": 68,
+    "LengthSeconds": 122,
+    "IsRequiredUnlock": true,
+    "AssetId": "20019",
+    "StartLoopPointSampleCounts": 1073802,
+    "EndLoopPointSampleCounts": 5058367,
+    "IsDefault": false,
+    "Vocal": null
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 69,
+    "Name": "Once Lost Eden",
+    "Order": 69,
+    "LengthSeconds": 116,
+    "IsRequiredUnlock": true,
+    "AssetId": "20020",
+    "StartLoopPointSampleCounts": 859917,
+    "EndLoopPointSampleCounts": 4828917,
     "IsDefault": false,
     "Vocal": null
   },

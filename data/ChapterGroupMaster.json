@@ -108,5 +108,16 @@
     "BannerAssetId": "1009",
     "BackgroundAssetType": "Memory",
     "BackgroundAssetId": "10028"
+  },
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1010,
+    "Title": "10章",
+    "SubTitle": "自由への意志",
+    "Description": "10章のあらすじ",
+    "Order": 11,
+    "BannerAssetId": "1010",
+    "BackgroundAssetType": "Adventure",
+    "BackgroundAssetId": "1320"
   }
 ]

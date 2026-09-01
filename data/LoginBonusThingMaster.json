@@ -1132,5 +1132,68 @@
     "ThingType": "Item",
     "ThingId": 90001,
     "ThingQuantity": 10
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200551,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20055,
+    "ThingType": "Character",
+    "ThingId": 102303,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200561,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20056,
+    "ThingType": "FreeGem",
+    "ThingId": 3000,
+    "ThingQuantity": 3000
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200571,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20057,
+    "ThingType": "FreeGem",
+    "ThingId": 500,
+    "ThingQuantity": 500
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200581,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20058,
+    "ThingType": "Item",
+    "ThingId": 90001,
+    "ThingQuantity": 5
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200591,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20059,
+    "ThingType": "Item",
+    "ThingId": 20000,
+    "ThingQuantity": 15
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200601,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20060,
+    "ThingType": "Item",
+    "ThingId": 90002,
+    "ThingQuantity": 5
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200611,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20061,
+    "ThingType": "Item",
+    "ThingId": 90005,
+    "ThingQuantity": 1
   }
 ]

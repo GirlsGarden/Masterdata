@@ -1115,6 +1115,21 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 1068,
+    "Names": {
+      "R": "何かの鍵"
+    },
+    "Descriptions": {
+      "R": "何の効果もない鍵。"
+    },
+    "AssetIds": {
+      "R": "1068"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 2001,
     "Names": {
       "R": "オメガゲート"
@@ -1771,6 +1786,89 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 2041,
+    "Names": {
+      "R": "水棲植物"
+    },
+    "Descriptions": {
+      "R": "水棲植物"
+    },
+    "AssetIds": {
+      "R": "2041"
+    },
+    "Rarity": "R",
+    "MaxRarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2042,
+    "Names": {
+      "Sr": "綺麗なシャボン玉"
+    },
+    "Descriptions": {
+      "Lr": "破裂し独特な煙が辺りを包む、戦闘開始時、敵全体に3行動の幻惑を付与する。幻惑はダメージ効果を回復効果へと変換する。回復値は本来のダメージ値の100%となる。",
+      "Sr": "破裂し独特な煙が辺りを包む、戦闘開始時、敵全体に1行動の幻惑を付与する。幻惑はダメージ効果を回復効果へと変換する。回復値は本来のダメージ値の50%となる。",
+      "Ssr": "破裂し独特な煙が辺りを包む、戦闘開始時、敵全体に1行動の幻惑を付与する。幻惑はダメージ効果を回復効果へと変換する。回復値は本来のダメージ値の80%となる。",
+      "Ur": "破裂し独特な煙が辺りを包む、戦闘開始時、敵全体に2行動の幻惑を付与する。幻惑はダメージ効果を回復効果へと変換する。回復値は本来のダメージ値の80%となる。"
+    },
+    "AssetIds": {
+      "Sr": "2042"
+    },
+    "Rarity": "Sr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2043,
+    "Names": {
+      "Sr": "釣竿"
+    },
+    "Descriptions": {
+      "Lr": "必ず何かが釣れる釣竿…、イベントルートを選択するたびに、レリックをランダムに\u003ccolor=#ff701a\u003e3つ\u003c/color\u003e獲得する。",
+      "Ssr": "必ず何かが釣れる釣竿…、イベントルートを選択するたびに、レリックをランダムに\u003ccolor=#ff701a\u003e1つ\u003c/color\u003e獲得する。",
+      "Ur": "必ず何かが釣れる釣竿…、イベントルートを選択するたびに、レリックをランダムに\u003ccolor=#ff701a\u003e2つ\u003c/color\u003e獲得する。"
+    },
+    "AssetIds": {
+      "Sr": "2043"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2044,
+    "Names": {
+      "Ssr": "ヘビーアンカー"
+    },
+    "Descriptions": {
+      "Lr": "海底に沈んだ碇、戦闘開始時、味方全体の防御力が\u003ccolor=#ff701a\u003e120%\u003c/color\u003eアップする。",
+      "Ssr": "海底に沈んだ碇、戦闘開始時、味方全体の行動速度が\u003ccolor=#00aab9\u003e30%ダウン\u003c/color\u003eするが、防御力が\u003ccolor=#ff701a\u003e40%\u003c/color\u003eアップする。",
+      "Ur": "海底に沈んだ碇、戦闘開始時、味方全体の行動速度が\u003ccolor=#00aab9\u003e10%ダウン\u003c/color\u003eするが、防御力が\u003ccolor=#ff701a\u003e75%\u003c/color\u003eアップする。"
+    },
+    "AssetIds": {
+      "Ssr": "2044"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 2045,
+    "Names": {
+      "Ssr": "水没した宝箱"
+    },
+    "Descriptions": {
+      "Ssr": "バトル出撃時、クリスタルを\u003ccolor=#ff701a\u003e3つ\u003c/color\u003e獲得する。※出撃するバトルによって獲得できるレアリティが異なる。",
+      "Ur": "バトル出撃時、クリスタルを\u003ccolor=#ff701a\u003e2つ\u003c/color\u003e獲得する。※出撃するバトルによって獲得できるレアリティが異なる。"
+    },
+    "AssetIds": {
+      "Ssr": "2045"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 3001,
     "Names": {
       "Sr": "デスコード"
@@ -2372,6 +2470,104 @@
     },
     "Rarity": "R",
     "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3037,
+    "Names": {
+      "Ssr": "祈りの石像"
+    },
+    "Descriptions": {
+      "Lr": "女性の姿をした石像、戦闘開始時、味方全員に5行動分の\u003ccolor=#ff701a\u003e炎上無効\u003c/color\u003eを付与する。",
+      "Ssr": "女性の姿をした石像、戦闘開始時、味方全員に2行動分の\u003ccolor=#ff701a\u003e炎上無効\u003c/color\u003eを付与する。",
+      "Ur": "女性の姿をした石像、戦闘開始時、味方全員に3行動分の\u003ccolor=#ff701a\u003e炎上無効\u003c/color\u003eを付与する。"
+    },
+    "AssetIds": {
+      "Ssr": "3037"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3038,
+    "Names": {
+      "Ssr": "ボーンフィッシュ"
+    },
+    "Descriptions": {
+      "Lr": "骨だけで泳ぐ不思議な魚、戦闘開始時、味方全体の防御力が\u003ccolor=#00aab9\u003e10%ダウン\u003c/color\u003eするが、に\u003ccolor=#ff701a\u003e10ヒットだけ攻撃を回避するバフ\u003c/color\u003eを付与する。",
+      "Ssr": "骨だけで泳ぐ不思議な魚、戦闘開始時、味方全体の防御力が\u003ccolor=#00aab9\u003e50%ダウン\u003c/color\u003eするが、に\u003ccolor=#ff701a\u003e1ヒットだけ攻撃を回避するバフ\u003c/color\u003eを付与する。",
+      "Ur": "骨だけで泳ぐ不思議な魚、戦闘開始時、味方全体の防御力が\u003ccolor=#00aab9\u003e30%ダウン\u003c/color\u003eするが、に\u003ccolor=#ff701a\u003e5ヒットだけ攻撃を回避するバフ\u003c/color\u003eを付与する。"
+    },
+    "AssetIds": {
+      "Ssr": "3038"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3039,
+    "Names": {
+      "Sr": "珍しい化石"
+    },
+    "Descriptions": {
+      "Sr": "世にも珍しい化石、ショップに来店する度に、\u003ccolor=#ff701a\u003eタツミヤ鉱を500個\u003c/color\u003e獲得する。",
+      "Ssr": "世にも珍しい化石、ショップに来店する度に、\u003ccolor=#ff701a\u003eタツミヤ鉱を1600個\u003c/color\u003e獲得する。"
+    },
+    "AssetIds": {
+      "Sr": "3039"
+    },
+    "Rarity": "Sr",
+    "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3040,
+    "Names": {
+      "Ssr": "不思議な金塊"
+    },
+    "Descriptions": {
+      "Ssr": "黄金に煌めく金塊、通常バトル選択時、\u003ccolor=#ff701a\u003eタツミヤ鉱が30％増加\u003c/color\u003eする。リスキーバトル選択時、\u003ccolor=#ff701a\u003eレリック「不思議な金塊」\u003c/color\u003eを獲得する。",
+      "Ur": "黄金に煌めく金塊、通常バトル選択時、\u003ccolor=#ff701a\u003eタツミヤ鉱が100％増加\u003c/color\u003eする。リスキーバトル選択時、\u003ccolor=#ff701a\u003eレリック「不思議な金塊」\u003c/color\u003eを獲得する。"
+    },
+    "AssetIds": {
+      "Ssr": "3040"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Ur"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3041,
+    "Names": {
+      "R": "粘りつく泥"
+    },
+    "Descriptions": {
+      "R": "酷くへばり付く塊、戦闘開始時、味方全体の行動速度が\u003ccolor=#00aab9\u003e10ダウン\u003c/color\u003eする。"
+    },
+    "AssetIds": {
+      "R": "3041"
+    },
+    "Rarity": "R",
+    "MaxRarity": "R"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 3042,
+    "Names": {
+      "Ssr": "クリプティックシェル"
+    },
+    "Descriptions": {
+      "Lr": "空いた姿を誰も見たことがない…、毎ターン、味方全体の防御力を\u003ccolor=#ff701a\u003e100%アップ\u003c/color\u003eさせる。",
+      "Ssr": "空いた姿を誰も見たことがない…、毎ターン、味方全体の防御力を\u003ccolor=#ff701a\u003e25%アップ\u003c/color\u003eさせる。",
+      "Ur": "空いた姿を誰も見たことがない…、毎ターン、味方全体の防御力を\u003ccolor=#ff701a\u003e60%アップ\u003c/color\u003eさせる。"
+    },
+    "AssetIds": {
+      "Ssr": "3042"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
   },
   {
     "type": "MazeRelicMaster",
@@ -3348,7 +3544,7 @@
     "type": "MazeRelicMaster",
     "Id": 9018,
     "Names": {
-      "Ssr": "パーティーフレート"
+      "Ssr": "パーティープレート"
     },
     "Descriptions": {
       "Ssr": "飲んで食らい祝う、次のバトルで味方全体の基本ステータスが\u003ccolor=#ff701a\u003e15%\u003c/color\u003eアップし、\u003ccolor=#ff701a\u003eAPとPPを+1\u003c/color\u003eする。"
