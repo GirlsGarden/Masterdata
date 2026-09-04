@@ -361,6 +361,22 @@
   },
   {
     "type": "WorldMaster",
+    "Id": 46,
+    "WorldGroupMasterId": 5,
+    "Name": "ワールド05-06",
+    "Order": 6,
+    "LogoAssetId": null
+  },
+  {
+    "type": "WorldMaster",
+    "Id": 47,
+    "WorldGroupMasterId": 5,
+    "Name": "ワールド05-07",
+    "Order": 7,
+    "LogoAssetId": null
+  },
+  {
+    "type": "WorldMaster",
     "Id": 9991,
     "WorldGroupMasterId": 999,
     "Name": "ワールド999-01",
