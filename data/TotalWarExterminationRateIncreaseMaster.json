@@ -605,7 +605,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002001,
     "Order": 1,
-    "ExterminationRateIncrease": 1e-7
+    "ExterminationRateIncrease": 3e-8
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -613,7 +613,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002002,
     "Order": 2,
-    "ExterminationRateIncrease": 4e-7
+    "ExterminationRateIncrease": 1.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -621,7 +621,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002003,
     "Order": 3,
-    "ExterminationRateIncrease": 9e-7
+    "ExterminationRateIncrease": 3e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -629,7 +629,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002004,
     "Order": 4,
-    "ExterminationRateIncrease": 0.0000016
+    "ExterminationRateIncrease": 5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -637,7 +637,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002005,
     "Order": 5,
-    "ExterminationRateIncrease": 0.0000025
+    "ExterminationRateIncrease": 8.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -645,7 +645,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002006,
     "Order": 6,
-    "ExterminationRateIncrease": 0.000003
+    "ExterminationRateIncrease": 0.000001
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -653,7 +653,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002007,
     "Order": 7,
-    "ExterminationRateIncrease": 0.0000035
+    "ExterminationRateIncrease": 0.00000115
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -661,7 +661,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002008,
     "Order": 8,
-    "ExterminationRateIncrease": 0.000004
+    "ExterminationRateIncrease": 0.0000012
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -669,7 +669,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002009,
     "Order": 9,
-    "ExterminationRateIncrease": 0.0000045
+    "ExterminationRateIncrease": 0.0000015
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -677,7 +677,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002010,
     "Order": 10,
-    "ExterminationRateIncrease": 0.000005
+    "ExterminationRateIncrease": 0.00000165
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -685,7 +685,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002011,
     "Order": 11,
-    "ExterminationRateIncrease": 0.0000055
+    "ExterminationRateIncrease": 0.00000185
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -693,7 +693,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002012,
     "Order": 12,
-    "ExterminationRateIncrease": 0.000006
+    "ExterminationRateIncrease": 0.000002
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -701,7 +701,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002013,
     "Order": 13,
-    "ExterminationRateIncrease": 0.0000065
+    "ExterminationRateIncrease": 0.00000215
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -709,7 +709,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002014,
     "Order": 14,
-    "ExterminationRateIncrease": 0.000007
+    "ExterminationRateIncrease": 0.00000225
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -717,7 +717,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002015,
     "Order": 15,
-    "ExterminationRateIncrease": 0.0000075
+    "ExterminationRateIncrease": 0.0000025
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -725,7 +725,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002016,
     "Order": 1,
-    "ExterminationRateIncrease": 1e-7
+    "ExterminationRateIncrease": 3e-8
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -733,7 +733,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002017,
     "Order": 2,
-    "ExterminationRateIncrease": 4e-7
+    "ExterminationRateIncrease": 1.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -741,7 +741,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002018,
     "Order": 3,
-    "ExterminationRateIncrease": 9e-7
+    "ExterminationRateIncrease": 3e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -749,7 +749,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002019,
     "Order": 4,
-    "ExterminationRateIncrease": 0.0000016
+    "ExterminationRateIncrease": 5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -757,7 +757,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002020,
     "Order": 5,
-    "ExterminationRateIncrease": 0.0000025
+    "ExterminationRateIncrease": 8.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -765,7 +765,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002021,
     "Order": 6,
-    "ExterminationRateIncrease": 0.000003
+    "ExterminationRateIncrease": 0.000001
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -773,7 +773,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002022,
     "Order": 7,
-    "ExterminationRateIncrease": 0.0000035
+    "ExterminationRateIncrease": 0.00000115
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -781,7 +781,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002023,
     "Order": 8,
-    "ExterminationRateIncrease": 0.000004
+    "ExterminationRateIncrease": 0.0000012
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -789,7 +789,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002024,
     "Order": 9,
-    "ExterminationRateIncrease": 0.0000045
+    "ExterminationRateIncrease": 0.0000015
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -797,7 +797,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002025,
     "Order": 10,
-    "ExterminationRateIncrease": 0.000005
+    "ExterminationRateIncrease": 0.00000165
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -805,7 +805,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002026,
     "Order": 11,
-    "ExterminationRateIncrease": 0.0000055
+    "ExterminationRateIncrease": 0.00000185
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -813,7 +813,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002027,
     "Order": 12,
-    "ExterminationRateIncrease": 0.000006
+    "ExterminationRateIncrease": 0.000002
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -821,7 +821,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002028,
     "Order": 13,
-    "ExterminationRateIncrease": 0.0000065
+    "ExterminationRateIncrease": 0.00000215
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -829,7 +829,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002029,
     "Order": 14,
-    "ExterminationRateIncrease": 0.000007
+    "ExterminationRateIncrease": 0.00000225
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -837,7 +837,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002030,
     "Order": 15,
-    "ExterminationRateIncrease": 0.0000075
+    "ExterminationRateIncrease": 0.0000025
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -845,7 +845,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002031,
     "Order": 1,
-    "ExterminationRateIncrease": 1e-7
+    "ExterminationRateIncrease": 3e-8
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -853,7 +853,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002032,
     "Order": 2,
-    "ExterminationRateIncrease": 4e-7
+    "ExterminationRateIncrease": 1.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -861,7 +861,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002033,
     "Order": 3,
-    "ExterminationRateIncrease": 9e-7
+    "ExterminationRateIncrease": 3e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -869,7 +869,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002034,
     "Order": 4,
-    "ExterminationRateIncrease": 0.0000016
+    "ExterminationRateIncrease": 5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -877,7 +877,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002035,
     "Order": 5,
-    "ExterminationRateIncrease": 0.0000025
+    "ExterminationRateIncrease": 8.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -885,7 +885,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002036,
     "Order": 6,
-    "ExterminationRateIncrease": 0.000003
+    "ExterminationRateIncrease": 0.000001
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -893,7 +893,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002037,
     "Order": 7,
-    "ExterminationRateIncrease": 0.0000035
+    "ExterminationRateIncrease": 0.00000115
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -901,7 +901,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002038,
     "Order": 8,
-    "ExterminationRateIncrease": 0.000004
+    "ExterminationRateIncrease": 0.0000012
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -909,7 +909,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002039,
     "Order": 9,
-    "ExterminationRateIncrease": 0.0000045
+    "ExterminationRateIncrease": 0.0000015
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -917,7 +917,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002040,
     "Order": 10,
-    "ExterminationRateIncrease": 0.000005
+    "ExterminationRateIncrease": 0.00000165
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -925,7 +925,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002041,
     "Order": 11,
-    "ExterminationRateIncrease": 0.0000055
+    "ExterminationRateIncrease": 0.00000185
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -933,7 +933,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002042,
     "Order": 12,
-    "ExterminationRateIncrease": 0.000006
+    "ExterminationRateIncrease": 0.000002
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -941,7 +941,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002043,
     "Order": 13,
-    "ExterminationRateIncrease": 0.0000065
+    "ExterminationRateIncrease": 0.00000215
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -949,7 +949,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002044,
     "Order": 14,
-    "ExterminationRateIncrease": 0.000007
+    "ExterminationRateIncrease": 0.00000225
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -957,7 +957,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002045,
     "Order": 15,
-    "ExterminationRateIncrease": 0.0000075
+    "ExterminationRateIncrease": 0.0000025
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -965,7 +965,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002046,
     "Order": 1,
-    "ExterminationRateIncrease": 1e-7
+    "ExterminationRateIncrease": 3e-8
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -973,7 +973,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002047,
     "Order": 2,
-    "ExterminationRateIncrease": 4e-7
+    "ExterminationRateIncrease": 1.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -981,7 +981,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002048,
     "Order": 3,
-    "ExterminationRateIncrease": 9e-7
+    "ExterminationRateIncrease": 3e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -989,7 +989,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002049,
     "Order": 4,
-    "ExterminationRateIncrease": 0.0000016
+    "ExterminationRateIncrease": 5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -997,7 +997,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002050,
     "Order": 5,
-    "ExterminationRateIncrease": 0.0000025
+    "ExterminationRateIncrease": 8.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1005,7 +1005,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002051,
     "Order": 6,
-    "ExterminationRateIncrease": 0.000003
+    "ExterminationRateIncrease": 0.000001
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1013,7 +1013,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002052,
     "Order": 7,
-    "ExterminationRateIncrease": 0.0000035
+    "ExterminationRateIncrease": 0.00000115
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1021,7 +1021,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002053,
     "Order": 8,
-    "ExterminationRateIncrease": 0.000004
+    "ExterminationRateIncrease": 0.0000012
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1029,7 +1029,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002054,
     "Order": 9,
-    "ExterminationRateIncrease": 0.0000045
+    "ExterminationRateIncrease": 0.0000015
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1037,7 +1037,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002055,
     "Order": 10,
-    "ExterminationRateIncrease": 0.000005
+    "ExterminationRateIncrease": 0.00000165
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1045,7 +1045,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002056,
     "Order": 11,
-    "ExterminationRateIncrease": 0.0000055
+    "ExterminationRateIncrease": 0.00000185
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1053,7 +1053,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002057,
     "Order": 12,
-    "ExterminationRateIncrease": 0.000006
+    "ExterminationRateIncrease": 0.000002
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1061,7 +1061,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002058,
     "Order": 13,
-    "ExterminationRateIncrease": 0.0000065
+    "ExterminationRateIncrease": 0.00000215
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1069,7 +1069,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002059,
     "Order": 14,
-    "ExterminationRateIncrease": 0.000007
+    "ExterminationRateIncrease": 0.00000225
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1077,7 +1077,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002060,
     "Order": 15,
-    "ExterminationRateIncrease": 0.0000075
+    "ExterminationRateIncrease": 0.0000025
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1085,7 +1085,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002061,
     "Order": 1,
-    "ExterminationRateIncrease": 1e-7
+    "ExterminationRateIncrease": 3e-8
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1093,7 +1093,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002062,
     "Order": 2,
-    "ExterminationRateIncrease": 4e-7
+    "ExterminationRateIncrease": 1.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1101,7 +1101,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002063,
     "Order": 3,
-    "ExterminationRateIncrease": 9e-7
+    "ExterminationRateIncrease": 3e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1109,7 +1109,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002064,
     "Order": 4,
-    "ExterminationRateIncrease": 0.0000016
+    "ExterminationRateIncrease": 5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1117,7 +1117,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002065,
     "Order": 5,
-    "ExterminationRateIncrease": 0.0000025
+    "ExterminationRateIncrease": 8.5e-7
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1125,7 +1125,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002066,
     "Order": 6,
-    "ExterminationRateIncrease": 0.000003
+    "ExterminationRateIncrease": 0.000001
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1133,7 +1133,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002067,
     "Order": 7,
-    "ExterminationRateIncrease": 0.0000035
+    "ExterminationRateIncrease": 0.00000115
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1141,7 +1141,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002068,
     "Order": 8,
-    "ExterminationRateIncrease": 0.000004
+    "ExterminationRateIncrease": 0.0000012
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1149,7 +1149,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002069,
     "Order": 9,
-    "ExterminationRateIncrease": 0.0000045
+    "ExterminationRateIncrease": 0.0000015
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1157,7 +1157,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002070,
     "Order": 10,
-    "ExterminationRateIncrease": 0.000005
+    "ExterminationRateIncrease": 0.00000165
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1165,7 +1165,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002071,
     "Order": 11,
-    "ExterminationRateIncrease": 0.0000055
+    "ExterminationRateIncrease": 0.00000185
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1173,7 +1173,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002072,
     "Order": 12,
-    "ExterminationRateIncrease": 0.000006
+    "ExterminationRateIncrease": 0.000002
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1181,7 +1181,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002073,
     "Order": 13,
-    "ExterminationRateIncrease": 0.0000065
+    "ExterminationRateIncrease": 0.00000215
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1189,7 +1189,7 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002074,
     "Order": 14,
-    "ExterminationRateIncrease": 0.000007
+    "ExterminationRateIncrease": 0.00000225
   },
   {
     "type": "TotalWarExterminationRateIncreaseMaster",
@@ -1197,6 +1197,6 @@
     "TotalWarMasterId": 2,
     "QuestMasterId": 90002075,
     "Order": 15,
-    "ExterminationRateIncrease": 0.0000075
+    "ExterminationRateIncrease": 0.0000025
   }
 ]

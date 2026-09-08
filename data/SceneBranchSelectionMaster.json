@@ -1937,6 +1937,86 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 10290111,
+    "SceneBranchMasterId": 1029011,
+    "Answer": "分かってるさ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10290112,
+    "SceneBranchMasterId": 1029011,
+    "Answer": "少しくらい夢を見たい",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10290211,
+    "SceneBranchMasterId": 1029021,
+    "Answer": "……うう、頭に響く",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10290212,
+    "SceneBranchMasterId": 1029021,
+    "Answer": "でかい声はよせ……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10290511,
+    "SceneBranchMasterId": 1029051,
+    "Answer": "銃口を突きつける",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10290512,
+    "SceneBranchMasterId": 1029051,
+    "Answer": "亜紗陽を否定する",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10290611,
+    "SceneBranchMasterId": 1029061,
+    "Answer": "亜紗陽を思い出す",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10290612,
+    "SceneBranchMasterId": 1029061,
+    "Answer": "目的を思い出す",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10290621,
+    "SceneBranchMasterId": 1029062,
+    "Answer": "かかったな！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10290622,
+    "SceneBranchMasterId": 1029062,
+    "Answer": "イザナミ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 20020311,
     "SceneBranchMasterId": 2002031,
     "Answer": "倒していい障害物を決めるとかか？",
@@ -4204,6 +4284,38 @@
     "Id": 40009112,
     "SceneBranchMasterId": 4000911,
     "Answer": "生き残ろう",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009211,
+    "SceneBranchMasterId": 4000921,
+    "Answer": "俺が男だから",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009212,
+    "SceneBranchMasterId": 4000921,
+    "Answer": "ヒイロは可愛いから",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009311,
+    "SceneBranchMasterId": 4000931,
+    "Answer": "ラミが可愛くてつい",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009312,
+    "SceneBranchMasterId": 4000931,
+    "Answer": "ラミを壊したい…♥",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -10734,6 +10846,134 @@
     "Answer": "激しいストレッチ",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1023032
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61175011,
+    "SceneBranchMasterId": 6117501,
+    "Answer": "イメージを聞く",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1153021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61175012,
+    "SceneBranchMasterId": 6117501,
+    "Answer": "ツッコミを入れる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1153022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61176011,
+    "SceneBranchMasterId": 6117601,
+    "Answer": "注意する",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1153021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61176012,
+    "SceneBranchMasterId": 6117601,
+    "Answer": "肯定する",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1153022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61177011,
+    "SceneBranchMasterId": 6117701,
+    "Answer": "根気強く勧める",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1153021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61177012,
+    "SceneBranchMasterId": 6117701,
+    "Answer": "諦める",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1153022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61178011,
+    "SceneBranchMasterId": 6117801,
+    "Answer": "感触が気になる",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1153021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61178012,
+    "SceneBranchMasterId": 6117801,
+    "Answer": "ちょっとセクシーだな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1153022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61179011,
+    "SceneBranchMasterId": 6117901,
+    "Answer": "行動でねぎらう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1033031
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61179012,
+    "SceneBranchMasterId": 6117901,
+    "Answer": "言葉でねぎらう",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1033032
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61180011,
+    "SceneBranchMasterId": 6118001,
+    "Answer": "ラミにランチを分ける",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1033031
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61180012,
+    "SceneBranchMasterId": 6118001,
+    "Answer": "ラミに追加注文をする",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1033032
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61181011,
+    "SceneBranchMasterId": 6118101,
+    "Answer": "スーツのせいじゃないか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1033031
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61181012,
+    "SceneBranchMasterId": 6118101,
+    "Answer": "人徳だな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1033032
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61182011,
+    "SceneBranchMasterId": 6118201,
+    "Answer": "賭けを提案する",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1033031
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61182012,
+    "SceneBranchMasterId": 6118201,
+    "Answer": "指導する",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1033032
   },
   {
     "type": "SceneBranchSelectionMaster",

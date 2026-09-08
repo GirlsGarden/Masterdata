@@ -201,10 +201,10 @@
     "type": "SnsAccountMaster",
     "Id": 103303,
     "Type": "Character",
-    "DisplayName": "朽葉ラミ",
+    "DisplayName": "朽葉ラミ「穹を駆ける不屈の翼」",
     "Name": "@Rami_K",
-    "AssetId": "103303s",
-    "CharacterMasterId": null
+    "AssetId": "103303",
+    "CharacterMasterId": 103303
   },
   {
     "type": "SnsAccountMaster",
@@ -529,6 +529,15 @@
     "Name": "@Hiiro_S",
     "AssetId": "115301",
     "CharacterMasterId": 115301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 115302,
+    "Type": "Character",
+    "DisplayName": "榊野ヒイロ「疾走する自由の孤狼」",
+    "Name": "@Hiiro_S",
+    "AssetId": "115302",
+    "CharacterMasterId": 115302
   },
   {
     "type": "SnsAccountMaster",

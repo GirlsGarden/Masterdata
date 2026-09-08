@@ -3416,8 +3416,33 @@
     "Name": "父さんの、そして私の願い",
     "Description": "……さっき、父さんの話をしたでしょ。\nそうしたら、なんだか人恋しくなっちゃって。",
     "AssetId": "115302",
-    "Highlights": null,
-    "IsReleased": false
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": 115302,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400246,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": 115302,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400247,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
@@ -3426,8 +3451,21 @@
     "Name": "お守り",
     "Description": "わ、わわわっ！？\nおい！　急に何すんの、髪ぐっちゃぐちゃになるじゃんか！",
     "AssetId": "103303",
-    "Highlights": null,
-    "IsReleased": false
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 103,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400248,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",

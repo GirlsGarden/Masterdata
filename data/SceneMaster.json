@@ -6321,6 +6321,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40009201,
+    "EpisodeMasterId": 400092,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "父さんの、そして私の願い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009202,
+    "EpisodeMasterId": 400092,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "父さんの、そして私の願い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009301,
+    "EpisodeMasterId": 400093,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お守り",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009302,
+    "EpisodeMasterId": 400093,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "お守り",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -10897,6 +10937,86 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "限界への挑戦",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61067001,
+    "EpisodeMasterId": 610364,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "疾走する自由の孤狼",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61067002,
+    "EpisodeMasterId": 610365,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "備えあれば憂いなし……？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61067003,
+    "EpisodeMasterId": 610366,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お茶の時間",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61067004,
+    "EpisodeMasterId": 610367,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ぷにぷにスーツ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61068001,
+    "EpisodeMasterId": 610368,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お疲れのパイロットスーツ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61068002,
+    "EpisodeMasterId": 610369,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "栄養不足？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61068003,
+    "EpisodeMasterId": 610370,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "猫との和解",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61068004,
+    "EpisodeMasterId": 610371,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ひとりよりふたり？",
     "AssetId": null
   },
   {

@@ -145,6 +145,18 @@
   },
   {
     "type": "MazeGuarderMaster",
+    "Id": 112,
+    "Order": 13,
+    "Affiliation": "スカラ",
+    "Identification": "メイズガーダー",
+    "Name": "エクスプローラー・バラージ",
+    "Type": "Explorer Barrage",
+    "Height": "18",
+    "AssetId": "27",
+    "Description": "エクスプローラーに試作兵装を搭載した対イザナミ決戦機Ⅱ型。両肩部リアに装着した巨大なマガジンから両腕の40mm多砲身ガトリングに給弾する。発射速度：毎分300～900発可変、通常射撃：毎分600発、最大射撃：毎分1,200発、有効射程：1.5～3kmという性能で、ここまでの性能はザルトゥーム初となる。前面の肩部アーマーを含めるとかなりの重量増であり、機動力を捨て火力全振りの機体となった。"
+  },
+  {
+    "type": "MazeGuarderMaster",
     "Id": 900,
     "Order": 1,
     "Affiliation": "STRANGERS Ⅰ＆Ⅱ",

@@ -157,6 +157,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1033031,
+    "CallCharacterMasterId": 103303,
+    "Order": 103004,
+    "Title": "ラミ達の明日",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 103303,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400093
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1042011,
     "CallCharacterMasterId": 104201,
     "Order": 104001,
@@ -454,6 +466,18 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400021
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1153021,
+    "CallCharacterMasterId": 115302,
+    "Order": 115002,
+    "Title": "大事な人と大事な人",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 115302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400092
   },
   {
     "type": "TalkMaster",

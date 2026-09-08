@@ -3678,7 +3678,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "80192_001",
     "RewardPackageMasterId": 2
   },
   {
@@ -3692,7 +3692,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1320",
     "RewardPackageMasterId": 2
   },
   {
@@ -3706,7 +3706,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "80192_002",
     "RewardPackageMasterId": 2
   },
   {
@@ -3720,7 +3720,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1330",
     "RewardPackageMasterId": 2
   },
   {
@@ -3734,7 +3734,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "80270_001",
     "RewardPackageMasterId": 2
   },
   {
@@ -3748,7 +3748,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1240",
     "RewardPackageMasterId": 2
   },
   {
@@ -3762,7 +3762,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "80270_002",
     "RewardPackageMasterId": 2
   },
   {
@@ -3776,7 +3776,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1280",
     "RewardPackageMasterId": 2
   },
   {
@@ -3790,7 +3790,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1300",
     "RewardPackageMasterId": 2
   },
   {
@@ -3804,7 +3804,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1215",
     "RewardPackageMasterId": 2
   },
   {
@@ -3818,7 +3818,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1365",
     "RewardPackageMasterId": 2
   },
   {
@@ -3832,7 +3832,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "80302_001",
     "RewardPackageMasterId": 2
   },
   {
@@ -3846,7 +3846,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "80302_001",
     "RewardPackageMasterId": 2
   },
   {
@@ -3860,7 +3860,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1360",
     "RewardPackageMasterId": 2
   },
   {
@@ -3874,7 +3874,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1365",
     "RewardPackageMasterId": 2
   },
   {
@@ -7572,6 +7572,34 @@
     "SpotCharacterMasterId": null,
     "AssetId": "1",
     "RewardPackageMasterId": 10079
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 400092,
+    "ChapterMasterId": null,
+    "Title": "榊野ヒイロ[疾走する自由の孤狼]",
+    "SubTitle": "父さんの、そして私の願い",
+    "Order": 87,
+    "CharacterMasterId": 115302,
+    "AffectionLevel": 10,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": 10080
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 400093,
+    "ChapterMasterId": null,
+    "Title": "朽葉ラミ[穹を駆ける不屈の翼]",
+    "SubTitle": "お守り",
+    "Order": 88,
+    "CharacterMasterId": 103303,
+    "AffectionLevel": 10,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": 10081
   },
   {
     "type": "EpisodeMaster",
@@ -13324,6 +13352,118 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023034,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610364,
+    "ChapterMasterId": null,
+    "Title": "榊野ヒイロ「疾走する自由の孤狼」",
+    "SubTitle": "疾走する自由の孤狼",
+    "Order": 364,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1153021,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610365,
+    "ChapterMasterId": null,
+    "Title": "榊野ヒイロ「疾走する自由の孤狼」",
+    "SubTitle": "備えあれば憂いなし……？",
+    "Order": 365,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1153022,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610366,
+    "ChapterMasterId": null,
+    "Title": "榊野ヒイロ「疾走する自由の孤狼」",
+    "SubTitle": "お茶の時間",
+    "Order": 366,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1153023,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610367,
+    "ChapterMasterId": null,
+    "Title": "榊野ヒイロ「疾走する自由の孤狼」",
+    "SubTitle": "ぷにぷにスーツ",
+    "Order": 367,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1153024,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610368,
+    "ChapterMasterId": null,
+    "Title": "朽葉ラミ「穹を駆ける不屈の翼」",
+    "SubTitle": "お疲れのパイロットスーツ",
+    "Order": 368,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1033031,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610369,
+    "ChapterMasterId": null,
+    "Title": "朽葉ラミ「穹を駆ける不屈の翼」",
+    "SubTitle": "栄養不足？",
+    "Order": 369,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1033032,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610370,
+    "ChapterMasterId": null,
+    "Title": "朽葉ラミ「穹を駆ける不屈の翼」",
+    "SubTitle": "猫との和解",
+    "Order": 370,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1033033,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610371,
+    "ChapterMasterId": null,
+    "Title": "朽葉ラミ「穹を駆ける不屈の翼」",
+    "SubTitle": "ひとりよりふたり？",
+    "Order": 371,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 1033034,
     "AssetId": "1",
     "RewardPackageMasterId": null
   },

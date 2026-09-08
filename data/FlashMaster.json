@@ -229,5 +229,19 @@
     "Type": "FlashTierSale",
     "ActiveHours": 24,
     "EffectType": "Normal"
+  },
+  {
+    "type": "FlashMaster",
+    "Id": 1151,
+    "Type": "FlashTierSale",
+    "ActiveHours": 24,
+    "EffectType": "Anniversary"
+  },
+  {
+    "type": "FlashMaster",
+    "Id": 1152,
+    "Type": "FlashTierSale",
+    "ActiveHours": 24,
+    "EffectType": "Anniversary"
   }
 ]
