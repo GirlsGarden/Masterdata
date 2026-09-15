@@ -1,0 +1,32 @@
+[
+  {
+    "type": "CharacterExtensionMaster",
+    "Id": 1,
+    "CharacterMasterId": 147301,
+    "CharacterBaseMasterId": 155,
+    "ExtensionTypes": "Switch",
+    "AssetId": "155301",
+    "CustomStandAssetId": "n10056",
+    "FaceLocator": null
+  },
+  {
+    "type": "CharacterExtensionMaster",
+    "Id": 2,
+    "CharacterMasterId": 500301,
+    "CharacterBaseMasterId": 143,
+    "ExtensionTypes": "Additional",
+    "AssetId": "500302",
+    "CustomStandAssetId": "500302s",
+    "FaceLocator": 2
+  },
+  {
+    "type": "CharacterExtensionMaster",
+    "Id": 3,
+    "CharacterMasterId": 500301,
+    "CharacterBaseMasterId": 144,
+    "ExtensionTypes": "Additional",
+    "AssetId": "500303",
+    "CustomStandAssetId": "500303s",
+    "FaceLocator": 1
+  }
+]

@@ -3469,6 +3469,64 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20091,
+    "Rarity": "Ssr",
+    "Name": "今、この瞬間が全て",
+    "Description": "ニーナ「えっと……私は、ジーナがここ最近無理をしてると思ったんだ」 \\nジーナ「我はパイロットとして、戦士としての責務を果たしているだけだ」",
+    "AssetId": "147301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 147,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400250,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20092,
+    "Rarity": "Ssr",
+    "Name": "新たなる力",
+    "Description": "ナージャ「どんなに厳しい戦いだったとしても、必ず乗り越えられます……！」\\n オルガ「私もあなたを信頼しています。ふたりなら、きっと……」",
+    "AssetId": "500301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": 500301,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400255,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 18,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400256,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -4454,7 +4512,78 @@
     "Name": "最大の幸運は",
     "Description": "うん……湯船に浸かってるだけで、\n身体がぽかぽかして、気持ちいい……",
     "AssetId": "30040",
-    "Highlights": null,
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400253,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Cute",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400254,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30040,
+    "Rarity": "Ur",
+    "Name": "Красна",
+    "Description": "オルガをリーダーとするチーム。チームの連携力は、他チームを凌ぐと言われている。",
+    "AssetId": "30053",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 601,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400252,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30041,
+    "Rarity": "Ur",
+    "Name": "サプライズ大作戦！",
+    "Description": "ライトノベルの特典メモリー",
+    "AssetId": "30054",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 601,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400252,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
     "IsReleased": false
   }
 ]

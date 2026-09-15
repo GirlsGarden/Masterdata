@@ -540,6 +540,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 147301,
+    "Name": "オルターエゴ",
+    "Description": "ニーナ・ミーシナ「双翼のフロントランナー」の専用OSです。",
+    "AssetId": "147301"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 148301,
     "Name": "緋焔白霊",
     "Description": "篁唯依「譜代武家・篁家次期当主」の専用OSです。",
@@ -565,5 +572,12 @@
     "Name": "断截の鎖",
     "Description": "コトハ「世界への反逆者」の専用OSです。",
     "AssetId": "154301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 500301,
+    "Name": "『ストレラ』",
+    "Description": "オルガ＆ナージャ「繋がり合う母娘の絆」の専用OSです。",
+    "AssetId": "500301"
   }
 ]

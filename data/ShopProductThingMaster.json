@@ -2331,6 +2331,56 @@
   },
   {
     "type": "ShopProductThingMaster",
+    "Id": 921,
+    "ShopProductPackageMasterId": 92,
+    "Order": 1,
+    "IsBonus": false,
+    "ThingType": "PaidGem",
+    "ThingId": 3000,
+    "ThingQuantity": 3000
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 922,
+    "ShopProductPackageMasterId": 92,
+    "Order": 2,
+    "IsBonus": true,
+    "ThingType": "Item",
+    "ThingId": 50007,
+    "ThingQuantity": 110
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 923,
+    "ShopProductPackageMasterId": 92,
+    "Order": 3,
+    "IsBonus": true,
+    "ThingType": "Item",
+    "ThingId": 50008,
+    "ThingQuantity": 70
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 924,
+    "ShopProductPackageMasterId": 92,
+    "Order": 4,
+    "IsBonus": true,
+    "ThingType": "Item",
+    "ThingId": 50001,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 925,
+    "ShopProductPackageMasterId": 92,
+    "Order": 5,
+    "IsBonus": true,
+    "ThingType": "Item",
+    "ThingId": 50002,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "ShopProductThingMaster",
     "Id": 6110,
     "ShopProductPackageMasterId": 61,
     "Order": 10,

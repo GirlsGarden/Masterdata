@@ -1119,10 +1119,10 @@
     "type": "SnsAccountMaster",
     "Id": 147301,
     "Type": "Character",
-    "DisplayName": "ニーナ・ミーシナ",
+    "DisplayName": "ニーナ・ミーシナ「双翼のフロントランナー」",
     "Name": "@Nina_M",
     "AssetId": "147301s",
-    "CharacterMasterId": null
+    "CharacterMasterId": 147301
   },
   {
     "type": "SnsAccountMaster",
@@ -1159,5 +1159,32 @@
     "Name": "@Kotoha",
     "AssetId": "154301",
     "CharacterMasterId": 154301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 500301,
+    "Type": "Character",
+    "DisplayName": "オルガ・ヴォルコワ＆ナージャ・ヴォルコワ「繋がり合う母娘の絆」",
+    "Name": "@Olga_V @Nadja_V",
+    "AssetId": "500301",
+    "CharacterMasterId": 500301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 500302,
+    "Type": "Character",
+    "DisplayName": "オルガ・ヴォルコワ「繋がり合う母娘の絆」",
+    "Name": "@Olga_V",
+    "AssetId": "500302",
+    "CharacterMasterId": 500301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 500303,
+    "Type": "Character",
+    "DisplayName": "ナージャ・ヴォルコワ「繋がり合う母娘の絆」",
+    "Name": "@Nadja_V",
+    "AssetId": "500303",
+    "CharacterMasterId": 500301
   }
 ]

@@ -4321,6 +4321,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40009411,
+    "SceneBranchMasterId": 4000941,
+    "Answer": "ジーナの無茶を指摘する",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009412,
+    "SceneBranchMasterId": 4000941,
+    "Answer": "ニーナの気持ちに共感する",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009521,
+    "SceneBranchMasterId": 4000952,
+    "Answer": "母（オルガ）を抱く",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009522,
+    "SceneBranchMasterId": 4000952,
+    "Answer": "娘（ナージャ）を抱く",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -10974,6 +11006,70 @@
     "Answer": "指導する",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1033032
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61183011,
+    "SceneBranchMasterId": 6118301,
+    "Answer": "くちゅくちゅしてみたい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1563011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61183012,
+    "SceneBranchMasterId": 6118301,
+    "Answer": "黙って待つ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1563012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61184011,
+    "SceneBranchMasterId": 6118401,
+    "Answer": "一人だと大変だし手伝おう",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1563011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61184012,
+    "SceneBranchMasterId": 6118401,
+    "Answer": "誰か手伝いを呼んでこよう",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1563012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61185011,
+    "SceneBranchMasterId": 6118501,
+    "Answer": "回避率を褒める",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1563011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61185012,
+    "SceneBranchMasterId": 6118501,
+    "Answer": "撃破数を褒める",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1563012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61186011,
+    "SceneBranchMasterId": 6118601,
+    "Answer": "詩とか好きなのか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1563011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61186012,
+    "SceneBranchMasterId": 6118601,
+    "Answer": "そういうのを読むんだな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1563012
   },
   {
     "type": "SceneBranchSelectionMaster",

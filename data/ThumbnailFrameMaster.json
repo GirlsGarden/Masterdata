@@ -259,5 +259,14 @@
     "IsInitialOwnership": false,
     "Name": "P-1グランプリ：Vol.02「優勝フレーム」",
     "Description": "プロフィールアイコンで使用できるフレーム"
+  },
+  {
+    "type": "ThumbnailFrameMaster",
+    "Id": 30,
+    "Order": 19,
+    "AssetId": "20038",
+    "IsInitialOwnership": false,
+    "Name": "MPAGフレーム",
+    "Description": "プロフィールアイコンで使用できるフレーム"
   }
 ]

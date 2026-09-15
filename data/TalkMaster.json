@@ -1069,6 +1069,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1473011,
+    "CallCharacterMasterId": 147301,
+    "Order": 147001,
+    "Title": "与えられた明日よりも",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 147301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400094
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1483011,
     "CallCharacterMasterId": 148301,
     "Order": 145001,

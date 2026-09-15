@@ -6361,6 +6361,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40009401,
+    "EpisodeMasterId": 400094,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "今、この瞬間が全て",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009402,
+    "EpisodeMasterId": 400094,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "今、この瞬間が全て",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009501,
+    "EpisodeMasterId": 400095,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新たなる力",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009502,
+    "EpisodeMasterId": 400095,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "新たなる力",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -11017,6 +11057,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "ひとりよりふたり？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61069001,
+    "EpisodeMasterId": 610372,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "くちゅくちゅしてみる？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61069002,
+    "EpisodeMasterId": 610373,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ニーナのお買い物",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61069003,
+    "EpisodeMasterId": 610374,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ジーナの戦い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61069004,
+    "EpisodeMasterId": 610375,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "本の好み",
     "AssetId": null
   },
   {
