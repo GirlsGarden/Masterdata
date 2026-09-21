@@ -9541,6 +9541,21 @@
   },
   {
     "type": "TrophyMaster",
+    "Id": 30611,
+    "Name": "ピコを応援し隊☆",
+    "GroupNumber": 61,
+    "Order": 1,
+    "Type": "Event",
+    "Rank": 1,
+    "UnlockDescription": "特別なシリアルコードと交換する",
+    "FlavorText": null,
+    "TrophyFrameMasterId": null,
+    "TrophyIndicatorMasterId": null,
+    "IllustrationAssetId": "900009",
+    "IllustrationType": "Default"
+  },
+  {
+    "type": "TrophyMaster",
     "Id": 200910,
     "Name": "総戦力",
     "GroupNumber": 9,
