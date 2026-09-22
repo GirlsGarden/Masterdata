@@ -3888,7 +3888,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1270",
     "RewardPackageMasterId": 2
   },
   {
@@ -3902,7 +3902,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "80192_003",
     "RewardPackageMasterId": 2
   },
   {
@@ -3916,7 +3916,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "20082_001",
     "RewardPackageMasterId": 2
   },
   {
@@ -3930,7 +3930,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1390",
     "RewardPackageMasterId": 2
   },
   {
@@ -3944,7 +3944,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1370",
     "RewardPackageMasterId": 2
   },
   {
@@ -7617,6 +7617,20 @@
   },
   {
     "type": "EpisodeMaster",
+    "Id": 400095,
+    "ChapterMasterId": null,
+    "Title": "オルガ・ヴォルコワ\u0026ナージャ・ヴォルコワ[繋がり合う母娘の絆]",
+    "SubTitle": "新たなる力",
+    "Order": 90,
+    "CharacterMasterId": 500301,
+    "AffectionLevel": 10,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": 10083
+  },
+  {
+    "type": "EpisodeMaster",
     "Id": 500003,
     "ChapterMasterId": null,
     "Title": "どこか欠けた星たちと",
@@ -8269,6 +8283,20 @@
     "CharacterMasterId": null,
     "AffectionLevel": null,
     "MemoryMasterId": 30036,
+    "SpotCharacterMasterId": null,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 500050,
+    "ChapterMasterId": null,
+    "Title": "自由への意志",
+    "SubTitle": "最大の幸運は",
+    "Order": 47,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": 30038,
     "SpotCharacterMasterId": null,
     "AssetId": "1",
     "RewardPackageMasterId": null
@@ -13534,6 +13562,62 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1553014,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610376,
+    "ChapterMasterId": null,
+    "Title": "オルガ＆ナージャ「繋がり合う母娘の絆」",
+    "SubTitle": "空き教室のふたり",
+    "Order": 376,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 5003011,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610377,
+    "ChapterMasterId": null,
+    "Title": "オルガ＆ナージャ「繋がり合う母娘の絆」",
+    "SubTitle": "立ち入り禁止を破ったら",
+    "Order": 377,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 5003012,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610378,
+    "ChapterMasterId": null,
+    "Title": "オルガ＆ナージャ「繋がり合う母娘の絆」",
+    "SubTitle": "ヴォルコワ親子と訓練",
+    "Order": 378,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 5003013,
+    "AssetId": "1",
+    "RewardPackageMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610379,
+    "ChapterMasterId": null,
+    "Title": "オルガ＆ナージャ「繋がり合う母娘の絆」",
+    "SubTitle": "みんなで休憩",
+    "Order": 379,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 5003014,
     "AssetId": "1",
     "RewardPackageMasterId": null
   },

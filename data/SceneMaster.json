@@ -7341,6 +7341,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 50005001,
+    "EpisodeMasterId": 500050,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "最大の幸運は",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005002,
+    "EpisodeMasterId": 500050,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "最大の幸運は",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 61000001,
     "EpisodeMasterId": 610000,
     "Types": "Adventure",
@@ -11097,6 +11117,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "本の好み",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61070001,
+    "EpisodeMasterId": 610376,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "空き教室のふたり",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61070002,
+    "EpisodeMasterId": 610377,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "立ち入り禁止を破ったら",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61070003,
+    "EpisodeMasterId": 610378,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ヴォルコワ親子と訓練",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61070004,
+    "EpisodeMasterId": 610379,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "みんなで休憩",
     "AssetId": null
   },
   {

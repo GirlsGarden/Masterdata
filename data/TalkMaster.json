@@ -1126,5 +1126,17 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400063
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 5003011,
+    "CallCharacterMasterId": 500301,
+    "Order": 500001,
+    "Title": "最強のふたり",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 500301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400095
   }
 ]

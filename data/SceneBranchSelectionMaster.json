@@ -2017,6 +2017,86 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 10300111,
+    "SceneBranchMasterId": 1030011,
+    "Answer": "運がよかった",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10300112,
+    "SceneBranchMasterId": 1030011,
+    "Answer": "みんなの腕がいいからだ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10300311,
+    "SceneBranchMasterId": 1030031,
+    "Answer": "エレーナの声を聞く",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10300312,
+    "SceneBranchMasterId": 1030031,
+    "Answer": "イザナミを見つめる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10300411,
+    "SceneBranchMasterId": 1030041,
+    "Answer": "なめるなあぁぁぁぁぁっ！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10300412,
+    "SceneBranchMasterId": 1030041,
+    "Answer": "無礼るなあぁぁぁぁぁっ！！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10300511,
+    "SceneBranchMasterId": 1030051,
+    "Answer": "イザナミの問いに向き合う",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10300512,
+    "SceneBranchMasterId": 1030051,
+    "Answer": "ピコを見る",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10300521,
+    "SceneBranchMasterId": 1030052,
+    "Answer": "みんなに手を上げる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10300522,
+    "SceneBranchMasterId": 1030052,
+    "Answer": "急いで歩み寄る",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 20020311,
     "SceneBranchMasterId": 2002031,
     "Answer": "倒していい障害物を決めるとかか？",
@@ -4332,6 +4412,22 @@
     "Id": 40009412,
     "SceneBranchMasterId": 4000941,
     "Answer": "ニーナの気持ちに共感する",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009511,
+    "SceneBranchMasterId": 4000951,
+    "Answer": "静かにしておく",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009512,
+    "SceneBranchMasterId": 4000951,
+    "Answer": "聞き耳を立てる",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -11070,6 +11166,70 @@
     "Answer": "そういうのを読むんだな",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1563012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61187011,
+    "SceneBranchMasterId": 6118701,
+    "Answer": "実は少しだけあった",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 5003012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61187012,
+    "SceneBranchMasterId": 6118701,
+    "Answer": "あるわけない",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 5003011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61188011,
+    "SceneBranchMasterId": 6118801,
+    "Answer": "端末を忘れてしまった",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 5003012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61188012,
+    "SceneBranchMasterId": 6118801,
+    "Answer": "通達を見ていなかった",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 5003011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61189011,
+    "SceneBranchMasterId": 6118901,
+    "Answer": "気になったことを伝える",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 5003012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61189012,
+    "SceneBranchMasterId": 6118901,
+    "Answer": "冗談で場を和ます",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 5003011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61190011,
+    "SceneBranchMasterId": 6119001,
+    "Answer": "一緒に休憩する",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 5003012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61190012,
+    "SceneBranchMasterId": 6119001,
+    "Answer": "やめておく",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 5003011
   },
   {
     "type": "SceneBranchSelectionMaster",

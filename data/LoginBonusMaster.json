@@ -16,36 +16,6 @@
   },
   {
     "type": "LoginBonusMaster",
-    "Id": 2058,
-    "Name": "PICKUP DAILY LOGIN",
-    "Type": "Campaign",
-    "Order": 1,
-    "StartDate": "2026-09-08T12:30:00+09:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2026-09-22T04:59:59+09:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "2049",
-    "SpineAssetId": "115302s",
-    "BackgroundAssetId": "2001"
-  },
-  {
-    "type": "LoginBonusMaster",
-    "Id": 2059,
-    "Name": "PICKUP DAILY LOGIN",
-    "Type": "Campaign",
-    "Order": 1,
-    "StartDate": "2026-09-08T12:30:00+09:00",
-    "StartDeadlineDate": null,
-    "EndDate": "2026-09-22T04:59:59+09:00",
-    "ExtraLoginBonusMasterId": null,
-    "IsLoop": false,
-    "AssetId": "2050",
-    "SpineAssetId": "103303s",
-    "BackgroundAssetId": "2001"
-  },
-  {
-    "type": "LoginBonusMaster",
     "Id": 2060,
     "Name": "PICKUP DAILY LOGIN",
     "Type": "Campaign",
@@ -58,6 +28,21 @@
     "AssetId": "2051",
     "SpineAssetId": "147301s",
     "BackgroundAssetId": "2001"
+  },
+  {
+    "type": "LoginBonusMaster",
+    "Id": 2061,
+    "Name": "PICKUP DAILY LOGIN",
+    "Type": "Campaign",
+    "Order": 1,
+    "StartDate": "2026-09-22T12:30:00+09:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-10-06T04:59:59+09:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "2052",
+    "SpineAssetId": null,
+    "BackgroundAssetId": "2002"
   },
   {
     "type": "LoginBonusMaster",
@@ -103,6 +88,21 @@
     "AssetId": "3018",
     "SpineAssetId": null,
     "BackgroundAssetId": "3018"
+  },
+  {
+    "type": "LoginBonusMaster",
+    "Id": 3017,
+    "Name": "200万人突破記念ログインボーナス",
+    "Type": "Anniversary",
+    "Order": 1,
+    "StartDate": "2026-09-22T12:30:00+09:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-10-06T04:59:59+09:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "3019",
+    "SpineAssetId": null,
+    "BackgroundAssetId": "3019"
   },
   {
     "type": "LoginBonusMaster",
