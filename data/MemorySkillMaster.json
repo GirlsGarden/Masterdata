@@ -2003,6 +2003,20 @@
   },
   {
     "type": "MemorySkillMaster",
+    "Id": 300381,
+    "Order": 1,
+    "MemoryMasterId": 30038,
+    "SkillMasterId": 400253
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300382,
+    "Order": 2,
+    "MemoryMasterId": 30038,
+    "SkillMasterId": 400254
+  },
+  {
+    "type": "MemorySkillMaster",
     "Id": 300401,
     "Order": 1,
     "MemoryMasterId": 30040,

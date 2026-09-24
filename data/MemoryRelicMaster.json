@@ -253,6 +253,13 @@
   },
   {
     "type": "MemoryRelicMaster",
+    "Id": 300381,
+    "Order": 1,
+    "MemoryMasterId": 30038,
+    "MazeRelicMasterId": 8005
+  },
+  {
+    "type": "MemoryRelicMaster",
     "Id": 300401,
     "Order": 1,
     "MemoryMasterId": 30040,
