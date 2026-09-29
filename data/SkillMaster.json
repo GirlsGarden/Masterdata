@@ -100978,7 +100978,7 @@
           {
             "type": "TagValue",
             "Level": 1,
-            "Value": 40
+            "Value": 35
           }
         ]
       }
@@ -101021,10 +101021,28 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身の攻撃力を8%、与ダメージを5%上昇させ（重複可・解除不可）、敵全体に1行動の間、攻撃力×5%の継続ENダメージを付与する。\n自身のHPが80%未満の場合、このスキルは発動しない"
+        "Template": "自身の攻撃力を8%、与ダメージを5%上昇させ（重複可・解除不可）、敵全体に1行動の間、攻撃力×{dmg}%の継続ENダメージを付与する。\n自身のHPが80%未満の場合、このスキルは発動しない"
       }
     ],
-    "TemplateTags": null,
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "dmg",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 5
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 10
+          }
+        ]
+      }
+    ],
     "SkillLevelPatternMasterId": 12,
     "DisplaySkillPowerTagName": null,
     "DisplayAttacksCountTagName": null,
@@ -101075,6 +101093,11 @@
             "type": "TagValue",
             "Level": 1,
             "Value": 10
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 15.6
           }
         ]
       }
@@ -101129,6 +101152,11 @@
             "type": "TagValue",
             "Level": 1,
             "Value": 75
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 117
           }
         ]
       }
@@ -136935,10 +136963,23 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "自身が敵から攻撃を受けた直後に発動。攻撃してきた敵単体に威力85で反撃する"
+        "Template": "自身が敵から攻撃を受けた直後に発動。攻撃してきた敵単体に威力{威力}で反撃する"
       }
     ],
-    "TemplateTags": null,
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 85
+          }
+        ]
+      }
+    ],
     "SkillLevelPatternMasterId": 14,
     "DisplaySkillPowerTagName": "威力",
     "DisplayAttacksCountTagName": "1",
@@ -137142,10 +137183,23 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "味方が敵から攻撃を受けた直後に発動。攻撃を受けた味方単体を対象とし、対象のHPを威力40で回復する。\nさらにスキル発動時に対象のHPが30%未満だった場合、攻撃してきた敵単体に1行動の幻惑を付与する。幻惑はダメージ効果を回復効果へと変換する。回復値は本来のダメージ値の50%となる"
+        "Template": "味方が敵から攻撃を受けた直後に発動。攻撃を受けた味方単体を対象とし、対象のHPを威力{威力}で回復する。\nさらにスキル発動時に対象のHPが30%未満だった場合、攻撃してきた敵単体に1行動の幻惑を付与する。幻惑はダメージ効果を回復効果へと変換する。回復値は本来のダメージ値の50%となる"
       }
     ],
-    "TemplateTags": null,
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Linear",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 40
+          }
+        ]
+      }
+    ],
     "SkillLevelPatternMasterId": 14,
     "DisplaySkillPowerTagName": "威力",
     "DisplayAttacksCountTagName": null,
@@ -137197,6 +137251,11 @@
             "type": "TagValue",
             "Level": 1,
             "Value": 30
+          },
+          {
+            "type": "TagValue",
+            "Level": 10,
+            "Value": 46.8
           }
         ]
       }
@@ -147417,6 +147476,47 @@
         "type": "SkillDescriptionTemplate",
         "Level": 1,
         "Template": "骨だけで泳ぐ不思議な魚、戦闘開始時、味方全体の防御力が\u003ccolor=#00aab9\u003e50%ダウン\u003c/color\u003eするが、に\u003ccolor=#ff701a\u003e1ヒットだけ攻撃を回避するバフ\u003c/color\u003eを付与する。"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null,
+    "DisplaySkillEffects": "None",
+    "DisplaySkillRangeTargets": "None",
+    "DisplaySkillTypeTargets": "None",
+    "DisplaySkillAttributeTargets": "None",
+    "DisplaySkillRoleTargets": "None",
+    "DisplaySkillOtherTargets": "None"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300241,
+    "Name": "最大HP-20%",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "最大HP-20%"
       }
     ],
     "TemplateTags": null,
@@ -158466,6 +158566,114 @@
       "BackLine",
       "CenterColumn"
     ],
+    "DisplaySkillTypeTargets": "None",
+    "DisplaySkillAttributeTargets": "None",
+    "DisplaySkillRoleTargets": "None",
+    "DisplaySkillOtherTargets": "None"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400258,
+    "Name": "攻撃上昇【前衛】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。味方前衛の攻撃力を{atk}上昇させる"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "atk",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 1250
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null,
+    "DisplaySkillEffects": "StatusAttack",
+    "DisplaySkillRangeTargets": "FrontLine",
+    "DisplaySkillTypeTargets": "None",
+    "DisplaySkillAttributeTargets": "None",
+    "DisplaySkillRoleTargets": "None",
+    "DisplaySkillOtherTargets": "None"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 400259,
+    "Name": "会心率上昇【後衛】",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "戦闘開始時に発動。味方後衛の会心率を{crt}%上昇させる"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "crt",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 2
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "SelfAndFriends",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null,
+    "DisplaySkillEffects": "StatusCriticalChance",
+    "DisplaySkillRangeTargets": "BackLine",
     "DisplaySkillTypeTargets": "None",
     "DisplaySkillAttributeTargets": "None",
     "DisplaySkillRoleTargets": "None",

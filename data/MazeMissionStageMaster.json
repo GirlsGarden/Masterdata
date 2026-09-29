@@ -673,5 +673,50 @@
     "StageGoalValue": 390,
     "Name": "【新レリック解放】嫉妬の契約書",
     "Description": "メイズ探索第390エリアをクリアでレリック【嫉妬の契約書】がメイズ探索中に発見される事がある。\t"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000121,
+    "MazeMissionMasterId": 20001,
+    "Order": 22,
+    "StageGoalValue": 420,
+    "Name": "【新レリック解放】水棲植物",
+    "Description": "メイズ探索第420エリアをクリアでレリック【水棲植物】がメイズ探索中に発見される事がある。"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000122,
+    "MazeMissionMasterId": 20001,
+    "Order": 23,
+    "StageGoalValue": 440,
+    "Name": "【新レリック解放】綺麗なシャボン玉",
+    "Description": "メイズ探索第440エリアをクリアでレリック【綺麗なシャボン玉】がメイズ探索中に発見される事がある。"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000123,
+    "MazeMissionMasterId": 20001,
+    "Order": 24,
+    "StageGoalValue": 460,
+    "Name": "【新レリック解放】釣竿",
+    "Description": "メイズ探索第460エリアをクリアでレリック【釣竿】がメイズ探索中に発見される事がある。"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000124,
+    "MazeMissionMasterId": 20001,
+    "Order": 25,
+    "StageGoalValue": 480,
+    "Name": "【新レリック解放】ヘビーアンカー",
+    "Description": "メイズ探索第480エリアをクリアでレリック【ヘビーアンカー】がメイズ探索中に発見される事がある。"
+  },
+  {
+    "type": "MazeMissionStageMaster",
+    "Id": 2000125,
+    "MazeMissionMasterId": 20001,
+    "Order": 26,
+    "StageGoalValue": 500,
+    "Name": "【新レリック解放】水没した宝箱",
+    "Description": "メイズ探索第500エリアをクリアでレリック【水没した宝箱】がメイズ探索中に発見される事がある。"
   }
 ]

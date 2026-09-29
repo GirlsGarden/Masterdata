@@ -2807,9 +2807,9 @@
     "type": "MemoryMaster",
     "Id": 20071,
     "Rarity": "Ssr",
-    "Name": "裏アカ男子とツナガリタイ♡ver3",
-    "Description": "#大きい？ #大きくない？",
-    "AssetId": "20045",
+    "Name": "がんばるいいんちょ",
+    "Description": "いいんちょはいつもがんばってて、サボらないし……\\n委員長のことはウチがぜったいに助けるから―――",
+    "AssetId": "20044",
     "Highlights": [
       {
         "type": "MemoryHighlight",
@@ -2842,9 +2842,9 @@
     "type": "MemoryMaster",
     "Id": 20072,
     "Rarity": "Ssr",
-    "Name": "さすがボクですね！マスター！",
-    "Description": "もうすぐ夏なのでスイカ割りなんていかがでしょうか！ 夏らしいアマネさん素敵ですね！",
-    "AssetId": "20046",
+    "Name": "暴力は突然に。",
+    "Description": "それは―――無慈悲な一撃だった。魅力は無限大。",
+    "AssetId": "20045",
     "Highlights": [
       {
         "type": "MemoryHighlight",
@@ -4585,5 +4585,40 @@
       }
     ],
     "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30042,
+    "Rarity": "Ur",
+    "Name": "小さくて、大きくて、大切な約束",
+    "Description": "これから先もずっと、\\nあなたの隣でたくさんの思い出を作らせてくださいね。",
+    "AssetId": "30055",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 7,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400258,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 56,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400259,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
   }
 ]

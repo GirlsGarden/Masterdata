@@ -1195,5 +1195,50 @@
     "ThingType": "Item",
     "ThingId": 90005,
     "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200621,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20062,
+    "ThingType": "Item",
+    "ThingId": 130001,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200631,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20063,
+    "ThingType": "Item",
+    "ThingId": 100005,
+    "ThingQuantity": 6
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200641,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20064,
+    "ThingType": "Item",
+    "ThingId": 100006,
+    "ThingQuantity": 6
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200651,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20065,
+    "ThingType": "Item",
+    "ThingId": 100004,
+    "ThingQuantity": 6
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200661,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20066,
+    "ThingType": "Memory",
+    "ThingId": 30042,
+    "ThingQuantity": 1
   }
 ]

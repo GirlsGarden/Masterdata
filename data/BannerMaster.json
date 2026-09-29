@@ -24,7 +24,7 @@
   {
     "type": "BannerMaster",
     "Id": 2,
-    "Order": 90,
+    "Order": 99,
     "ImageStaticPath": "subscription1",
     "StartDate": "2025-04-01T00:00:00+09:00",
     "EndDate": null,
@@ -46,34 +46,12 @@
   {
     "type": "BannerMaster",
     "Id": 3,
-    "Order": 90,
+    "Order": 99,
     "ImageStaticPath": "subscription2",
     "StartDate": "2025-04-01T00:00:00+09:00",
     "EndDate": null,
     "JumpType": "Subscription",
     "JumpTargetId": 2,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay",
-      "SpIOS"
-    ]
-  },
-  {
-    "type": "BannerMaster",
-    "Id": 4,
-    "Order": 100,
-    "ImageStaticPath": "1st_Anniv_pack",
-    "StartDate": "2026-09-01T12:30:00+09:00",
-    "EndDate": "2026-09-29T04:59:59+09:00",
-    "JumpType": "LimitedTimeShop",
-    "JumpTargetId": null,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"
@@ -111,13 +89,35 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 2063,
-    "Order": 85,
-    "ImageStaticPath": "20051",
-    "StartDate": "2026-09-15T12:30:00+09:00",
-    "EndDate": "2026-09-29T04:59:59+09:00",
+    "Id": 2030,
+    "Order": 90,
+    "ImageStaticPath": "20022_01",
+    "StartDate": "2026-09-29T12:30:00+09:00",
+    "EndDate": "2026-10-13T04:59:59+09:00",
     "JumpType": "Gacha",
-    "JumpTargetId": 20051,
+    "JumpTargetId": 20022,
+    "VisibleRatingFlags": [
+      "ShowNormal",
+      "ShowAdult"
+    ],
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS"
+    ]
+  },
+  {
+    "type": "BannerMaster",
+    "Id": 2032,
+    "Order": 90,
+    "ImageStaticPath": "20024_01",
+    "StartDate": "2026-09-29T12:30:00+09:00",
+    "EndDate": "2026-10-13T04:59:59+09:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20024,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"

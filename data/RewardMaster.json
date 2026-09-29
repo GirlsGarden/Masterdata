@@ -4726,6 +4726,24 @@
   },
   {
     "type": "RewardMaster",
+    "Id": 300541,
+    "RewardPackageMasterId": 30054,
+    "Order": 0,
+    "ThingType": "Memory",
+    "ThingId": 20071,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 300551,
+    "RewardPackageMasterId": 30055,
+    "Order": 0,
+    "ThingType": "Memory",
+    "ThingId": 20072,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
     "Id": 400011,
     "RewardPackageMasterId": 40001,
     "Order": 0,
@@ -25251,6 +25269,24 @@
     "Order": 0,
     "ThingType": "Memory",
     "ThingId": 30040,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300981,
+    "RewardPackageMasterId": 3030098,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 30,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 30300982,
+    "RewardPackageMasterId": 3030098,
+    "Order": 0,
+    "ThingType": "Trophy",
+    "ThingId": 20015,
     "ThingQuantity": 1
   },
   {
