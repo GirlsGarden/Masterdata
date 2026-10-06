@@ -61,6 +61,21 @@
   },
   {
     "type": "LoginBonusMaster",
+    "Id": 3019,
+    "Name": "リリース400日記念ログインボーナス",
+    "Type": "Anniversary",
+    "Order": 1,
+    "StartDate": "2026-10-07T05:00:00+09:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-10-20T04:59:59+09:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "3021",
+    "SpineAssetId": null,
+    "BackgroundAssetId": "3021"
+  },
+  {
+    "type": "LoginBonusMaster",
     "Id": 4001,
     "Name": "カムバックログインボーナス",
     "Type": "Comeback",
