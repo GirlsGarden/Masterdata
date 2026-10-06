@@ -55,6 +55,24 @@
   },
   {
     "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1003031,
+    "CharacterMasterId": 100303,
+    "ItemMasterId": 20000
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1003033,
+    "CharacterMasterId": 100303,
+    "ItemMasterId": 20003
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1003032,
+    "CharacterMasterId": 100303,
+    "ItemMasterId": 20005
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
     "Id": 1012011,
     "CharacterMasterId": 101201,
     "ItemMasterId": 20000
@@ -1689,6 +1707,24 @@
     "type": "CharacterFavoriteAffectionItemMaster",
     "Id": 1543012,
     "CharacterMasterId": 154301,
+    "ItemMasterId": 20010
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1543021,
+    "CharacterMasterId": 154302,
+    "ItemMasterId": 20000
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1543023,
+    "CharacterMasterId": 154302,
+    "ItemMasterId": 20009
+  },
+  {
+    "type": "CharacterFavoriteAffectionItemMaster",
+    "Id": 1543022,
+    "CharacterMasterId": 154302,
     "ItemMasterId": 20010
   },
   {

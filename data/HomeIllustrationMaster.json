@@ -775,6 +775,42 @@
   },
   {
     "type": "HomeIllustrationMaster",
+    "Id": 100087,
+    "Order": 81,
+    "GroupNumber": 75,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 103101,
+    "AssetId": "1400"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 100088,
+    "Order": 82,
+    "GroupNumber": 76,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 103104,
+    "AssetId": "1410"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 100089,
+    "Order": 83,
+    "GroupNumber": 76,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 103104,
+    "AssetId": "1415"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 100090,
+    "Order": 84,
+    "GroupNumber": 77,
+    "Type": "MainQuest",
+    "EpisodeMasterId": 103204,
+    "AssetId": "1415"
+  },
+  {
+    "type": "HomeIllustrationMaster",
     "Id": 200001,
     "Order": 1,
     "GroupNumber": 1,

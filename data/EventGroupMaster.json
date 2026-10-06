@@ -614,5 +614,33 @@
     "LogoFrameAssetId": null,
     "MovieAssetId": null,
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 45,
+    "Name": "あなたの隣を歩けたら",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-10-06T12:30:00+09:00",
+    "QuestCloseDate": "2026-10-20T04:59:59+09:00",
+    "EndDate": "2026-10-27T04:59:59+09:00",
+    "Order": 45,
+    "LogoAssetId": "28",
+    "LogoFrameAssetId": "newstory_100",
+    "MovieAssetId": "20028",
+    "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 46,
+    "Name": "サークル対抗戦",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-10-06T12:30:00+09:00",
+    "QuestCloseDate": "2026-10-16T04:59:59+09:00",
+    "EndDate": "2026-10-23T04:59:59+09:00",
+    "Order": 46,
+    "LogoAssetId": null,
+    "LogoFrameAssetId": null,
+    "MovieAssetId": null,
+    "IntroductionEpisodeMasterId": null
   }
 ]

@@ -787,6 +787,18 @@
   },
   {
     "type": "SceneBranchMaster",
+    "Id": 1031011,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 1031041,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
     "Id": 2002031,
     "Type": "Normal",
     "IsRequireSelection": false
@@ -1669,6 +1681,12 @@
   },
   {
     "type": "SceneBranchMaster",
+    "Id": 4000961,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
     "Id": 5000031,
     "Type": "Normal",
     "IsRequireSelection": false
@@ -1928,6 +1946,12 @@
   {
     "type": "SceneBranchMaster",
     "Id": 5000481,
+    "Type": "Normal",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 5000511,
     "Type": "Normal",
     "IsRequireSelection": false
   },
@@ -4208,6 +4232,30 @@
   {
     "type": "SceneBranchMaster",
     "Id": 6119001,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6119101,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6119201,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6119301,
+    "Type": "Spot",
+    "IsRequireSelection": false
+  },
+  {
+    "type": "SceneBranchMaster",
+    "Id": 6119401,
     "Type": "Spot",
     "IsRequireSelection": false
   },

@@ -15,6 +15,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 100303,
+    "Name": "静寂と月明かり",
+    "Description": "桃園める「隣歩む想い」の専用OSです。",
+    "AssetId": "100303"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 101301,
     "Name": "歯車",
     "Description": "鳴滝七彩「オールラウンダーな統率者」の専用OSです。",
@@ -572,6 +579,13 @@
     "Name": "断截の鎖",
     "Description": "コトハ「世界への反逆者」の専用OSです。",
     "AssetId": "154301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 154302,
+    "Name": "自由の夜",
+    "Description": "コトハ「歩む先に新たな日常を」の専用OSです。",
+    "AssetId": "154302"
   },
   {
     "type": "OperatingSystemMaster",

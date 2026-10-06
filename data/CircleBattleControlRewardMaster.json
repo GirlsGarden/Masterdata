@@ -598,5 +598,105 @@
     "ControlRewardPackageMasterId": 2070010,
     "DestroyRewardPackageMasterId": 2070000,
     "Sequence": 10
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10061,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 0.1,
+    "ControlRewardPackageMasterId": 2070062,
+    "DestroyRewardPackageMasterId": null,
+    "Sequence": 1
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10062,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 0.2,
+    "ControlRewardPackageMasterId": 2070063,
+    "DestroyRewardPackageMasterId": null,
+    "Sequence": 2
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10063,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 0.3,
+    "ControlRewardPackageMasterId": 2070064,
+    "DestroyRewardPackageMasterId": null,
+    "Sequence": 3
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10064,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 0.4,
+    "ControlRewardPackageMasterId": 2070065,
+    "DestroyRewardPackageMasterId": null,
+    "Sequence": 4
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10065,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 0.5,
+    "ControlRewardPackageMasterId": 2070066,
+    "DestroyRewardPackageMasterId": null,
+    "Sequence": 5
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10066,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 0.6,
+    "ControlRewardPackageMasterId": 2070067,
+    "DestroyRewardPackageMasterId": null,
+    "Sequence": 6
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10067,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 0.7,
+    "ControlRewardPackageMasterId": 2070068,
+    "DestroyRewardPackageMasterId": null,
+    "Sequence": 7
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10068,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 0.8,
+    "ControlRewardPackageMasterId": 2070069,
+    "DestroyRewardPackageMasterId": null,
+    "Sequence": 8
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10069,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 0.9,
+    "ControlRewardPackageMasterId": 2070070,
+    "DestroyRewardPackageMasterId": null,
+    "Sequence": 9
+  },
+  {
+    "type": "CircleBattleControlRewardMaster",
+    "Id": 10070,
+    "CircleBattleMasterId": 7,
+    "CircleBattleBossGroupId": 1,
+    "ControlRate": 1,
+    "ControlRewardPackageMasterId": 2070010,
+    "DestroyRewardPackageMasterId": 2070000,
+    "Sequence": 10
   }
 ]

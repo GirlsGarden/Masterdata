@@ -114,10 +114,21 @@
     "Id": 1010,
     "Title": "10章",
     "SubTitle": "自由への意志",
-    "Description": "10章のあらすじ",
+    "Description": "ピコの告げる真実に衝撃を受ける一同。\nそしてそれをきっかけに記憶を取り戻す指揮官。\nイザナミとの最後の戦いが幕を開ける――",
     "Order": 11,
     "BannerAssetId": "1010",
     "BackgroundAssetType": "Adventure",
     "BackgroundAssetId": "1320"
+  },
+  {
+    "type": "ChapterGroupMaster",
+    "Id": 1011,
+    "Title": "1部EP",
+    "SubTitle": "あなたの隣を歩けたら",
+    "Description": "10.5章のあらすじ",
+    "Order": 12,
+    "BannerAssetId": "1011",
+    "BackgroundAssetType": "Adventure",
+    "BackgroundAssetId": "1400"
   }
 ]

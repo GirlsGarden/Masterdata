@@ -462,7 +462,7 @@
     "Order": 1,
     "EventMasterId": 1,
     "AssetId": "1035",
-    "Overview": "1節あらすじ",
+    "Overview": "ザルトゥーム島の真実を知った学園の少女達。\nそしてそのピコの話をきっかけに、\n記憶を取り戻した指揮官。\n衝撃の内容ではあったが、目的は変わらない。\nザルトゥーム島の自由と未来のために、\n一行はイザナミのメインサーバーを目指す――",
     "ChapterGroupMasterId": 1010,
     "Interlude": null,
     "LoggedInActivateMasterId": null
@@ -475,7 +475,7 @@
     "Order": 2,
     "EventMasterId": 1,
     "AssetId": "1036",
-    "Overview": "2節あらすじ",
+    "Overview": "１万年以上前。アマツカゼに乗って宇宙へ\n旅立ったあなたとイザナミ、そして――\n艦長『御影亜紗陽』と乗組員達。\n長い航海の果てに辿り着いた新天地で、\n彼らは重大な選択を迫られる――",
     "ChapterGroupMasterId": 1010,
     "Interlude": null,
     "LoggedInActivateMasterId": null
@@ -488,8 +488,34 @@
     "Order": 3,
     "EventMasterId": 1,
     "AssetId": "1037",
-    "Overview": "3節あらすじ",
+    "Overview": "イザナミとの最後の戦いが始まる。\n立ちはだかるのは、全力の『八咫烏』。\nザルトゥーム島とそこに住まう人類の\n未来を懸け、指揮官達は決戦に臨む。",
     "ChapterGroupMasterId": 1010,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 101101,
+    "Title": "EP前編",
+    "SubTitle": "1部EP前編",
+    "Order": 1,
+    "EventMasterId": 1,
+    "AssetId": "1038",
+    "Overview": "前半あらすじ",
+    "ChapterGroupMasterId": 1011,
+    "Interlude": null,
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
+    "Id": 101102,
+    "Title": "EP後編",
+    "SubTitle": "1部EP後編",
+    "Order": 2,
+    "EventMasterId": 1,
+    "AssetId": "1039",
+    "Overview": "後半あらすじ",
+    "ChapterGroupMasterId": 1011,
     "Interlude": null,
     "LoggedInActivateMasterId": null
   },
@@ -990,7 +1016,7 @@
   {
     "type": "ChapterMaster",
     "Id": 300001,
-    "Title": "1-9",
+    "Title": "1-10",
     "SubTitle": null,
     "Order": 1,
     "EventMasterId": 7001,

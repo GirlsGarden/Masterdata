@@ -563,6 +563,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10030,
+    "Rarity": "Sr",
+    "Name": "コトハの居場所",
+    "Description": "仕方ないわね……\\nじゃあ、本当にひと口だけ味を見てあげる。",
+    "AssetId": "10035",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 4,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400257,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -3527,6 +3550,76 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20093,
+    "Rarity": "Ssr",
+    "Name": "夜空に想いを馳せて",
+    "Description": "すみません……でも、その……\\n今のことは、あまり意識しないでください……",
+    "AssetId": "100303",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 100,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400000,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400036,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20094,
+    "Rarity": "Ssr",
+    "Name": "ありがとう",
+    "Description": "……思ってたより、ちゃんと美味しいじゃない。",
+    "AssetId": "154302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 154,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400140,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Shy",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400261,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -4325,7 +4418,7 @@
     "type": "MemoryMaster",
     "Id": 30030,
     "Rarity": "Ur",
-    "Name": "仮",
+    "Name": "かえってきた学園生活",
     "Description": "仮",
     "AssetId": "30038",
     "Highlights": null,
@@ -4542,6 +4635,41 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 30039,
+    "Rarity": "Ur",
+    "Name": "かえってきた学園生活",
+    "Description": "もう、そろってからかわないでください～！",
+    "AssetId": "30043",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 101,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400262,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 2,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400263,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30040,
     "Rarity": "Ur",
     "Name": "Красна",
@@ -4620,5 +4748,41 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30045,
+    "Rarity": "Ur",
+    "Name": "MellowDaysのシリアルコード配布",
+    "Description": "仮",
+    "AssetId": "30056",
+    "Highlights": null,
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30046,
+    "Rarity": "Ur",
+    "Name": "足跡に感謝を、旅路に祝福を",
+    "Description": "これからも見せてくれるんでしょ？\\nあんたと一緒に掴み取った、『未来』ってやつを。",
+    "AssetId": "30058",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": [
+          "PhysicalAttacker",
+          "IntelligenceAttacker"
+        ],
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400260,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   }
 ]

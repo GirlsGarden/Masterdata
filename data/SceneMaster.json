@@ -2821,6 +2821,96 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 10310101,
+    "EpisodeMasterId": 103101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "戦いのあと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10310201,
+    "EpisodeMasterId": 103102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "各校区の様子",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10310301,
+    "EpisodeMasterId": 103103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "進む復興",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10310401,
+    "EpisodeMasterId": 103104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ここに居たい意志",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10320101,
+    "EpisodeMasterId": 103201,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "コトハを追って",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10320201,
+    "EpisodeMasterId": 103202,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "コトハの責任",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10320301,
+    "EpisodeMasterId": 103203,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "決闘の掟",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10320401,
+    "EpisodeMasterId": 103204,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "この想いの落ち着くところ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 10320501,
+    "EpisodeMasterId": 103205,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新たなる兆し",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 20010101,
     "EpisodeMasterId": 200101,
     "Types": "Adventure",
@@ -6401,6 +6491,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40009601,
+    "EpisodeMasterId": 400096,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "夜空に想いを馳せて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009602,
+    "EpisodeMasterId": 400096,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "夜空に想いを馳せて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -7357,6 +7467,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "最大の幸運は",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005101,
+    "EpisodeMasterId": 500051,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "コトハの居場所",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005102,
+    "EpisodeMasterId": 500051,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "コトハの居場所",
     "AssetId": null
   },
   {
@@ -11161,6 +11291,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 61071001,
+    "EpisodeMasterId": 610380,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "久しぶりの教室",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61071002,
+    "EpisodeMasterId": 610381,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "どちらを選ぶべきか",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61071003,
+    "EpisodeMasterId": 610382,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "屋上での昼下がり",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61071004,
+    "EpisodeMasterId": 610383,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "花壇が気になる",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 71000001,
     "EpisodeMasterId": 710001,
     "Types": "Adventure",
@@ -11247,6 +11417,16 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "天鎖封祀",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 71000010,
+    "EpisodeMasterId": 710010,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "自由への意志",
     "AssetId": null
   }
 ]
