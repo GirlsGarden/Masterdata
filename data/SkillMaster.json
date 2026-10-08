@@ -51633,47 +51633,6 @@
   },
   {
     "type": "SkillMaster",
-    "Id": 200014,
-    "Name": "リブート（旧）",
-    "Type": "Active",
-    "Kind": "Support",
-    "AdditionalKinds": [
-      {
-        "type": "AdditionalSkillKind",
-        "Level": 1,
-        "Value": [
-          "Support"
-        ]
-      }
-    ],
-    "ResourceCost": 0,
-    "CoolTime": null,
-    "Features": "None",
-    "DefaultMaxLevel": 15,
-    "CoolTimeUpdateTiming": null,
-    "DescriptionTemplates": [
-      {
-        "type": "SkillDescriptionTemplate",
-        "Level": 1,
-        "Template": "全てのバフ・デバフを解除し、最大HP・攻撃力・防御力・行動速度・会心率を強化する"
-      }
-    ],
-    "TemplateTags": null,
-    "SkillLevelPatternMasterId": 11,
-    "DisplaySkillPowerTagName": null,
-    "DisplayAttacksCountTagName": null,
-    "DisplayTargetType": "Self",
-    "DisplayTargetRange": "OnePawn",
-    "DisplayTargetPriority": null,
-    "DisplaySkillEffects": "None",
-    "DisplaySkillRangeTargets": "None",
-    "DisplaySkillTypeTargets": "None",
-    "DisplaySkillAttributeTargets": "None",
-    "DisplaySkillRoleTargets": "None",
-    "DisplaySkillOtherTargets": "None"
-  },
-  {
-    "type": "SkillMaster",
     "Id": 210001,
     "Name": "ふわとろのきもち",
     "Type": "Extra",
