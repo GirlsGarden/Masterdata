@@ -1130,6 +1130,23 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 1069,
+    "Names": {
+      "Ssr": "シネマコンボ"
+    },
+    "Descriptions": {
+      "Lr": "暗闇で弾ける、おいしい味覚、イベントルートを選択するたびに、「\u003ccolor=#ff701a\u003eLRクリスタル\u003c/color\u003e」を2つ獲得する。",
+      "Ssr": "暗闇で弾ける、おいしい味覚、イベントルートを選択するたびに、「\u003ccolor=#ff701a\u003eSSRクリスタル\u003c/color\u003e」を2つ獲得する。",
+      "Ur": "暗闇で弾ける、おいしい味覚、イベントルートを選択するたびに、「\u003ccolor=#ff701a\u003eURクリスタル\u003c/color\u003e」を2つ獲得する。"
+    },
+    "AssetIds": {
+      "Ssr": "9020"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Lr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 2001,
     "Names": {
       "R": "オメガゲート"
@@ -3568,6 +3585,21 @@
     },
     "AssetIds": {
       "Ssr": "9018"
+    },
+    "Rarity": "Ssr",
+    "MaxRarity": "Ssr"
+  },
+  {
+    "type": "MazeRelicMaster",
+    "Id": 9022,
+    "Names": {
+      "Ssr": "ゲルタンフル"
+    },
+    "Descriptions": {
+      "Ssr": "次のバトルで1番攻撃力の高い味方の防御力が\u003ccolor=#00aab9\u003e100%ダウン\u003c/color\u003eするが、他の味方に\u003ccolor=#ff701a\u003e1ヒットだけ攻撃を回避するバフ\u003c/color\u003eを付与する。"
+    },
+    "AssetIds": {
+      "Ssr": "9021"
     },
     "Rarity": "Ssr",
     "MaxRarity": "Ssr"

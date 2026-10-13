@@ -3124,6 +3124,24 @@
   },
   {
     "type": "RewardMaster",
+    "Id": 100851,
+    "RewardPackageMasterId": 10085,
+    "Order": 0,
+    "ThingType": "Memory",
+    "ThingId": 20094,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "RewardMaster",
+    "Id": 100852,
+    "RewardPackageMasterId": 10085,
+    "Order": 0,
+    "ThingType": "FreeGem",
+    "ThingId": 50,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "RewardMaster",
     "Id": 200011,
     "RewardPackageMasterId": 20001,
     "Order": 0,

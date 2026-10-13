@@ -10158,7 +10158,7 @@
   {
     "type": "SkillMaster",
     "Id": 110085,
-    "Name": "制服コトハ_EXスキル",
+    "Name": "無粋への制裁",
     "Type": "Extra",
     "Kind": "Attack",
     "AdditionalKinds": [
@@ -30684,7 +30684,7 @@
   {
     "type": "SkillMaster",
     "Id": 120182,
-    "Name": "制服コトハ_スキル1",
+    "Name": "お姉ちゃん、見てて",
     "Type": "Active",
     "Kind": "Attack",
     "AdditionalKinds": [
@@ -30801,7 +30801,7 @@
   {
     "type": "SkillMaster",
     "Id": 120183,
-    "Name": "制服コトハ_スキル2",
+    "Name": "静かな日々の邪魔をしないで",
     "Type": "Active",
     "Kind": "Attack",
     "AdditionalKinds": [
@@ -30918,7 +30918,7 @@
   {
     "type": "SkillMaster",
     "Id": 120184,
-    "Name": "制服コトハ_スキル3",
+    "Name": "制服の下の負けん気",
     "Type": "Active",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -30956,37 +30956,37 @@
           {
             "type": "TagValue",
             "Level": 1,
-            "Value": 10
+            "Value": 7.5
           },
           {
             "type": "TagValue",
             "Level": 3,
-            "Value": 10.62
+            "Value": 7.96
           },
           {
             "type": "TagValue",
             "Level": 4,
-            "Value": 11.86
+            "Value": 8.88
           },
           {
             "type": "TagValue",
             "Level": 6,
-            "Value": 12.48
+            "Value": 9.34
           },
           {
             "type": "TagValue",
             "Level": 7,
-            "Value": 13.72
+            "Value": 10.26
           },
           {
             "type": "TagValue",
             "Level": 9,
-            "Value": 14.34
+            "Value": 10.72
           },
           {
             "type": "TagValue",
             "Level": 10,
-            "Value": 15.6
+            "Value": 11.7
           }
         ]
       },
@@ -31008,12 +31008,12 @@
           {
             "type": "TagValue",
             "Level": 11,
-            "Value": 10
+            "Value": 7.5
           },
           {
             "type": "TagValue",
             "Level": 15,
-            "Value": 15.6
+            "Value": 11.7
           }
         ]
       }
@@ -50953,7 +50953,7 @@
   {
     "type": "SkillMaster",
     "Id": 130188,
-    "Name": "制服コトハ_スキル4",
+    "Name": "仲間想いは変わらず",
     "Type": "Passive",
     "Kind": "Attack",
     "AdditionalKinds": [
@@ -152265,6 +152265,293 @@
   },
   {
     "type": "SkillMaster",
+    "Id": 300242,
+    "Name": "ゲルタンフル",
+    "Type": "Passive",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 1,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "次のバトルで1番攻撃力の高い味方の防御力が\u003ccolor=#00aab9\u003e100%ダウン\u003c/color\u003eするが、味方全体に\u003ccolor=#ff701a\u003e1ヒットだけ攻撃を回避するバフ\u003c/color\u003eを付与する。"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": null,
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null,
+    "DisplaySkillEffects": "None",
+    "DisplaySkillRangeTargets": "None",
+    "DisplaySkillTypeTargets": "None",
+    "DisplaySkillAttributeTargets": "None",
+    "DisplaySkillRoleTargets": "None",
+    "DisplaySkillOtherTargets": "None"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300243,
+    "Name": "ルインブースト",
+    "Type": "Active",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "自身の攻撃力を10%、与ダメージを5%上昇させ（重複可・解除不可）、敵全体に1行動の間、攻撃力×10%の継続ENダメージを付与する。自身のHPが60%未満の場合、このスキルは発動しない"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 12,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": null,
+    "DisplayTargetPriority": null,
+    "DisplaySkillEffects": "None",
+    "DisplaySkillRangeTargets": "None",
+    "DisplaySkillTypeTargets": "None",
+    "DisplaySkillAttributeTargets": "None",
+    "DisplaySkillRoleTargets": "None",
+    "DisplaySkillOtherTargets": "None"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300244,
+    "Name": "ストリームブレイク",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": 1,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": "ManeuverEnd",
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "最もHP割合の高い敵を含む敵前後列に威力{威力}で5ヒットEN攻撃する。このスキルはENタイプに対して優先して発動する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 15.6
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 15,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "5",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null,
+    "DisplaySkillEffects": "None",
+    "DisplaySkillRangeTargets": "None",
+    "DisplaySkillTypeTargets": "None",
+    "DisplaySkillAttributeTargets": "None",
+    "DisplaySkillRoleTargets": "None",
+    "DisplaySkillOtherTargets": "None"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300245,
+    "Name": "ウェーブバッシュ",
+    "Type": "Active",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack"
+        ]
+      }
+    ],
+    "ResourceCost": 1,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "最もHP割合の高い敵単体に威力{威力}でEN攻撃する。このスキルはENタイプに対して優先して発動する"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 117
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 15,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null,
+    "DisplaySkillEffects": "None",
+    "DisplaySkillRangeTargets": "None",
+    "DisplaySkillTypeTargets": "None",
+    "DisplaySkillAttributeTargets": "None",
+    "DisplaySkillRoleTargets": "None",
+    "DisplaySkillOtherTargets": "None"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300246,
+    "Name": "ファストジャッジ",
+    "Type": "Passive",
+    "Kind": "Attack",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Attack",
+          "Interference"
+        ]
+      }
+    ],
+    "ResourceCost": 2,
+    "CoolTime": null,
+    "Features": "PreemptiveAttack",
+    "DefaultMaxLevel": 10,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "ターン開始時に発動。最も行動速度が速い敵単体に威力{威力}で先制EN攻撃する。\n対象に対して自身の属性が有利だった場合、さらに1行動の間敵全体の行動速度と威力を50%低下させる"
+      }
+    ],
+    "TemplateTags": [
+      {
+        "type": "SkillTemplateTag",
+        "TagName": "威力",
+        "InterpolationMode": "Fixed",
+        "Values": [
+          {
+            "type": "TagValue",
+            "Level": 1,
+            "Value": 46.8
+          }
+        ]
+      }
+    ],
+    "SkillLevelPatternMasterId": 15,
+    "DisplaySkillPowerTagName": "威力",
+    "DisplayAttacksCountTagName": "1",
+    "DisplayTargetType": "Enemies",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null,
+    "DisplaySkillEffects": "None",
+    "DisplaySkillRangeTargets": "None",
+    "DisplaySkillTypeTargets": "None",
+    "DisplaySkillAttributeTargets": "None",
+    "DisplaySkillRoleTargets": "None",
+    "DisplaySkillOtherTargets": "None"
+  },
+  {
+    "type": "SkillMaster",
+    "Id": 300247,
+    "Name": "変異",
+    "Type": "Active",
+    "Kind": "Support",
+    "AdditionalKinds": [
+      {
+        "type": "AdditionalSkillKind",
+        "Level": 1,
+        "Value": [
+          "Support"
+        ]
+      }
+    ],
+    "ResourceCost": 0,
+    "CoolTime": null,
+    "Features": "None",
+    "DefaultMaxLevel": 15,
+    "CoolTimeUpdateTiming": null,
+    "DescriptionTemplates": [
+      {
+        "type": "SkillDescriptionTemplate",
+        "Level": 1,
+        "Template": "全てのバフ・デバフを解除し、最大HP・攻撃力・防御力・行動速度・会心率を40%強化し、敵全体の攻撃力を10%減少させる。さらに自身に「変異」を付与する。"
+      }
+    ],
+    "TemplateTags": null,
+    "SkillLevelPatternMasterId": 11,
+    "DisplaySkillPowerTagName": null,
+    "DisplayAttacksCountTagName": null,
+    "DisplayTargetType": "Self",
+    "DisplayTargetRange": "OnePawn",
+    "DisplayTargetPriority": null,
+    "DisplaySkillEffects": "None",
+    "DisplaySkillRangeTargets": "None",
+    "DisplaySkillTypeTargets": "None",
+    "DisplaySkillAttributeTargets": "None",
+    "DisplaySkillRoleTargets": "None",
+    "DisplaySkillOtherTargets": "None"
+  },
+  {
+    "type": "SkillMaster",
     "Id": 400000,
     "Name": "攻撃上昇【める】",
     "Type": "Passive",
@@ -161697,7 +161984,7 @@
   {
     "type": "SkillMaster",
     "Id": 400226,
-    "Name": "攻撃上昇毎T開始【コミ・クレ】",
+    "Name": "攻撃上昇毎T開始【コミカル・クレバー】",
     "Type": "Passive",
     "Kind": "Support",
     "AdditionalKinds": [
@@ -163627,7 +163914,7 @@
       {
         "type": "SkillDescriptionTemplate",
         "Level": 1,
-        "Template": "2の倍数ターンのターン開始時に発動。1ターンの間、シリウスシュガーに所属するキャラクターの最大APを{ap}増加させる"
+        "Template": "2の倍数ターンのターン開始時に発動。1ターンの間、シリウスシュガーに所属するキャラクターの最大APを{ap}増加させる\n※既に所持APが6である場合、この効果は無効となる"
       }
     ],
     "TemplateTags": [

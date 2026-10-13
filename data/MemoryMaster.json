@@ -3616,7 +3616,7 @@
         "IsTargetingFriendlyParty": false
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
@@ -4418,10 +4418,35 @@
     "type": "MemoryMaster",
     "Id": 30030,
     "Rarity": "Ur",
-    "Name": "かえってきた学園生活",
-    "Description": "仮",
-    "AssetId": "30038",
-    "Highlights": null,
+    "Name": "取り返した学園生活",
+    "Description": "もう、そろってからかわないでください～！",
+    "AssetId": "30043",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 101,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400262,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 2,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400263,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
     "IsReleased": false
   },
   {
@@ -4637,36 +4662,11 @@
     "type": "MemoryMaster",
     "Id": 30039,
     "Rarity": "Ur",
-    "Name": "かえってきた学園生活",
-    "Description": "もう、そろってからかわないでください～！",
+    "Name": "仮データ",
+    "Description": "仮データ",
     "AssetId": "30043",
-    "Highlights": [
-      {
-        "type": "MemoryHighlight",
-        "CharacterMasterId": null,
-        "CharacterBaseMasterId": null,
-        "CharacterTeamMasterId": 101,
-        "CharacterRole": "Unspecified",
-        "CharacterAttribute": "Unspecified",
-        "PartyPosition": null,
-        "CharacterType": "Unspecified",
-        "SkillMasterId": 400262,
-        "IsTargetingFriendlyParty": true
-      },
-      {
-        "type": "MemoryHighlight",
-        "CharacterMasterId": null,
-        "CharacterBaseMasterId": null,
-        "CharacterTeamMasterId": null,
-        "CharacterRole": "Unspecified",
-        "CharacterAttribute": "Unspecified",
-        "PartyPosition": 2,
-        "CharacterType": "Unspecified",
-        "SkillMasterId": 400263,
-        "IsTargetingFriendlyParty": true
-      }
-    ],
-    "IsReleased": false
+    "Highlights": null,
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",

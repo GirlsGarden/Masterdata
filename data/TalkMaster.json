@@ -1141,6 +1141,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1543021,
+    "CallCharacterMasterId": 154302,
+    "Order": 154002,
+    "Title": "今度もふたりで",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 154302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400097
+  },
+  {
+    "type": "TalkMaster",
     "Id": 5003011,
     "CallCharacterMasterId": 500301,
     "Order": 500001,

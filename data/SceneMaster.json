@@ -6511,6 +6511,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40009701,
+    "EpisodeMasterId": 400097,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ありがとう",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009702,
+    "EpisodeMasterId": 400097,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ありがとう",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -7487,6 +7507,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "コトハの居場所",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005201,
+    "EpisodeMasterId": 500052,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "取り返した学園生活",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005202,
+    "EpisodeMasterId": 500052,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "取り返した学園生活",
     "AssetId": null
   },
   {
@@ -11331,6 +11371,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 61072001,
+    "EpisodeMasterId": 610384,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "鉢合わせ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61072002,
+    "EpisodeMasterId": 610385,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "食堂の定食クオリティ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61072003,
+    "EpisodeMasterId": 610386,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "屋上での遭遇",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61072004,
+    "EpisodeMasterId": 610387,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "マンツーマンレッスン？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 71000001,
     "EpisodeMasterId": 710001,
     "Types": "Adventure",
@@ -11427,6 +11507,16 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "自由への意志",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 72000001,
+    "EpisodeMasterId": 720001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "海の向こうの来訪者",
     "AssetId": null
   }
 ]

@@ -2129,6 +2129,30 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 10320411,
+    "SceneBranchMasterId": 1032041,
+    "Answer": "どうしたコトハ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10320412,
+    "SceneBranchMasterId": 1032041,
+    "Answer": "さっきから静かだぞ？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 10320421,
+    "SceneBranchMasterId": 1032042,
+    "Answer": "ようこそ、柊校舎へ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 20020311,
     "SceneBranchMasterId": 2002031,
     "Answer": "倒していい障害物を決めるとかか？",
@@ -4497,6 +4521,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40009711,
+    "SceneBranchMasterId": 4000971,
+    "Answer": "ほっぺにクリームついてるぞ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009712,
+    "SceneBranchMasterId": 4000971,
+    "Answer": "子供みたいな食べ方だな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -5212,6 +5252,22 @@
     "Id": 50005112,
     "SceneBranchMasterId": 5000511,
     "Answer": "仲良く見えるらしいぞ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005211,
+    "SceneBranchMasterId": 5000521,
+    "Answer": "準備はできたか",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005212,
+    "SceneBranchMasterId": 5000521,
+    "Answer": "緊張しなくていいぞ",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -11361,6 +11417,70 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 61195011,
+    "SceneBranchMasterId": 6119501,
+    "Answer": "似合ってないな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1543021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61195012,
+    "SceneBranchMasterId": 6119501,
+    "Answer": "似合ってるな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1543022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61196011,
+    "SceneBranchMasterId": 6119601,
+    "Answer": "ちょっと味見させてくれ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1543021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61196012,
+    "SceneBranchMasterId": 6119601,
+    "Answer": "食べられないものでもあったのか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1543022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61197011,
+    "SceneBranchMasterId": 6119701,
+    "Answer": "敷地内を眺める",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1543021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61197012,
+    "SceneBranchMasterId": 6119701,
+    "Answer": "ちょっかいをかける",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1543022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61198011,
+    "SceneBranchMasterId": 6119801,
+    "Answer": "きっちり教えてやる",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1543021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61198012,
+    "SceneBranchMasterId": 6119801,
+    "Answer": "夜の授業でもいいか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1543022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 71000011,
     "SceneBranchMasterId": 7100001,
     "Answer": "タチアナだ",
@@ -11468,6 +11588,22 @@
     "Id": 71000812,
     "SceneBranchMasterId": 7100081,
     "Answer": "ナージャと同じチームに",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 72000011,
+    "SceneBranchMasterId": 7200001,
+    "Answer": "ずいぶん堂々としているな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 72000012,
+    "SceneBranchMasterId": 7200001,
+    "Answer": "余裕たっぷりだ",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
