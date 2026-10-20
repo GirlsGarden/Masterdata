@@ -1590,7 +1590,7 @@
     "EpisodeMasterId": 400095,
     "IsAnimation": true,
     "AssetId": "c500302",
-    "AnimationNumber": null
+    "AnimationNumber": 2
   },
   {
     "type": "HomeScenarioMaster",
@@ -1598,13 +1598,13 @@
     "Order": 178,
     "EpisodeMasterId": 400095,
     "IsAnimation": false,
-    "AssetId": "c500301",
+    "AssetId": "c500302",
     "AnimationNumber": null
   },
   {
     "type": "HomeScenarioMaster",
     "Id": 191,
-    "Order": 179,
+    "Order": 180,
     "EpisodeMasterId": 400096,
     "IsAnimation": true,
     "AssetId": "c100303",
@@ -1613,7 +1613,7 @@
   {
     "type": "HomeScenarioMaster",
     "Id": 192,
-    "Order": 180,
+    "Order": 181,
     "EpisodeMasterId": 400096,
     "IsAnimation": false,
     "AssetId": "c100303",
@@ -1635,6 +1635,51 @@
     "EpisodeMasterId": 400097,
     "IsAnimation": false,
     "AssetId": "c154302",
+    "AnimationNumber": null
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 195,
+    "Order": 179,
+    "EpisodeMasterId": 400095,
+    "IsAnimation": true,
+    "AssetId": "c500303",
+    "AnimationNumber": 2
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 196,
+    "Order": 184,
+    "EpisodeMasterId": 400098,
+    "IsAnimation": true,
+    "AssetId": "c501302",
+    "AnimationNumber": null
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 197,
+    "Order": 185,
+    "EpisodeMasterId": 400098,
+    "IsAnimation": true,
+    "AssetId": "c501303",
+    "AnimationNumber": null
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 198,
+    "Order": 186,
+    "EpisodeMasterId": 400098,
+    "IsAnimation": false,
+    "AssetId": "c501302",
+    "AnimationNumber": null
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 199,
+    "Order": 187,
+    "EpisodeMasterId": 400098,
+    "IsAnimation": false,
+    "AssetId": "c501303",
     "AnimationNumber": null
   },
   {
@@ -2301,6 +2346,24 @@
     "EpisodeMasterId": 500052,
     "IsAnimation": false,
     "AssetId": "s300026",
+    "AnimationNumber": null
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2074,
+    "Order": 1074,
+    "EpisodeMasterId": 500053,
+    "IsAnimation": true,
+    "AssetId": "30054_ep",
+    "AnimationNumber": null
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2075,
+    "Order": 1075,
+    "EpisodeMasterId": 500054,
+    "IsAnimation": true,
+    "AssetId": "s200029",
     "AnimationNumber": null
   }
 ]

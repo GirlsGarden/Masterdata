@@ -28,5 +28,25 @@
     "AssetId": "500303",
     "CustomStandAssetId": "500303s",
     "FaceLocator": 1
+  },
+  {
+    "type": "CharacterExtensionMaster",
+    "Id": 4,
+    "CharacterMasterId": 501301,
+    "CharacterBaseMasterId": 151,
+    "ExtensionTypes": "Additional",
+    "AssetId": "501303",
+    "CustomStandAssetId": "501303s",
+    "FaceLocator": 2
+  },
+  {
+    "type": "CharacterExtensionMaster",
+    "Id": 5,
+    "CharacterMasterId": 501301,
+    "CharacterBaseMasterId": 156,
+    "ExtensionTypes": "Additional",
+    "AssetId": "501302",
+    "CustomStandAssetId": "501302s",
+    "FaceLocator": 1
   }
 ]

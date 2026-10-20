@@ -4240,7 +4240,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "1400",
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -4255,7 +4255,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "30072_004",
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -4270,7 +4270,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "30372_001",
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -4285,7 +4285,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "80333_001",
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -4300,7 +4300,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "50012_006",
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -4315,7 +4315,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "60100_002",
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -4330,7 +4330,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "60020_014",
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -4345,7 +4345,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "30122_001",
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -4360,7 +4360,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": null,
+    "AssetId": "80125_004",
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6661,6 +6661,96 @@
   },
   {
     "type": "EpisodeMaster",
+    "Id": 202001,
+    "ChapterMasterId": 200039,
+    "Title": "1話",
+    "SubTitle": "新しい案内役",
+    "Order": 1,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "30092_004",
+    "RewardPackageMasterId": 2,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 202002,
+    "ChapterMasterId": 200039,
+    "Title": "2話",
+    "SubTitle": "クリスカの憂鬱",
+    "Order": 2,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "10700",
+    "RewardPackageMasterId": 2,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 202003,
+    "ChapterMasterId": 200039,
+    "Title": "3話",
+    "SubTitle": "イーニァＶＳナージャ",
+    "Order": 3,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "10710",
+    "RewardPackageMasterId": 2,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 202004,
+    "ChapterMasterId": 200039,
+    "Title": "4話",
+    "SubTitle": "はじまりの場所へ",
+    "Order": 4,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "60020_015",
+    "RewardPackageMasterId": 2,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 202005,
+    "ChapterMasterId": 200039,
+    "Title": "5話",
+    "SubTitle": "迷宮のクリスカ",
+    "Order": 5,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "30312_005",
+    "RewardPackageMasterId": 2,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 202006,
+    "ChapterMasterId": 200039,
+    "Title": "6話",
+    "SubTitle": "激励の宴",
+    "Order": 6,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "10720",
+    "RewardPackageMasterId": 2,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
     "Id": 300101,
     "ChapterMasterId": null,
     "Title": "メイズ探索",
@@ -6670,7 +6760,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6685,7 +6775,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6700,7 +6790,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6715,7 +6805,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6730,7 +6820,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6745,7 +6835,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6760,7 +6850,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6775,7 +6865,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6790,7 +6880,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6805,7 +6895,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6820,7 +6910,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6835,7 +6925,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6850,7 +6940,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6865,7 +6955,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6880,7 +6970,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6895,7 +6985,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6910,7 +7000,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10001,
     "SpecialMemoryMasterId": null
   },
@@ -6925,7 +7015,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6940,7 +7030,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10002,
     "SpecialMemoryMasterId": null
   },
@@ -6955,7 +7045,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -6970,7 +7060,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10003,
     "SpecialMemoryMasterId": null
   },
@@ -6985,7 +7075,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -7000,7 +7090,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10004,
     "SpecialMemoryMasterId": null
   },
@@ -7015,7 +7105,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -7030,7 +7120,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10005,
     "SpecialMemoryMasterId": null
   },
@@ -7045,7 +7135,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10006,
     "SpecialMemoryMasterId": null
   },
@@ -7060,7 +7150,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10007,
     "SpecialMemoryMasterId": null
   },
@@ -7075,7 +7165,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10008,
     "SpecialMemoryMasterId": null
   },
@@ -7090,7 +7180,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10009,
     "SpecialMemoryMasterId": null
   },
@@ -7105,7 +7195,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10010,
     "SpecialMemoryMasterId": null
   },
@@ -7120,7 +7210,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10011,
     "SpecialMemoryMasterId": null
   },
@@ -7135,7 +7225,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10012,
     "SpecialMemoryMasterId": null
   },
@@ -7150,7 +7240,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10013,
     "SpecialMemoryMasterId": null
   },
@@ -7165,7 +7255,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10014,
     "SpecialMemoryMasterId": null
   },
@@ -7180,7 +7270,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10015,
     "SpecialMemoryMasterId": null
   },
@@ -7195,7 +7285,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10016,
     "SpecialMemoryMasterId": null
   },
@@ -7210,7 +7300,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10017,
     "SpecialMemoryMasterId": null
   },
@@ -7225,7 +7315,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10018,
     "SpecialMemoryMasterId": null
   },
@@ -7240,7 +7330,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10019,
     "SpecialMemoryMasterId": null
   },
@@ -7255,7 +7345,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10020,
     "SpecialMemoryMasterId": null
   },
@@ -7270,7 +7360,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10021,
     "SpecialMemoryMasterId": null
   },
@@ -7285,7 +7375,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10022,
     "SpecialMemoryMasterId": null
   },
@@ -7300,7 +7390,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -7315,7 +7405,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -7330,7 +7420,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -7345,7 +7435,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -7360,7 +7450,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -7375,7 +7465,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -7390,7 +7480,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 2,
     "SpecialMemoryMasterId": null
   },
@@ -7405,7 +7495,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10023,
     "SpecialMemoryMasterId": null
   },
@@ -7420,7 +7510,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10024,
     "SpecialMemoryMasterId": null
   },
@@ -7435,7 +7525,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10025,
     "SpecialMemoryMasterId": null
   },
@@ -7450,7 +7540,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10026,
     "SpecialMemoryMasterId": null
   },
@@ -7465,7 +7555,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10027,
     "SpecialMemoryMasterId": null
   },
@@ -7480,7 +7570,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10028,
     "SpecialMemoryMasterId": null
   },
@@ -7495,7 +7585,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10029,
     "SpecialMemoryMasterId": null
   },
@@ -7510,7 +7600,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10030,
     "SpecialMemoryMasterId": null
   },
@@ -7525,7 +7615,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10031,
     "SpecialMemoryMasterId": null
   },
@@ -7540,7 +7630,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10032,
     "SpecialMemoryMasterId": null
   },
@@ -7555,7 +7645,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10033,
     "SpecialMemoryMasterId": null
   },
@@ -7570,7 +7660,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10034,
     "SpecialMemoryMasterId": null
   },
@@ -7585,7 +7675,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10035,
     "SpecialMemoryMasterId": null
   },
@@ -7600,7 +7690,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10036,
     "SpecialMemoryMasterId": null
   },
@@ -7615,7 +7705,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10037,
     "SpecialMemoryMasterId": null
   },
@@ -7630,7 +7720,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10038,
     "SpecialMemoryMasterId": null
   },
@@ -7645,7 +7735,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10039,
     "SpecialMemoryMasterId": null
   },
@@ -7660,7 +7750,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10040,
     "SpecialMemoryMasterId": null
   },
@@ -7675,7 +7765,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10041,
     "SpecialMemoryMasterId": null
   },
@@ -7690,7 +7780,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10042,
     "SpecialMemoryMasterId": null
   },
@@ -7705,7 +7795,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10043,
     "SpecialMemoryMasterId": null
   },
@@ -7720,7 +7810,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10044,
     "SpecialMemoryMasterId": null
   },
@@ -7735,7 +7825,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10045,
     "SpecialMemoryMasterId": null
   },
@@ -7750,7 +7840,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10046,
     "SpecialMemoryMasterId": null
   },
@@ -7765,7 +7855,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10047,
     "SpecialMemoryMasterId": null
   },
@@ -7780,7 +7870,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10048,
     "SpecialMemoryMasterId": null
   },
@@ -7795,7 +7885,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10049,
     "SpecialMemoryMasterId": null
   },
@@ -7810,7 +7900,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10050,
     "SpecialMemoryMasterId": null
   },
@@ -7825,7 +7915,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10051,
     "SpecialMemoryMasterId": null
   },
@@ -7840,7 +7930,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10052,
     "SpecialMemoryMasterId": null
   },
@@ -7855,7 +7945,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10053,
     "SpecialMemoryMasterId": null
   },
@@ -7870,7 +7960,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10054,
     "SpecialMemoryMasterId": null
   },
@@ -7885,7 +7975,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10055,
     "SpecialMemoryMasterId": null
   },
@@ -7900,7 +7990,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10056,
     "SpecialMemoryMasterId": null
   },
@@ -7915,7 +8005,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10057,
     "SpecialMemoryMasterId": null
   },
@@ -7930,7 +8020,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10058,
     "SpecialMemoryMasterId": null
   },
@@ -7945,7 +8035,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10059,
     "SpecialMemoryMasterId": null
   },
@@ -7960,7 +8050,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10060,
     "SpecialMemoryMasterId": null
   },
@@ -7975,7 +8065,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10062,
     "SpecialMemoryMasterId": null
   },
@@ -7990,7 +8080,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10061,
     "SpecialMemoryMasterId": null
   },
@@ -8005,7 +8095,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10063,
     "SpecialMemoryMasterId": null
   },
@@ -8020,7 +8110,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10064,
     "SpecialMemoryMasterId": null
   },
@@ -8035,7 +8125,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10065,
     "SpecialMemoryMasterId": null
   },
@@ -8050,7 +8140,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10066,
     "SpecialMemoryMasterId": null
   },
@@ -8065,7 +8155,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10067,
     "SpecialMemoryMasterId": null
   },
@@ -8080,7 +8170,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10068,
     "SpecialMemoryMasterId": null
   },
@@ -8095,7 +8185,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10069,
     "SpecialMemoryMasterId": null
   },
@@ -8110,7 +8200,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10070,
     "SpecialMemoryMasterId": null
   },
@@ -8125,7 +8215,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10071,
     "SpecialMemoryMasterId": null
   },
@@ -8140,7 +8230,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10072,
     "SpecialMemoryMasterId": null
   },
@@ -8155,7 +8245,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10073,
     "SpecialMemoryMasterId": null
   },
@@ -8170,7 +8260,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10074,
     "SpecialMemoryMasterId": null
   },
@@ -8185,7 +8275,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10075,
     "SpecialMemoryMasterId": null
   },
@@ -8200,7 +8290,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10076,
     "SpecialMemoryMasterId": null
   },
@@ -8215,7 +8305,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10077,
     "SpecialMemoryMasterId": null
   },
@@ -8230,7 +8320,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10078,
     "SpecialMemoryMasterId": null
   },
@@ -8245,7 +8335,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10079,
     "SpecialMemoryMasterId": null
   },
@@ -8260,7 +8350,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10080,
     "SpecialMemoryMasterId": null
   },
@@ -8275,7 +8365,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10081,
     "SpecialMemoryMasterId": null
   },
@@ -8290,7 +8380,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10082,
     "SpecialMemoryMasterId": null
   },
@@ -8298,14 +8388,14 @@
     "type": "EpisodeMaster",
     "Id": 400095,
     "ChapterMasterId": null,
-    "Title": "オルガ・ヴォルコワ\u0026ナージャ・ヴォルコワ[繋がり合う母娘の絆]",
+    "Title": "オルガ＆ナージャ[繋がり合う母娘の絆]",
     "SubTitle": "新たなる力",
     "Order": 90,
     "CharacterMasterId": 500301,
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": "c500301",
     "RewardPackageMasterId": 10083,
     "SpecialMemoryMasterId": null
   },
@@ -8320,7 +8410,7 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10084,
     "SpecialMemoryMasterId": null
   },
@@ -8335,8 +8425,23 @@
     "AffectionLevel": 10,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": 10085,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 400098,
+    "ChapterMasterId": null,
+    "Title": "イーニァ＆クリスカ[スカーレット・ツイン]",
+    "SubTitle": "このひと時を、３人で",
+    "Order": 93,
+    "CharacterMasterId": 501301,
+    "AffectionLevel": 10,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "c501301",
+    "RewardPackageMasterId": 10086,
     "SpecialMemoryMasterId": null
   },
   {
@@ -8350,7 +8455,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10002,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8365,7 +8470,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10003,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8380,7 +8485,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10004,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8395,7 +8500,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30007,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8410,7 +8515,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10005,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8425,7 +8530,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30008,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8440,7 +8545,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10006,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8455,7 +8560,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30009,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8470,7 +8575,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10007,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8485,7 +8590,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30011,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8500,7 +8605,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10008,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8515,7 +8620,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30012,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8530,7 +8635,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10009,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8545,7 +8650,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30013,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8560,7 +8665,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10011,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8575,7 +8680,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10012,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8590,7 +8695,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30015,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8605,7 +8710,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10013,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8620,7 +8725,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30017,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8635,7 +8740,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10014,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8650,7 +8755,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30018,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8665,7 +8770,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10015,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8680,7 +8785,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30019,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8695,7 +8800,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10016,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8710,7 +8815,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30020,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8725,7 +8830,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10017,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8740,7 +8845,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30022,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8755,7 +8860,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10019,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8770,7 +8875,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30023,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8785,7 +8890,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10020,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8800,7 +8905,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30025,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8815,7 +8920,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10021,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8830,7 +8935,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30027,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8845,7 +8950,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10022,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8860,7 +8965,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30028,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8875,7 +8980,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10023,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8890,7 +8995,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30029,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8905,7 +9010,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10025,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8920,7 +9025,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30031,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8935,7 +9040,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10026,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8950,7 +9055,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30033,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8965,7 +9070,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10027,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8980,7 +9085,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30034,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -8995,7 +9100,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10028,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9010,7 +9115,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30035,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9025,7 +9130,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10029,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9040,7 +9145,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30036,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9055,7 +9160,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30038,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9070,7 +9175,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": 10030,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9085,7 +9190,37 @@
     "AffectionLevel": null,
     "MemoryMasterId": 30030,
     "SpotCharacterMasterId": null,
-    "AssetId": "1",
+    "AssetId": null,
+    "RewardPackageMasterId": null,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 500053,
+    "ChapterMasterId": null,
+    "Title": "ノベライズのシリアルコード配布",
+    "SubTitle": "仮",
+    "Order": 50,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": null,
+    "AssetId": "30054_ep",
+    "RewardPackageMasterId": null,
+    "SpecialMemoryMasterId": 30041
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 500054,
+    "ChapterMasterId": null,
+    "Title": "New World, New Dawn",
+    "SubTitle": "ふしぎないろ",
+    "Order": 51,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": 10031,
+    "SpotCharacterMasterId": null,
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9100,7 +9235,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1002011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9115,7 +9250,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1002012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9130,7 +9265,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1002013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9145,7 +9280,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1002014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9160,7 +9295,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1012011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9175,7 +9310,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1012012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9190,7 +9325,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1012013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9205,7 +9340,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1012014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9220,7 +9355,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1022011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9235,7 +9370,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1022012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9250,7 +9385,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1022013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9265,7 +9400,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1022014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9280,7 +9415,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1032011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9295,7 +9430,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1032012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9310,7 +9445,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1032013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9325,7 +9460,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1032014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9340,7 +9475,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1042011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9355,7 +9490,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1042012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9370,7 +9505,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1042013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9385,7 +9520,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1042014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9400,7 +9535,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1053011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9415,7 +9550,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1053012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9430,7 +9565,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1053013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9445,7 +9580,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1053014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9460,7 +9595,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1063011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9475,7 +9610,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1063012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9490,7 +9625,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1063013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9505,7 +9640,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1063014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9520,7 +9655,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1073011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9535,7 +9670,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1073012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9550,7 +9685,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1073013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9565,7 +9700,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1073014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9580,7 +9715,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1083011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9595,7 +9730,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1083012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9610,7 +9745,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1083013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9625,7 +9760,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1083014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9640,7 +9775,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1093011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9655,7 +9790,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1093012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9670,7 +9805,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1093013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9685,7 +9820,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1093014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9700,7 +9835,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9715,7 +9850,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9730,7 +9865,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9745,7 +9880,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9760,7 +9895,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1113011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9775,7 +9910,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1113012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9790,7 +9925,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1113013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9805,7 +9940,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1113014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9820,7 +9955,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1123011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9835,7 +9970,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1123012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9850,7 +9985,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1123013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9865,7 +10000,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1123014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9880,7 +10015,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1133011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9895,7 +10030,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1133012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9910,7 +10045,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1133013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9925,7 +10060,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1133014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9940,7 +10075,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1143011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9955,7 +10090,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1143012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9970,7 +10105,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1143013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -9985,7 +10120,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1143014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10000,7 +10135,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1153011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10015,7 +10150,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1153012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10030,7 +10165,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1153013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10045,7 +10180,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1153014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10060,7 +10195,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1163011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10075,7 +10210,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1163012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10090,7 +10225,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1163013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10105,7 +10240,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1163014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10120,7 +10255,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1173011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10135,7 +10270,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1173012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10150,7 +10285,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1173013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10165,7 +10300,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1173014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10180,7 +10315,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1183011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10195,7 +10330,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1183012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10210,7 +10345,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1183013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10225,7 +10360,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1183014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10240,7 +10375,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1193011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10255,7 +10390,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1193012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10270,7 +10405,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1193013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10285,7 +10420,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1193014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10300,7 +10435,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1203011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10315,7 +10450,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1203012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10330,7 +10465,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1203013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10345,7 +10480,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1203014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10360,7 +10495,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1213011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10375,7 +10510,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1213012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10390,7 +10525,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1213013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10405,7 +10540,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1213014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10420,7 +10555,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1222011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10435,7 +10570,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1222012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10450,7 +10585,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1222013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10465,7 +10600,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1222014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10480,7 +10615,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1232011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10495,7 +10630,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1232012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10510,7 +10645,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1232013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10525,7 +10660,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1232014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10540,7 +10675,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1242011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10555,7 +10690,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1242012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10570,7 +10705,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1242013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10585,7 +10720,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1242014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10600,7 +10735,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1251011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10615,7 +10750,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1251012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10630,7 +10765,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1251013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10645,7 +10780,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1251014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10660,7 +10795,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1261011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10675,7 +10810,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1261012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10690,7 +10825,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1261013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10705,7 +10840,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1261014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10720,7 +10855,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1271011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10735,7 +10870,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1271012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10750,7 +10885,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1271013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10765,7 +10900,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1271014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10780,7 +10915,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1281011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10795,7 +10930,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1281012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10810,7 +10945,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1281013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10825,7 +10960,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1281014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10840,7 +10975,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1293011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10855,7 +10990,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1293012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10870,7 +11005,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1293013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10885,7 +11020,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1293014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10900,7 +11035,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1003011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10915,7 +11050,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1003012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10930,7 +11065,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1003013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10945,7 +11080,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1003014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10960,7 +11095,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1013011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10975,7 +11110,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1013012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -10990,7 +11125,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1013013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11005,7 +11140,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1013014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11020,7 +11155,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11035,7 +11170,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11050,7 +11185,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11065,7 +11200,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11080,7 +11215,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11095,7 +11230,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11110,7 +11245,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11125,7 +11260,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11140,7 +11275,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1043011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11155,7 +11290,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1043012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11170,7 +11305,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1043013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11185,7 +11320,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1043014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11200,7 +11335,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1303011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11215,7 +11350,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1303012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11230,7 +11365,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1303013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11245,7 +11380,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1303014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11260,7 +11395,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1313011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11275,7 +11410,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1313012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11290,7 +11425,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1313013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11305,7 +11440,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1313014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11320,7 +11455,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1283015,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11335,7 +11470,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1283016,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11350,7 +11485,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1283017,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11365,7 +11500,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1283018,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11380,7 +11515,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1273011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11395,7 +11530,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1273012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11410,7 +11545,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1273013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11425,7 +11560,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1273014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11440,7 +11575,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1163021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11455,7 +11590,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1163022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11470,7 +11605,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1163023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11485,7 +11620,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1163024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11500,7 +11635,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1173021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11515,7 +11650,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1173022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11530,7 +11665,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1173023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11545,7 +11680,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1173024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11560,7 +11695,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1323011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11575,7 +11710,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1323012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11590,7 +11725,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1323013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11605,7 +11740,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1323014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11620,7 +11755,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1333011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11635,7 +11770,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1333012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11650,7 +11785,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1333013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11665,7 +11800,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1333014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11680,7 +11815,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1343011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11695,7 +11830,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1343012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11710,7 +11845,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1343013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11725,7 +11860,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1343014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11740,7 +11875,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1383011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11755,7 +11890,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1383012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11770,7 +11905,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1383013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11785,7 +11920,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1383014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11800,7 +11935,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1393011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11815,7 +11950,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1393012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11830,7 +11965,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1393013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11845,7 +11980,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1393014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11860,7 +11995,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1133021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11875,7 +12010,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1133022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11890,7 +12025,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1133023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11905,7 +12040,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1133024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11920,7 +12055,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11935,7 +12070,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11950,7 +12085,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11965,7 +12100,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11980,7 +12115,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1073021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -11995,7 +12130,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1073022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12010,7 +12145,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1073023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12025,7 +12160,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1073024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12040,7 +12175,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1083021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12055,7 +12190,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1083022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12070,7 +12205,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1083023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12085,7 +12220,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1083024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12100,7 +12235,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1403011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12115,7 +12250,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1403012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12130,7 +12265,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1403013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12145,7 +12280,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1403014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12160,7 +12295,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12175,7 +12310,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12190,7 +12325,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12205,7 +12340,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12220,7 +12355,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12235,7 +12370,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12250,7 +12385,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12265,7 +12400,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12280,7 +12415,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1253011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12295,7 +12430,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1253012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12310,7 +12445,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1253013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12325,7 +12460,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1253014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12340,7 +12475,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1263011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12355,7 +12490,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1263012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12370,7 +12505,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1263013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12385,7 +12520,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1263014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12400,7 +12535,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1213021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12415,7 +12550,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1213022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12430,7 +12565,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1213023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12445,7 +12580,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1213024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12460,7 +12595,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1293021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12475,7 +12610,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1293022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12490,7 +12625,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1293023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12505,7 +12640,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1293024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12520,7 +12655,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1413011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12535,7 +12670,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1413012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12550,7 +12685,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1413013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12565,7 +12700,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1413014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12580,7 +12715,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1423011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12595,7 +12730,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1423012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12610,7 +12745,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1423013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12625,7 +12760,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1423014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12640,7 +12775,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1423015,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12655,7 +12790,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1423016,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12670,7 +12805,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1423017,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12685,7 +12820,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1423018,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12700,7 +12835,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1433011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12715,7 +12850,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1433012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12730,7 +12865,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1433013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12745,7 +12880,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1433014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12760,7 +12895,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1043021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12775,7 +12910,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1043022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12790,7 +12925,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1043023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12805,7 +12940,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1043024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12820,7 +12955,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1543011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12835,7 +12970,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1543012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12850,7 +12985,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1543013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12865,7 +13000,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1543014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12880,7 +13015,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1183021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12895,7 +13030,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1183022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12910,7 +13045,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1183023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12925,7 +13060,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1183024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12940,7 +13075,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1303021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12955,7 +13090,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1303022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12970,7 +13105,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1303023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -12985,7 +13120,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1303024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13000,7 +13135,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1443011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13015,7 +13150,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1443012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13030,7 +13165,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1443013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13045,7 +13180,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1443014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13060,7 +13195,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1453011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13075,7 +13210,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1453012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13090,7 +13225,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1453013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13105,7 +13240,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1453014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13120,7 +13255,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1113021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13135,7 +13270,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1113022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13150,7 +13285,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1113023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13165,7 +13300,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1113024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13180,7 +13315,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1123021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13195,7 +13330,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1123022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13210,7 +13345,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1123023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13225,7 +13360,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1123024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13240,7 +13375,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1463011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13255,7 +13390,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1463012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13270,7 +13405,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1463013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13285,7 +13420,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1463014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13300,7 +13435,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1473011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13315,7 +13450,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1473012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13330,7 +13465,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1473013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13345,7 +13480,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1473014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13360,7 +13495,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1233011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13375,7 +13510,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1233012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13390,7 +13525,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1233013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13405,7 +13540,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1233014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13420,7 +13555,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1223011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13435,7 +13570,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1223012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13450,7 +13585,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1223013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13465,7 +13600,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1223014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13480,7 +13615,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1243011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13495,7 +13630,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1243012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13510,7 +13645,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1243013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13525,7 +13660,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1243014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13540,7 +13675,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1483011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13555,7 +13690,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1483012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13570,7 +13705,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1483013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13585,7 +13720,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1483014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13600,7 +13735,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1493011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13615,7 +13750,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1493012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13630,7 +13765,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1493013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13645,7 +13780,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1493014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13660,7 +13795,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1503011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13675,7 +13810,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1503012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13690,7 +13825,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1503013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13705,7 +13840,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1503014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13720,7 +13855,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1053021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13735,7 +13870,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1053022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13750,7 +13885,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1053023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13765,7 +13900,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1053024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13780,7 +13915,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1093021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13795,7 +13930,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1093022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13810,7 +13945,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1093023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13825,7 +13960,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1093024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13840,7 +13975,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1513011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13855,7 +13990,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1513012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13870,7 +14005,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1513013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13885,7 +14020,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1513014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13900,7 +14035,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1523011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13915,7 +14050,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1523012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13930,7 +14065,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1523013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13945,7 +14080,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1523014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13960,7 +14095,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1453021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13975,7 +14110,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1453022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -13990,7 +14125,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1453023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14005,7 +14140,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1453024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14020,7 +14155,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1313021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14035,7 +14170,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1313022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14050,7 +14185,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1313023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14065,7 +14200,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1313024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14080,7 +14215,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1143021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14095,7 +14230,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1143022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14110,7 +14245,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1143023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14125,7 +14260,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1143024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14140,7 +14275,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1063021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14155,7 +14290,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1063022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14170,7 +14305,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1063023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14185,7 +14320,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1063024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14200,7 +14335,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1403021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14215,7 +14350,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1403022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14230,7 +14365,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1403023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14245,7 +14380,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1403024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14260,7 +14395,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1203021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14275,7 +14410,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1203022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14290,7 +14425,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1203023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14305,7 +14440,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1203024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14320,7 +14455,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1193021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14335,7 +14470,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1193022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14350,7 +14485,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1193023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14365,7 +14500,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1193024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14380,7 +14515,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1013021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14395,7 +14530,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1013022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14410,7 +14545,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1013023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14425,7 +14560,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1013024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14440,7 +14575,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103031,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14455,7 +14590,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103032,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14470,7 +14605,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103033,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14485,7 +14620,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1103034,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14500,7 +14635,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023031,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14515,7 +14650,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023032,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14530,7 +14665,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023033,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14545,7 +14680,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1023034,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14560,7 +14695,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1153021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14575,7 +14710,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1153022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14590,7 +14725,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1153023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14605,7 +14740,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1153024,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14620,7 +14755,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033031,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14635,7 +14770,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033032,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14650,7 +14785,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033033,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14665,7 +14800,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1033034,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14680,7 +14815,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1553011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14695,7 +14830,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1553012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14710,7 +14845,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1553013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14725,7 +14860,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1553014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14740,7 +14875,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 5003011,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14755,7 +14890,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 5003012,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14770,7 +14905,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 5003013,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14785,7 +14920,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 5003014,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14800,7 +14935,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1003031,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14815,7 +14950,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1003032,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14830,7 +14965,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1003033,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14845,7 +14980,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1003034,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14860,7 +14995,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1543021,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14875,7 +15010,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1543022,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14890,7 +15025,7 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1543023,
-    "AssetId": "1",
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },
@@ -14905,7 +15040,67 @@
     "AffectionLevel": null,
     "MemoryMasterId": null,
     "SpotCharacterMasterId": 1543024,
-    "AssetId": "1",
+    "AssetId": null,
+    "RewardPackageMasterId": null,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610388,
+    "ChapterMasterId": null,
+    "Title": "イーニァ＆クリスカ「スカーレット・ツイン」",
+    "SubTitle": "堕落させる食べ物",
+    "Order": 384,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 5013011,
+    "AssetId": null,
+    "RewardPackageMasterId": null,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610389,
+    "ChapterMasterId": null,
+    "Title": "イーニァ＆クリスカ「スカーレット・ツイン」",
+    "SubTitle": "依頼",
+    "Order": 385,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 5013012,
+    "AssetId": null,
+    "RewardPackageMasterId": null,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610390,
+    "ChapterMasterId": null,
+    "Title": "イーニァ＆クリスカ「スカーレット・ツイン」",
+    "SubTitle": "いっしょにトレーニング",
+    "Order": 386,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 5013013,
+    "AssetId": null,
+    "RewardPackageMasterId": null,
+    "SpecialMemoryMasterId": null
+  },
+  {
+    "type": "EpisodeMaster",
+    "Id": 610391,
+    "ChapterMasterId": null,
+    "Title": "イーニァ＆クリスカ「スカーレット・ツイン」",
+    "SubTitle": "楽しそうなふたり？",
+    "Order": 387,
+    "CharacterMasterId": null,
+    "AffectionLevel": null,
+    "MemoryMasterId": null,
+    "SpotCharacterMasterId": 5013014,
+    "AssetId": null,
     "RewardPackageMasterId": null,
     "SpecialMemoryMasterId": null
   },

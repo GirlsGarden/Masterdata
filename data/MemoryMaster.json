@@ -586,6 +586,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10031,
+    "Rarity": "Sr",
+    "Name": "ふしぎないろ",
+    "Description": "……ユウヤのいろ、ちょっとふしぎ。",
+    "AssetId": "10033",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 8,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400264,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -3620,6 +3643,111 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20095,
+    "Rarity": "Ssr",
+    "Name": "このひと時を、３人で",
+    "Description": "イーニァ「ユウヤ、クリスカ……きょう、すごくたのしかった。」\nクリスカ「そうだね。イーニァが楽しかったのなら、良かったわ。」",
+    "AssetId": "501301",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": 501301,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400265,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 12,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400266,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20096,
+    "Rarity": "Ssr",
+    "Name": "鈍感男への意趣返し",
+    "Description": "（どう調整して欲しいか、詳しい話をしたことはなかったのに……）\n……ムカつく。",
+    "AssetId": "152302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 152,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400267,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Cute",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400268,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20097,
+    "Rarity": "Ssr",
+    "Name": "静かな夜に、グラスを交わす",
+    "Description": "SSRラトロワ",
+    "AssetId": "153302",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 153,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400269,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400270,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -4662,11 +4790,36 @@
     "type": "MemoryMaster",
     "Id": 30039,
     "Rarity": "Ur",
-    "Name": "仮データ",
-    "Description": "仮データ",
-    "AssetId": "30043",
-    "Highlights": null,
-    "IsReleased": true
+    "Name": "私らしく",
+    "Description": "ただ、そういう未来も……いいかもしれないと、そう思っただけだ。",
+    "AssetId": "30041",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 7,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400271,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 32,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400272,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
   },
   {
     "type": "MemoryMaster",
@@ -4703,12 +4856,12 @@
         "type": "MemoryHighlight",
         "CharacterMasterId": null,
         "CharacterBaseMasterId": null,
-        "CharacterTeamMasterId": 601,
+        "CharacterTeamMasterId": null,
         "CharacterRole": "Unspecified",
         "CharacterAttribute": "Unspecified",
         "PartyPosition": null,
         "CharacterType": "Unspecified",
-        "SkillMasterId": 400252,
+        "SkillMasterId": 400273,
         "IsTargetingFriendlyParty": true
       }
     ],
@@ -4753,10 +4906,23 @@
     "type": "MemoryMaster",
     "Id": 30045,
     "Rarity": "Ur",
-    "Name": "MellowDaysのシリアルコード配布",
-    "Description": "仮",
+    "Name": "穏やかな日々",
+    "Description": "がんばる毎日の合間に訪れた、めるの無防備で愛らしいおやすみタイム。",
     "AssetId": "30056",
-    "Highlights": null,
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": 601,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400252,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
     "IsReleased": false
   },
   {

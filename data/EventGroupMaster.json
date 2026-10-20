@@ -642,5 +642,19 @@
     "LogoFrameAssetId": null,
     "MovieAssetId": null,
     "IntroductionEpisodeMasterId": null
+  },
+  {
+    "type": "EventGroupMaster",
+    "Id": 47,
+    "Name": "New World, New Dawn",
+    "ActivateType": "EventGroup",
+    "StartDate": "2026-10-20T12:30:00+09:00",
+    "QuestCloseDate": "2026-11-03T04:59:59+09:00",
+    "EndDate": "2026-11-10T04:59:59+09:00",
+    "Order": 47,
+    "LogoAssetId": "29",
+    "LogoFrameAssetId": "100",
+    "MovieAssetId": "20029",
+    "IntroductionEpisodeMasterId": null
   }
 ]

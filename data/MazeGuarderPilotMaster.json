@@ -361,6 +361,18 @@
   },
   {
     "type": "MazeGuarderPilotMaster",
+    "Id": 9051,
+    "MazeGuarderMasterId": 905,
+    "CharacterBaseMasterId": 151
+  },
+  {
+    "type": "MazeGuarderPilotMaster",
+    "Id": 9052,
+    "MazeGuarderMasterId": 905,
+    "CharacterBaseMasterId": 156
+  },
+  {
+    "type": "MazeGuarderPilotMaster",
     "Id": 10110,
     "MazeGuarderMasterId": 101,
     "CharacterBaseMasterId": 109

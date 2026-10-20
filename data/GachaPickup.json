@@ -2310,7 +2310,7 @@
     "Things": [
       {
         "type": "GachaPickupThing",
-        "CharacterMasterId": 150301,
+        "CharacterMasterId": 501301,
         "Quantity": 1
       }
     ]
@@ -2322,7 +2322,7 @@
     "Things": [
       {
         "type": "GachaPickupThing",
-        "CharacterMasterId": 150301,
+        "CharacterMasterId": 501301,
         "Quantity": 1
       }
     ]
@@ -2334,7 +2334,7 @@
     "Things": [
       {
         "type": "GachaPickupThing",
-        "CharacterMasterId": 150301,
+        "CharacterMasterId": 501301,
         "Quantity": 1
       }
     ]
@@ -3762,6 +3762,18 @@
       {
         "type": "GachaPickupThing",
         "CharacterMasterId": 150301,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 80010,
+    "GachaMasterId": 80010,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 501301,
         "Quantity": 1
       }
     ]

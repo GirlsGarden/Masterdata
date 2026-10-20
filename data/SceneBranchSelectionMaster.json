@@ -4537,6 +4537,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40009811,
+    "SceneBranchMasterId": 4000981,
+    "Answer": "クリスカを気遣う",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009812,
+    "SceneBranchMasterId": 4000981,
+    "Answer": "イーニァを見つめる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009821,
+    "SceneBranchMasterId": 4000982,
+    "Answer": "ガチャリとドアが開いた",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009822,
+    "SceneBranchMasterId": 4000982,
+    "Answer": "出かける",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -5268,6 +5300,22 @@
     "Id": 50005212,
     "SceneBranchMasterId": 5000521,
     "Answer": "緊張しなくていいぞ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005411,
+    "SceneBranchMasterId": 5000541,
+    "Answer": "頭を軽く撫でる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005412,
+    "SceneBranchMasterId": 5000541,
+    "Answer": "作業の手を止めて向き合う",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -11478,6 +11526,70 @@
     "Answer": "夜の授業でもいいか？",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1543022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61199011,
+    "SceneBranchMasterId": 6119901,
+    "Answer": "イーニァに助け船を出す",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 5013012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61199012,
+    "SceneBranchMasterId": 6119901,
+    "Answer": "クリスカを支持する",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 5013011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61200011,
+    "SceneBranchMasterId": 6120001,
+    "Answer": "依頼内容を聞く",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 5013012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61200012,
+    "SceneBranchMasterId": 6120001,
+    "Answer": "褒める",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 5013011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61201011,
+    "SceneBranchMasterId": 6120101,
+    "Answer": "付き合う",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 5013012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61201012,
+    "SceneBranchMasterId": 6120101,
+    "Answer": "遠慮しておく",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 5013011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61202011,
+    "SceneBranchMasterId": 6120201,
+    "Answer": "イーニァを見て",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 5013012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61202012,
+    "SceneBranchMasterId": 6120201,
+    "Answer": "クリスカを見て",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 5013011
   },
   {
     "type": "SceneBranchSelectionMaster",

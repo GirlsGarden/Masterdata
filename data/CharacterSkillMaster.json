@@ -2740,5 +2740,35 @@
     "Id": 5003015,
     "CharacterMasterId": 500301,
     "SkillMasterId": 130185
+  },
+  {
+    "type": "CharacterSkillMaster",
+    "Id": 5013011,
+    "CharacterMasterId": 501301,
+    "SkillMasterId": 110086
+  },
+  {
+    "type": "CharacterSkillMaster",
+    "Id": 5013012,
+    "CharacterMasterId": 501301,
+    "SkillMasterId": 120185
+  },
+  {
+    "type": "CharacterSkillMaster",
+    "Id": 5013013,
+    "CharacterMasterId": 501301,
+    "SkillMasterId": 130189
+  },
+  {
+    "type": "CharacterSkillMaster",
+    "Id": 5013014,
+    "CharacterMasterId": 501301,
+    "SkillMasterId": 130190
+  },
+  {
+    "type": "CharacterSkillMaster",
+    "Id": 5013015,
+    "CharacterMasterId": 501301,
+    "SkillMasterId": 130191
   }
 ]

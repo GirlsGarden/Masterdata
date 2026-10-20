@@ -575,6 +575,20 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 152301,
+    "Name": "髪飾りの鈴",
+    "Description": "崔亦菲「暴風小隊長」の専用OSです。",
+    "AssetId": "152301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 153301,
+    "Name": "上物のウォトカ",
+    "Description": "フィカーツィア・ラトロワ「氷の魔女」の専用OSです。",
+    "AssetId": "153301"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 154301,
     "Name": "断截の鎖",
     "Description": "コトハ「世界への反逆者」の専用OSです。",
@@ -593,5 +607,12 @@
     "Name": "『ストレラ』",
     "Description": "オルガ＆ナージャ「繋がり合う母娘の絆」の専用OSです。",
     "AssetId": "500301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 501301,
+    "Name": "ミーシャ",
+    "Description": "イーニァ＆クリスカ「スカーレット・ツイン」の専用OSです。",
+    "AssetId": "501301"
   }
 ]

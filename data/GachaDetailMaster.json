@@ -4609,6 +4609,22 @@
   },
   {
     "type": "GachaDetailMaster",
+    "Id": 800101,
+    "GachaMasterId": 80010,
+    "Step": null,
+    "Order": 1,
+    "DisplayPrizeCount": 10,
+    "DailyRollLimit": null,
+    "OverallRollLimit": null,
+    "IsFree": false,
+    "IsPaidOnly": false,
+    "PointRewardPackageMasterId": 119,
+    "BonusRewardPackageMasterId": null,
+    "PickupText": "2",
+    "PlatformLogoAssetId": "dmm_pickup_gacha"
+  },
+  {
+    "type": "GachaDetailMaster",
     "Id": 900011,
     "GachaMasterId": 90001,
     "Step": null,

@@ -1222,5 +1222,23 @@
     "Name": "@Nadja_V",
     "AssetId": "500303",
     "CharacterMasterId": 500301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 501302,
+    "Type": "Character",
+    "DisplayName": "イーニァ・シェスチナ「スカーレット・ツイン」",
+    "Name": "@Inia_S",
+    "AssetId": "501302",
+    "CharacterMasterId": 501301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 501303,
+    "Type": "Character",
+    "DisplayName": "クリスカ・ビャーチェノワ「スカーレット・ツイン」",
+    "Name": "@Cryska_B",
+    "AssetId": "501303",
+    "CharacterMasterId": 501301
   }
 ]

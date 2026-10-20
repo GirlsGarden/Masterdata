@@ -5149,6 +5149,18 @@
   },
   {
     "type": "GachaDetailCostMaster",
+    "Id": 8001011,
+    "GachaDetailMasterId": 800101,
+    "Cost": 1,
+    "GemType": "Unknown",
+    "Gem": null,
+    "ItemPriority": null,
+    "ItemMasterId": null,
+    "ItemQuantity": null,
+    "PlatformProductMasterId": 596
+  },
+  {
+    "type": "GachaDetailCostMaster",
     "Id": 9000211,
     "GachaDetailMasterId": 900021,
     "Cost": 1,

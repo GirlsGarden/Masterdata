@@ -1158,5 +1158,45 @@
     "Order": 971,
     "UnlockGemQuantity": 100,
     "AssetId": "80321"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 146,
+    "Name": "病院_夜",
+    "Order": 984,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30264"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 147,
+    "Name": "病院_特殊1",
+    "Order": 985,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30265"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 148,
+    "Name": "ゾリャー校区街中_夕",
+    "Order": 623,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30313"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 149,
+    "Name": "ゾリャー校区街中_夜",
+    "Order": 624,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30314"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 150,
+    "Name": "ゾリャー校区街中_特殊1",
+    "Order": 625,
+    "UnlockGemQuantity": 100,
+    "AssetId": "30315"
   }
 ]

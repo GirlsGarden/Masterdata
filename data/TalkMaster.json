@@ -1162,5 +1162,17 @@
     "AffectionLevel": null,
     "LocationNodeMasterId": null,
     "EpisodeMasterId": 400095
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 5013011,
+    "CallCharacterMasterId": 501301,
+    "Order": 500001,
+    "Title": "また一緒に",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 501301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400098
   }
 ]

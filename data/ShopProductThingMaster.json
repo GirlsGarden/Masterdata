@@ -2391,6 +2391,66 @@
   },
   {
     "type": "ShopProductThingMaster",
+    "Id": 941,
+    "ShopProductPackageMasterId": 94,
+    "Order": 1,
+    "IsBonus": false,
+    "ThingType": "PaidGem",
+    "ThingId": 3000,
+    "ThingQuantity": 3000
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 942,
+    "ShopProductPackageMasterId": 94,
+    "Order": 2,
+    "IsBonus": true,
+    "ThingType": "Item",
+    "ThingId": 50003,
+    "ThingQuantity": 110
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 943,
+    "ShopProductPackageMasterId": 94,
+    "Order": 3,
+    "IsBonus": true,
+    "ThingType": "Item",
+    "ThingId": 50004,
+    "ThingQuantity": 70
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 944,
+    "ShopProductPackageMasterId": 94,
+    "Order": 4,
+    "IsBonus": true,
+    "ThingType": "Item",
+    "ThingId": 50005,
+    "ThingQuantity": 50
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 945,
+    "ShopProductPackageMasterId": 94,
+    "Order": 5,
+    "IsBonus": true,
+    "ThingType": "Item",
+    "ThingId": 50006,
+    "ThingQuantity": 30
+  },
+  {
+    "type": "ShopProductThingMaster",
+    "Id": 951,
+    "ShopProductPackageMasterId": 95,
+    "Order": 1,
+    "IsBonus": false,
+    "ThingType": "Memory",
+    "ThingId": 30039,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "ShopProductThingMaster",
     "Id": 6110,
     "ShopProductPackageMasterId": 61,
     "Order": 10,

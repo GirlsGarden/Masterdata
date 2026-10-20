@@ -2696,7 +2696,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "ＶＳ天津甕星",
+    "Title": "ＶＳ天津甕星・宵星＆暁星",
     "AssetId": null
   },
   {
@@ -2706,7 +2706,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "ＶＳ天津甕星",
+    "Title": "ＶＳ天津甕星・流星＆彗星",
     "AssetId": null
   },
   {
@@ -4437,6 +4437,126 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "終わらない大切な場所",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20200101,
+    "EpisodeMasterId": 202001,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新しい案内役",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20200201,
+    "EpisodeMasterId": 202002,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "クリスカの憂鬱",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20200301,
+    "EpisodeMasterId": 202003,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "イーニァＶＳナージャ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20200401,
+    "EpisodeMasterId": 202004,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "はじまりの場所へ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20200501,
+    "EpisodeMasterId": 202005,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "迷宮のクリスカ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20200601,
+    "EpisodeMasterId": 202006,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "激励の宴",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20200701,
+    "EpisodeMasterId": 202007,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "中尉のアンニュイな１日",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20200801,
+    "EpisodeMasterId": 202008,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "長き眠りからの目覚め",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20200901,
+    "EpisodeMasterId": 202009,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "暴風女戦士",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20201001,
+    "EpisodeMasterId": 202010,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "中佐の本音",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20201101,
+    "EpisodeMasterId": 202011,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "帰還に賭けて",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20201201,
+    "EpisodeMasterId": 202012,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "みんな、いるね",
     "AssetId": null
   },
   {
@@ -6531,6 +6651,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40009801,
+    "EpisodeMasterId": 400098,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "このひと時を、３人で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009802,
+    "EpisodeMasterId": 400098,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "このひと時を、３人で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -7527,6 +7667,36 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "取り返した学園生活",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005301,
+    "EpisodeMasterId": 500053,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "仮",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005401,
+    "EpisodeMasterId": 500054,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ふしぎないろ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005402,
+    "EpisodeMasterId": 500054,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ふしぎないろ",
     "AssetId": null
   },
   {
@@ -11407,6 +11577,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "マンツーマンレッスン？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61073001,
+    "EpisodeMasterId": 610388,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "堕落させる食べ物",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61073002,
+    "EpisodeMasterId": 610389,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "依頼",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61073003,
+    "EpisodeMasterId": 610390,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "いっしょにトレーニング",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61073004,
+    "EpisodeMasterId": 610391,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "楽しそうなふたり？",
     "AssetId": null
   },
   {
