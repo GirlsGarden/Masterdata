@@ -1738,7 +1738,86 @@
       "Client",
       "AppStore",
       "GooglePlay",
-      "SpIOS"
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
+    ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 30011,
+    "Type": "LimitedPickUp",
+    "Name": "LIMITED CHARACTERピックアップガチャ【崔亦菲】",
+    "Description": "有償/無償ジェム・ピックアップガチャチケットを消費して利用できるガチャです。\n※本ガチャは、開催終了後、一定の期間を空けて再販される場合があります。 \n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【限定ピックアップ生徒について】\n本ピックアップガチャで登場した生徒は、本ガチャでのみ獲得できます。\nまた、ガチャ開催終了後、他ガチャの排出対象には含まれません。\n※スタイルカード選択ボックスの対象にも含まれません。",
+    "StartDate": "2026-10-27T12:30:00+09:00",
+    "EndDate": "2026-11-10T04:59:59+09:00",
+    "Order": 88,
+    "BannerAssetId": "30011",
+    "BackgroundAssetId": "30011",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
+    ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 30012,
+    "Type": "LimitedPickUp",
+    "Name": "LIMITED CHARACTERピックアップガチャ【フィカーツィア・ラトロワ】",
+    "Description": "有償/無償ジェム・ピックアップガチャチケットを消費して利用できるガチャです。\n※本ガチャは、開催終了後、一定の期間を空けて再販される場合があります。 \n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【限定ピックアップ生徒について】\n本ピックアップガチャで登場した生徒は、本ガチャでのみ獲得できます。\nまた、ガチャ開催終了後、他ガチャの排出対象には含まれません。\n※スタイルカード選択ボックスの対象にも含まれません。",
+    "StartDate": "2026-10-27T12:30:00+09:00",
+    "EndDate": "2026-11-10T04:59:59+09:00",
+    "Order": 87,
+    "BannerAssetId": "30012",
+    "BackgroundAssetId": "30012",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3396,7 +3475,13 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3420,7 +3505,13 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3444,7 +3535,13 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3468,7 +3565,13 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3492,7 +3595,13 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3516,7 +3625,13 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3540,7 +3655,13 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3564,7 +3685,13 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3588,7 +3715,13 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -3612,7 +3745,73 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
+    ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 80011,
+    "Type": "PaidPickup",
+    "Name": "DMM POINT限定 LIMITED CHARACTERピックアップガチャ【崔亦菲】",
+    "Description": "DMMポイントを消費して利用できるガチャです。 \n※本ガチャは、開催終了後、一定の期間を空けて再販される場合があります。\n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【限定ピックアップ生徒について】\n本ピックアップガチャで登場した生徒は、本ガチャでのみ獲得できます。\nまた、ガチャ開催終了後、他ガチャの排出対象には含まれません。\n※スタイルカード選択ボックスの対象にも含まれません。",
+    "StartDate": "2026-10-27T12:30:00+09:00",
+    "EndDate": "2026-11-10T04:59:59+09:00",
+    "Order": 88,
+    "BannerAssetId": "80011",
+    "BackgroundAssetId": "30011",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
+    ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 80012,
+    "Type": "PaidPickup",
+    "Name": "DMM POINT限定 LIMITED CHARACTERピックアップガチャ【フィカーツィア・ラトロワ】",
+    "Description": "DMMポイントを消費して利用できるガチャです。 \n※本ガチャは、開催終了後、一定の期間を空けて再販される場合があります。\n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【限定ピックアップ生徒について】\n本ピックアップガチャで登場した生徒は、本ガチャでのみ獲得できます。\nまた、ガチャ開催終了後、他ガチャの排出対象には含まれません。\n※スタイルカード選択ボックスの対象にも含まれません。",
+    "StartDate": "2026-10-27T12:30:00+09:00",
+    "EndDate": "2026-11-10T04:59:59+09:00",
+    "Order": 87,
+    "BannerAssetId": "80012",
+    "BackgroundAssetId": "30012",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "SpIOS",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {

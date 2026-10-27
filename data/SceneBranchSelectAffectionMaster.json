@@ -1105,6 +1105,30 @@
   },
   {
     "type": "SceneBranchSelectAffectionMaster",
+    "Id": 1523011,
+    "CharacterMasterId": 152301,
+    "AffectionLevelPoint": 5
+  },
+  {
+    "type": "SceneBranchSelectAffectionMaster",
+    "Id": 1523012,
+    "CharacterMasterId": 152301,
+    "AffectionLevelPoint": 10
+  },
+  {
+    "type": "SceneBranchSelectAffectionMaster",
+    "Id": 1533011,
+    "CharacterMasterId": 153301,
+    "AffectionLevelPoint": 5
+  },
+  {
+    "type": "SceneBranchSelectAffectionMaster",
+    "Id": 1533012,
+    "CharacterMasterId": 153301,
+    "AffectionLevelPoint": 10
+  },
+  {
+    "type": "SceneBranchSelectAffectionMaster",
     "Id": 1543011,
     "CharacterMasterId": 154301,
     "AffectionLevelPoint": 10

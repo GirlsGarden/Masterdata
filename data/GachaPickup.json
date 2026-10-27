@@ -2341,6 +2341,78 @@
   },
   {
     "type": "GachaPickup",
+    "Id": 30011,
+    "GachaMasterId": 30011,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 152301,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 30011,
+    "GachaMasterId": 30011,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 152301,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 30011,
+    "GachaMasterId": 30011,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 152301,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 30012,
+    "GachaMasterId": 30012,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 153301,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 30012,
+    "GachaMasterId": 30012,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 153301,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 30012,
+    "GachaMasterId": 30012,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 153301,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
     "Id": 40001,
     "GachaMasterId": 40001,
     "Things": [
@@ -3774,6 +3846,30 @@
       {
         "type": "GachaPickupThing",
         "CharacterMasterId": 501301,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 80011,
+    "GachaMasterId": 80011,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 152301,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
+    "Id": 80012,
+    "GachaMasterId": 80012,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 153301,
         "Quantity": 1
       }
     ]

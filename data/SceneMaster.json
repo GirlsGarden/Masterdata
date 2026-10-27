@@ -6671,6 +6671,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40009901,
+    "EpisodeMasterId": 400099,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "鈍感男への意趣返し",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40009902,
+    "EpisodeMasterId": 400099,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "鈍感男への意趣返し",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40010001,
+    "EpisodeMasterId": 400100,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "静かな夜に、グラスを交わす",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40010002,
+    "EpisodeMasterId": 400100,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "静かな夜に、グラスを交わす",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -7676,7 +7716,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "仮",
+    "Title": "サプライズ大作戦！？",
     "AssetId": null
   },
   {
@@ -7697,6 +7737,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "ふしぎないろ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005501,
+    "EpisodeMasterId": 500055,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "私らしく",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005502,
+    "EpisodeMasterId": 500055,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "私らしく",
     "AssetId": null
   },
   {
@@ -11617,6 +11677,86 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "楽しそうなふたり？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61074001,
+    "EpisodeMasterId": 610392,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "得意料理は？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61074002,
+    "EpisodeMasterId": 610393,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "暇つぶしのために",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61074003,
+    "EpisodeMasterId": 610394,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "カンフー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61074004,
+    "EpisodeMasterId": 610395,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "デートの行き先",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61075001,
+    "EpisodeMasterId": 610396,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ラトロワの差し入れ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61075002,
+    "EpisodeMasterId": 610397,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "大人には色々ある",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61075003,
+    "EpisodeMasterId": 610398,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "中佐のトレーニング",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61075004,
+    "EpisodeMasterId": 610399,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "平和な世界で",
     "AssetId": null
   },
   {

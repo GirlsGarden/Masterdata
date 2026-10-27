@@ -4264,14 +4264,14 @@
     "BonusDefensePerLevel": 106,
     "BonusSpeedPerLevel": 2,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "148301",
+    "ModelAssetId": "152301",
     "key_index_34": null,
     "MinCombatPower": 5427,
     "MaxCombatPower": 96975,
     "PositionType": "Front",
     "RoleType": "PhysicalAttacker",
     "GachaBackgroundAssetId": "50012",
-    "IsReleased": false,
+    "IsReleased": true,
     "SecondaryAttribute": null
   },
   {
@@ -4309,14 +4309,14 @@
     "BonusDefensePerLevel": 153,
     "BonusSpeedPerLevel": 2,
     "BonusCriticalRatePerLevel": 0,
-    "ModelAssetId": "135301",
+    "ModelAssetId": "153301",
     "key_index_34": null,
     "MinCombatPower": 5575,
     "MaxCombatPower": 105933,
     "PositionType": "FrontBack",
     "RoleType": "Support",
     "GachaBackgroundAssetId": "50012",
-    "IsReleased": false,
+    "IsReleased": true,
     "SecondaryAttribute": null
   },
   {

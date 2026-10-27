@@ -4569,6 +4569,54 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40009911,
+    "SceneBranchMasterId": 4000991,
+    "Answer": "全部バレてる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009912,
+    "SceneBranchMasterId": 4000991,
+    "Answer": "何でも知られてる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009921,
+    "SceneBranchMasterId": 4000992,
+    "Answer": "ダーリンと呼ぶ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40009922,
+    "SceneBranchMasterId": 4000992,
+    "Answer": "ハニーと呼ばせる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40010011,
+    "SceneBranchMasterId": 4001001,
+    "Answer": "普通に声を掛ける",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40010012,
+    "SceneBranchMasterId": 4001001,
+    "Answer": "からかうように声を掛ける",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -5305,6 +5353,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 50005311,
+    "SceneBranchMasterId": 5000531,
+    "Answer": "え？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005312,
+    "SceneBranchMasterId": 5000531,
+    "Answer": "！？",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50005411,
     "SceneBranchMasterId": 5000541,
     "Answer": "頭を軽く撫でる",
@@ -5316,6 +5380,22 @@
     "Id": 50005412,
     "SceneBranchMasterId": 5000541,
     "Answer": "作業の手を止めて向き合う",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005511,
+    "SceneBranchMasterId": 5000551,
+    "Answer": "話を続ける",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005512,
+    "SceneBranchMasterId": 5000551,
+    "Answer": "唯依の話を聞く",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -11590,6 +11670,134 @@
     "Answer": "クリスカを見て",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 5013011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61203011,
+    "SceneBranchMasterId": 6120301,
+    "Answer": "任せる",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1523012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61203012,
+    "SceneBranchMasterId": 6120301,
+    "Answer": "肉じゃが",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1523011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61204011,
+    "SceneBranchMasterId": 6120401,
+    "Answer": "模擬戦でもやるか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1523012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61204012,
+    "SceneBranchMasterId": 6120401,
+    "Answer": "他の奴らを誘えば？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1523011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61205011,
+    "SceneBranchMasterId": 6120501,
+    "Answer": "組み手をして欲しい",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1523012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61205012,
+    "SceneBranchMasterId": 6120501,
+    "Answer": "見せて欲しい",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1523011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61206011,
+    "SceneBranchMasterId": 6120601,
+    "Answer": "格納庫",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1523012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61206012,
+    "SceneBranchMasterId": 6120601,
+    "Answer": "自室",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1523011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61207011,
+    "SceneBranchMasterId": 6120701,
+    "Answer": "何か礼をする",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1533012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61207012,
+    "SceneBranchMasterId": 6120701,
+    "Answer": "素直に受け取る",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1533011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61208011,
+    "SceneBranchMasterId": 6120801,
+    "Answer": "あぶねえことするなよ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1533012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61208012,
+    "SceneBranchMasterId": 6120801,
+    "Answer": "どうせ坊やだ",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1533011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61209011,
+    "SceneBranchMasterId": 6120901,
+    "Answer": "否定する",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1533012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61209012,
+    "SceneBranchMasterId": 6120901,
+    "Answer": "肯定する",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1533011
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61210011,
+    "SceneBranchMasterId": 6121001,
+    "Answer": "お茶に誘う",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1533012
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61210012,
+    "SceneBranchMasterId": 6121001,
+    "Answer": "帰らないのか聞く",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1533011
   },
   {
     "type": "SceneBranchSelectionMaster",

@@ -586,5 +586,17 @@
     "Id": 98,
     "ItemMasterId": 40098,
     "CharacterMasterId": 501301
+  },
+  {
+    "type": "CharacterLimitBreakItemMaster",
+    "Id": 99,
+    "ItemMasterId": 40099,
+    "CharacterMasterId": 152301
+  },
+  {
+    "type": "CharacterLimitBreakItemMaster",
+    "Id": 100,
+    "ItemMasterId": 40100,
+    "CharacterMasterId": 153301
   }
 ]

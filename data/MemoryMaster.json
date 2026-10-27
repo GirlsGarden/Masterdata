@@ -3682,7 +3682,7 @@
     "Rarity": "Ssr",
     "Name": "鈍感男への意趣返し",
     "Description": "（どう調整して欲しいか、詳しい話をしたことはなかったのに……）\n……ムカつく。",
-    "AssetId": "152302",
+    "AssetId": "152301",
     "Highlights": [
       {
         "type": "MemoryHighlight",
@@ -3709,15 +3709,15 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
     "Id": 20097,
     "Rarity": "Ssr",
     "Name": "静かな夜に、グラスを交わす",
-    "Description": "SSRラトロワ",
-    "AssetId": "153302",
+    "Description": "随分な思い上がりだ。\\nここで夜風に当たっていただけだ。",
+    "AssetId": "153301",
     "Highlights": [
       {
         "type": "MemoryHighlight",
@@ -3744,7 +3744,7 @@
         "IsTargetingFriendlyParty": false
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
@@ -4848,23 +4848,10 @@
     "type": "MemoryMaster",
     "Id": 30041,
     "Rarity": "Ur",
-    "Name": "サプライズ大作戦！",
-    "Description": "ライトノベルの特典メモリー",
+    "Name": "サプライズ大作戦！？",
+    "Description": "シリウスシュガーを助けてくれて、ありがとう！！",
     "AssetId": "30054",
-    "Highlights": [
-      {
-        "type": "MemoryHighlight",
-        "CharacterMasterId": null,
-        "CharacterBaseMasterId": null,
-        "CharacterTeamMasterId": null,
-        "CharacterRole": "Unspecified",
-        "CharacterAttribute": "Unspecified",
-        "PartyPosition": null,
-        "CharacterType": "Unspecified",
-        "SkillMasterId": 400273,
-        "IsTargetingFriendlyParty": true
-      }
-    ],
+    "Highlights": null,
     "IsReleased": false
   },
   {
@@ -4909,20 +4896,7 @@
     "Name": "穏やかな日々",
     "Description": "がんばる毎日の合間に訪れた、めるの無防備で愛らしいおやすみタイム。",
     "AssetId": "30056",
-    "Highlights": [
-      {
-        "type": "MemoryHighlight",
-        "CharacterMasterId": null,
-        "CharacterBaseMasterId": null,
-        "CharacterTeamMasterId": 601,
-        "CharacterRole": "Unspecified",
-        "CharacterAttribute": "Unspecified",
-        "PartyPosition": null,
-        "CharacterType": "Unspecified",
-        "SkillMasterId": 400252,
-        "IsTargetingFriendlyParty": true
-      }
-    ],
+    "Highlights": null,
     "IsReleased": false
   },
   {

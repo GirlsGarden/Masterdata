@@ -1129,6 +1129,30 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1523011,
+    "CallCharacterMasterId": 152301,
+    "Order": 152001,
+    "Title": "逃がさないわ！",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 152301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400099
+  },
+  {
+    "type": "TalkMaster",
+    "Id": 1533011,
+    "CallCharacterMasterId": 153301,
+    "Order": 153001,
+    "Title": "通信テスト",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 153301,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400100
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1543011,
     "CallCharacterMasterId": 154301,
     "Order": 154001,

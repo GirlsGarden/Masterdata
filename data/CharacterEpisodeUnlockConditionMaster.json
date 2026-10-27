@@ -659,6 +659,20 @@
   },
   {
     "type": "CharacterEpisodeUnlockConditionMaster",
+    "Id": 152301,
+    "CharacterMasterId": 152301,
+    "EpisodeMasterId": 400099,
+    "AffectionLevel": 10
+  },
+  {
+    "type": "CharacterEpisodeUnlockConditionMaster",
+    "Id": 153301,
+    "CharacterMasterId": 153301,
+    "EpisodeMasterId": 400100,
+    "AffectionLevel": 10
+  },
+  {
+    "type": "CharacterEpisodeUnlockConditionMaster",
     "Id": 154301,
     "CharacterMasterId": 154301,
     "EpisodeMasterId": 400063,

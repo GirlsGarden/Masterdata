@@ -82,6 +82,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 10,
+    "Type": "Character",
+    "DisplayName": "ナスターシャ・イヴァノワ",
+    "Name": "@Nastassia_I",
+    "AssetId": "n10065",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 100001,
     "Type": "Character",
     "DisplayName": "桃園める",
@@ -1177,6 +1186,24 @@
     "Name": "@Stella_B",
     "AssetId": "150301",
     "CharacterMasterId": 150301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 152301,
+    "Type": "Character",
+    "DisplayName": "崔亦菲「暴風小隊長」",
+    "Name": "@C_Yifei",
+    "AssetId": "152301",
+    "CharacterMasterId": 152301
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 153301,
+    "Type": "Character",
+    "DisplayName": "フィカーツィア・ラトロワ「氷の魔女」",
+    "Name": "@Ficarzia_R",
+    "AssetId": "153301",
+    "CharacterMasterId": 153301
   },
   {
     "type": "SnsAccountMaster",

@@ -121,14 +121,6 @@
   },
   {
     "type": "UnlockFunctionTriggerMaster",
-    "Id": 22,
-    "UnlockFunctionMasterId": 20,
-    "UnlockFunctionTriggerType": "ClearLocationNode",
-    "Configuration": "{\"LocationId\":10001,\"Sequence\":8}",
-    "Description": "メインクエスト序章0-8クリアで解放"
-  },
-  {
-    "type": "UnlockFunctionTriggerMaster",
     "Id": 16,
     "UnlockFunctionMasterId": 26,
     "UnlockFunctionTriggerType": "ClearLocationNode",
@@ -174,6 +166,14 @@
     "UnlockFunctionTriggerType": "ClearLocationNode",
     "Configuration": "{\"LocationId\":10001,\"Sequence\":209}",
     "Description": "メインクエスト2章3節6-37クリアで解放"
+  },
+  {
+    "type": "UnlockFunctionTriggerMaster",
+    "Id": 22,
+    "UnlockFunctionMasterId": 20,
+    "UnlockFunctionTriggerType": "ClearLocationNode",
+    "Configuration": "{\"LocationId\":10001,\"Sequence\":8}",
+    "Description": "メインクエスト序章0-8クリアで解放"
   },
   {
     "type": "UnlockFunctionTriggerMaster",
