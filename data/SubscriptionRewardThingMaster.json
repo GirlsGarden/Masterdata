@@ -1,0 +1,92 @@
+[
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 1001,
+    "SubscriptionRewardPackageMasterId": 100,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 110005,
+    "ThingQuantity": 10
+  },
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 1011,
+    "SubscriptionRewardPackageMasterId": 101,
+    "Order": 1,
+    "ThingType": "PaidGem",
+    "ThingId": 900,
+    "ThingQuantity": 900
+  },
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 1021,
+    "SubscriptionRewardPackageMasterId": 102,
+    "Order": 1,
+    "ThingType": "FreeGem",
+    "ThingId": 60,
+    "ThingQuantity": 60
+  },
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 1031,
+    "SubscriptionRewardPackageMasterId": 103,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 110005,
+    "ThingQuantity": 5
+  },
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 2001,
+    "SubscriptionRewardPackageMasterId": 200,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 110005,
+    "ThingQuantity": 20
+  },
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 2011,
+    "SubscriptionRewardPackageMasterId": 201,
+    "Order": 1,
+    "ThingType": "PaidGem",
+    "ThingId": 3000,
+    "ThingQuantity": 3000
+  },
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 2021,
+    "SubscriptionRewardPackageMasterId": 202,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 90001,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 2031,
+    "SubscriptionRewardPackageMasterId": 203,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 100009,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 2041,
+    "SubscriptionRewardPackageMasterId": 204,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 100010,
+    "ThingQuantity": 2
+  },
+  {
+    "type": "SubscriptionRewardThingMaster",
+    "Id": 2051,
+    "SubscriptionRewardPackageMasterId": 205,
+    "Order": 1,
+    "ThingType": "Item",
+    "ThingId": 110005,
+    "ThingQuantity": 5
+  }
+]
