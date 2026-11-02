@@ -3,14 +3,8 @@
     "type": "MazeRecommendedPartyMaster",
     "Id": 1061,
     "MazeMasterId": 1,
-    "StartDate": [
-      "2026-11-02T20:30:00+08:00",
-      540
-    ],
-    "EndDate": [
-      "2026-11-10T20:30:00+08:00",
-      540
-    ],
+    "StartDate": "2026-11-02T12:30:00+09:00",
+    "EndDate": "2026-11-10T12:30:00+09:00",
     "CharacterMasterIds": [
       113303,
       152301,

@@ -4,18 +4,9 @@
     "Id": 14,
     "LocationMasterId": 12001,
     "Name": "シーズン14",
-    "StartDate": [
-      "2026-10-06T20:00:00+08:00",
-      540
-    ],
-    "EndDate": [
-      "2026-11-02T12:59:59+08:00",
-      540
-    ],
-    "LastReceiveDate": [
-      "2026-11-13T12:59:59+08:00",
-      540
-    ],
+    "StartDate": "2026-10-06T12:00:00+09:00",
+    "EndDate": "2026-11-02T04:59:59+09:00",
+    "LastReceiveDate": "2026-11-13T04:59:59+09:00",
     "IntroductionEpisodeMasterId": 300301
   },
   {
@@ -23,18 +14,9 @@
     "Id": 15,
     "LocationMasterId": 12001,
     "Name": "シーズン15",
-    "StartDate": [
-      "2026-11-02T20:00:00+08:00",
-      540
-    ],
-    "EndDate": [
-      "2026-12-01T12:59:59+08:00",
-      540
-    ],
-    "LastReceiveDate": [
-      "2026-12-11T12:59:59+08:00",
-      540
-    ],
+    "StartDate": "2026-11-02T12:00:00+09:00",
+    "EndDate": "2026-12-01T04:59:59+09:00",
+    "LastReceiveDate": "2026-12-11T04:59:59+09:00",
     "IntroductionEpisodeMasterId": 300301
   }
 ]
