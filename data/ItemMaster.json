@@ -563,7 +563,7 @@
     "Category": "AffectionLevelUp",
     "Rarity": "Ssr",
     "Name": "ピコお面",
-    "Description": "生徒の親愛度を大きく上昇させるアイテム。\\nTGS2026のブース来場者報酬。",
+    "Description": "生徒の親愛度を大きく上昇させるアイテム。\\nTGSブース来場者報酬。",
     "MaxStock": 999999999,
     "Consumable": false,
     "ExpireDays": null,
@@ -2413,6 +2413,24 @@
   },
   {
     "type": "ItemMaster",
+    "Id": 40101,
+    "Category": "CharacterLimitBreak",
+    "Rarity": "Ssr",
+    "Name": "フィー・ドレーゼ[心弾む運営委員]のスタイルカード",
+    "Description": "生徒の限界突破に必要なアイテム。",
+    "MaxStock": 999999999,
+    "Consumable": false,
+    "ExpireDays": null,
+    "ConsumeType": "None",
+    "ConsumeRequiredQuantity": null,
+    "AssetId": "40101",
+    "ItemAcquisitionLocationGroupMasterId": null,
+    "Order": 1100,
+    "StartDate": null,
+    "EndDate": null
+  },
+  {
+    "type": "ItemMaster",
     "Id": 50001,
     "Category": "SkillLevelUp",
     "Rarity": "R",
@@ -2948,8 +2966,14 @@
     "AssetId": "90007",
     "ItemAcquisitionLocationGroupMasterId": 1,
     "Order": 16,
-    "StartDate": "2026-03-03T12:30:00+09:00",
-    "EndDate": "2026-03-31T04:59:59+09:00"
+    "StartDate": [
+      "2026-03-03T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-03-31T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -2966,8 +2990,14 @@
     "AssetId": "90006",
     "ItemAcquisitionLocationGroupMasterId": 1,
     "Order": 15,
-    "StartDate": "2026-07-14T12:30:00+09:00",
-    "EndDate": "2026-08-18T04:59:59+09:00"
+    "StartDate": [
+      "2026-07-14T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-08-18T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -2984,8 +3014,14 @@
     "AssetId": "90007",
     "ItemAcquisitionLocationGroupMasterId": 1,
     "Order": 16,
-    "StartDate": "2026-07-14T12:30:00+09:00",
-    "EndDate": "2026-08-18T04:59:59+09:00"
+    "StartDate": [
+      "2026-07-14T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-08-18T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3002,8 +3038,14 @@
     "AssetId": "90007",
     "ItemAcquisitionLocationGroupMasterId": 1,
     "Order": 16,
-    "StartDate": "2026-09-01T12:30:00+09:00",
-    "EndDate": "2026-10-06T04:59:59+09:00"
+    "StartDate": [
+      "2026-09-01T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-10-06T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3434,8 +3476,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2025-09-05T12:00:00+09:00",
-    "EndDate": "2025-09-22T04:59:59+09:00"
+    "StartDate": [
+      "2025-09-05T20:00:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2025-09-22T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3452,8 +3500,14 @@
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 211,
-    "StartDate": "2025-09-16T12:30:00+09:00",
-    "EndDate": "2025-10-07T04:59:59+09:00"
+    "StartDate": [
+      "2025-09-16T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2025-10-07T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3524,8 +3578,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2025-09-30T12:30:00+09:00",
-    "EndDate": "2025-10-20T04:59:59+09:00"
+    "StartDate": [
+      "2025-09-30T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2025-10-20T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3542,8 +3602,14 @@
     "AssetId": "eventPoint_purple",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 211,
-    "StartDate": "2025-10-14T12:30:00+09:00",
-    "EndDate": "2025-11-04T04:59:59+09:00"
+    "StartDate": [
+      "2025-10-14T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2025-11-04T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3560,8 +3626,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-04-14T12:30:00+09:00",
-    "EndDate": "2026-05-05T04:59:59+09:00"
+    "StartDate": [
+      "2026-04-14T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-05-05T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3578,8 +3650,14 @@
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 211,
-    "StartDate": "2025-11-11T12:30:00+09:00",
-    "EndDate": "2025-12-02T04:59:59+09:00"
+    "StartDate": [
+      "2025-11-11T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2025-12-02T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3596,8 +3674,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2025-11-25T12:30:00+09:00",
-    "EndDate": "2025-12-16T04:59:59+09:00"
+    "StartDate": [
+      "2025-11-25T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2025-12-16T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3614,8 +3698,14 @@
     "AssetId": "eventPoint_yellow",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 211,
-    "StartDate": "2025-12-09T12:30:00+09:00",
-    "EndDate": "2025-12-30T04:59:59+09:00"
+    "StartDate": [
+      "2025-12-09T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2025-12-30T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3632,8 +3722,14 @@
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2025-12-23T12:30:00+09:00",
-    "EndDate": "2026-01-13T04:59:59+09:00"
+    "StartDate": [
+      "2025-12-23T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-01-13T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3650,8 +3746,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-01-01T00:00:00+09:00",
-    "EndDate": "2026-01-20T04:59:59+09:00"
+    "StartDate": [
+      "2026-01-01T08:00:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-01-20T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3668,8 +3770,14 @@
     "AssetId": "eventPoint_pink",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 209,
-    "StartDate": "2026-01-13T12:30:00+09:00",
-    "EndDate": "2026-02-03T04:59:59+09:00"
+    "StartDate": [
+      "2026-01-13T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-02-03T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3686,8 +3794,14 @@
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-01-27T12:30:00+09:00",
-    "EndDate": "2026-02-17T04:59:59+09:00"
+    "StartDate": [
+      "2026-01-27T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-02-17T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3704,8 +3818,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-08-10T12:30:00+09:00",
-    "EndDate": "2026-09-08T04:59:59+09:00"
+    "StartDate": [
+      "2026-08-10T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-09-08T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3722,8 +3842,14 @@
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-03-03T12:30:00+09:00",
-    "EndDate": "2026-03-31T04:59:59+09:00"
+    "StartDate": [
+      "2026-03-03T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-03-31T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3740,8 +3866,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-03-24T12:30:00+09:00",
-    "EndDate": "2026-04-14T04:59:59+09:00"
+    "StartDate": [
+      "2026-03-24T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-04-14T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3758,8 +3890,14 @@
     "AssetId": "eventPoint_yellow",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-04-07T12:30:00+09:00",
-    "EndDate": "2026-04-28T04:59:59+09:00"
+    "StartDate": [
+      "2026-04-07T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-04-28T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3794,8 +3932,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 209,
-    "StartDate": "2026-04-21T12:30:00+09:00",
-    "EndDate": "2026-05-12T04:59:59+09:00"
+    "StartDate": [
+      "2026-04-21T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-05-12T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3812,8 +3956,14 @@
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-05-05T12:00:00+09:00",
-    "EndDate": "2026-05-26T04:59:59+09:00"
+    "StartDate": [
+      "2026-05-05T20:00:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-05-26T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3830,8 +3980,14 @@
     "AssetId": "eventPoint_pink",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 209,
-    "StartDate": "2026-05-19T12:30:00+09:00",
-    "EndDate": "2026-06-09T04:59:59+09:00"
+    "StartDate": [
+      "2026-05-19T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-06-09T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3848,8 +4004,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-06-02T12:30:00+09:00",
-    "EndDate": "2026-06-23T04:59:59+09:00"
+    "StartDate": [
+      "2026-06-02T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-06-23T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3866,8 +4028,14 @@
     "AssetId": "eventPoint_yellow",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 209,
-    "StartDate": "2026-06-16T12:30:00+09:00",
-    "EndDate": "2026-07-07T04:59:59+09:00"
+    "StartDate": [
+      "2026-06-16T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-07-07T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3884,8 +4052,14 @@
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 209,
-    "StartDate": "2026-06-30T12:00:00+09:00",
-    "EndDate": "2026-07-21T04:59:59+09:00"
+    "StartDate": [
+      "2026-06-30T20:00:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-07-21T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3902,8 +4076,14 @@
     "AssetId": "eventPoint_pink",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-07-14T12:30:00+09:00",
-    "EndDate": "2026-08-04T04:59:59+09:00"
+    "StartDate": [
+      "2026-07-14T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-08-04T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3920,8 +4100,14 @@
     "AssetId": "eventPoint_yellow",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-07-28T12:30:00+09:00",
-    "EndDate": "2026-08-17T04:59:59+09:00"
+    "StartDate": [
+      "2026-07-28T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-08-17T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3938,8 +4124,14 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-08-10T12:30:00+09:00",
-    "EndDate": "2026-09-01T04:59:59+09:00"
+    "StartDate": [
+      "2026-08-10T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-09-01T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3956,8 +4148,14 @@
     "AssetId": "eventPoint_purple",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 209,
-    "StartDate": "2026-08-18T12:30:00+09:00",
-    "EndDate": "2026-09-08T04:59:59+09:00"
+    "StartDate": [
+      "2026-08-18T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-09-08T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3974,8 +4172,14 @@
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 209,
-    "StartDate": "2026-09-01T12:00:00+09:00",
-    "EndDate": "2026-10-06T04:59:59+09:00"
+    "StartDate": [
+      "2026-09-01T20:00:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-10-06T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -3992,8 +4196,14 @@
     "AssetId": "eventPoint_green",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 209,
-    "StartDate": "2026-10-06T12:00:00+09:00",
-    "EndDate": "2026-10-27T04:59:59+09:00"
+    "StartDate": [
+      "2026-10-06T20:00:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-10-27T12:59:59+08:00",
+      540
+    ]
   },
   {
     "type": "ItemMaster",
@@ -4010,8 +4220,56 @@
     "AssetId": "eventPoint_orange",
     "ItemAcquisitionLocationGroupMasterId": null,
     "Order": 210,
-    "StartDate": "2026-10-20T12:30:00+09:00",
-    "EndDate": "2026-11-10T04:59:59+09:00"
+    "StartDate": [
+      "2026-10-20T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-11-10T12:59:59+08:00",
+      540
+    ]
+  },
+  {
+    "type": "ItemMaster",
+    "Id": 110036,
+    "Category": "Exchange",
+    "Rarity": "R",
+    "Name": "イベントポイント",
+    "Description": "イベント「MashupWars!!　～校舎合同球技大会～」で獲得できる交換アイテム。\\n何かが記録された媒体。",
+    "MaxStock": 999999999,
+    "Consumable": false,
+    "ExpireDays": null,
+    "ConsumeType": "None",
+    "ConsumeRequiredQuantity": null,
+    "AssetId": "eventPoint_pink",
+    "ItemAcquisitionLocationGroupMasterId": null,
+    "Order": 210,
+    "StartDate": [
+      "2026-11-02T20:30:00+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-11-24T12:59:59+08:00",
+      540
+    ]
+  },
+  {
+    "type": "ItemMaster",
+    "Id": 110038,
+    "Category": "Exchange",
+    "Rarity": "Ssr",
+    "Name": "P-1レアメダル",
+    "Description": "P-1グランプリで獲得できる交換アイテム。\\n賭け事に使用されるメダル。\\n所持できる上限は30,000個",
+    "MaxStock": 999999999,
+    "Consumable": false,
+    "ExpireDays": null,
+    "ConsumeType": "None",
+    "ConsumeRequiredQuantity": null,
+    "AssetId": "110038",
+    "ItemAcquisitionLocationGroupMasterId": null,
+    "Order": 206,
+    "StartDate": null,
+    "EndDate": null
   },
   {
     "type": "ItemMaster",

@@ -3381,6 +3381,21 @@
   },
   {
     "type": "MazeRelicMaster",
+    "Id": 8015,
+    "Names": {
+      "Sr": "バリアダークネス"
+    },
+    "Descriptions": {
+      "Sr": "闇を払う強固な守り、戦闘開始時、味方全員に2行動分の\u003ccolor=#ff701a\u003e暗闇無効\u003c/color\u003eを付与する。"
+    },
+    "AssetIds": {
+      "Sr": "8015"
+    },
+    "Rarity": "Sr",
+    "MaxRarity": "Sr"
+  },
+  {
+    "type": "MazeRelicMaster",
     "Id": 9000,
     "Names": {
       "Lr": "ピンクマカローン"

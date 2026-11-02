@@ -1414,6 +1414,33 @@
   },
   {
     "type": "HomeIllustrationMaster",
+    "Id": 200068,
+    "Order": 68,
+    "GroupNumber": 64,
+    "Type": "Event",
+    "EpisodeMasterId": 202103,
+    "AssetId": "10850"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 200069,
+    "Order": 69,
+    "GroupNumber": 65,
+    "Type": "Event",
+    "EpisodeMasterId": 202105,
+    "AssetId": "10860"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 200070,
+    "Order": 70,
+    "GroupNumber": 66,
+    "Type": "Event",
+    "EpisodeMasterId": 202106,
+    "AssetId": "10880"
+  },
+  {
+    "type": "HomeIllustrationMaster",
     "Id": 300001,
     "Order": 1,
     "GroupNumber": 1,
@@ -2167,5 +2194,14 @@
     "Type": "Mg",
     "EpisodeMasterId": 202011,
     "AssetId": "10750"
+  },
+  {
+    "type": "HomeIllustrationMaster",
+    "Id": 300085,
+    "Order": 84,
+    "GroupNumber": 83,
+    "Type": "Mg",
+    "EpisodeMasterId": 202106,
+    "AssetId": "10870"
   }
 ]

@@ -523,6 +523,15 @@
   },
   {
     "type": "SnsAccountMaster",
+    "Id": 113304,
+    "Type": "Character",
+    "DisplayName": "フィー・ドレーゼ「心弾む運営委員」",
+    "Name": "@Fee_D",
+    "AssetId": "113303",
+    "CharacterMasterId": 113303
+  },
+  {
+    "type": "SnsAccountMaster",
     "Id": 114001,
     "Type": "Character",
     "DisplayName": "アニス・ベネット",
@@ -618,6 +627,15 @@
     "DisplayName": "エヴィ・レーナルト",
     "Name": "@Evi_L",
     "AssetId": "117001c",
+    "CharacterMasterId": null
+  },
+  {
+    "type": "SnsAccountMaster",
+    "Id": 117304,
+    "Type": "Character",
+    "DisplayName": "エヴィ・レーナルト「理想求める運営委員」",
+    "Name": "@Evi_L",
+    "AssetId": "117304",
     "CharacterMasterId": null
   },
   {

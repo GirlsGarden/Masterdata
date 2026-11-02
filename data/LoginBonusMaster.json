@@ -5,9 +5,15 @@
     "Name": "11月マンスリーログインボーナス",
     "Type": "Month",
     "Order": 1,
-    "StartDate": "2026-11-01T05:00:00+09:00",
+    "StartDate": [
+      "2026-11-01T13:00:00+08:00",
+      540
+    ],
     "StartDeadlineDate": null,
-    "EndDate": "2026-12-01T04:59:59+09:00",
+    "EndDate": [
+      "2026-12-01T12:59:59+08:00",
+      540
+    ],
     "ExtraLoginBonusMasterId": 1,
     "IsLoop": false,
     "AssetId": "1001",
@@ -20,9 +26,15 @@
     "Name": "PICKUP DAILY LOGIN",
     "Type": "Campaign",
     "Order": 1,
-    "StartDate": "2026-10-20T12:30:00+09:00",
+    "StartDate": [
+      "2026-10-20T20:30:00+08:00",
+      540
+    ],
     "StartDeadlineDate": null,
-    "EndDate": "2026-11-04T04:59:59+09:00",
+    "EndDate": [
+      "2026-11-04T12:59:59+08:00",
+      540
+    ],
     "ExtraLoginBonusMasterId": null,
     "IsLoop": false,
     "AssetId": "4010",
@@ -35,9 +47,15 @@
     "Name": "PICKUP DAILY LOGIN",
     "Type": "Campaign",
     "Order": 1,
-    "StartDate": "2026-10-27T12:30:00+09:00",
+    "StartDate": [
+      "2026-10-27T20:30:00+08:00",
+      540
+    ],
     "StartDeadlineDate": null,
-    "EndDate": "2026-11-10T04:59:59+09:00",
+    "EndDate": [
+      "2026-11-10T12:59:59+08:00",
+      540
+    ],
     "ExtraLoginBonusMasterId": null,
     "IsLoop": false,
     "AssetId": "4011",
@@ -50,9 +68,15 @@
     "Name": "PICKUP DAILY LOGIN",
     "Type": "Campaign",
     "Order": 1,
-    "StartDate": "2026-10-27T12:30:00+09:00",
+    "StartDate": [
+      "2026-10-27T20:30:00+08:00",
+      540
+    ],
     "StartDeadlineDate": null,
-    "EndDate": "2026-11-10T04:59:59+09:00",
+    "EndDate": [
+      "2026-11-10T12:59:59+08:00",
+      540
+    ],
     "ExtraLoginBonusMasterId": null,
     "IsLoop": false,
     "AssetId": "4012",
@@ -61,11 +85,35 @@
   },
   {
     "type": "LoginBonusMaster",
+    "Id": 2067,
+    "Name": "PICKUP DAILY LOGIN",
+    "Type": "Campaign",
+    "Order": 1,
+    "StartDate": [
+      "2026-11-02T20:30:00+08:00",
+      540
+    ],
+    "StartDeadlineDate": null,
+    "EndDate": [
+      "2026-11-17T12:59:59+08:00",
+      540
+    ],
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "4013",
+    "SpineAssetId": "113303s",
+    "BackgroundAssetId": "2001"
+  },
+  {
+    "type": "LoginBonusMaster",
     "Id": 3002,
     "Name": "ウェルカムログインボーナス",
     "Type": "Anniversary",
     "Order": 1,
-    "StartDate": "2025-10-07T12:30:00+09:00",
+    "StartDate": [
+      "2025-10-07T20:30:00+08:00",
+      540
+    ],
     "StartDeadlineDate": null,
     "EndDate": null,
     "ExtraLoginBonusMasterId": null,
@@ -80,7 +128,10 @@
     "Name": "カムバックログインボーナス",
     "Type": "Comeback",
     "Order": 1,
-    "StartDate": "2025-10-28T12:30:00+09:00",
+    "StartDate": [
+      "2025-10-28T20:30:00+08:00",
+      540
+    ],
     "StartDeadlineDate": null,
     "EndDate": null,
     "ExtraLoginBonusMasterId": null,

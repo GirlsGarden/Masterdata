@@ -1720,6 +1720,24 @@
   },
   {
     "type": "HomeScenarioMaster",
+    "Id": 204,
+    "Order": 192,
+    "EpisodeMasterId": 400101,
+    "IsAnimation": true,
+    "AssetId": "c113303",
+    "AnimationNumber": null
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 205,
+    "Order": 193,
+    "EpisodeMasterId": 400101,
+    "IsAnimation": false,
+    "AssetId": "c113303",
+    "AnimationNumber": null
+  },
+  {
+    "type": "HomeScenarioMaster",
     "Id": 2000,
     "Order": 1000,
     "EpisodeMasterId": 500003,
@@ -2418,6 +2436,15 @@
     "EpisodeMasterId": 500055,
     "IsAnimation": false,
     "AssetId": "s300024",
+    "AnimationNumber": null
+  },
+  {
+    "type": "HomeScenarioMaster",
+    "Id": 2078,
+    "Order": 1078,
+    "EpisodeMasterId": 500056,
+    "IsAnimation": true,
+    "AssetId": "s200032",
     "AnimationNumber": null
   }
 ]

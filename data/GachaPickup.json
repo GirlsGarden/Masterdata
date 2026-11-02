@@ -1981,108 +1981,36 @@
   },
   {
     "type": "GachaPickup",
-    "Id": 30001,
-    "GachaMasterId": 30001,
+    "Id": 20055,
+    "GachaMasterId": 20055,
     "Things": [
       {
         "type": "GachaPickupThing",
-        "CharacterMasterId": 132301,
+        "CharacterMasterId": 113303,
         "Quantity": 1
       }
     ]
   },
   {
     "type": "GachaPickup",
-    "Id": 30001,
-    "GachaMasterId": 30001,
+    "Id": 20055,
+    "GachaMasterId": 20055,
     "Things": [
       {
         "type": "GachaPickupThing",
-        "CharacterMasterId": 132301,
+        "CharacterMasterId": 113303,
         "Quantity": 1
       }
     ]
   },
   {
     "type": "GachaPickup",
-    "Id": 30001,
-    "GachaMasterId": 30001,
+    "Id": 20055,
+    "GachaMasterId": 20055,
     "Things": [
       {
         "type": "GachaPickupThing",
-        "CharacterMasterId": 132301,
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "type": "GachaPickup",
-    "Id": 30002,
-    "GachaMasterId": 30002,
-    "Things": [
-      {
-        "type": "GachaPickupThing",
-        "CharacterMasterId": 133301,
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "type": "GachaPickup",
-    "Id": 30002,
-    "GachaMasterId": 30002,
-    "Things": [
-      {
-        "type": "GachaPickupThing",
-        "CharacterMasterId": 133301,
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "type": "GachaPickup",
-    "Id": 30002,
-    "GachaMasterId": 30002,
-    "Things": [
-      {
-        "type": "GachaPickupThing",
-        "CharacterMasterId": 133301,
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "type": "GachaPickup",
-    "Id": 30003,
-    "GachaMasterId": 30003,
-    "Things": [
-      {
-        "type": "GachaPickupThing",
-        "CharacterMasterId": 134301,
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "type": "GachaPickup",
-    "Id": 30003,
-    "GachaMasterId": 30003,
-    "Things": [
-      {
-        "type": "GachaPickupThing",
-        "CharacterMasterId": 134301,
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "type": "GachaPickup",
-    "Id": 30003,
-    "GachaMasterId": 30003,
-    "Things": [
-      {
-        "type": "GachaPickupThing",
-        "CharacterMasterId": 134301,
+        "CharacterMasterId": 113303,
         "Quantity": 1
       }
     ]
@@ -3061,6 +2989,18 @@
   },
   {
     "type": "GachaPickup",
+    "Id": 40055,
+    "GachaMasterId": 40055,
+    "Things": [
+      {
+        "type": "GachaPickupThing",
+        "CharacterMasterId": 113303,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "type": "GachaPickup",
     "Id": 60001,
     "GachaMasterId": 60001,
     "Things": null
@@ -3726,42 +3666,6 @@
       {
         "type": "GachaPickupThing",
         "CharacterMasterId": 145301,
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "type": "GachaPickup",
-    "Id": 80001,
-    "GachaMasterId": 80001,
-    "Things": [
-      {
-        "type": "GachaPickupThing",
-        "CharacterMasterId": 132301,
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "type": "GachaPickup",
-    "Id": 80002,
-    "GachaMasterId": 80002,
-    "Things": [
-      {
-        "type": "GachaPickupThing",
-        "CharacterMasterId": 133301,
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "type": "GachaPickup",
-    "Id": 80003,
-    "GachaMasterId": 80003,
-    "Things": [
-      {
-        "type": "GachaPickupThing",
-        "CharacterMasterId": 134301,
         "Quantity": 1
       }
     ]

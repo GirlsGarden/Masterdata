@@ -911,6 +911,32 @@
   },
   {
     "type": "HomeSoundtrackMaster",
+    "Id": 71,
+    "Name": "Popping Heartbeat",
+    "Order": 71,
+    "LengthSeconds": 156,
+    "IsRequiredUnlock": true,
+    "AssetId": "10043",
+    "StartLoopPointSampleCounts": 164571,
+    "EndLoopPointSampleCounts": 7488000,
+    "IsDefault": false,
+    "Vocal": null
+  },
+  {
+    "type": "HomeSoundtrackMaster",
+    "Id": 72,
+    "Name": "Squad Power！",
+    "Order": 72,
+    "LengthSeconds": 166,
+    "IsRequiredUnlock": true,
+    "AssetId": "20021",
+    "StartLoopPointSampleCounts": 282213,
+    "EndLoopPointSampleCounts": 7055983,
+    "IsDefault": false,
+    "Vocal": null
+  },
+  {
+    "type": "HomeSoundtrackMaster",
     "Id": 9001,
     "Name": "コラボ_大混乱",
     "Order": 9001,

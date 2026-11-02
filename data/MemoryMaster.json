@@ -609,6 +609,29 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 10032,
+    "Rarity": "Sr",
+    "Name": "マジカル・ラブパワー！",
+    "Description": "翠蘭ちゃん特製、\\nとっておきのタコさんウィンナーをあげるね。",
+    "AssetId": "10036",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": 32,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400277,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 20001,
     "Rarity": "Ssr",
     "Name": "ふたりきりの勉強会",
@@ -3748,6 +3771,64 @@
   },
   {
     "type": "MemoryMaster",
+    "Id": 20098,
+    "Rarity": "Ssr",
+    "Name": "わたしのしたいこと",
+    "Description": "ふぅ……いっぱい練習した。\\nどの競技も、少しできるようになった。",
+    "AssetId": "113303",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 113,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400278,
+        "IsTargetingFriendlyParty": true
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Aggressive",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400279,
+        "IsTargetingFriendlyParty": false
+      }
+    ],
+    "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 20099,
+    "Rarity": "Ssr",
+    "Name": "ふたりきりになるコスト",
+    "Description": "中の出来事は……倉庫の中であったことは！\\n絶対絶対、絶対に！　誰にも言わないように！",
+    "AssetId": "117303",
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": 117,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400074,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
+    "IsReleased": false
+  },
+  {
+    "type": "MemoryMaster",
     "Id": 30001,
     "Rarity": "Ur",
     "Name": "Sirius Sugar",
@@ -4888,6 +4969,16 @@
       }
     ],
     "IsReleased": true
+  },
+  {
+    "type": "MemoryMaster",
+    "Id": 30043,
+    "Rarity": "Ur",
+    "Name": "紡いだ絆のカタチ",
+    "Description": "後輩クン、とびっきりいい写真にしてちょうだい！",
+    "AssetId": "30044",
+    "Highlights": null,
+    "IsReleased": false
   },
   {
     "type": "MemoryMaster",

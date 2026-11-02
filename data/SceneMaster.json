@@ -2696,7 +2696,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "ＶＳ天津甕星・宵星＆暁星",
+    "Title": "ＶＳ天津甕星",
     "AssetId": null
   },
   {
@@ -2706,7 +2706,7 @@
     "Types": "Adventure",
     "Order": 1,
     "IsAdult": false,
-    "Title": "ＶＳ天津甕星・流星＆彗星",
+    "Title": "ＶＳ天津甕星",
     "AssetId": null
   },
   {
@@ -4557,6 +4557,86 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "みんな、いるね",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20210101,
+    "EpisodeMasterId": 202101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "夢中になれるもの",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20210201,
+    "EpisodeMasterId": 202102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "運営委員の仕事",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20210301,
+    "EpisodeMasterId": 202103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "カオスメイデンの母",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20210401,
+    "EpisodeMasterId": 202104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "手のひらの上",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20210501,
+    "EpisodeMasterId": 202105,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "球技大会開幕！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20210601,
+    "EpisodeMasterId": 202106,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "アンチの裏工作",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20210701,
+    "EpisodeMasterId": 202107,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "それぞれの共闘",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20210801,
+    "EpisodeMasterId": 202108,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "楽しんだもん勝ち",
     "AssetId": null
   },
   {
@@ -6711,6 +6791,46 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40011001,
+    "EpisodeMasterId": 400101,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "わたしのしたいこと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40011002,
+    "EpisodeMasterId": 400101,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "わたしのしたいこと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40012001,
+    "EpisodeMasterId": 400102,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ふたりきりになるコスト",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40012002,
+    "EpisodeMasterId": 400102,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ふたりきりになるコスト",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -7757,6 +7877,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "私らしく",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005601,
+    "EpisodeMasterId": 500056,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "マジカル・ラブパワー！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005602,
+    "EpisodeMasterId": 500056,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "マジカル・ラブパワー！",
     "AssetId": null
   },
   {
@@ -11757,6 +11897,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "平和な世界で",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61076001,
+    "EpisodeMasterId": 610400,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "空いた時間の使い方",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61076002,
+    "EpisodeMasterId": 610401,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "カオスメイデンの評判",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61076003,
+    "EpisodeMasterId": 610402,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "お茶を点てよう",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61076004,
+    "EpisodeMasterId": 610403,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "フィーのやる気",
     "AssetId": null
   },
   {

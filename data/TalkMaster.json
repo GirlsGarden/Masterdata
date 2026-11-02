@@ -445,6 +445,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1133031,
+    "CallCharacterMasterId": 113303,
+    "Order": 113003,
+    "Title": "わたしのしたいことその２",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 113303,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400101
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1143011,
     "CallCharacterMasterId": 114301,
     "Order": 114001,

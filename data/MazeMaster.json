@@ -42,9 +42,18 @@
     "IntroductionEpisodeMasterId": 300801,
     "Name": "未開拓エリア",
     "MazeType": "Unexplored",
-    "StartDate": "2026-10-27T12:30:00+09:00",
-    "ExplorationCloseDate": "2026-11-24T04:59:59+09:00",
-    "EndDate": "2026-12-01T04:59:59+09:00",
+    "StartDate": [
+      "2026-10-27T20:30:00+08:00",
+      540
+    ],
+    "ExplorationCloseDate": [
+      "2026-11-24T12:59:59+08:00",
+      540
+    ],
+    "EndDate": [
+      "2026-12-01T12:59:59+08:00",
+      540
+    ],
     "CharacterLevelLimitMode": "AsConfiguredFixed",
     "CharacterLevelLimit": 200,
     "BaseThreatLevel": 1,

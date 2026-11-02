@@ -225,6 +225,13 @@
   },
   {
     "type": "OperatingSystemMaster",
+    "Id": 113303,
+    "Name": "熱結ぶハチマキ",
+    "Description": "フィー・ドレーゼ「心弾む運営委員」の専用OSです。",
+    "AssetId": "113303"
+  },
+  {
+    "type": "OperatingSystemMaster",
     "Id": 114301,
     "Name": "愛の鎖",
     "Description": "アニス・ベネット「愛を求めるトラブルメーカー」の専用OSです。",
@@ -278,6 +285,13 @@
     "Name": "霊符ネットワーク",
     "Description": "エヴィ・レーナルト「キョンシーハッカー」の専用OSです。",
     "AssetId": "117301"
+  },
+  {
+    "type": "OperatingSystemMaster",
+    "Id": 117303,
+    "Name": "スポーツドリンク",
+    "Description": "エヴィ・レーナルト「理想求める運営委員」の専用OSです。",
+    "AssetId": "117303"
   },
   {
     "type": "OperatingSystemMaster",
