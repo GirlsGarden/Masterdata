@@ -1054,6 +1054,19 @@
   },
   {
     "type": "ChapterMaster",
+    "Id": 200042,
+    "Title": "SECOND",
+    "SubTitle": "イベントストーリー",
+    "Order": 2,
+    "EventMasterId": 1041,
+    "AssetId": "2041",
+    "Overview": "",
+    "ChapterGroupMasterId": null,
+    "Interlude": "",
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
     "Id": 300001,
     "Title": "1-10",
     "SubTitle": "",

@@ -2017,7 +2017,51 @@
       "Client",
       "AppStore",
       "GooglePlay",
-      "SpIOS"
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
+    ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 20056,
+    "Type": "PickUp",
+    "Name": "NEW CHARACTERピックアップガチャ【エヴィ・レーナルト】",
+    "Description": "有償/無償ジェム・ピックアップガチャチケットを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【ピックアップ生徒について】\n本ピックアップガチャで新登場した生徒は、ガチャ開催終了後、スタンダードガチャの排出対象に順次追加されます。",
+    "StartDate": "2026-11-10T12:30:00+09:00",
+    "EndDate": "2026-11-24T04:59:59+09:00",
+    "Order": 84,
+    "BannerAssetId": "20056",
+    "BackgroundAssetId": "20056",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "AppStore",
+      "GooglePlay",
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -2253,7 +2297,16 @@
       "Client",
       "AppStore",
       "GooglePlay",
-      "SpIOS"
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -2279,7 +2332,16 @@
       "Client",
       "AppStore",
       "GooglePlay",
-      "SpIOS"
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -2305,7 +2367,16 @@
       "Client",
       "AppStore",
       "GooglePlay",
-      "SpIOS"
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "SteamworksClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -4057,7 +4128,47 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
+    ]
+  },
+  {
+    "type": "GachaMaster",
+    "Id": 40056,
+    "Type": "PaidPickup",
+    "Name": "DMM POINT限定 NEW CHARACTERピックアップガチャ【エヴィ・レーナルト】",
+    "Description": "DMMポイントを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【ピックアップ生徒について】\n本ピックアップガチャで新登場した生徒は、ガチャ開催終了後、スタンダードガチャの排出対象に順次追加されます。",
+    "StartDate": "2026-11-10T12:30:00+09:00",
+    "EndDate": "2026-11-24T04:59:59+09:00",
+    "Order": 84,
+    "BannerAssetId": "40056",
+    "BackgroundAssetId": "20056",
+    "ExchangeMasterId": 1004,
+    "LogoAssetId": null,
+    "BackgroundAssetType": "Movie",
+    "IsLimitCountInvisible": false,
+    "BgmAssetId": null,
+    "GachaWishMasterId": null,
+    "VisibleDeviceFlags": [
+      "Web",
+      "SpAndroid",
+      "Client",
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -4728,7 +4839,15 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -4752,7 +4871,15 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {
@@ -4776,7 +4903,15 @@
       "Web",
       "SpAndroid",
       "Client",
-      "SpIOS"
+      "SpIOS",
+      "JohrenWeb",
+      "JohrenSpAndroid",
+      "ErolabsWeb",
+      "ErolabsSpAndroid",
+      "ErolabsClient",
+      "NutakuWeb",
+      "NutakuSpAndroid",
+      "NutakuClient"
     ]
   },
   {

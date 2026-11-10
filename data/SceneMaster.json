@@ -7901,6 +7901,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 50005701,
+    "EpisodeMasterId": 500057,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "紡いだ絆のカタチ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005702,
+    "EpisodeMasterId": 500057,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "紡いだ絆のカタチ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 61000001,
     "EpisodeMasterId": 610000,
     "Types": "Adventure",
@@ -11937,6 +11957,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "フィーのやる気",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61077001,
+    "EpisodeMasterId": 610404,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "エヴィに聞きたいこと",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61077002,
+    "EpisodeMasterId": 610405,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "体操服ＩＮカフェ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61077003,
+    "EpisodeMasterId": 610406,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "新たな敵のシミュレーション",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61077004,
+    "EpisodeMasterId": 610407,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "グラウンドのライン引き",
     "AssetId": null
   },
   {

@@ -3825,7 +3825,7 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",
@@ -4977,7 +4977,32 @@
     "Name": "紡いだ絆のカタチ",
     "Description": "後輩クン、とびっきりいい写真にしてちょうだい！",
     "AssetId": "30044",
-    "Highlights": null,
+    "Highlights": [
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Unspecified",
+        "SkillMasterId": 400281,
+        "IsTargetingFriendlyParty": false
+      },
+      {
+        "type": "MemoryHighlight",
+        "CharacterMasterId": null,
+        "CharacterBaseMasterId": null,
+        "CharacterTeamMasterId": null,
+        "CharacterRole": "Unspecified",
+        "CharacterAttribute": "Unspecified",
+        "PartyPosition": null,
+        "CharacterType": "Agility",
+        "SkillMasterId": 400282,
+        "IsTargetingFriendlyParty": true
+      }
+    ],
     "IsReleased": false
   },
   {

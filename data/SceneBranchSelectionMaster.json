@@ -3065,6 +3065,70 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20210511,
+    "SceneBranchMasterId": 2021051,
+    "Answer": "全力で楽しんでるな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20210512,
+    "SceneBranchMasterId": 2021051,
+    "Answer": "ユリアを止めろ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20210611,
+    "SceneBranchMasterId": 2021061,
+    "Answer": "強行突破！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20210612,
+    "SceneBranchMasterId": 2021061,
+    "Answer": "フェイント！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20210621,
+    "SceneBranchMasterId": 2021062,
+    "Answer": "向こうの戦略を読む",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20210622,
+    "SceneBranchMasterId": 2021062,
+    "Answer": "主導権を取る",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20210811,
+    "SceneBranchMasterId": 2021081,
+    "Answer": "フィー、決めろ！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20210812,
+    "SceneBranchMasterId": 2021081,
+    "Answer": "エヴィ、諦めるな！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -5476,6 +5540,22 @@
     "Id": 50005622,
     "SceneBranchMasterId": 5000562,
     "Answer": "思うところがあって",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005711,
+    "SceneBranchMasterId": 5000571,
+    "Answer": "任せとけ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005712,
+    "SceneBranchMasterId": 5000571,
+    "Answer": "混ざれなくて残念だ",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -11942,6 +12022,70 @@
     "Answer": "フィーをコーチする",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1133031
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61215011,
+    "SceneBranchMasterId": 6121501,
+    "Answer": "端末について",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1173032
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61215012,
+    "SceneBranchMasterId": 6121501,
+    "Answer": "行事のこと",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1173031
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61216011,
+    "SceneBranchMasterId": 6121601,
+    "Answer": "見学の理由を聞く",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1173032
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61216012,
+    "SceneBranchMasterId": 6121601,
+    "Answer": "エヴィを労う",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1173031
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61217011,
+    "SceneBranchMasterId": 6121701,
+    "Answer": "何か手伝えることが無いか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1173032
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61217012,
+    "SceneBranchMasterId": 6121701,
+    "Answer": "新しい敵の設定を試してみたい",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1173031
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61218011,
+    "SceneBranchMasterId": 6121801,
+    "Answer": "ライン引きには自信がある",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1173032
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61218012,
+    "SceneBranchMasterId": 6121801,
+    "Answer": "あまり自信はない",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1173031
   },
   {
     "type": "SceneBranchSelectionMaster",

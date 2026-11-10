@@ -162,6 +162,13 @@
   },
   {
     "type": "FlashMaster",
+    "Id": 1032,
+    "Type": "FlashTierSale",
+    "ActiveHours": 24,
+    "EffectType": "CollaboOriginal"
+  },
+  {
+    "type": "FlashMaster",
     "Id": 1090,
     "Type": "FlashRelay",
     "ActiveHours": 24,
@@ -247,6 +254,13 @@
   {
     "type": "FlashMaster",
     "Id": 1165,
+    "Type": "FlashTierSale",
+    "ActiveHours": 24,
+    "EffectType": "Normal"
+  },
+  {
+    "type": "FlashMaster",
+    "Id": 1166,
     "Type": "FlashTierSale",
     "ActiveHours": 24,
     "EffectType": "Normal"

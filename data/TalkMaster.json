@@ -553,6 +553,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1173031,
+    "CallCharacterMasterId": 117303,
+    "Order": 117003,
+    "Title": "守るべき秘密",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 117303,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400102
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1183011,
     "CallCharacterMasterId": 118301,
     "Order": 118001,
