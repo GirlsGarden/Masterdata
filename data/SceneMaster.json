@@ -4641,6 +4641,86 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 20220101,
+    "EpisodeMasterId": 202201,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "視察任務",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20220201,
+    "EpisodeMasterId": 202202,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "レドフカの洗礼？",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20220301,
+    "EpisodeMasterId": 202203,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "蒸気の中に秘めた想い",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20220401,
+    "EpisodeMasterId": 202204,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "復興計画、疾走！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20220501,
+    "EpisodeMasterId": 202205,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ご褒美は人間椅子",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20220601,
+    "EpisodeMasterId": 202206,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "温泉スクランブル！",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20220701,
+    "EpisodeMasterId": 202207,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "山中に響くは",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 20220801,
+    "EpisodeMasterId": 202208,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ナージャのための盾",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 30010101,
     "EpisodeMasterId": 300101,
     "Types": "Adventure",
@@ -6831,6 +6911,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40013001,
+    "EpisodeMasterId": 400103,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "いつもより綺麗ですね",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40013002,
+    "EpisodeMasterId": 400103,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "いつもより綺麗ですね",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -7917,6 +8017,36 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "紡いだ絆のカタチ",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005801,
+    "EpisodeMasterId": 500058,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "ナージャの椅子",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005802,
+    "EpisodeMasterId": 500058,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "ナージャの椅子",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50006001,
+    "EpisodeMasterId": 500060,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "穏やかな日々",
     "AssetId": null
   },
   {
@@ -11997,6 +12127,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "グラウンドのライン引き",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61078001,
+    "EpisodeMasterId": 610408,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "浴衣姿の理由",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61078002,
+    "EpisodeMasterId": 610409,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "街中でのイベント",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61078003,
+    "EpisodeMasterId": 610410,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "待ち合わせの空き時間",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61078004,
+    "EpisodeMasterId": 610411,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "校舎でキャンプファイアー",
     "AssetId": null
   },
   {

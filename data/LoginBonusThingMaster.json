@@ -1249,5 +1249,14 @@
     "ThingType": "Memory",
     "ThingId": 30046,
     "ThingQuantity": 1
+  },
+  {
+    "type": "LoginBonusThingMaster",
+    "Id": 200681,
+    "Order": 1,
+    "LoginBonusThingPackageMasterId": 20068,
+    "ThingType": "Item",
+    "ThingId": 110022,
+    "ThingQuantity": 30000
   }
 ]

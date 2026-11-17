@@ -3129,6 +3129,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20220211,
+    "SceneBranchMasterId": 2022021,
+    "Answer": "少しくらい味わってみたい",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20220212,
+    "SceneBranchMasterId": 2022021,
+    "Answer": "あまり味わいたくない……",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20220311,
+    "SceneBranchMasterId": 2022031,
+    "Answer": "もっと大きな声で！",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20220312,
+    "SceneBranchMasterId": 2022031,
+    "Answer": "諦めろ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -4729,6 +4761,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40013011,
+    "SceneBranchMasterId": 4001301,
+    "Answer": "左右が反対だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40013012,
+    "SceneBranchMasterId": 4001301,
+    "Answer": "左前は縁起が悪い",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -5556,6 +5604,22 @@
     "Id": 50005712,
     "SceneBranchMasterId": 5000571,
     "Answer": "混ざれなくて残念だ",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005811,
+    "SceneBranchMasterId": 5000581,
+    "Answer": "さっそく実践したのか",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005812,
+    "SceneBranchMasterId": 5000581,
+    "Answer": "希望を伝えられて偉い",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -12086,6 +12150,70 @@
     "Answer": "あまり自信はない",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1173031
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61219011,
+    "SceneBranchMasterId": 6121901,
+    "Answer": "なぜ浴衣姿なのか聞く",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1463022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61219012,
+    "SceneBranchMasterId": 6121901,
+    "Answer": "すまないと謝る",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1463021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61220011,
+    "SceneBranchMasterId": 6122001,
+    "Answer": "昔の方がよかったか？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1463022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61220012,
+    "SceneBranchMasterId": 6122001,
+    "Answer": "こうなってよかったな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1463021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61221011,
+    "SceneBranchMasterId": 6122101,
+    "Answer": "誰との待ち合わせなんだ？",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1463022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61221012,
+    "SceneBranchMasterId": 6122101,
+    "Answer": "熱心なんだな",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1463021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61222011,
+    "SceneBranchMasterId": 6122201,
+    "Answer": "風情があるな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1463022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61222012,
+    "SceneBranchMasterId": 6122201,
+    "Answer": "誰が決めたんだ？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1463021
   },
   {
     "type": "SceneBranchSelectionMaster",

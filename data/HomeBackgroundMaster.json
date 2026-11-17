@@ -1238,5 +1238,61 @@
     "Order": 996,
     "UnlockGemQuantity": 100,
     "AssetId": "30366"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 156,
+    "Name": "コテージ外観_昼",
+    "Order": 1002,
+    "UnlockGemQuantity": 100,
+    "AssetId": "70032"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 157,
+    "Name": "コテージ外観_夜",
+    "Order": 1004,
+    "UnlockGemQuantity": 100,
+    "AssetId": "70034"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 158,
+    "Name": "レドフカサウナ_その他",
+    "Order": 1010,
+    "UnlockGemQuantity": 100,
+    "AssetId": "70040"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 159,
+    "Name": "レドフカサウナ_特殊1",
+    "Order": 1015,
+    "UnlockGemQuantity": 100,
+    "AssetId": "70045"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 160,
+    "Name": "木のコテージ_夜",
+    "Order": 504,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80084"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 161,
+    "Name": "木のコテージ_特殊1",
+    "Order": 505,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80085"
+  },
+  {
+    "type": "HomeBackgroundMaster",
+    "Id": 162,
+    "Name": "港_昼",
+    "Order": 972,
+    "UnlockGemQuantity": 100,
+    "AssetId": "80322"
   }
 ]

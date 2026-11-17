@@ -208,6 +208,69 @@
   },
   {
     "type": "LoginBonusDetailMaster",
+    "Id": 20691,
+    "LoginBonusMasterId": 2069,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 1,
+    "LoginBonusThingPackageMasterId": 11000
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20692,
+    "LoginBonusMasterId": 2069,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 2,
+    "LoginBonusThingPackageMasterId": 11001
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20693,
+    "LoginBonusMasterId": 2069,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 3,
+    "LoginBonusThingPackageMasterId": 11002
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20694,
+    "LoginBonusMasterId": 2069,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 4,
+    "LoginBonusThingPackageMasterId": 11010
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20695,
+    "LoginBonusMasterId": 2069,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 5,
+    "LoginBonusThingPackageMasterId": 11005
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20696,
+    "LoginBonusMasterId": 2069,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 6,
+    "LoginBonusThingPackageMasterId": 11003
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 20697,
+    "LoginBonusMasterId": 2069,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 7,
+    "LoginBonusThingPackageMasterId": 11004
+  },
+  {
+    "type": "LoginBonusDetailMaster",
     "Id": 30021,
     "LoginBonusMasterId": 3002,
     "Month": null,
@@ -268,6 +331,15 @@
     "Day": null,
     "LoginCount": 7,
     "LoginBonusThingPackageMasterId": 20013
+  },
+  {
+    "type": "LoginBonusDetailMaster",
+    "Id": 30201,
+    "LoginBonusMasterId": 3020,
+    "Month": null,
+    "Day": null,
+    "LoginCount": 1,
+    "LoginBonusThingPackageMasterId": 20068
   },
   {
     "type": "LoginBonusDetailMaster",

@@ -413,5 +413,78 @@
         ]
       }
     ]
+  },
+  {
+    "type": "ModuleGearItemMaster",
+    "Id": 5,
+    "ItemMasterId": 70005,
+    "Quantity": 1,
+    "Money": 0,
+    "LossRate": 0,
+    "ModuleGearRates": [
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 1,
+        "Rate": 0.18571429,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 2,
+        "Rate": 0.114285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 3,
+        "Rate": 0.114285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 4,
+        "Rate": 0.114285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 5,
+        "Rate": 0.14285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 6,
+        "Rate": 0.14285715,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      },
+      {
+        "type": "ModuleGearRate",
+        "ModuleGearMasterId": 7,
+        "Rate": 0.18571429,
+        "PossibleRanks": [
+          "S",
+          "A"
+        ]
+      }
+    ]
   }
 ]

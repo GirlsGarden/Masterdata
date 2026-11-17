@@ -26,5 +26,19 @@
     "BetLowRate": 1.2,
     "GrandPrixPhaseRewardGroupMasterId": 101,
     "OutrightBetItemMasterId": null
+  },
+  {
+    "type": "GrandPrixMaster",
+    "Id": 3,
+    "EventMasterId": 6009,
+    "GrandPrixScheduleGroupMasterId": 102,
+    "EpisodeMasterId": 300901,
+    "RewardPackageId": 50000,
+    "GroupCount": 10,
+    "ItemMasterId": 110022,
+    "BetHighRate": 1.8,
+    "BetLowRate": 1.2,
+    "GrandPrixPhaseRewardGroupMasterId": 102,
+    "OutrightBetItemMasterId": 110038
   }
 ]

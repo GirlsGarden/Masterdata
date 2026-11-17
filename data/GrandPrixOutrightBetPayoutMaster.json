@@ -1,0 +1,58 @@
+[
+  {
+    "type": "GrandPrixOutrightBetPayoutMaster",
+    "Id": 1,
+    "TournamentPhase": "GroupStage1",
+    "PreAnnouncementAmount": 3,
+    "PostAnnouncementAmount": 1
+  },
+  {
+    "type": "GrandPrixOutrightBetPayoutMaster",
+    "Id": 2,
+    "TournamentPhase": "GroupStage2",
+    "PreAnnouncementAmount": 3,
+    "PostAnnouncementAmount": 1
+  },
+  {
+    "type": "GrandPrixOutrightBetPayoutMaster",
+    "Id": 3,
+    "TournamentPhase": "GroupStage3",
+    "PreAnnouncementAmount": 3,
+    "PostAnnouncementAmount": 1
+  },
+  {
+    "type": "GrandPrixOutrightBetPayoutMaster",
+    "Id": 4,
+    "TournamentPhase": "GroupStage4",
+    "PreAnnouncementAmount": 3,
+    "PostAnnouncementAmount": 1
+  },
+  {
+    "type": "GrandPrixOutrightBetPayoutMaster",
+    "Id": 5,
+    "TournamentPhase": "QuarterFinals",
+    "PreAnnouncementAmount": 3,
+    "PostAnnouncementAmount": 1
+  },
+  {
+    "type": "GrandPrixOutrightBetPayoutMaster",
+    "Id": 6,
+    "TournamentPhase": "SemiFinals",
+    "PreAnnouncementAmount": 3,
+    "PostAnnouncementAmount": 1
+  },
+  {
+    "type": "GrandPrixOutrightBetPayoutMaster",
+    "Id": 7,
+    "TournamentPhase": "Finals",
+    "PreAnnouncementAmount": 3,
+    "PostAnnouncementAmount": 1
+  },
+  {
+    "type": "GrandPrixOutrightBetPayoutMaster",
+    "Id": 8,
+    "TournamentPhase": "GrandFinal",
+    "PreAnnouncementAmount": 3,
+    "PostAnnouncementAmount": 1
+  }
+]

@@ -82,11 +82,21 @@
   {
     "type": "SdCharacterMaster",
     "Id": 9,
-    "Order": 8,
+    "Order": 9,
     "Name": "ピコ【ピコ太郎】",
     "AssetId": "mn10070",
     "IsDefault": false,
     "JumpType": null,
     "JumpTargetId": null
+  },
+  {
+    "type": "SdCharacterMaster",
+    "Id": 10,
+    "Order": 10,
+    "Name": "アマネ",
+    "AssetId": "mn10004",
+    "IsDefault": false,
+    "JumpType": "Exchange",
+    "JumpTargetId": 1025
   }
 ]

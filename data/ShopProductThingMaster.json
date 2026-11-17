@@ -2461,6 +2461,16 @@
   },
   {
     "type": "ShopProductThingMaster",
+    "Id": 971,
+    "ShopProductPackageMasterId": 97,
+    "Order": 1,
+    "IsBonus": false,
+    "ThingType": "Memory",
+    "ThingId": 30044,
+    "ThingQuantity": 1
+  },
+  {
+    "type": "ShopProductThingMaster",
     "Id": 6110,
     "ShopProductPackageMasterId": 61,
     "Order": 10,

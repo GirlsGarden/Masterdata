@@ -142,5 +142,77 @@
     "StartDate": "2026-06-19T19:00:00+09:00",
     "PreparationEndDate": "2026-06-21T15:00:00+09:00",
     "ResultAnnouncementDate": "2026-06-21T19:00:00+09:00"
+  },
+  {
+    "type": "GrandPrixScheduleMaster",
+    "Id": 1021,
+    "GrandPrixScheduleGroupMasterId": 102,
+    "TournamentPhase": "GroupStage1",
+    "StartDate": "2026-11-17T17:00:00+09:00",
+    "PreparationEndDate": "2026-11-18T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-18T19:00:00+09:00"
+  },
+  {
+    "type": "GrandPrixScheduleMaster",
+    "Id": 1022,
+    "GrandPrixScheduleGroupMasterId": 102,
+    "TournamentPhase": "GroupStage2",
+    "StartDate": "2026-11-18T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-19T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-19T19:00:00+09:00"
+  },
+  {
+    "type": "GrandPrixScheduleMaster",
+    "Id": 1023,
+    "GrandPrixScheduleGroupMasterId": 102,
+    "TournamentPhase": "GroupStage3",
+    "StartDate": "2026-11-19T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-20T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-20T19:00:00+09:00"
+  },
+  {
+    "type": "GrandPrixScheduleMaster",
+    "Id": 1024,
+    "GrandPrixScheduleGroupMasterId": 102,
+    "TournamentPhase": "GroupStage4",
+    "StartDate": "2026-11-20T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-22T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-22T19:00:00+09:00"
+  },
+  {
+    "type": "GrandPrixScheduleMaster",
+    "Id": 1025,
+    "GrandPrixScheduleGroupMasterId": 102,
+    "TournamentPhase": "QuarterFinals",
+    "StartDate": "2026-11-22T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-25T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-25T19:00:00+09:00"
+  },
+  {
+    "type": "GrandPrixScheduleMaster",
+    "Id": 1026,
+    "GrandPrixScheduleGroupMasterId": 102,
+    "TournamentPhase": "SemiFinals",
+    "StartDate": "2026-11-25T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-26T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-26T19:00:00+09:00"
+  },
+  {
+    "type": "GrandPrixScheduleMaster",
+    "Id": 1027,
+    "GrandPrixScheduleGroupMasterId": 102,
+    "TournamentPhase": "Finals",
+    "StartDate": "2026-11-26T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-27T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-27T19:00:00+09:00"
+  },
+  {
+    "type": "GrandPrixScheduleMaster",
+    "Id": 1028,
+    "GrandPrixScheduleGroupMasterId": 102,
+    "TournamentPhase": "GrandFinal",
+    "StartDate": "2026-11-27T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-29T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-29T19:00:00+09:00"
   }
 ]

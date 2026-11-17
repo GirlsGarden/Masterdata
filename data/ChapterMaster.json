@@ -1067,6 +1067,19 @@
   },
   {
     "type": "ChapterMaster",
+    "Id": 200043,
+    "Title": "FIRST",
+    "SubTitle": "イベントストーリー",
+    "Order": 1,
+    "EventMasterId": 1042,
+    "AssetId": "2042",
+    "Overview": "",
+    "ChapterGroupMasterId": null,
+    "Interlude": "",
+    "LoggedInActivateMasterId": null
+  },
+  {
+    "type": "ChapterMaster",
     "Id": 300001,
     "Title": "1-10",
     "SubTitle": "",

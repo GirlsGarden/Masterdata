@@ -22,7 +22,7 @@
     "Order": 1,
     "StartDate": "2026-11-02T12:30:00+09:00",
     "StartDeadlineDate": null,
-    "EndDate": "2026-11-17T04:59:59+09:00",
+    "EndDate": "2026-11-19T04:59:59+09:00",
     "ExtraLoginBonusMasterId": null,
     "IsLoop": false,
     "AssetId": "4013",
@@ -46,6 +46,21 @@
   },
   {
     "type": "LoginBonusMaster",
+    "Id": 2069,
+    "Name": "PICKUP DAILY LOGIN",
+    "Type": "Campaign",
+    "Order": 1,
+    "StartDate": "2026-11-17T12:30:00+09:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-12-01T04:59:59+09:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "4015",
+    "SpineAssetId": "143302s",
+    "BackgroundAssetId": "2001"
+  },
+  {
+    "type": "LoginBonusMaster",
     "Id": 3002,
     "Name": "ウェルカムログインボーナス",
     "Type": "Anniversary",
@@ -58,6 +73,21 @@
     "AssetId": "3002",
     "SpineAssetId": null,
     "BackgroundAssetId": "3002"
+  },
+  {
+    "type": "LoginBonusMaster",
+    "Id": 3020,
+    "Name": "P-1グランプリリニューアル記念ログインボーナス",
+    "Type": "Anniversary",
+    "Order": 1,
+    "StartDate": "2026-11-17T12:00:00+09:00",
+    "StartDeadlineDate": null,
+    "EndDate": "2026-11-30T04:59:59+09:00",
+    "ExtraLoginBonusMasterId": null,
+    "IsLoop": false,
+    "AssetId": "3022",
+    "SpineAssetId": null,
+    "BackgroundAssetId": "3022"
   },
   {
     "type": "LoginBonusMaster",
