@@ -10,7 +10,8 @@
     "ItemMasterId": 110022,
     "BetHighRate": 1.8,
     "BetLowRate": 1.2,
-    "GrandPrixPhaseRewardGroupMasterId": 100
+    "GrandPrixPhaseRewardGroupMasterId": 100,
+    "OutrightBetItemMasterId": null
   },
   {
     "type": "GrandPrixMaster",
@@ -23,6 +24,7 @@
     "ItemMasterId": 110022,
     "BetHighRate": 1.8,
     "BetLowRate": 1.2,
-    "GrandPrixPhaseRewardGroupMasterId": 101
+    "GrandPrixPhaseRewardGroupMasterId": 101,
+    "OutrightBetItemMasterId": null
   }
 ]
