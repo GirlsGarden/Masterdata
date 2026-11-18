@@ -156,28 +156,6 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 2070,
-    "Order": 78,
-    "ImageStaticPath": "20055",
-    "StartDate": "2026-11-02T12:30:00+09:00",
-    "EndDate": "2026-11-19T04:59:59+09:00",
-    "JumpType": "Gacha",
-    "JumpTargetId": 20055,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay",
-      "SpIOS"
-    ]
-  },
-  {
-    "type": "BannerMaster",
     "Id": 2071,
     "Order": 77,
     "ImageStaticPath": "20056",
