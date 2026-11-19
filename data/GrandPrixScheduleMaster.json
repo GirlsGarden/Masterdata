@@ -148,43 +148,43 @@
     "Id": 1021,
     "GrandPrixScheduleGroupMasterId": 102,
     "TournamentPhase": "GroupStage1",
-    "StartDate": "2026-11-17T17:00:00+09:00",
-    "PreparationEndDate": "2026-11-18T15:00:00+09:00",
-    "ResultAnnouncementDate": "2026-11-18T19:00:00+09:00"
+    "StartDate": "2026-11-19T05:30:00+09:00",
+    "PreparationEndDate": "2026-11-20T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-20T19:00:00+09:00"
   },
   {
     "type": "GrandPrixScheduleMaster",
     "Id": 1022,
     "GrandPrixScheduleGroupMasterId": 102,
     "TournamentPhase": "GroupStage2",
-    "StartDate": "2026-11-18T19:00:00+09:00",
-    "PreparationEndDate": "2026-11-19T15:00:00+09:00",
-    "ResultAnnouncementDate": "2026-11-19T19:00:00+09:00"
+    "StartDate": "2026-11-20T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-21T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-21T19:00:00+09:00"
   },
   {
     "type": "GrandPrixScheduleMaster",
     "Id": 1023,
     "GrandPrixScheduleGroupMasterId": 102,
     "TournamentPhase": "GroupStage3",
-    "StartDate": "2026-11-19T19:00:00+09:00",
-    "PreparationEndDate": "2026-11-20T15:00:00+09:00",
-    "ResultAnnouncementDate": "2026-11-20T19:00:00+09:00"
+    "StartDate": "2026-11-21T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-22T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-22T19:00:00+09:00"
   },
   {
     "type": "GrandPrixScheduleMaster",
     "Id": 1024,
     "GrandPrixScheduleGroupMasterId": 102,
     "TournamentPhase": "GroupStage4",
-    "StartDate": "2026-11-20T19:00:00+09:00",
-    "PreparationEndDate": "2026-11-22T15:00:00+09:00",
-    "ResultAnnouncementDate": "2026-11-22T19:00:00+09:00"
+    "StartDate": "2026-11-22T19:00:00+09:00",
+    "PreparationEndDate": "2026-11-23T15:00:00+09:00",
+    "ResultAnnouncementDate": "2026-11-23T19:00:00+09:00"
   },
   {
     "type": "GrandPrixScheduleMaster",
     "Id": 1025,
     "GrandPrixScheduleGroupMasterId": 102,
     "TournamentPhase": "QuarterFinals",
-    "StartDate": "2026-11-22T19:00:00+09:00",
+    "StartDate": "2026-11-24T17:00:00+09:00",
     "PreparationEndDate": "2026-11-25T15:00:00+09:00",
     "ResultAnnouncementDate": "2026-11-25T19:00:00+09:00"
   },
