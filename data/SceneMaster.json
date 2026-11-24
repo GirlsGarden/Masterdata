@@ -6931,6 +6931,26 @@
   },
   {
     "type": "SceneMaster",
+    "Id": 40014001,
+    "EpisodeMasterId": 400104,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "頑張り屋へのご褒美",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 40014002,
+    "EpisodeMasterId": 400104,
+    "Types": "Adventure",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "頑張り屋へのご褒美",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
     "Id": 50000301,
     "EpisodeMasterId": 500003,
     "Types": "Adventure",
@@ -8037,6 +8057,26 @@
     "Order": 2,
     "IsAdult": true,
     "Title": "ナージャの椅子",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005901,
+    "EpisodeMasterId": 500059,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "参謀はいつも一枚上手",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 50005902,
+    "EpisodeMasterId": 500059,
+    "Types": "Still",
+    "Order": 2,
+    "IsAdult": true,
+    "Title": "参謀はいつも一枚上手",
     "AssetId": null
   },
   {
@@ -12167,6 +12207,46 @@
     "Order": 1,
     "IsAdult": false,
     "Title": "校舎でキャンプファイアー",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61079001,
+    "EpisodeMasterId": 610412,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "浴衣の懸念事項",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61079002,
+    "EpisodeMasterId": 610413,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "屋台トーク",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61079003,
+    "EpisodeMasterId": 610414,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "人目が気になる",
+    "AssetId": null
+  },
+  {
+    "type": "SceneMaster",
+    "Id": 61079004,
+    "EpisodeMasterId": 610415,
+    "Types": "Adventure",
+    "Order": 1,
+    "IsAdult": false,
+    "Title": "イベントの手伝い",
     "AssetId": null
   },
   {

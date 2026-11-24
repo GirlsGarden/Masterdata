@@ -125,11 +125,11 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 1051,
+    "Id": 1052,
     "Order": 1,
-    "ImageStaticPath": "2042",
-    "StartDate": "2026-11-17T12:30:00+09:00",
-    "EndDate": "2026-11-24T12:29:59+09:00",
+    "ImageStaticPath": "2043",
+    "StartDate": "2026-11-24T12:30:00+09:00",
+    "EndDate": "2026-12-08T04:59:59+09:00",
     "JumpType": "EventTop",
     "JumpTargetId": 51,
     "VisibleRatingFlags": [
@@ -156,28 +156,6 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 2071,
-    "Order": 77,
-    "ImageStaticPath": "20056",
-    "StartDate": "2026-11-10T12:30:00+09:00",
-    "EndDate": "2026-11-24T04:59:59+09:00",
-    "JumpType": "Gacha",
-    "JumpTargetId": 20056,
-    "VisibleRatingFlags": [
-      "ShowNormal",
-      "ShowAdult"
-    ],
-    "VisibleDeviceFlags": [
-      "Web",
-      "SpAndroid",
-      "Client",
-      "AppStore",
-      "GooglePlay",
-      "SpIOS"
-    ]
-  },
-  {
-    "type": "BannerMaster",
     "Id": 2072,
     "Order": 76,
     "ImageStaticPath": "20057",
@@ -200,13 +178,13 @@
   },
   {
     "type": "BannerMaster",
-    "Id": 3026,
-    "Order": 1,
-    "ImageStaticPath": "1026",
-    "StartDate": "2026-11-12T12:00:00+09:00",
-    "EndDate": "2026-11-24T04:59:59+09:00",
-    "JumpType": "LimitedTimeShop",
-    "JumpTargetId": 348,
+    "Id": 2073,
+    "Order": 75,
+    "ImageStaticPath": "20058",
+    "StartDate": "2026-11-24T12:30:00+09:00",
+    "EndDate": "2026-12-08T04:59:59+09:00",
+    "JumpType": "Gacha",
+    "JumpTargetId": 20058,
     "VisibleRatingFlags": [
       "ShowNormal",
       "ShowAdult"
@@ -217,16 +195,7 @@
       "Client",
       "AppStore",
       "GooglePlay",
-      "SpIOS",
-      "JohrenWeb",
-      "JohrenSpAndroid",
-      "ErolabsWeb",
-      "ErolabsSpAndroid",
-      "ErolabsClient",
-      "SteamworksClient",
-      "NutakuWeb",
-      "NutakuSpAndroid",
-      "NutakuClient"
+      "SpIOS"
     ]
   }
 ]

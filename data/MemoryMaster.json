@@ -451,16 +451,6 @@
   },
   {
     "type": "MemoryMaster",
-    "Id": 10024,
-    "Rarity": "Sr",
-    "Name": "重要指名手配犯「ダークドラッグ」",
-    "Description": "大賀「カリナ！こちらが似顔絵です！」 カリナ「...さすがいいんちょ～！」",
-    "AssetId": "10032",
-    "Highlights": null,
-    "IsReleased": true
-  },
-  {
-    "type": "MemoryMaster",
     "Id": 10025,
     "Rarity": "Sr",
     "Name": "知らない世界の知らない彼女",
@@ -3918,7 +3908,7 @@
         "IsTargetingFriendlyParty": true
       }
     ],
-    "IsReleased": false
+    "IsReleased": true
   },
   {
     "type": "MemoryMaster",

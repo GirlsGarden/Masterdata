@@ -1105,6 +1105,18 @@
   },
   {
     "type": "TalkMaster",
+    "Id": 1453021,
+    "CallCharacterMasterId": 145302,
+    "Order": 143002,
+    "Title": "私にとっての大切な時間",
+    "IsVideoTalk": false,
+    "CharacterMasterId": 145302,
+    "AffectionLevel": null,
+    "LocationNodeMasterId": null,
+    "EpisodeMasterId": 400104
+  },
+  {
+    "type": "TalkMaster",
     "Id": 1463011,
     "CallCharacterMasterId": 146301,
     "Order": 146001,

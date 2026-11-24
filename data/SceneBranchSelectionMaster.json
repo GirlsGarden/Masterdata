@@ -3161,6 +3161,38 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 20220511,
+    "SceneBranchMasterId": 2022051,
+    "Answer": "褒めてあげる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20220512,
+    "SceneBranchMasterId": 2022051,
+    "Answer": "揺らしてみる",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20220811,
+    "SceneBranchMasterId": 2022081,
+    "Answer": "言われるまでもない",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 20220812,
+    "SceneBranchMasterId": 2022081,
+    "Answer": "…………",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 40000211,
     "SceneBranchMasterId": 4000021,
     "Answer": "気にするな",
@@ -4777,6 +4809,22 @@
   },
   {
     "type": "SceneBranchSelectionMaster",
+    "Id": 40014011,
+    "SceneBranchMasterId": 4001401,
+    "Answer": "熱めの方が好みだな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 40014012,
+    "SceneBranchMasterId": 4001401,
+    "Answer": "ぬるめでじっくりが好きだな",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
     "Id": 50000311,
     "SceneBranchMasterId": 5000031,
     "Answer": "ふふ、なんだかこうしてチームを組めて夢見たいですね。",
@@ -5620,6 +5668,22 @@
     "Id": 50005812,
     "SceneBranchMasterId": 5000581,
     "Answer": "希望を伝えられて偉い",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005911,
+    "SceneBranchMasterId": 5000591,
+    "Answer": "タチアナを応援する",
+    "IsSelectSuccess": null,
+    "SceneBranchSelectAffectionMasterId": null
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 50005912,
+    "SceneBranchMasterId": 5000591,
+    "Answer": "ジーナを応援する",
     "IsSelectSuccess": null,
     "SceneBranchSelectAffectionMasterId": null
   },
@@ -12214,6 +12278,70 @@
     "Answer": "誰が決めたんだ？",
     "IsSelectSuccess": false,
     "SceneBranchSelectAffectionMasterId": 1463021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61223011,
+    "SceneBranchMasterId": 6122301,
+    "Answer": "いろいろ無防備だぞ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1553022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61223012,
+    "SceneBranchMasterId": 6122301,
+    "Answer": "走ると脱げる",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1553021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61224011,
+    "SceneBranchMasterId": 6122401,
+    "Answer": "たこ焼き",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1553022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61224012,
+    "SceneBranchMasterId": 6122401,
+    "Answer": "トルネードポテト",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1553021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61225011,
+    "SceneBranchMasterId": 6122501,
+    "Answer": "大変だったな",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1553022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61225012,
+    "SceneBranchMasterId": 6122501,
+    "Answer": "祭りに戻るか？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1553021
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61226011,
+    "SceneBranchMasterId": 6122601,
+    "Answer": "わかった、俺に任せとけ",
+    "IsSelectSuccess": true,
+    "SceneBranchSelectAffectionMasterId": 1553022
+  },
+  {
+    "type": "SceneBranchSelectionMaster",
+    "Id": 61226012,
+    "SceneBranchMasterId": 6122601,
+    "Answer": "少しだけだぞ？",
+    "IsSelectSuccess": false,
+    "SceneBranchSelectAffectionMasterId": 1553021
   },
   {
     "type": "SceneBranchSelectionMaster",
