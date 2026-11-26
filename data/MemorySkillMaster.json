@@ -2255,6 +2255,20 @@
   },
   {
     "type": "MemorySkillMaster",
+    "Id": 300441,
+    "Order": 1,
+    "MemoryMasterId": 30044,
+    "SkillMasterId": 400287
+  },
+  {
+    "type": "MemorySkillMaster",
+    "Id": 300442,
+    "Order": 2,
+    "MemoryMasterId": 30044,
+    "SkillMasterId": 400288
+  },
+  {
+    "type": "MemorySkillMaster",
     "Id": 300451,
     "Order": 1,
     "MemoryMasterId": 30045,
